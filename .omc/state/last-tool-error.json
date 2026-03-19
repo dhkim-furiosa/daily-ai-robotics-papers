@@ -1,7 +1,7 @@
 {
   "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"git config user.email && git config user.name\",\"description\":\"Check git config in repo\"}",
-  "error": "Exit code 1",
-  "timestamp": "2026-03-19T07:40:46.077Z",
-  "retry_count": 2
+  "tool_input_preview": "{\"command\":\"git add -A && git commit -m \\\"📚 Daily briefing: 2026-03-19\\\" && git push\",\"description\":\"Commit and push the briefing from the previous run\"}",
+  "error": "Exit code 128\n[main de2c2a6] 📚 Daily briefing: 2026-03-19\n 4 files changed, 31 insertions(+), 31 deletions(-)\n create mode 100644 .omc/state/last-tool-error.json\nfatal: could not read Username for 'https://github.com': No such device or address",
+  "timestamp": "2026-03-19T07:41:40.898Z",
+  "retry_count": 3
 }

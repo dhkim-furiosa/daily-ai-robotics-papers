@@ -54,6 +54,44 @@ PRIORITY_AUTHORS = [
 
 CATEGORIES = ["cs.RO", "cs.AI", "cs.CV", "cs.LG"]
 
+PAPER_CATEGORIES = {
+    "VLA": ["vla", "vision-language-action", "vision language action",
+            "language-conditioned", "rt-2", "rt-x", "openvla"],
+    "World Model": ["world model", "video prediction", "latent dynamics",
+                    "latent planning", "jepa", "v-jepa"],
+    "Physical AI": ["physical ai", "physical intelligence", "embodied ai",
+                    "embodied intelligence", "robot learning", "manipulation",
+                    "robot grasping", "locomotion", "dexterous"],
+    "Foundation Model": ["foundation model", "large model", "pretrained",
+                         "multi-task", "generalist agent", "generalist robot"],
+}
+PAPERS_DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "papers_db.json")
+
+# ── Paper DB & Categorization ──────────────────────────────────────
+
+def categorize_paper(paper: dict) -> str:
+    """Classify a paper into a category based on title and abstract."""
+    text = (paper["title"] + " " + paper.get("abstract", "")).lower()
+    for category, keywords in PAPER_CATEGORIES.items():
+        if any(kw in text for kw in keywords):
+            return category
+    return "Other"
+
+
+def load_papers_db() -> dict:
+    """Load accumulated papers DB from JSON."""
+    if os.path.exists(PAPERS_DB_PATH):
+        with open(PAPERS_DB_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
+def save_papers_db(db: dict):
+    """Save papers DB to JSON."""
+    with open(PAPERS_DB_PATH, "w", encoding="utf-8") as f:
+        json.dump(db, f, ensure_ascii=False, indent=2)
+
+
 # ── arXiv Search ────────────────────────────────────────────────────
 
 ARXIV_API = "http://export.arxiv.org/api/query"
@@ -269,11 +307,15 @@ def save_and_push(summary: str, papers: list[dict]):
     year_month = today.strftime("%Y/%m")
     filename = today.strftime("%Y-%m-%d.md")
 
+    # Categorize papers
+    for p in papers:
+        p["category"] = categorize_paper(p)
+
     # Create directory
     dir_path = os.path.join(REPO_DIR, year_month)
     os.makedirs(dir_path, exist_ok=True)
 
-    # Write markdown
+    # Write daily markdown
     filepath = os.path.join(dir_path, filename)
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(f"# 📚 AI/Robotics 논문 데일리 브리핑 - {today.isoformat()}\n\n")
@@ -281,50 +323,86 @@ def save_and_push(summary: str, papers: list[dict]):
 
         # Paper list table
         f.write("## 📋 논문 목록\n\n")
-        f.write("| # | 제목 | 저자 | 링크 |\n")
-        f.write("|---|------|------|------|\n")
+        f.write("| # | 제목 | 저자 | 카테고리 | 링크 |\n")
+        f.write("|---|------|------|----------|------|\n")
         for i, p in enumerate(papers, 1):
             authors_short = ", ".join(p["authors"][:3])
             if len(p["authors"]) > 3:
                 authors_short += " 외"
-            f.write(f"| {i} | {p['title']} | {authors_short} | [arXiv]({p['url']}) |\n")
+            f.write(f"| {i} | {p['title']} | {authors_short} | {p['category']} | [arXiv]({p['url']}) |\n")
 
         f.write(f"\n## 📝 상세 요약\n\n{summary}\n")
 
-    # Update README with latest link
+    # Update papers DB
+    db = load_papers_db()
+    for p in papers:
+        db[p["id"]] = {
+            "title": p["title"],
+            "authors": p["authors"][:3],
+            "url": p["url"],
+            "category": p["category"],
+            "date": today.isoformat(),
+            "score": p.get("score", 0),
+        }
+    # Keep only last 30 days
+    cutoff = (today - datetime.timedelta(days=30)).isoformat()
+    db = {k: v for k, v in db.items() if v["date"] >= cutoff}
+    save_papers_db(db)
+
+    # Build README with categorized tables
     readme_path = os.path.join(REPO_DIR, "README.md")
-    readme_entries = []
+    relative_path = f"{year_month}/{filename}"
+
+    # Collect archive entries from existing README
+    archive_entries = []
     if os.path.exists(readme_path):
         with open(readme_path, "r", encoding="utf-8") as f:
-            readme_entries = f.read()
-    else:
-        readme_entries = ""
+            old_readme = f.read()
+        if "브리핑 아카이브" in old_readme:
+            archive_section = old_readme.split("브리핑 아카이브\n\n")[-1]
+            archive_entries = [l for l in archive_section.strip().split("\n") if l.startswith("- [")]
 
-    relative_path = f"{year_month}/{filename}"
     new_entry = f"- [{today.isoformat()}](./{relative_path})"
+    if new_entry not in archive_entries:
+        archive_entries.insert(0, new_entry)
 
-    if new_entry not in readme_entries:
-        # Rebuild README
-        with open(readme_path, "w", encoding="utf-8") as f:
-            f.write("# 🤖 Daily AI/Robotics Paper Briefing\n\n")
-            f.write("VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 한국어로 요약합니다.\n\n")
-            f.write("## 📅 주요 검색 키워드\n")
-            f.write("- Vision-Language-Action (VLA)\n")
-            f.write("- World Model for Robotics\n")
-            f.write("- Physical AI / Embodied AI\n\n")
-            f.write("## 🏢 주요 추적 기관/저자\n")
-            f.write("- **기관**: Gemini Robotics, Physical Intelligence, NVIDIA\n")
-            f.write("- **저자**: Yann LeCun, Chelsea Finn, Sergey Levine, Moo Jin Kim, Seonghyeon Ye\n\n")
-            f.write("## 📚 브리핑 아카이브\n\n")
-            # Collect existing entries
-            if "브리핑 아카이브" in readme_entries:
-                archive_section = readme_entries.split("브리핑 아카이브\n\n")[-1]
-                existing = [l for l in archive_section.strip().split("\n") if l.startswith("- [")]
-            else:
-                existing = []
-            if new_entry not in existing:
-                existing.insert(0, new_entry)
-            f.write("\n".join(existing) + "\n")
+    # Group papers by category
+    categorized = {}
+    for pid, info in sorted(db.items(), key=lambda x: x[1]["date"], reverse=True):
+        cat = info["category"]
+        if cat not in categorized:
+            categorized[cat] = []
+        categorized[cat].append(info)
+
+    # Write README
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write("# 🤖 Daily AI/Robotics Paper Briefing\n\n")
+        f.write("VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 한국어로 요약합니다.\n\n")
+        f.write("## 📅 주요 검색 키워드\n")
+        f.write("- Vision-Language-Action (VLA)\n")
+        f.write("- World Model for Robotics\n")
+        f.write("- Physical AI / Embodied AI\n\n")
+        f.write("## 🏢 주요 추적 기관/저자\n")
+        f.write("- **기관**: Gemini Robotics, Physical Intelligence, NVIDIA\n")
+        f.write("- **저자**: Yann LeCun, Chelsea Finn, Sergey Levine, Moo Jin Kim, Seonghyeon Ye\n\n")
+
+        # Categorized paper tables
+        f.write("## 📊 최근 논문 (카테고리별)\n\n")
+        category_order = list(PAPER_CATEGORIES.keys()) + ["Other"]
+        for cat in category_order:
+            if cat not in categorized:
+                continue
+            f.write(f"### {cat}\n\n")
+            f.write("| 날짜 | 제목 | 저자 | 링크 |\n")
+            f.write("|------|------|------|------|\n")
+            for info in categorized[cat]:
+                authors_short = ", ".join(info["authors"])
+                f.write(f"| {info['date']} | {info['title']} | {authors_short} | [arXiv]({info['url']}) |\n")
+            f.write("\n")
+
+        # Archive section
+        f.write("## 📚 브리핑 아카이브\n\n")
+        f.write("\n".join(archive_entries) + "\n")
 
     # Git commit and push
     os.chdir(REPO_DIR)

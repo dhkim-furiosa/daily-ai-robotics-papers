@@ -1,0 +1,62 @@
+{
+  "2603.15381v1": {
+    "title": "Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science",
+    "authors": [
+      "Emmanuel Dupoux",
+      "Yann LeCun",
+      "Jitendra Malik"
+    ],
+    "url": "https://arxiv.org/abs/2603.15381v1",
+    "category": "Other",
+    "date": "2026-03-19",
+    "score": 13.0
+  },
+  "2603.14482v2": {
+    "title": "V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning",
+    "authors": [
+      "Lorenzo Mur-Labadia",
+      "Matthew Muckley",
+      "Amir Bar"
+    ],
+    "url": "https://arxiv.org/abs/2603.14482v2",
+    "category": "World Model",
+    "date": "2026-03-19",
+    "score": 10.0
+  },
+  "2603.13227v1": {
+    "title": "Representation Learning for Spatiotemporal Physical Systems",
+    "authors": [
+      "Helen Qu",
+      "Rudy Morel",
+      "Michael McCabe"
+    ],
+    "url": "https://arxiv.org/abs/2603.13227v1",
+    "category": "World Model",
+    "date": "2026-03-19",
+    "score": 10.0
+  },
+  "2603.12231v1": {
+    "title": "Temporal Straightening for Latent Planning",
+    "authors": [
+      "Ying Wang",
+      "Oumayma Bounou",
+      "Gaoyue Zhou"
+    ],
+    "url": "https://arxiv.org/abs/2603.12231v1",
+    "category": "World Model",
+    "date": "2026-03-19",
+    "score": 10.0
+  },
+  "2603.05498v1": {
+    "title": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks",
+    "authors": [
+      "Shangwen Sun",
+      "Alfredo Canziani",
+      "Yann LeCun"
+    ],
+    "url": "https://arxiv.org/abs/2603.05498v1",
+    "category": "Other",
+    "date": "2026-03-19",
+    "score": 10.0
+  }
+}
