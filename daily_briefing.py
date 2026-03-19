@@ -17,6 +17,8 @@ import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
 
+import re
+
 import anthropic
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
@@ -60,14 +62,19 @@ PAPER_CATEGORIES = {
     "World Model": ["world model", "video prediction", "latent dynamics",
                     "latent planning", "jepa", "v-jepa"],
     "Physical AI": ["physical ai", "physical intelligence", "embodied ai",
-                    "embodied intelligence", "robot learning", "manipulation",
-                    "robot grasping", "locomotion", "dexterous"],
+                    "embodied intelligence", "robot learning", "robot manipulation",
+                    "object manipulation", "robot grasping", "locomotion", "dexterous"],
     "Foundation Model": ["foundation model", "large model", "pretrained",
                          "multi-task", "generalist agent", "generalist robot"],
 }
 PAPERS_DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "papers_db.json")
 
 # ── Paper DB & Categorization ──────────────────────────────────────
+
+def md_escape(s: str) -> str:
+    """Escape pipe characters for Markdown table cells."""
+    return s.replace("|", "\\|")
+
 
 def categorize_paper(paper: dict) -> str:
     """Classify a paper into a category based on title and abstract."""
@@ -130,7 +137,7 @@ def search_arxiv(query: str, max_results: int = 20, days_back: int = 7) -> list[
         if published < cutoff:
             continue
 
-        arxiv_id = entry.find("atom:id", ARXIV_NS).text.split("/abs/")[-1]
+        arxiv_id = re.sub(r'v\d+$', '', entry.find("atom:id", ARXIV_NS).text.split("/abs/")[-1])
         title = entry.find("atom:title", ARXIV_NS).text.strip().replace("\n", " ")
         abstract = entry.find("atom:summary", ARXIV_NS).text.strip().replace("\n", " ")
         authors = [a.find("atom:name", ARXIV_NS).text for a in entry.findall("atom:author", ARXIV_NS)]
@@ -233,7 +240,9 @@ Abstract: {p['abstract']}
 각 논문마다 아래 형식을 따라주세요:
 
 📄 *N. [논문 제목 영문]*
+
 🔗 [arXiv URL]
+
 🏢 *기관/저자* (가능하면 소속 기관 포함)
 
 🔬 *메소드*: 어떤 방법론을 제안했는지 핵심을 2-3문장으로 명확하게 설명
@@ -329,9 +338,11 @@ def save_and_push(summary: str, papers: list[dict]):
             authors_short = ", ".join(p["authors"][:3])
             if len(p["authors"]) > 3:
                 authors_short += " 외"
-            f.write(f"| {i} | {p['title']} | {authors_short} | {p['category']} | [arXiv]({p['url']}) |\n")
+            f.write(f"| {i} | {md_escape(p['title'])} | {md_escape(authors_short)} | {p['category']} | [arXiv]({p['url']}) |\n")
 
-        f.write(f"\n## 📝 상세 요약\n\n{summary}\n")
+        # Add extra blank lines between each paper summary for readability
+        spaced_summary = summary.replace("\n📄", "\n\n📄")
+        f.write(f"\n## 📝 상세 요약\n\n{spaced_summary}\n")
 
     # Update papers DB
     db = load_papers_db()
@@ -397,7 +408,7 @@ def save_and_push(summary: str, papers: list[dict]):
             f.write("|------|------|------|------|\n")
             for info in categorized[cat]:
                 authors_short = ", ".join(info["authors"])
-                f.write(f"| {info['date']} | {info['title']} | {authors_short} | [arXiv]({info['url']}) |\n")
+                f.write(f"| {info['date']} | {md_escape(info['title'])} | {md_escape(authors_short)} | [arXiv]({info['url']}) |\n")
             f.write("\n")
 
         # Archive section
