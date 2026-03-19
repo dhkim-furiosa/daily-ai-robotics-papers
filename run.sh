@@ -12,5 +12,5 @@ if [ -f .env ]; then
     set +a
 fi
 
-# Run with system python
-/usr/bin/python3 "$SCRIPT_DIR/daily_briefing.py" >> "$SCRIPT_DIR/logs/briefing.log" 2>&1
+# Run with venv python
+"$SCRIPT_DIR/.venv/bin/python3" "$SCRIPT_DIR/daily_briefing.py" >> "$SCRIPT_DIR/logs/briefing.log" 2>&1
