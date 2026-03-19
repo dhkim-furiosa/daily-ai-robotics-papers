@@ -339,7 +339,10 @@ def save_and_push(summary: str, papers: list[dict]):
             ["git", "commit", "-m", f"📚 Daily briefing: {today.isoformat()}"],
             check=True,
         )
-        subprocess.run(["git", "push"], check=True)
+        # Try push, fall back to --set-upstream for first push
+        push_result = subprocess.run(["git", "push"], capture_output=True)
+        if push_result.returncode != 0:
+            subprocess.run(["git", "push", "--set-upstream", "origin", "main"], check=True)
         print(f"  Pushed to GitHub: {relative_path}")
     else:
         print("  No changes to commit")
