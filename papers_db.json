@@ -118,5 +118,65 @@
     "category": "World Model",
     "date": "2026-03-20",
     "score": 4.0
+  },
+  "2603.19131": {
+    "title": "From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models",
+    "authors": [
+      "Zhuofan Li",
+      "Hongkun Yang",
+      "Zhenyang Chen"
+    ],
+    "url": "https://arxiv.org/abs/2603.19131",
+    "category": "VLA",
+    "date": "2026-03-21",
+    "score": 4.0
+  },
+  "2603.18988": {
+    "title": "MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction",
+    "authors": [
+      "Joerg Deigmoeller",
+      "Nakul Agarwal",
+      "Stephan Hasler"
+    ],
+    "url": "https://arxiv.org/abs/2603.18988",
+    "category": "Other",
+    "date": "2026-03-21",
+    "score": 3.0
+  },
+  "2603.19233": {
+    "title": "Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models",
+    "authors": [
+      "Bryce Grant",
+      "Xijia Zhao",
+      "Peng Wang"
+    ],
+    "url": "https://arxiv.org/abs/2603.19233",
+    "category": "VLA",
+    "date": "2026-03-21",
+    "score": 2.0
+  },
+  "2603.19229": {
+    "title": "NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
+    "authors": [
+      "Huaide Jiang",
+      "Yash Chaudhary",
+      "Yuping Wang"
+    ],
+    "url": "https://arxiv.org/abs/2603.19229",
+    "category": "Other",
+    "date": "2026-03-21",
+    "score": 2.0
+  },
+  "2603.19201": {
+    "title": "OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation",
+    "authors": [
+      "Yuhang Zheng",
+      "Songen Gu",
+      "Weize Li"
+    ],
+    "url": "https://arxiv.org/abs/2603.19201",
+    "category": "World Model",
+    "date": "2026-03-21",
+    "score": 2.0
   }
 }
