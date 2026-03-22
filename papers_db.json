@@ -68,7 +68,7 @@
     ],
     "url": "https://arxiv.org/abs/2603.15169",
     "category": "VLA",
-    "date": "2026-03-20",
+    "date": "2026-03-22",
     "score": 8.0
   },
   "2603.17850": {
@@ -178,5 +178,53 @@
     "category": "World Model",
     "date": "2026-03-21",
     "score": 2.0
+  },
+  "2603.15381": {
+    "title": "Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science",
+    "authors": [
+      "Emmanuel Dupoux",
+      "Yann LeCun",
+      "Jitendra Malik"
+    ],
+    "url": "https://arxiv.org/abs/2603.15381",
+    "category": "Other",
+    "date": "2026-03-22",
+    "score": 13.0
+  },
+  "2603.14482": {
+    "title": "V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning",
+    "authors": [
+      "Lorenzo Mur-Labadia",
+      "Matthew Muckley",
+      "Amir Bar"
+    ],
+    "url": "https://arxiv.org/abs/2603.14482",
+    "category": "World Model",
+    "date": "2026-03-22",
+    "score": 10.0
+  },
+  "2603.13227": {
+    "title": "Representation Learning for Spatiotemporal Physical Systems",
+    "authors": [
+      "Helen Qu",
+      "Rudy Morel",
+      "Michael McCabe"
+    ],
+    "url": "https://arxiv.org/abs/2603.13227",
+    "category": "World Model",
+    "date": "2026-03-22",
+    "score": 10.0
+  },
+  "2603.12231": {
+    "title": "Temporal Straightening for Latent Planning",
+    "authors": [
+      "Ying Wang",
+      "Oumayma Bounou",
+      "Gaoyue Zhou"
+    ],
+    "url": "https://arxiv.org/abs/2603.12231",
+    "category": "World Model",
+    "date": "2026-03-22",
+    "score": 10.0
   }
 }
