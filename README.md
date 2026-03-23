@@ -17,8 +17,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
-| 2026-03-22 | ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation | Yang Li,  Zhaxizhuoma, Hongru Jiang | [arXiv](https://arxiv.org/abs/2603.15169) |
-| 2026-03-21 | From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models | Zhuofan Li, Hongkun Yang, Zhenyang Chen | [arXiv](https://arxiv.org/abs/2603.19131) |
+| 2026-03-23 | ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation | Yang Li,  Zhaxizhuoma, Hongru Jiang | [arXiv](https://arxiv.org/abs/2603.15169) |
+| 2026-03-23 | From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models | Zhuofan Li, Hongkun Yang, Zhenyang Chen | [arXiv](https://arxiv.org/abs/2603.19131) |
 | 2026-03-21 | Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models | Bryce Grant, Xijia Zhao, Peng Wang | [arXiv](https://arxiv.org/abs/2603.19233) |
 | 2026-03-20 | ProbeFlow: Training-Free Adaptive Flow Matching for Vision-Language-Action Models | Zhou Fang, Jiaqi Wang, Yi Zhou | [arXiv](https://arxiv.org/abs/2603.17850) |
 | 2026-03-20 | HeiSD: Hybrid Speculative Decoding for Embodied Vision-Language-Action Models with Kinematic Awareness | Zihao Zheng, Zhihao Mao, Sicheng Tian | [arXiv](https://arxiv.org/abs/2603.17573) |
@@ -28,21 +28,27 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-03-23 | Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation | Mutian Xu, Tianbao Zhang, Tianqi Liu | [arXiv](https://arxiv.org/abs/2603.16669) |
 | 2026-03-22 | V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning | Lorenzo Mur-Labadia, Matthew Muckley, Amir Bar | [arXiv](https://arxiv.org/abs/2603.14482) |
 | 2026-03-22 | Representation Learning for Spatiotemporal Physical Systems | Helen Qu, Rudy Morel, Michael McCabe | [arXiv](https://arxiv.org/abs/2603.13227) |
 | 2026-03-22 | Temporal Straightening for Latent Planning | Ying Wang, Oumayma Bounou, Gaoyue Zhou | [arXiv](https://arxiv.org/abs/2603.12231) |
 | 2026-03-21 | OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation | Yuhang Zheng, Songen Gu, Weize Li | [arXiv](https://arxiv.org/abs/2603.19201) |
-| 2026-03-20 | Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation | Mutian Xu, Tianbao Zhang, Tianqi Liu | [arXiv](https://arxiv.org/abs/2603.16669) |
 | 2026-03-19 | V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning | Lorenzo Mur-Labadia, Matthew Muckley, Amir Bar | [arXiv](https://arxiv.org/abs/2603.14482v2) |
 | 2026-03-19 | Representation Learning for Spatiotemporal Physical Systems | Helen Qu, Rudy Morel, Michael McCabe | [arXiv](https://arxiv.org/abs/2603.13227v1) |
 | 2026-03-19 | Temporal Straightening for Latent Planning | Ying Wang, Oumayma Bounou, Gaoyue Zhou | [arXiv](https://arxiv.org/abs/2603.12231v1) |
+
+### Physical AI
+
+| 날짜 | 제목 | 저자 | 링크 |
+|------|------|------|------|
+| 2026-03-23 | The Era of End-to-End Autonomy: Transitioning from Rule-Based Driving to Large Driving Models | Eduardo Nebot, Julie Stephany Berrio Perez | [arXiv](https://arxiv.org/abs/2603.16050) |
 
 ### Other
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-03-23 | MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction | Joerg Deigmoeller, Nakul Agarwal, Stephan Hasler | [arXiv](https://arxiv.org/abs/2603.18988) |
 | 2026-03-22 | Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science | Emmanuel Dupoux, Yann LeCun, Jitendra Malik | [arXiv](https://arxiv.org/abs/2603.15381) |
-| 2026-03-21 | MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction | Joerg Deigmoeller, Nakul Agarwal, Stephan Hasler | [arXiv](https://arxiv.org/abs/2603.18988) |
 | 2026-03-21 | NavTrust: Benchmarking Trustworthiness for Embodied Navigation | Huaide Jiang, Yash Chaudhary, Yuping Wang | [arXiv](https://arxiv.org/abs/2603.19229) |
 | 2026-03-19 | Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science | Emmanuel Dupoux, Yann LeCun, Jitendra Malik | [arXiv](https://arxiv.org/abs/2603.15381v1) |
 | 2026-03-19 | The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks | Shangwen Sun, Alfredo Canziani, Yann LeCun | [arXiv](https://arxiv.org/abs/2603.05498v1) |
@@ -108,6 +114,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-03-23](./2026/03/2026-03-23.md)
 - [2026-03-22](./2026/03/2026-03-22.md)
 - [2026-03-21](./2026/03/2026-03-21.md)
 - [2026-03-20](./2026/03/2026-03-20.md)

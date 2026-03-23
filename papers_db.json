@@ -68,7 +68,7 @@
     ],
     "url": "https://arxiv.org/abs/2603.15169",
     "category": "VLA",
-    "date": "2026-03-22",
+    "date": "2026-03-23",
     "score": 8.0
   },
   "2603.17850": {
@@ -116,7 +116,7 @@
     ],
     "url": "https://arxiv.org/abs/2603.16669",
     "category": "World Model",
-    "date": "2026-03-20",
+    "date": "2026-03-23",
     "score": 4.0
   },
   "2603.19131": {
@@ -128,7 +128,7 @@
     ],
     "url": "https://arxiv.org/abs/2603.19131",
     "category": "VLA",
-    "date": "2026-03-21",
+    "date": "2026-03-23",
     "score": 4.0
   },
   "2603.18988": {
@@ -140,7 +140,7 @@
     ],
     "url": "https://arxiv.org/abs/2603.18988",
     "category": "Other",
-    "date": "2026-03-21",
+    "date": "2026-03-23",
     "score": 3.0
   },
   "2603.19233": {
@@ -226,5 +226,16 @@
     "category": "World Model",
     "date": "2026-03-22",
     "score": 10.0
+  },
+  "2603.16050": {
+    "title": "The Era of End-to-End Autonomy: Transitioning from Rule-Based Driving to Large Driving Models",
+    "authors": [
+      "Eduardo Nebot",
+      "Julie Stephany Berrio Perez"
+    ],
+    "url": "https://arxiv.org/abs/2603.16050",
+    "category": "Physical AI",
+    "date": "2026-03-23",
+    "score": 3.0
   }
 }
