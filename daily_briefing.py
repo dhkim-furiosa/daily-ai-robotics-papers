@@ -187,15 +187,23 @@ def score_paper(paper: dict) -> float:
 
 
 def collect_papers() -> list[dict]:
-    """Collect and deduplicate papers from all queries."""
+    """Collect and deduplicate papers from all queries, excluding previously fetched papers."""
     all_papers = {}
+
+    # Load previously fetched papers to avoid duplicates across days
+    existing_db = load_papers_db()
+    # Normalize IDs by stripping version suffixes (e.g., "2603.15381v1" -> "2603.15381")
+    existing_ids = set(re.sub(r'v\d+$', '', k) for k in existing_db.keys())
+    skipped_count = 0
 
     # Topic searches
     for q in SEARCH_QUERIES:
         print(f"  Searching: {q[:60]}...")
         results = search_arxiv(q, max_results=20)
         for p in results:
-            if p["id"] not in all_papers:
+            if p["id"] in existing_ids:
+                skipped_count += 1
+            elif p["id"] not in all_papers:
                 all_papers[p["id"]] = p
         time.sleep(3)  # Rate limiting
 
@@ -204,9 +212,14 @@ def collect_papers() -> list[dict]:
         print(f"  Searching: {q}...")
         results = search_arxiv(q, max_results=10, days_back=14)
         for p in results:
-            if p["id"] not in all_papers:
+            if p["id"] in existing_ids:
+                skipped_count += 1
+            elif p["id"] not in all_papers:
                 all_papers[p["id"]] = p
         time.sleep(3)
+
+    if skipped_count > 0:
+        print(f"  Skipped {skipped_count} previously fetched papers")
 
     # Score and rank
     papers = list(all_papers.values())
