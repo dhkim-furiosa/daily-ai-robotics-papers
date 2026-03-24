@@ -189,5 +189,65 @@
     "category": "Physical AI",
     "date": "2026-03-23",
     "score": 3.0
+  },
+  "2603.19794": {
+    "title": "Generalized Task-Driven Design of Soft Robots via Reduced-Order FEM-based Surrogate Modeling",
+    "authors": [
+      "Yao Yao",
+      "David Howard",
+      "Perla Maiolino"
+    ],
+    "url": "https://arxiv.org/abs/2603.19794",
+    "category": "Other",
+    "date": "2026-03-24",
+    "score": 3.0
+  },
+  "2603.19979": {
+    "title": "X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving",
+    "authors": [
+      "Chaoda Zheng",
+      "Sean Li",
+      "Jinhao Deng"
+    ],
+    "url": "https://arxiv.org/abs/2603.19979",
+    "category": "VLA",
+    "date": "2026-03-24",
+    "score": 2.0
+  },
+  "2603.19822": {
+    "title": "HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks",
+    "authors": [
+      "Jingyu Guo",
+      "Ziye Chen",
+      "Ziwen Li"
+    ],
+    "url": "https://arxiv.org/abs/2603.19822",
+    "category": "VLA",
+    "date": "2026-03-24",
+    "score": 2.0
+  },
+  "2603.20048": {
+    "title": "Structured Latent Dynamics in Wireless CSI via Homomorphic World Models",
+    "authors": [
+      "Salmane Naoumi",
+      "Mehdi Bennis",
+      "Marwa Chafii"
+    ],
+    "url": "https://arxiv.org/abs/2603.20048",
+    "category": "World Model",
+    "date": "2026-03-24",
+    "score": 2.0
+  },
+  "2603.19782": {
+    "title": "Embodied Science: Closing the Discovery Loop with Agentic Embodied AI",
+    "authors": [
+      "Xiang Zhuang",
+      "Chenyi Zhou",
+      "Kehua Feng"
+    ],
+    "url": "https://arxiv.org/abs/2603.19782",
+    "category": "Physical AI",
+    "date": "2026-03-24",
+    "score": 2.0
   }
 }

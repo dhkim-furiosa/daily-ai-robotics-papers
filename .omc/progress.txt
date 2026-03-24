@@ -1,0 +1,8 @@
+# Ralph Progress Log
+
+## Task: Deduplicate daily paper fetching
+
+### Iteration 1 - 2026-03-23
+- Analyzed codebase: daily_briefing.py has collect_papers() that deduplicates within-run but not against papers_db.json
+- papers_db.json stores previously fetched papers with arXiv IDs as keys
+- Fix: load papers_db at start of collect_papers() and skip known IDs

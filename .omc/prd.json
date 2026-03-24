@@ -1,0 +1,43 @@
+{
+  "title": "Deduplicate daily paper fetching and clean up existing md files",
+  "stories": [
+    {
+      "id": "US-001",
+      "title": "Filter previously fetched papers in collect_papers()",
+      "priority": 1,
+      "passes": true,
+      "acceptanceCriteria": [
+        "collect_papers() calls load_papers_db() and uses it to filter out known paper IDs",
+        "Papers already in papers_db.json are excluded from the all_papers dict",
+        "A log message is printed showing how many duplicate papers were skipped",
+        "The within-run deduplication (existing all_papers dict check) still works",
+        "The function still returns up to TOP_N papers sorted by score"
+      ]
+    },
+    {
+      "id": "US-002",
+      "title": "Git commit and push the code change",
+      "priority": 2,
+      "passes": true,
+      "acceptanceCriteria": [
+        "The modified daily_briefing.py is committed to the repo",
+        "The commit is pushed to the remote origin",
+        "The commit message describes the deduplication fix"
+      ]
+    },
+    {
+      "id": "US-003",
+      "title": "Remove duplicate papers from existing markdown files",
+      "priority": 3,
+      "passes": true,
+      "acceptanceCriteria": [
+        "2026-03-19.md unchanged (all first appearances)",
+        "2026-03-20.md unchanged (all first appearances)",
+        "2026-03-21.md unchanged (all first appearances)",
+        "2026-03-22.md has duplicate papers removed (all 5 were duplicates from 03-19/03-20)",
+        "2026-03-23.md has 4 duplicate papers removed, keeps only 2603.16050 (End-to-End Autonomy)",
+        "Changes committed and pushed to remote"
+      ]
+    }
+  ]
+}
