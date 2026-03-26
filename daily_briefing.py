@@ -28,48 +28,24 @@ SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN", "")
 SLACK_CHANNEL = os.environ.get("SLACK_CHANNEL", "U0AH2EUF11R")
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
-TOP_N = 5
+CONFIG_PATH = os.path.join(REPO_DIR, "config.json")
+PAPERS_DB_PATH = os.path.join(REPO_DIR, "papers_db.json")
 
-SEARCH_QUERIES = [
-    '"vision language action" OR VLA robot',
-    '"world model" robot OR manipulation OR embodied',
-    '"physical AI" OR "physical intelligence" OR "embodied AI"',
-]
+def load_config() -> dict:
+    """Load configuration from config.json."""
+    with open(CONFIG_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-AUTHOR_QUERIES = [
-    'au:"Yann LeCun"',
-    'au:"Chelsea Finn"',
-    'au:"Sergey Levine"',
-    'au:"Moo Jin Kim"',
-    'au:"Seonghyeon Ye"',
-    'au:"Fei-Fei Li"',
-]
+_config = load_config()
 
-PRIORITY_ORGS = [
-    "google", "deepmind", "gemini", "physical intelligence",
-    "nvidia", "meta", "berkeley", "stanford",
-    "world labs", "advanced machine intelligence",
-]
-
-PRIORITY_AUTHORS = [
-    "yann lecun", "chelsea finn", "sergey levine",
-    "moo jin kim", "seonghyeon ye", "fei-fei li",
-]
-
-CATEGORIES = ["cs.RO", "cs.AI", "cs.CV", "cs.LG"]
-
-PAPER_CATEGORIES = {
-    "VLA": ["vla", "vision-language-action", "vision language action",
-            "language-conditioned", "rt-2", "rt-x", "openvla"],
-    "World Model": ["world model", "video prediction", "latent dynamics",
-                    "latent planning", "jepa", "v-jepa"],
-    "Physical AI": ["physical ai", "physical intelligence", "embodied ai",
-                    "embodied intelligence", "robot learning", "robot manipulation",
-                    "object manipulation", "robot grasping", "locomotion", "dexterous"],
-    "Foundation Model": ["foundation model", "large model", "pretrained",
-                         "multi-task", "generalist agent", "generalist robot"],
-}
-PAPERS_DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "papers_db.json")
+TOP_N = _config.get("top_n", 5)
+SEARCH_QUERIES = _config["search_queries"]
+AUTHOR_QUERIES = _config["author_queries"]
+PRIORITY_ORGS = _config["priority_orgs"]
+PRIORITY_AUTHORS = _config["priority_authors"]
+CATEGORIES = _config["categories"]
+PAPER_CATEGORIES = _config["paper_categories"]
+AWESOME_REPOS = _config.get("awesome_repos", [])
 
 # ── Paper DB & Categorization ──────────────────────────────────────
 
@@ -162,6 +138,144 @@ def search_arxiv(query: str, max_results: int = 20, days_back: int = 7) -> list[
     return papers
 
 
+# ── Awesome Repo Paper Fetching ────────────────────────────────────
+
+def fetch_awesome_repo_papers(repos: list[str], days_back: int = 14) -> list[dict]:
+    """Fetch recently added arxiv papers from awesome GitHub repos.
+
+    Checks git commits within days_back to find newly added arxiv links.
+    """
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=days_back)
+    cutoff_iso = cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
+    all_arxiv_ids = set()
+    papers = []
+
+    for repo in repos:
+        print(f"  Checking awesome repo: {repo}...")
+        try:
+            # Get recent commits to find newly added papers
+            commits_url = (
+                f"https://api.github.com/repos/{repo}/commits"
+                f"?since={cutoff_iso}&per_page=30"
+            )
+            req = urllib.request.Request(
+                commits_url,
+                headers={
+                    "User-Agent": "DailyBriefing/1.0",
+                    "Accept": "application/vnd.github.v3+json",
+                },
+            )
+            github_token = os.environ.get("GITHUB_TOKEN", "")
+            if github_token:
+                req.add_header("Authorization", f"token {github_token}")
+
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                commits = json.loads(resp.read().decode("utf-8"))
+
+            if not commits:
+                print(f"    No recent commits in {repo}")
+                continue
+
+            # Get diff for each recent commit to find added arxiv links
+            for commit_info in commits[:10]:  # Check up to 10 recent commits
+                sha = commit_info["sha"]
+                diff_url = f"https://api.github.com/repos/{repo}/commits/{sha}"
+                req = urllib.request.Request(
+                    diff_url,
+                    headers={
+                        "User-Agent": "DailyBriefing/1.0",
+                        "Accept": "application/vnd.github.v3.diff",
+                    },
+                )
+                if github_token:
+                    req.add_header("Authorization", f"token {github_token}")
+
+                try:
+                    with urllib.request.urlopen(req, timeout=30) as resp:
+                        diff_text = resp.read().decode("utf-8", errors="replace")
+                except Exception:
+                    continue
+
+                # Extract arxiv IDs from added lines (lines starting with +)
+                for line in diff_text.split("\n"):
+                    if not line.startswith("+"):
+                        continue
+                    # Match arxiv URLs in various formats
+                    for match in re.finditer(r'arxiv\.org/(?:abs|pdf)/(\d{4}\.\d{4,5})', line):
+                        arxiv_id = match.group(1)
+                        if arxiv_id not in all_arxiv_ids:
+                            all_arxiv_ids.add(arxiv_id)
+
+                time.sleep(0.5)  # Rate limiting for GitHub API
+
+        except Exception as e:
+            print(f"    [WARN] Failed to fetch {repo}: {e}")
+            continue
+
+        time.sleep(1)  # Rate limiting between repos
+
+    # Fetch paper details from arXiv for discovered IDs
+    if all_arxiv_ids:
+        print(f"  Found {len(all_arxiv_ids)} unique arxiv papers from awesome repos")
+        papers = _fetch_arxiv_by_ids(list(all_arxiv_ids))
+
+    return papers
+
+
+def _fetch_arxiv_by_ids(arxiv_ids: list[str], batch_size: int = 20) -> list[dict]:
+    """Fetch paper metadata from arXiv API by ID list."""
+    papers = []
+
+    for i in range(0, len(arxiv_ids), batch_size):
+        batch = arxiv_ids[i:i + batch_size]
+        id_list = ",".join(batch)
+        url = f"{ARXIV_API}?id_list={id_list}&max_results={len(batch)}"
+
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "DailyBriefing/1.0"})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                tree = ET.parse(resp)
+        except Exception as e:
+            print(f"    [WARN] arXiv batch fetch failed: {e}")
+            continue
+
+        root = tree.getroot()
+        for entry in root.findall("atom:entry", ARXIV_NS):
+            id_elem = entry.find("atom:id", ARXIV_NS)
+            if id_elem is None:
+                continue
+
+            arxiv_id = re.sub(r'v\d+$', '', id_elem.text.split("/abs/")[-1])
+            title_elem = entry.find("atom:title", ARXIV_NS)
+            if title_elem is None or title_elem.text is None:
+                continue
+
+            title = title_elem.text.strip().replace("\n", " ")
+            abstract = entry.find("atom:summary", ARXIV_NS).text.strip().replace("\n", " ")
+            authors = [a.find("atom:name", ARXIV_NS).text for a in entry.findall("atom:author", ARXIV_NS)]
+            categories = [c.get("term") for c in entry.findall("atom:category", ARXIV_NS)]
+            published_str = entry.find("atom:published", ARXIV_NS).text
+            published = datetime.datetime.fromisoformat(published_str.replace("Z", "+00:00"))
+
+            affiliation_text = " ".join(authors).lower() + " " + abstract.lower()
+
+            papers.append({
+                "id": arxiv_id,
+                "title": title,
+                "authors": authors,
+                "abstract": abstract,
+                "categories": categories,
+                "published": published.isoformat(),
+                "url": f"https://arxiv.org/abs/{arxiv_id}",
+                "affiliation_text": affiliation_text,
+                "source": "awesome_repo",
+            })
+
+        time.sleep(3)  # Rate limiting
+
+    return papers
+
+
 def score_paper(paper: dict) -> float:
     """Score paper by priority (higher = more relevant)."""
     score = 0.0
@@ -220,6 +334,16 @@ def collect_papers() -> list[dict]:
                 all_papers[p["id"]] = p
         time.sleep(3)
 
+    # Awesome repo searches
+    if AWESOME_REPOS:
+        print(f"  Searching {len(AWESOME_REPOS)} awesome repos...")
+        awesome_papers = fetch_awesome_repo_papers(AWESOME_REPOS, days_back=14)
+        for p in awesome_papers:
+            if p["id"] in existing_ids:
+                skipped_count += 1
+            elif p["id"] not in all_papers:
+                all_papers[p["id"]] = p
+
     if skipped_count > 0:
         print(f"  Skipped {skipped_count} previously fetched papers")
 
@@ -273,7 +397,7 @@ Abstract: {p['abstract']}
 주의사항:
 - 반드시 한국어로 작성
 - 메소드 설명은 기술적으로 정확하게
-- Gemini Robotics, Physical Intelligence, NVIDIA, World Labs, AMI, Yann LeCun, Chelsea Finn, Sergey Levine, Fei-Fei Li, Moo Jin Kim, Seonghyeon Ye 관련 논문이면 특별히 강조
+- Gemini Robotics, Physical Intelligence, NVIDIA, World Labs, AMI, Yann LeCun, Chelsea Finn, Sergey Levine, Fei-Fei Li, Moo Jin Kim, Seonghyeon Ye, Arhan Jain, Abhishek Gupta 관련 논문이면 특별히 강조
 - 논문 사이에 구분선(━, ─, — 등)을 절대 사용하지 마세요. 빈 줄로만 구분하세요
 
 {papers_text}"""
@@ -414,8 +538,10 @@ def save_and_push(summary: str, papers: list[dict]):
         f.write("- World Model for Robotics\n")
         f.write("- Physical AI / Embodied AI\n\n")
         f.write("## 🏢 주요 추적 기관/저자\n")
-        f.write("- **기관**: Gemini Robotics, Physical Intelligence, NVIDIA\n")
-        f.write("- **저자**: Yann LeCun, Chelsea Finn, Sergey Levine, Moo Jin Kim, Seonghyeon Ye\n\n")
+        orgs_display = ", ".join(o.title() for o in PRIORITY_ORGS)
+        authors_display = ", ".join(a.title() for a in PRIORITY_AUTHORS)
+        f.write(f"- **기관**: {orgs_display}\n")
+        f.write(f"- **저자**: {authors_display}\n\n")
 
         # Categorized paper tables
         f.write("## 📊 최근 논문 (카테고리별)\n\n")

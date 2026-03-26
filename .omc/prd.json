@@ -1,42 +1,42 @@
 {
-  "title": "Deduplicate daily paper fetching and clean up existing md files",
+  "title": "Extract config to JSON and add awesome-repo paper sources",
   "stories": [
     {
       "id": "US-001",
-      "title": "Filter previously fetched papers in collect_papers()",
+      "title": "Extract hardcoded config to JSON file",
       "priority": 1,
       "passes": true,
       "acceptanceCriteria": [
-        "collect_papers() calls load_papers_db() and uses it to filter out known paper IDs",
-        "Papers already in papers_db.json are excluded from the all_papers dict",
-        "A log message is printed showing how many duplicate papers were skipped",
-        "The within-run deduplication (existing all_papers dict check) still works",
-        "The function still returns up to TOP_N papers sorted by score"
+        "A config.json file exists at project root with keys: author_queries, priority_authors, priority_orgs, search_queries, categories, paper_categories",
+        "config.json includes the two new authors: Arhan Jain and Abhishek Gupta in both author_queries and priority_authors",
+        "config.json includes an awesome_repos list with 4 repos: jonyzhang2023/awesome-embodied-vla-va-vln, yueen-ma/Awesome-VLA, Psi-Robot/Awesome-VLA-Papers, Denghaoyuan123/Awesome-RL-VLA",
+        "daily_briefing.py loads all config from config.json instead of hardcoding lists",
+        "No hardcoded author/org/query lists remain in daily_briefing.py (except as fallback defaults)"
       ]
     },
     {
       "id": "US-002",
-      "title": "Git commit and push the code change",
+      "title": "Implement awesome-repo paper fetching",
       "priority": 2,
       "passes": true,
       "acceptanceCriteria": [
-        "The modified daily_briefing.py is committed to the repo",
-        "The commit is pushed to the remote origin",
-        "The commit message describes the deduplication fix"
+        "A function exists that fetches README.md from each awesome repo via GitHub raw URL",
+        "The function parses arxiv paper links from the README content",
+        "Only papers updated/added within the last 2 weeks are included (based on git commit history of the repo)",
+        "Parsed papers are integrated into the collect_papers() pipeline with deduplication",
+        "Papers from awesome repos are scored and ranked alongside arXiv search results"
       ]
     },
     {
       "id": "US-003",
-      "title": "Remove duplicate papers from existing markdown files",
+      "title": "End-to-end verification",
       "priority": 3,
       "passes": true,
       "acceptanceCriteria": [
-        "2026-03-19.md unchanged (all first appearances)",
-        "2026-03-20.md unchanged (all first appearances)",
-        "2026-03-21.md unchanged (all first appearances)",
-        "2026-03-22.md has duplicate papers removed (all 5 were duplicates from 03-19/03-20)",
-        "2026-03-23.md has 4 duplicate papers removed, keeps only 2603.16050 (End-to-End Autonomy)",
-        "Changes committed and pushed to remote"
+        "Python syntax check passes (python -m py_compile daily_briefing.py)",
+        "config.json is valid JSON and loads without errors",
+        "The Claude prompt in summarize_papers reflects the new authors (Arhan Jain, Abhishek Gupta)",
+        "All imports used in the new code are available (no missing dependencies)"
       ]
     }
   ]

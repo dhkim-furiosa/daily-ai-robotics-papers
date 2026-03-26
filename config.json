@@ -1,0 +1,91 @@
+{
+  "search_queries": [
+    "\"vision language action\" OR VLA robot",
+    "\"world model\" robot OR manipulation OR embodied",
+    "\"physical AI\" OR \"physical intelligence\" OR \"embodied AI\""
+  ],
+  "author_queries": [
+    "au:\"Yann LeCun\"",
+    "au:\"Chelsea Finn\"",
+    "au:\"Sergey Levine\"",
+    "au:\"Moo Jin Kim\"",
+    "au:\"Seonghyeon Ye\"",
+    "au:\"Fei-Fei Li\"",
+    "au:\"Arhan Jain\"",
+    "au:\"Abhishek Gupta\""
+  ],
+  "priority_authors": [
+    "yann lecun",
+    "chelsea finn",
+    "sergey levine",
+    "moo jin kim",
+    "seonghyeon ye",
+    "fei-fei li",
+    "arhan jain",
+    "abhishek gupta"
+  ],
+  "priority_orgs": [
+    "google",
+    "deepmind",
+    "gemini",
+    "physical intelligence",
+    "nvidia",
+    "meta",
+    "berkeley",
+    "stanford",
+    "world labs",
+    "advanced machine intelligence"
+  ],
+  "categories": [
+    "cs.RO",
+    "cs.AI",
+    "cs.CV",
+    "cs.LG"
+  ],
+  "paper_categories": {
+    "VLA": [
+      "vla",
+      "vision-language-action",
+      "vision language action",
+      "language-conditioned",
+      "rt-2",
+      "rt-x",
+      "openvla"
+    ],
+    "World Model": [
+      "world model",
+      "video prediction",
+      "latent dynamics",
+      "latent planning",
+      "jepa",
+      "v-jepa"
+    ],
+    "Physical AI": [
+      "physical ai",
+      "physical intelligence",
+      "embodied ai",
+      "embodied intelligence",
+      "robot learning",
+      "robot manipulation",
+      "object manipulation",
+      "robot grasping",
+      "locomotion",
+      "dexterous"
+    ],
+    "Foundation Model": [
+      "foundation model",
+      "large model",
+      "pretrained",
+      "multi-task",
+      "generalist agent",
+      "generalist robot"
+    ]
+  },
+  "awesome_repos": [
+    "jonyzhang2023/awesome-embodied-vla-va-vln",
+    "yueen-ma/Awesome-VLA",
+    "Psi-Robot/Awesome-VLA-Papers",
+    "Denghaoyuan123/Awesome-RL-VLA"
+  ],
+  "top_n": 5
+}

@@ -1,8 +1,15 @@
 # Ralph Progress Log
 
-## Task: Deduplicate daily paper fetching
+## Task: Extract config to JSON and add awesome-repo paper sources
 
-### Iteration 1 - 2026-03-23
-- Analyzed codebase: daily_briefing.py has collect_papers() that deduplicates within-run but not against papers_db.json
-- papers_db.json stores previously fetched papers with arXiv IDs as keys
-- Fix: load papers_db at start of collect_papers() and skip known IDs
+### Iteration 1 - 2026-03-26
+- Created config.json with all extracted config: authors, orgs, queries, categories, awesome repos
+- Added 2 new authors: Arhan Jain, Abhishek Gupta
+- Added 4 awesome repos: jonyzhang2023/awesome-embodied-vla-va-vln, yueen-ma/Awesome-VLA, Psi-Robot/Awesome-VLA-Papers, Denghaoyuan123/Awesome-RL-VLA
+- Implemented fetch_awesome_repo_papers() - fetches git diffs from recent commits to find newly added arxiv links
+- Implemented _fetch_arxiv_by_ids() - batch fetches paper metadata from arXiv API
+- Integrated awesome repo papers into collect_papers() with deduplication
+- Made README generation dynamic for author/org display
+- Updated Claude prompt to include new authors
+- Architect review passed with all criteria met
+- Files changed: config.json (new), daily_briefing.py (modified)
