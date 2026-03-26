@@ -17,6 +17,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-03-26 | Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring | Teng Yan, Zhengyang Pei, Chengyu Shi | [arXiv](https://arxiv.org/abs/2603.22899) |
+| 2026-03-26 | VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models | Jintao Cheng, Haozhe Wang, Weibin Li | [arXiv](https://arxiv.org/abs/2603.22991) |
+| 2026-03-26 | VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs | Haoran Yuan, Weigang Yi, Zhenyu Zhang | [arXiv](https://arxiv.org/abs/2603.23481) |
 | 2026-03-24 | X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving | Chaoda Zheng, Sean Li, Jinhao Deng | [arXiv](https://arxiv.org/abs/2603.19979) |
 | 2026-03-24 | HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks | Jingyu Guo, Ziye Chen, Ziwen Li | [arXiv](https://arxiv.org/abs/2603.19822) |
 | 2026-03-21 | From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models | Zhuofan Li, Hongkun Yang, Zhenyang Chen | [arXiv](https://arxiv.org/abs/2603.19131) |
@@ -30,6 +33,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-03-26 | Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models | Massimiliano Pappa, Luca Romani, Valentino Sacco | [arXiv](https://arxiv.org/abs/2603.23149) |
 | 2026-03-24 | Structured Latent Dynamics in Wireless CSI via Homomorphic World Models | Salmane Naoumi, Mehdi Bennis, Marwa Chafii | [arXiv](https://arxiv.org/abs/2603.20048) |
 | 2026-03-21 | OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation | Yuhang Zheng, Songen Gu, Weize Li | [arXiv](https://arxiv.org/abs/2603.19201) |
 | 2026-03-20 | Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation | Mutian Xu, Tianbao Zhang, Tianqi Liu | [arXiv](https://arxiv.org/abs/2603.16669) |
@@ -48,6 +52,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-03-26 | AeroScene: Progressive Scene Synthesis for Aerial Robotics | Nghia Vu, Tuong Do, Dzung Tran | [arXiv](https://arxiv.org/abs/2603.23224) |
 | 2026-03-24 | Generalized Task-Driven Design of Soft Robots via Reduced-Order FEM-based Surrogate Modeling | Yao Yao, David Howard, Perla Maiolino | [arXiv](https://arxiv.org/abs/2603.19794) |
 | 2026-03-21 | MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction | Joerg Deigmoeller, Nakul Agarwal, Stephan Hasler | [arXiv](https://arxiv.org/abs/2603.18988) |
 | 2026-03-21 | NavTrust: Benchmarking Trustworthiness for Embodied Navigation | Huaide Jiang, Yash Chaudhary, Yuping Wang | [arXiv](https://arxiv.org/abs/2603.19229) |
@@ -115,6 +120,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-03-26](./2026/03/2026-03-26.md)
 - [2026-03-24](./2026/03/2026-03-24.md)
 - [2026-03-23](./2026/03/2026-03-23.md)
 - [2026-03-22](./2026/03/2026-03-22.md)

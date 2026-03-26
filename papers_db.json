@@ -249,5 +249,65 @@
     "category": "Physical AI",
     "date": "2026-03-24",
     "score": 2.0
+  },
+  "2603.22899": {
+    "title": "Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring",
+    "authors": [
+      "Teng Yan",
+      "Zhengyang Pei",
+      "Chengyu Shi"
+    ],
+    "url": "https://arxiv.org/abs/2603.22899",
+    "category": "VLA",
+    "date": "2026-03-26",
+    "score": 5.0
+  },
+  "2603.23149": {
+    "title": "Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models",
+    "authors": [
+      "Massimiliano Pappa",
+      "Luca Romani",
+      "Valentino Sacco"
+    ],
+    "url": "https://arxiv.org/abs/2603.23149",
+    "category": "World Model",
+    "date": "2026-03-26",
+    "score": 5.0
+  },
+  "2603.22991": {
+    "title": "VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models",
+    "authors": [
+      "Jintao Cheng",
+      "Haozhe Wang",
+      "Weibin Li"
+    ],
+    "url": "https://arxiv.org/abs/2603.22991",
+    "category": "VLA",
+    "date": "2026-03-26",
+    "score": 4.0
+  },
+  "2603.23224": {
+    "title": "AeroScene: Progressive Scene Synthesis for Aerial Robotics",
+    "authors": [
+      "Nghia Vu",
+      "Tuong Do",
+      "Dzung Tran"
+    ],
+    "url": "https://arxiv.org/abs/2603.23224",
+    "category": "Other",
+    "date": "2026-03-26",
+    "score": 3.0
+  },
+  "2603.23481": {
+    "title": "VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs",
+    "authors": [
+      "Haoran Yuan",
+      "Weigang Yi",
+      "Zhenyu Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2603.23481",
+    "category": "VLA",
+    "date": "2026-03-26",
+    "score": 2.0
   }
 }
