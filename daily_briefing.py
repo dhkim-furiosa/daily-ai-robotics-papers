@@ -46,6 +46,7 @@ PRIORITY_AUTHORS = _config["priority_authors"]
 CATEGORIES = _config["categories"]
 PAPER_CATEGORIES = _config["paper_categories"]
 AWESOME_REPOS = _config.get("awesome_repos", [])
+RESEARCH_SITES = _config.get("research_sites", [])
 
 # ── Paper DB & Categorization ──────────────────────────────────────
 
@@ -276,6 +277,120 @@ def _fetch_arxiv_by_ids(arxiv_ids: list[str], batch_size: int = 20) -> list[dict
     return papers
 
 
+# ── Research Site Scraping ─────────────────────────────────────────
+
+def fetch_research_site_papers(sites: list[dict], days_back: int = 14) -> list[dict]:
+    """Fetch papers from research lab websites.
+
+    Supports two strategies:
+    - 'scrape': Fetch index page, extract arxiv links (PI, DeepMind)
+    - 'arxiv_search': Search arXiv with org-specific queries (NVIDIA GEAR, RLWRLD)
+    """
+    all_arxiv_ids = set()
+
+    for site in sites:
+        name = site["name"]
+        site_type = site["type"]
+        print(f"  Checking research site: {name}...")
+
+        try:
+            if site_type == "scrape":
+                ids = _scrape_research_site(site, days_back)
+            elif site_type == "arxiv_search":
+                ids = _arxiv_search_for_org(site, days_back)
+            else:
+                print(f"    [WARN] Unknown site type: {site_type}")
+                continue
+
+            print(f"    Found {len(ids)} arxiv IDs from {name}")
+            all_arxiv_ids.update(ids)
+        except Exception as e:
+            print(f"    [WARN] Failed to fetch {name}: {e}")
+            continue
+
+        time.sleep(1)
+
+    papers = []
+    if all_arxiv_ids:
+        print(f"  Total {len(all_arxiv_ids)} unique arxiv papers from research sites")
+        papers = _fetch_arxiv_by_ids(list(all_arxiv_ids))
+
+    return papers
+
+
+def _scrape_research_site(site: dict, days_back: int) -> set[str]:
+    """Scrape a research site's index page and detail pages for arxiv IDs."""
+    index_url = site["index_url"]
+    base_url = site.get("base_url", "")
+    filter_keywords = site.get("filter_keywords", [])
+    arxiv_ids = set()
+
+    # Fetch index page
+    req = urllib.request.Request(index_url, headers={"User-Agent": "DailyBriefing/1.0"})
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        html = resp.read().decode("utf-8", errors="replace")
+
+    # Extract arxiv IDs directly from index page
+    for match in re.finditer(r'arxiv\.org/(?:abs|pdf)/(\d{4}\.\d{4,5})', html):
+        arxiv_ids.add(match.group(1))
+
+    # If no direct arxiv links, follow detail page links
+    if not arxiv_ids:
+        # Extract relative links to paper detail pages
+        detail_links = set()
+        for match in re.finditer(r'href=["\'](/research/[^"\'#]+)["\']', html):
+            link = match.group(1)
+            if link == "/research/" or link == "/research":
+                continue
+            detail_links.add(link)
+
+        # For DeepMind-style: extract publication links
+        for match in re.finditer(r'href=["\'](?:https?://deepmind\.google)?(/research/publications/\d+/?)["\']', html):
+            link = match.group(1)
+            detail_links.add(link)
+
+        # Filter by keywords if specified (check surrounding HTML context)
+        if filter_keywords:
+            filtered_links = set()
+            for link in detail_links:
+                # Find the link in HTML and check nearby text (200 chars around it)
+                idx = html.find(link)
+                if idx >= 0:
+                    context = html[max(0, idx - 200):idx + 200].lower()
+                    if any(kw in context for kw in filter_keywords):
+                        filtered_links.add(link)
+            detail_links = filtered_links
+
+        # Fetch detail pages for arxiv links (limit to 15 pages)
+        for link in list(detail_links)[:15]:
+            full_url = base_url + link if link.startswith("/") else link
+            try:
+                req = urllib.request.Request(full_url, headers={"User-Agent": "DailyBriefing/1.0"})
+                with urllib.request.urlopen(req, timeout=15) as resp:
+                    detail_html = resp.read().decode("utf-8", errors="replace")
+                for match in re.finditer(r'arxiv\.org/(?:abs|pdf)/(\d{4}\.\d{4,5})', detail_html):
+                    arxiv_ids.add(match.group(1))
+            except Exception:
+                continue
+            time.sleep(0.5)
+
+    return arxiv_ids
+
+
+def _arxiv_search_for_org(site: dict, days_back: int) -> set[str]:
+    """Search arXiv for papers from a specific organization."""
+    queries = site.get("queries", [])
+    arxiv_ids = set()
+
+    for query in queries:
+        results = search_arxiv(query, max_results=15, days_back=days_back)
+        for p in results:
+            arxiv_ids.add(p["id"])
+        time.sleep(3)
+
+    return arxiv_ids
+
+
 def score_paper(paper: dict) -> float:
     """Score paper by priority (higher = more relevant)."""
     score = 0.0
@@ -344,6 +459,16 @@ def collect_papers() -> list[dict]:
             elif p["id"] not in all_papers:
                 all_papers[p["id"]] = p
 
+    # Research site searches
+    if RESEARCH_SITES:
+        print(f"  Searching {len(RESEARCH_SITES)} research sites...")
+        site_papers = fetch_research_site_papers(RESEARCH_SITES, days_back=14)
+        for p in site_papers:
+            if p["id"] in existing_ids:
+                skipped_count += 1
+            elif p["id"] not in all_papers:
+                all_papers[p["id"]] = p
+
     if skipped_count > 0:
         print(f"  Skipped {skipped_count} previously fetched papers")
 
@@ -397,7 +522,7 @@ Abstract: {p['abstract']}
 주의사항:
 - 반드시 한국어로 작성
 - 메소드 설명은 기술적으로 정확하게
-- Gemini Robotics, Physical Intelligence, NVIDIA, World Labs, AMI, Yann LeCun, Chelsea Finn, Sergey Levine, Fei-Fei Li, Moo Jin Kim, Seonghyeon Ye, Arhan Jain, Abhishek Gupta 관련 논문이면 특별히 강조
+- Gemini Robotics, Physical Intelligence, NVIDIA GEAR, Google DeepMind, RLWRLD, World Labs, AMI, Yann LeCun, Chelsea Finn, Sergey Levine, Fei-Fei Li, Moo Jin Kim, Seonghyeon Ye, Arhan Jain, Abhishek Gupta 관련 논문이면 특별히 강조
 - 논문 사이에 구분선(━, ─, — 등)을 절대 사용하지 마세요. 빈 줄로만 구분하세요
 
 {papers_text}"""
@@ -542,6 +667,16 @@ def save_and_push(summary: str, papers: list[dict]):
         authors_display = ", ".join(a.title() for a in PRIORITY_AUTHORS)
         f.write(f"- **기관**: {orgs_display}\n")
         f.write(f"- **저자**: {authors_display}\n\n")
+
+        f.write("## 🔗 논문 소스\n")
+        f.write("- **arXiv**: 키워드 및 저자 기반 검색\n")
+        if AWESOME_REPOS:
+            repos_display = ", ".join(f"[{r.split('/')[-1]}](https://github.com/{r})" for r in AWESOME_REPOS)
+            f.write(f"- **Awesome Repos**: {repos_display}\n")
+        if RESEARCH_SITES:
+            sites_display = ", ".join(s["name"] for s in RESEARCH_SITES)
+            f.write(f"- **Research Sites**: {sites_display}\n")
+        f.write("\n")
 
         # Categorized paper tables
         f.write("## 📊 최근 논문 (카테고리별)\n\n")

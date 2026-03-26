@@ -34,7 +34,8 @@
     "berkeley",
     "stanford",
     "world labs",
-    "advanced machine intelligence"
+    "advanced machine intelligence",
+    "rlwrld"
   ],
   "categories": [
     "cs.RO",
@@ -86,6 +87,35 @@
     "yueen-ma/Awesome-VLA",
     "Psi-Robot/Awesome-VLA-Papers",
     "Denghaoyuan123/Awesome-RL-VLA"
+  ],
+  "research_sites": [
+    {
+      "name": "Physical Intelligence",
+      "type": "scrape",
+      "index_url": "https://www.pi.website/research",
+      "base_url": "https://www.pi.website",
+      "description": "PI research papers with arxiv links on detail pages"
+    },
+    {
+      "name": "Google DeepMind",
+      "type": "scrape",
+      "index_url": "https://deepmind.google/research/publications/",
+      "base_url": "https://deepmind.google",
+      "filter_keywords": ["robot", "manipulation", "embodied", "vla", "action", "locomotion", "dexterous", "physical", "humanoid"],
+      "description": "DeepMind publications filtered by robotics keywords"
+    },
+    {
+      "name": "NVIDIA GEAR",
+      "type": "arxiv_search",
+      "queries": ["\"NVIDIA\" robot manipulation OR embodied OR humanoid", "\"GEAR\" NVIDIA robot"],
+      "description": "NVIDIA GEAR lab - SPA site, fallback to arXiv search"
+    },
+    {
+      "name": "RLWRLD",
+      "type": "arxiv_search",
+      "queries": ["\"RLWRLD\" robot", "\"RLDX\" vision language action"],
+      "description": "RLWRLD - SPA site, fallback to arXiv search"
+    }
   ],
   "top_n": 5
 }
