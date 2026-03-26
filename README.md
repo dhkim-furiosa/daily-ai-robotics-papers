@@ -8,8 +8,13 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 - Physical AI / Embodied AI
 
 ## 🏢 주요 추적 기관/저자
-- **기관**: Gemini Robotics, Physical Intelligence, NVIDIA
-- **저자**: Yann LeCun, Chelsea Finn, Sergey Levine, Moo Jin Kim, Seonghyeon Ye
+- **기관**: Google, Deepmind, Gemini, Physical Intelligence, Nvidia, Meta, Berkeley, Stanford, World Labs, Advanced Machine Intelligence, Rlwrld
+- **저자**: Yann Lecun, Chelsea Finn, Sergey Levine, Moo Jin Kim, Seonghyeon Ye, Fei-Fei Li, Arhan Jain, Abhishek Gupta
+
+## 🔗 논문 소스
+- **arXiv**: 키워드 및 저자 기반 검색
+- **Awesome Repos**: [awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln), [Awesome-VLA](https://github.com/yueen-ma/Awesome-VLA), [Awesome-VLA-Papers](https://github.com/Psi-Robot/Awesome-VLA-Papers), [Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA), [awesome-vla-study](https://github.com/MilkClouds/awesome-vla-study)
+- **Research Sites**: Physical Intelligence, Google DeepMind, NVIDIA GEAR, RLWRLD
 
 ## 📊 최근 논문 (카테고리별)
 
@@ -120,10 +125,4 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
-- [2026-03-26](./2026/03/2026-03-26.md)
-- [2026-03-24](./2026/03/2026-03-24.md)
-- [2026-03-23](./2026/03/2026-03-23.md)
-- [2026-03-22](./2026/03/2026-03-22.md)
-- [2026-03-21](./2026/03/2026-03-21.md)
-- [2026-03-20](./2026/03/2026-03-20.md)
-- [2026-03-19](./2026/03/2026-03-19.md)
+
