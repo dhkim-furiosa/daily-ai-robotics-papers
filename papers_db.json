@@ -309,5 +309,65 @@
     "category": "VLA",
     "date": "2026-03-26",
     "score": 2.0
+  },
+  "2603.24393": {
+    "title": "3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models",
+    "authors": [
+      "Bin Yu",
+      "Shijie Lian",
+      "Xiaopeng Lin"
+    ],
+    "url": "https://arxiv.org/abs/2603.24393",
+    "category": "VLA",
+    "date": "2026-03-27",
+    "score": 4.0
+  },
+  "2603.24584": {
+    "title": "TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models",
+    "authors": [
+      "Jiaying Zhou",
+      "Zhihao Zhan",
+      "Ruifeng Zhai"
+    ],
+    "url": "https://arxiv.org/abs/2603.24584",
+    "category": "VLA",
+    "date": "2026-03-27",
+    "score": 2.0
+  },
+  "2603.24060": {
+    "title": "SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation",
+    "authors": [
+      "Zhuoran Li",
+      "Zhiyang Li",
+      "Kaijun Zhou"
+    ],
+    "url": "https://arxiv.org/abs/2603.24060",
+    "category": "VLA",
+    "date": "2026-03-27",
+    "score": 2.0
+  },
+  "2603.24577": {
+    "title": "EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction",
+    "authors": [
+      "Falong Fan",
+      "Yi Xie",
+      "Arnis Lektauers"
+    ],
+    "url": "https://arxiv.org/abs/2603.24577",
+    "category": "Other",
+    "date": "2026-03-27",
+    "score": 0.0
+  },
+  "2603.24576": {
+    "title": "Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation",
+    "authors": [
+      "Xinying Guo",
+      "Chenxi Jiang",
+      "Hyun Bin Kim"
+    ],
+    "url": "https://arxiv.org/abs/2603.24576",
+    "category": "Other",
+    "date": "2026-03-27",
+    "score": 0.0
   }
 }

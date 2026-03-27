@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-03-27 | 3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models | Bin Yu, Shijie Lian, Xiaopeng Lin | [arXiv](https://arxiv.org/abs/2603.24393) |
+| 2026-03-27 | TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models | Jiaying Zhou, Zhihao Zhan, Ruifeng Zhai | [arXiv](https://arxiv.org/abs/2603.24584) |
+| 2026-03-27 | SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation | Zhuoran Li, Zhiyang Li, Kaijun Zhou | [arXiv](https://arxiv.org/abs/2603.24060) |
 | 2026-03-26 | Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring | Teng Yan, Zhengyang Pei, Chengyu Shi | [arXiv](https://arxiv.org/abs/2603.22899) |
 | 2026-03-26 | VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models | Jintao Cheng, Haozhe Wang, Weibin Li | [arXiv](https://arxiv.org/abs/2603.22991) |
 | 2026-03-26 | VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs | Haoran Yuan, Weigang Yi, Zhenyu Zhang | [arXiv](https://arxiv.org/abs/2603.23481) |
@@ -57,6 +60,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-03-27 | EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction | Falong Fan, Yi Xie, Arnis Lektauers | [arXiv](https://arxiv.org/abs/2603.24577) |
+| 2026-03-27 | Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation | Xinying Guo, Chenxi Jiang, Hyun Bin Kim | [arXiv](https://arxiv.org/abs/2603.24576) |
 | 2026-03-26 | AeroScene: Progressive Scene Synthesis for Aerial Robotics | Nghia Vu, Tuong Do, Dzung Tran | [arXiv](https://arxiv.org/abs/2603.23224) |
 | 2026-03-24 | Generalized Task-Driven Design of Soft Robots via Reduced-Order FEM-based Surrogate Modeling | Yao Yao, David Howard, Perla Maiolino | [arXiv](https://arxiv.org/abs/2603.19794) |
 | 2026-03-21 | MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction | Joerg Deigmoeller, Nakul Agarwal, Stephan Hasler | [arXiv](https://arxiv.org/abs/2603.18988) |
@@ -125,4 +130,4 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
-
+- [2026-03-27](./2026/03/2026-03-27.md)
