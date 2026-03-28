@@ -22,6 +22,11 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-03-28 | OpenVLA: An Open-Source Vision-Language-Action Model | Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti | [arXiv](https://arxiv.org/abs/2406.09246) |
+| 2026-03-28 | FAST: Efficient Action Tokenization for Vision-Language-Action Models | Karl Pertsch, Kyle Stachowicz, Brian Ichter | [arXiv](https://arxiv.org/abs/2501.09747) |
+| 2026-03-28 | Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models | Lucy Xiaoyang Shi, Brian Ichter, Michael Equi | [arXiv](https://arxiv.org/abs/2502.19417) |
+| 2026-03-28 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control | Anthony Brohan, Noah Brown, Justice Carbajal | [arXiv](https://arxiv.org/abs/2307.15818) |
+| 2026-03-28 | GR00T N1: An Open Foundation Model for Generalist Humanoid Robots |  NVIDIA,  :, Johan Bjorck | [arXiv](https://arxiv.org/abs/2503.14734) |
 | 2026-03-27 | 3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models | Bin Yu, Shijie Lian, Xiaopeng Lin | [arXiv](https://arxiv.org/abs/2603.24393) |
 | 2026-03-27 | TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models | Jiaying Zhou, Zhihao Zhan, Ruifeng Zhai | [arXiv](https://arxiv.org/abs/2603.24584) |
 | 2026-03-27 | SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation | Zhuoran Li, Zhiyang Li, Kaijun Zhou | [arXiv](https://arxiv.org/abs/2603.24060) |
@@ -130,4 +135,5 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-03-28](./2026/03/2026-03-28.md)
 - [2026-03-27](./2026/03/2026-03-27.md)

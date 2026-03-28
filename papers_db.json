@@ -369,5 +369,65 @@
     "category": "Other",
     "date": "2026-03-27",
     "score": 0.0
+  },
+  "2406.09246": {
+    "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+    "authors": [
+      "Moo Jin Kim",
+      "Karl Pertsch",
+      "Siddharth Karamcheti"
+    ],
+    "url": "https://arxiv.org/abs/2406.09246",
+    "category": "VLA",
+    "date": "2026-03-28",
+    "score": 34.0
+  },
+  "2501.09747": {
+    "title": "FAST: Efficient Action Tokenization for Vision-Language-Action Models",
+    "authors": [
+      "Karl Pertsch",
+      "Kyle Stachowicz",
+      "Brian Ichter"
+    ],
+    "url": "https://arxiv.org/abs/2501.09747",
+    "category": "VLA",
+    "date": "2026-03-28",
+    "score": 22.0
+  },
+  "2502.19417": {
+    "title": "Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models",
+    "authors": [
+      "Lucy Xiaoyang Shi",
+      "Brian Ichter",
+      "Michael Equi"
+    ],
+    "url": "https://arxiv.org/abs/2502.19417",
+    "category": "VLA",
+    "date": "2026-03-28",
+    "score": 22.0
+  },
+  "2307.15818": {
+    "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+    "authors": [
+      "Anthony Brohan",
+      "Noah Brown",
+      "Justice Carbajal"
+    ],
+    "url": "https://arxiv.org/abs/2307.15818",
+    "category": "VLA",
+    "date": "2026-03-28",
+    "score": 22.0
+  },
+  "2503.14734": {
+    "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots",
+    "authors": [
+      " NVIDIA",
+      " :",
+      "Johan Bjorck"
+    ],
+    "url": "https://arxiv.org/abs/2503.14734",
+    "category": "VLA",
+    "date": "2026-03-28",
+    "score": 15.0
   }
 }
