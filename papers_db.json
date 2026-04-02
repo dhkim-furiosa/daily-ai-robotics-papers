@@ -429,5 +429,63 @@
     "category": "VLA",
     "date": "2026-03-28",
     "score": 15.0
+  },
+  "2603.29844": {
+    "title": "DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA",
+    "authors": [
+      "Yi Chen",
+      "Yuying Ge",
+      "Hui Zhou"
+    ],
+    "url": "https://arxiv.org/abs/2603.29844",
+    "category": "VLA",
+    "date": "2026-04-02",
+    "score": 4.0
+  },
+  "2603.29627": {
+    "title": "Semantic Zone-Based Map Management for Stable AI-Integrated Mobile Robots",
+    "authors": [
+      "Huichang Yun",
+      "Seungho Yoo"
+    ],
+    "url": "https://arxiv.org/abs/2603.29627",
+    "category": "Other",
+    "date": "2026-04-02",
+    "score": 3.0
+  },
+  "2603.29693": {
+    "title": "Measuring the metacognition of AI",
+    "authors": [
+      "Richard Servajean",
+      "Philippe Servajean"
+    ],
+    "url": "https://arxiv.org/abs/2603.29693",
+    "category": "Other",
+    "date": "2026-04-02",
+    "score": 3.0
+  },
+  "2603.29966": {
+    "title": "Scaling Video Pretraining for Surgical Foundation Models",
+    "authors": [
+      "Sicheng Lu",
+      "Zikai Xiao",
+      "Jianhui Wei"
+    ],
+    "url": "https://arxiv.org/abs/2603.29966",
+    "category": "World Model",
+    "date": "2026-04-02",
+    "score": 2.0
+  },
+  "2603.30042": {
+    "title": "HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation",
+    "authors": [
+      "Xiangshan Tan",
+      "Jingtian Ji",
+      "Tianchong Jiang"
+    ],
+    "url": "https://arxiv.org/abs/2603.30042",
+    "category": "Other",
+    "date": "2026-04-02",
+    "score": 0.0
   }
 }
