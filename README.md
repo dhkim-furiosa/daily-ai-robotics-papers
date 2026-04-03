@@ -60,6 +60,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-03 | A Physical Imitation Learning Pipeline for Energy-Efficient Quadruped Locomotion Assisted by Parallel Elastic Joint | Huyue Ma, Yurui Jin, Helmut Hauser | [arXiv](https://arxiv.org/abs/2604.00611) |
+| 2026-04-03 | EgoSim: Egocentric World Simulator for Embodied Interaction Generation | Jinkun Hao, Mingda Jia, Ruiyan Wang | [arXiv](https://arxiv.org/abs/2604.01001) |
+| 2026-04-03 | Collaborative Task and Path Planning for Heterogeneous Robotic Teams using Multi-Agent PPO | Matthias Rubio, Julia Richter, Hendrik Kolvenbach | [arXiv](https://arxiv.org/abs/2604.01213) |
 | 2026-03-24 | Embodied Science: Closing the Discovery Loop with Agentic Embodied AI | Xiang Zhuang, Chenyi Zhou, Kehua Feng | [arXiv](https://arxiv.org/abs/2603.19782) |
 | 2026-03-23 | The Era of End-to-End Autonomy: Transitioning from Rule-Based Driving to Large Driving Models | Eduardo Nebot, Julie Stephany Berrio Perez | [arXiv](https://arxiv.org/abs/2603.16050) |
 
@@ -67,6 +70,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-03 | ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data | Yaoqin Ye, Yiteng Xu, Qin Sun | [arXiv](https://arxiv.org/abs/2604.01082) |
+| 2026-04-03 | Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies | Uksang Yoo, Mengjia Zhu, Evan Pezent | [arXiv](https://arxiv.org/abs/2604.01224) |
 | 2026-04-02 | Semantic Zone-Based Map Management for Stable AI-Integrated Mobile Robots | Huichang Yun, Seungho Yoo | [arXiv](https://arxiv.org/abs/2603.29627) |
 | 2026-04-02 | Measuring the metacognition of AI | Richard Servajean, Philippe Servajean | [arXiv](https://arxiv.org/abs/2603.29693) |
 | 2026-04-02 | HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation | Xiangshan Tan, Jingtian Ji, Tianchong Jiang | [arXiv](https://arxiv.org/abs/2603.30042) |
@@ -140,6 +145,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-03](./2026/04/2026-04-03.md)
 - [2026-04-02](./2026/04/2026-04-02.md)
 - [2026-03-28](./2026/03/2026-03-28.md)
 - [2026-03-27](./2026/03/2026-03-27.md)

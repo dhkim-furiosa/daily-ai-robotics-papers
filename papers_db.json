@@ -487,5 +487,65 @@
     "category": "Other",
     "date": "2026-04-02",
     "score": 0.0
+  },
+  "2604.01082": {
+    "title": "ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data",
+    "authors": [
+      "Yaoqin Ye",
+      "Yiteng Xu",
+      "Qin Sun"
+    ],
+    "url": "https://arxiv.org/abs/2604.01082",
+    "category": "Other",
+    "date": "2026-04-03",
+    "score": 3.0
+  },
+  "2604.00611": {
+    "title": "A Physical Imitation Learning Pipeline for Energy-Efficient Quadruped Locomotion Assisted by Parallel Elastic Joint",
+    "authors": [
+      "Huyue Ma",
+      "Yurui Jin",
+      "Helmut Hauser"
+    ],
+    "url": "https://arxiv.org/abs/2604.00611",
+    "category": "Physical AI",
+    "date": "2026-04-03",
+    "score": 3.0
+  },
+  "2604.01001": {
+    "title": "EgoSim: Egocentric World Simulator for Embodied Interaction Generation",
+    "authors": [
+      "Jinkun Hao",
+      "Mingda Jia",
+      "Ruiyan Wang"
+    ],
+    "url": "https://arxiv.org/abs/2604.01001",
+    "category": "Physical AI",
+    "date": "2026-04-03",
+    "score": 2.0
+  },
+  "2604.01224": {
+    "title": "Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies",
+    "authors": [
+      "Uksang Yoo",
+      "Mengjia Zhu",
+      "Evan Pezent"
+    ],
+    "url": "https://arxiv.org/abs/2604.01224",
+    "category": "Other",
+    "date": "2026-04-03",
+    "score": 0.0
+  },
+  "2604.01213": {
+    "title": "Collaborative Task and Path Planning for Heterogeneous Robotic Teams using Multi-Agent PPO",
+    "authors": [
+      "Matthias Rubio",
+      "Julia Richter",
+      "Hendrik Kolvenbach"
+    ],
+    "url": "https://arxiv.org/abs/2604.01213",
+    "category": "Physical AI",
+    "date": "2026-04-03",
+    "score": 0.0
   }
 }
