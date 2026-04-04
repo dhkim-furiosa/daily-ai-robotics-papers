@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-04 | UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models | Qiyao Zhang, Shuhua Zheng, Jianli Sun | [arXiv](https://arxiv.org/abs/2604.02241) |
+| 2026-04-04 | UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving | Yongkang Li, Lijun Zhou, Sixu Yan | [arXiv](https://arxiv.org/abs/2604.02190) |
+| 2026-04-04 | Causal Scene Narration with Runtime Safety Supervision for Vision-Language-Action Driving | Yun Li, Yidu Zhang, Simon Thompson | [arXiv](https://arxiv.org/abs/2604.01723) |
 | 2026-04-02 | DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA | Yi Chen, Yuying Ge, Hui Zhou | [arXiv](https://arxiv.org/abs/2603.29844) |
 | 2026-03-28 | OpenVLA: An Open-Source Vision-Language-Action Model | Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti | [arXiv](https://arxiv.org/abs/2406.09246) |
 | 2026-03-28 | FAST: Efficient Action Tokenization for Vision-Language-Action Models | Karl Pertsch, Kyle Stachowicz, Brian Ichter | [arXiv](https://arxiv.org/abs/2501.09747) |
@@ -47,6 +50,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-04 | World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry | Yuejiang Liu, Fan Feng, Lingjing Kong | [arXiv](https://arxiv.org/abs/2604.01985) |
+| 2026-04-04 | Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation | Chongjie Ye, Cheng Cao, Chuanyu Pan | [arXiv](https://arxiv.org/abs/2604.02289) |
 | 2026-04-02 | Scaling Video Pretraining for Surgical Foundation Models | Sicheng Lu, Zikai Xiao, Jianhui Wei | [arXiv](https://arxiv.org/abs/2603.29966) |
 | 2026-03-26 | Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models | Massimiliano Pappa, Luca Romani, Valentino Sacco | [arXiv](https://arxiv.org/abs/2603.23149) |
 | 2026-03-24 | Structured Latent Dynamics in Wireless CSI via Homomorphic World Models | Salmane Naoumi, Mehdi Bennis, Marwa Chafii | [arXiv](https://arxiv.org/abs/2603.20048) |
@@ -145,6 +150,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-04](./2026/04/2026-04-04.md)
 - [2026-04-03](./2026/04/2026-04-03.md)
 - [2026-04-02](./2026/04/2026-04-02.md)
 - [2026-03-28](./2026/03/2026-03-28.md)

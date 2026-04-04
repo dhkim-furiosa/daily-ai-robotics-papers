@@ -547,5 +547,65 @@
     "category": "Physical AI",
     "date": "2026-04-03",
     "score": 0.0
+  },
+  "2604.01985": {
+    "title": "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry",
+    "authors": [
+      "Yuejiang Liu",
+      "Fan Feng",
+      "Lingjing Kong"
+    ],
+    "url": "https://arxiv.org/abs/2604.01985",
+    "category": "World Model",
+    "date": "2026-04-04",
+    "score": 12.0
+  },
+  "2604.02241": {
+    "title": "UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models",
+    "authors": [
+      "Qiyao Zhang",
+      "Shuhua Zheng",
+      "Jianli Sun"
+    ],
+    "url": "https://arxiv.org/abs/2604.02241",
+    "category": "VLA",
+    "date": "2026-04-04",
+    "score": 6.0
+  },
+  "2604.02190": {
+    "title": "UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving",
+    "authors": [
+      "Yongkang Li",
+      "Lijun Zhou",
+      "Sixu Yan"
+    ],
+    "url": "https://arxiv.org/abs/2604.02190",
+    "category": "VLA",
+    "date": "2026-04-04",
+    "score": 2.0
+  },
+  "2604.01723": {
+    "title": "Causal Scene Narration with Runtime Safety Supervision for Vision-Language-Action Driving",
+    "authors": [
+      "Yun Li",
+      "Yidu Zhang",
+      "Simon Thompson"
+    ],
+    "url": "https://arxiv.org/abs/2604.01723",
+    "category": "VLA",
+    "date": "2026-04-04",
+    "score": 2.0
+  },
+  "2604.02289": {
+    "title": "Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation",
+    "authors": [
+      "Chongjie Ye",
+      "Cheng Cao",
+      "Chuanyu Pan"
+    ],
+    "url": "https://arxiv.org/abs/2604.02289",
+    "category": "World Model",
+    "date": "2026-04-04",
+    "score": 2.0
   }
 }
