@@ -75,6 +75,11 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-05 | A virtual-variable-length method for robust inverse kinematics of multi-segment continuum robots | Weiting Feng, Federico Renda, Yunjie Yang | [arXiv](https://arxiv.org/abs/2604.02256) |
+| 2026-04-05 | ROS 2-Based LiDAR Perception Framework for Mobile Robots in Dynamic Production Environments, Utilizing Synthetic Data Generation, Transformation-Equivariant 3D Detection and Multi-Object Tracking | Lukas Bergs, Tan Chung, Marmik Thakkar | [arXiv](https://arxiv.org/abs/2604.02109) |
+| 2026-04-05 | Cross-Modal Visuo-Tactile Object Perception | Anirvan Dutta, Simone Tasciotti, Claudia Cusseddu | [arXiv](https://arxiv.org/abs/2604.02108) |
+| 2026-04-05 | HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models | Junxiang Pan, Lipu Zhou, Baojie Chen | [arXiv](https://arxiv.org/abs/2604.02107) |
+| 2026-04-05 | CompassAD: Intent-Driven 3D Affordance Grounding in Functionally Competing Objects | Jingliang Li, Jindou Jia, Tuo An | [arXiv](https://arxiv.org/abs/2604.02060) |
 | 2026-04-03 | ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data | Yaoqin Ye, Yiteng Xu, Qin Sun | [arXiv](https://arxiv.org/abs/2604.01082) |
 | 2026-04-03 | Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies | Uksang Yoo, Mengjia Zhu, Evan Pezent | [arXiv](https://arxiv.org/abs/2604.01224) |
 | 2026-04-02 | Semantic Zone-Based Map Management for Stable AI-Integrated Mobile Robots | Huichang Yun, Seungho Yoo | [arXiv](https://arxiv.org/abs/2603.29627) |
@@ -150,6 +155,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-05](./2026/04/2026-04-05.md)
 - [2026-04-04](./2026/04/2026-04-04.md)
 - [2026-04-03](./2026/04/2026-04-03.md)
 - [2026-04-02](./2026/04/2026-04-02.md)

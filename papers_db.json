@@ -607,5 +607,65 @@
     "category": "World Model",
     "date": "2026-04-04",
     "score": 2.0
+  },
+  "2604.02256": {
+    "title": "A virtual-variable-length method for robust inverse kinematics of multi-segment continuum robots",
+    "authors": [
+      "Weiting Feng",
+      "Federico Renda",
+      "Yunjie Yang"
+    ],
+    "url": "https://arxiv.org/abs/2604.02256",
+    "category": "Other",
+    "date": "2026-04-05",
+    "score": 0.0
+  },
+  "2604.02109": {
+    "title": "ROS 2-Based LiDAR Perception Framework for Mobile Robots in Dynamic Production Environments, Utilizing Synthetic Data Generation, Transformation-Equivariant 3D Detection and Multi-Object Tracking",
+    "authors": [
+      "Lukas Bergs",
+      "Tan Chung",
+      "Marmik Thakkar"
+    ],
+    "url": "https://arxiv.org/abs/2604.02109",
+    "category": "Other",
+    "date": "2026-04-05",
+    "score": 0.0
+  },
+  "2604.02108": {
+    "title": "Cross-Modal Visuo-Tactile Object Perception",
+    "authors": [
+      "Anirvan Dutta",
+      "Simone Tasciotti",
+      "Claudia Cusseddu"
+    ],
+    "url": "https://arxiv.org/abs/2604.02108",
+    "category": "Other",
+    "date": "2026-04-05",
+    "score": 0.0
+  },
+  "2604.02107": {
+    "title": "HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models",
+    "authors": [
+      "Junxiang Pan",
+      "Lipu Zhou",
+      "Baojie Chen"
+    ],
+    "url": "https://arxiv.org/abs/2604.02107",
+    "category": "Other",
+    "date": "2026-04-05",
+    "score": 0.0
+  },
+  "2604.02060": {
+    "title": "CompassAD: Intent-Driven 3D Affordance Grounding in Functionally Competing Objects",
+    "authors": [
+      "Jingliang Li",
+      "Jindou Jia",
+      "Tuo An"
+    ],
+    "url": "https://arxiv.org/abs/2604.02060",
+    "category": "Other",
+    "date": "2026-04-05",
+    "score": 0.0
   }
 }
