@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-06 | $π^{*}_{0.6}$: a VLA That Learns From Experience | Physical Intelligence, Ali Amin, Raichelle Aniceto | [arXiv](https://arxiv.org/abs/2511.14759) |
+| 2026-04-06 | CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation | Max Fu, Justin Yu, Karim El-Refai | [arXiv](https://arxiv.org/abs/2603.22435) |
 | 2026-04-04 | UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models | Qiyao Zhang, Shuhua Zheng, Jianli Sun | [arXiv](https://arxiv.org/abs/2604.02241) |
 | 2026-04-04 | UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving | Yongkang Li, Lijun Zhou, Sixu Yan | [arXiv](https://arxiv.org/abs/2604.02190) |
 | 2026-04-04 | Causal Scene Narration with Runtime Safety Supervision for Vision-Language-Action Driving | Yun Li, Yidu Zhang, Simon Thompson | [arXiv](https://arxiv.org/abs/2604.01723) |
@@ -71,10 +73,18 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-03-24 | Embodied Science: Closing the Discovery Loop with Agentic Embodied AI | Xiang Zhuang, Chenyi Zhou, Kehua Feng | [arXiv](https://arxiv.org/abs/2603.19782) |
 | 2026-03-23 | The Era of End-to-End Autonomy: Transitioning from Rule-Based Driving to Large Driving Models | Eduardo Nebot, Julie Stephany Berrio Perez | [arXiv](https://arxiv.org/abs/2603.16050) |
 
+### Foundation Model
+
+| 날짜 | 제목 | 저자 | 링크 |
+|------|------|------|------|
+| 2026-04-06 | Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions | Yevgen Chebotar, Quan Vuong, Alex Irpan | [arXiv](https://arxiv.org/abs/2309.10150) |
+| 2026-04-06 | Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance | Mitsuhiko Nakamoto, Oier Mees, Aviral Kumar | [arXiv](https://arxiv.org/abs/2410.13816) |
+
 ### Other
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-06 | MIRAGE: The Illusion of Visual Understanding | Mohammad Asadi, Jack W. O'Sullivan, Fang Cao | [arXiv](https://arxiv.org/abs/2603.21687) |
 | 2026-04-05 | A virtual-variable-length method for robust inverse kinematics of multi-segment continuum robots | Weiting Feng, Federico Renda, Yunjie Yang | [arXiv](https://arxiv.org/abs/2604.02256) |
 | 2026-04-05 | ROS 2-Based LiDAR Perception Framework for Mobile Robots in Dynamic Production Environments, Utilizing Synthetic Data Generation, Transformation-Equivariant 3D Detection and Multi-Object Tracking | Lukas Bergs, Tan Chung, Marmik Thakkar | [arXiv](https://arxiv.org/abs/2604.02109) |
 | 2026-04-05 | Cross-Modal Visuo-Tactile Object Perception | Anirvan Dutta, Simone Tasciotti, Claudia Cusseddu | [arXiv](https://arxiv.org/abs/2604.02108) |
@@ -155,6 +165,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-06](./2026/04/2026-04-06.md)
 - [2026-04-05](./2026/04/2026-04-05.md)
 - [2026-04-04](./2026/04/2026-04-04.md)
 - [2026-04-03](./2026/04/2026-04-03.md)

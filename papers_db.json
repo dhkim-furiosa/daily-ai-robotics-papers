@@ -667,5 +667,65 @@
     "category": "Other",
     "date": "2026-04-05",
     "score": 0.0
+  },
+  "2511.14759": {
+    "title": "$π^{*}_{0.6}$: a VLA That Learns From Experience",
+    "authors": [
+      "Physical Intelligence",
+      "Ali Amin",
+      "Raichelle Aniceto"
+    ],
+    "url": "https://arxiv.org/abs/2511.14759",
+    "category": "VLA",
+    "date": "2026-04-06",
+    "score": 25.0
+  },
+  "2309.10150": {
+    "title": "Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions",
+    "authors": [
+      "Yevgen Chebotar",
+      "Quan Vuong",
+      "Alex Irpan"
+    ],
+    "url": "https://arxiv.org/abs/2309.10150",
+    "category": "Foundation Model",
+    "date": "2026-04-06",
+    "score": 20.0
+  },
+  "2410.13816": {
+    "title": "Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance",
+    "authors": [
+      "Mitsuhiko Nakamoto",
+      "Oier Mees",
+      "Aviral Kumar"
+    ],
+    "url": "https://arxiv.org/abs/2410.13816",
+    "category": "Foundation Model",
+    "date": "2026-04-06",
+    "score": 12.0
+  },
+  "2603.22435": {
+    "title": "CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation",
+    "authors": [
+      "Max Fu",
+      "Justin Yu",
+      "Karim El-Refai"
+    ],
+    "url": "https://arxiv.org/abs/2603.22435",
+    "category": "VLA",
+    "date": "2026-04-06",
+    "score": 10.0
+  },
+  "2603.21687": {
+    "title": "MIRAGE: The Illusion of Visual Understanding",
+    "authors": [
+      "Mohammad Asadi",
+      "Jack W. O'Sullivan",
+      "Fang Cao"
+    ],
+    "url": "https://arxiv.org/abs/2603.21687",
+    "category": "Other",
+    "date": "2026-04-06",
+    "score": 10.0
   }
 }
