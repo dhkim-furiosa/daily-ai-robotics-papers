@@ -84,7 +84,7 @@ ARXIV_API = "http://export.arxiv.org/api/query"
 ARXIV_NS = {"atom": "http://www.w3.org/2005/Atom", "arxiv": "http://arxiv.org/schemas/atom"}
 
 
-def search_arxiv(query: str, max_results: int = 20, days_back: int = 7) -> list[dict]:
+def search_arxiv(query: str, max_results: int = 20, days_back: int = 14) -> list[dict]:
     """Search arXiv API and return papers."""
     cat_filter = " OR ".join(f"cat:{c}" for c in CATEGORIES)
     full_query = f"({query}) AND ({cat_filter})"
@@ -223,8 +223,12 @@ def fetch_awesome_repo_papers(repos: list[str], days_back: int = 14) -> list[dic
     return papers
 
 
-def _fetch_arxiv_by_ids(arxiv_ids: list[str], batch_size: int = 20) -> list[dict]:
-    """Fetch paper metadata from arXiv API by ID list."""
+def _fetch_arxiv_by_ids(arxiv_ids: list[str], batch_size: int = 20, days_back: int = 14) -> list[dict]:
+    """Fetch paper metadata from arXiv API by ID list.
+
+    Only includes papers published within days_back days.
+    """
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=days_back)
     papers = []
 
     for i in range(0, len(arxiv_ids), batch_size):
@@ -257,6 +261,8 @@ def _fetch_arxiv_by_ids(arxiv_ids: list[str], batch_size: int = 20) -> list[dict
             categories = [c.get("term") for c in entry.findall("atom:category", ARXIV_NS)]
             published_str = entry.find("atom:published", ARXIV_NS).text
             published = datetime.datetime.fromisoformat(published_str.replace("Z", "+00:00"))
+            if published < cutoff:
+                continue
 
             affiliation_text = " ".join(authors).lower() + " " + abstract.lower()
 

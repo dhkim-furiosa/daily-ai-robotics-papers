@@ -52,6 +52,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-07 | Hierarchical Planning with Latent World Models | Wancong Zhang, Basile Terver, Artem Zholus | [arXiv](https://arxiv.org/abs/2604.03208) |
 | 2026-04-04 | World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry | Yuejiang Liu, Fan Feng, Lingjing Kong | [arXiv](https://arxiv.org/abs/2604.01985) |
 | 2026-04-04 | Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation | Chongjie Ye, Cheng Cao, Chuanyu Pan | [arXiv](https://arxiv.org/abs/2604.02289) |
 | 2026-04-02 | Scaling Video Pretraining for Surgical Foundation Models | Sicheng Lu, Zikai Xiao, Jianhui Wei | [arXiv](https://arxiv.org/abs/2603.29966) |
@@ -67,6 +68,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-07 | HeteroHub: An Applicable Data Management Framework for Heterogeneous Multi-Embodied Agent System | Xujia Li, Xin Li, Junquan Huang | [arXiv](https://arxiv.org/abs/2603.28010) |
+| 2026-04-07 | V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views | Junwei You, Pei Li, Zhuoyu Jiang | [arXiv](https://arxiv.org/abs/2604.02710) |
 | 2026-04-03 | A Physical Imitation Learning Pipeline for Energy-Efficient Quadruped Locomotion Assisted by Parallel Elastic Joint | Huyue Ma, Yurui Jin, Helmut Hauser | [arXiv](https://arxiv.org/abs/2604.00611) |
 | 2026-04-03 | EgoSim: Egocentric World Simulator for Embodied Interaction Generation | Jinkun Hao, Mingda Jia, Ruiyan Wang | [arXiv](https://arxiv.org/abs/2604.01001) |
 | 2026-04-03 | Collaborative Task and Path Planning for Heterogeneous Robotic Teams using Multi-Agent PPO | Matthias Rubio, Julia Richter, Hendrik Kolvenbach | [arXiv](https://arxiv.org/abs/2604.01213) |
@@ -77,6 +80,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-07 | Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model | Peiyan Li, Yixiang Chen, Yuan Xu | [arXiv](https://arxiv.org/abs/2604.03181) |
 | 2026-04-06 | Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions | Yevgen Chebotar, Quan Vuong, Alex Irpan | [arXiv](https://arxiv.org/abs/2309.10150) |
 | 2026-04-06 | Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance | Mitsuhiko Nakamoto, Oier Mees, Aviral Kumar | [arXiv](https://arxiv.org/abs/2410.13816) |
 
@@ -84,6 +88,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-07 | Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models | Chengyin Hu, Yuxian Dong, Yikun Guo | [arXiv](https://arxiv.org/abs/2604.03117) |
 | 2026-04-06 | MIRAGE: The Illusion of Visual Understanding | Mohammad Asadi, Jack W. O'Sullivan, Fang Cao | [arXiv](https://arxiv.org/abs/2603.21687) |
 | 2026-04-05 | A virtual-variable-length method for robust inverse kinematics of multi-segment continuum robots | Weiting Feng, Federico Renda, Yunjie Yang | [arXiv](https://arxiv.org/abs/2604.02256) |
 | 2026-04-05 | ROS 2-Based LiDAR Perception Framework for Mobile Robots in Dynamic Production Environments, Utilizing Synthetic Data Generation, Transformation-Equivariant 3D Detection and Multi-Object Tracking | Lukas Bergs, Tan Chung, Marmik Thakkar | [arXiv](https://arxiv.org/abs/2604.02109) |
@@ -165,6 +170,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-07](./2026/04/2026-04-07.md)
 - [2026-04-06](./2026/04/2026-04-06.md)
 - [2026-04-05](./2026/04/2026-04-05.md)
 - [2026-04-04](./2026/04/2026-04-04.md)

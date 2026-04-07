@@ -727,5 +727,65 @@
     "category": "Other",
     "date": "2026-04-06",
     "score": 10.0
+  },
+  "2604.03208": {
+    "title": "Hierarchical Planning with Latent World Models",
+    "authors": [
+      "Wancong Zhang",
+      "Basile Terver",
+      "Artem Zholus"
+    ],
+    "url": "https://arxiv.org/abs/2604.03208",
+    "category": "World Model",
+    "date": "2026-04-07",
+    "score": 12.0
+  },
+  "2603.28010": {
+    "title": "HeteroHub: An Applicable Data Management Framework for Heterogeneous Multi-Embodied Agent System",
+    "authors": [
+      "Xujia Li",
+      "Xin Li",
+      "Junquan Huang"
+    ],
+    "url": "https://arxiv.org/abs/2603.28010",
+    "category": "Physical AI",
+    "date": "2026-04-07",
+    "score": 5.0
+  },
+  "2604.03181": {
+    "title": "Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model",
+    "authors": [
+      "Peiyan Li",
+      "Yixiang Chen",
+      "Yuan Xu"
+    ],
+    "url": "https://arxiv.org/abs/2604.03181",
+    "category": "Foundation Model",
+    "date": "2026-04-07",
+    "score": 3.0
+  },
+  "2604.03117": {
+    "title": "Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models",
+    "authors": [
+      "Chengyin Hu",
+      "Yuxian Dong",
+      "Yikun Guo"
+    ],
+    "url": "https://arxiv.org/abs/2604.03117",
+    "category": "Other",
+    "date": "2026-04-07",
+    "score": 3.0
+  },
+  "2604.02710": {
+    "title": "V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views",
+    "authors": [
+      "Junwei You",
+      "Pei Li",
+      "Zhuoyu Jiang"
+    ],
+    "url": "https://arxiv.org/abs/2604.02710",
+    "category": "Physical AI",
+    "date": "2026-04-07",
+    "score": 3.0
   }
 }
