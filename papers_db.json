@@ -787,5 +787,64 @@
     "category": "Physical AI",
     "date": "2026-04-07",
     "score": 3.0
+  },
+  "2604.03956": {
+    "title": "VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models",
+    "authors": [
+      "Ravi Ranjan",
+      "Agoritsa Polyzou"
+    ],
+    "url": "https://arxiv.org/abs/2604.03956",
+    "category": "VLA",
+    "date": "2026-04-08",
+    "score": 8.0
+  },
+  "2604.04834": {
+    "title": "E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes",
+    "authors": [
+      "Jiajun Zhai",
+      "Hao Shi",
+      "Shangwei Guo"
+    ],
+    "url": "https://arxiv.org/abs/2604.04834",
+    "category": "VLA",
+    "date": "2026-04-08",
+    "score": 4.0
+  },
+  "2604.03998": {
+    "title": "VA-FastNavi-MARL: Real-Time Robot Control with Multimedia-Driven Meta-Reinforcement Learning",
+    "authors": [
+      "Yang Zhang",
+      "Shengxi Jing",
+      "Fengxiang Wang"
+    ],
+    "url": "https://arxiv.org/abs/2604.03998",
+    "category": "Other",
+    "date": "2026-04-08",
+    "score": 3.0
+  },
+  "2604.04161": {
+    "title": "Adaptive Action Chunking at Inference-time for Vision-Language-Action Models",
+    "authors": [
+      "Yuanchang Liang",
+      "Xiaobo Wang",
+      "Kai Wang"
+    ],
+    "url": "https://arxiv.org/abs/2604.04161",
+    "category": "VLA",
+    "date": "2026-04-08",
+    "score": 2.0
+  },
+  "2604.04811": {
+    "title": "AnyUser: Translating Sketched User Intent into Domestic Robots",
+    "authors": [
+      "Songyuan Yang",
+      "Huibin Tan",
+      "Kailun Yang"
+    ],
+    "url": "https://arxiv.org/abs/2604.04811",
+    "category": "Other",
+    "date": "2026-04-08",
+    "score": 0.0
   }
 }

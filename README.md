@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-08 | VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models | Ravi Ranjan, Agoritsa Polyzou | [arXiv](https://arxiv.org/abs/2604.03956) |
+| 2026-04-08 | E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes | Jiajun Zhai, Hao Shi, Shangwei Guo | [arXiv](https://arxiv.org/abs/2604.04834) |
+| 2026-04-08 | Adaptive Action Chunking at Inference-time for Vision-Language-Action Models | Yuanchang Liang, Xiaobo Wang, Kai Wang | [arXiv](https://arxiv.org/abs/2604.04161) |
 | 2026-04-06 | $π^{*}_{0.6}$: a VLA That Learns From Experience | Physical Intelligence, Ali Amin, Raichelle Aniceto | [arXiv](https://arxiv.org/abs/2511.14759) |
 | 2026-04-06 | CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation | Max Fu, Justin Yu, Karim El-Refai | [arXiv](https://arxiv.org/abs/2603.22435) |
 | 2026-04-04 | UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models | Qiyao Zhang, Shuhua Zheng, Jianli Sun | [arXiv](https://arxiv.org/abs/2604.02241) |
@@ -88,6 +91,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-08 | VA-FastNavi-MARL: Real-Time Robot Control with Multimedia-Driven Meta-Reinforcement Learning | Yang Zhang, Shengxi Jing, Fengxiang Wang | [arXiv](https://arxiv.org/abs/2604.03998) |
+| 2026-04-08 | AnyUser: Translating Sketched User Intent into Domestic Robots | Songyuan Yang, Huibin Tan, Kailun Yang | [arXiv](https://arxiv.org/abs/2604.04811) |
 | 2026-04-07 | Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models | Chengyin Hu, Yuxian Dong, Yikun Guo | [arXiv](https://arxiv.org/abs/2604.03117) |
 | 2026-04-06 | MIRAGE: The Illusion of Visual Understanding | Mohammad Asadi, Jack W. O'Sullivan, Fang Cao | [arXiv](https://arxiv.org/abs/2603.21687) |
 | 2026-04-05 | A virtual-variable-length method for robust inverse kinematics of multi-segment continuum robots | Weiting Feng, Federico Renda, Yunjie Yang | [arXiv](https://arxiv.org/abs/2604.02256) |
@@ -170,6 +175,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-08](./2026/04/2026-04-08.md)
 - [2026-04-07](./2026/04/2026-04-07.md)
 - [2026-04-06](./2026/04/2026-04-06.md)
 - [2026-04-05](./2026/04/2026-04-05.md)
