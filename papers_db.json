@@ -846,5 +846,65 @@
     "category": "Other",
     "date": "2026-04-08",
     "score": 0.0
+  },
+  "2604.06126": {
+    "title": "Gym-Anything: Turn any Software into an Agent Environment",
+    "authors": [
+      "Pranjal Aggarwal",
+      "Graham Neubig",
+      "Sean Welleck"
+    ],
+    "url": "https://arxiv.org/abs/2604.06126",
+    "category": "Other",
+    "date": "2026-04-09",
+    "score": 3.0
+  },
+  "2604.05718": {
+    "title": "MPM: Mutual Pair Merging for Efficient Vision Transformers",
+    "authors": [
+      "Simon Ravé",
+      "Pejman Rasti",
+      "David Rousseau"
+    ],
+    "url": "https://arxiv.org/abs/2604.05718",
+    "category": "Other",
+    "date": "2026-04-09",
+    "score": 3.0
+  },
+  "2604.05672": {
+    "title": "A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model",
+    "authors": [
+      "Kaidong Zhang",
+      "Jian Zhang",
+      "Rongtao Xu"
+    ],
+    "url": "https://arxiv.org/abs/2604.05672",
+    "category": "VLA",
+    "date": "2026-04-09",
+    "score": 2.0
+  },
+  "2604.05656": {
+    "title": "SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation",
+    "authors": [
+      "Wuyang Luan",
+      "Junhui Li",
+      "Weiguang Zhao"
+    ],
+    "url": "https://arxiv.org/abs/2604.05656",
+    "category": "VLA",
+    "date": "2026-04-09",
+    "score": 2.0
+  },
+  "2604.05614": {
+    "title": "Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment",
+    "authors": [
+      "Theodor Wulff",
+      "Federico Tavella",
+      "Rahul Singh Maharjan"
+    ],
+    "url": "https://arxiv.org/abs/2604.05614",
+    "category": "VLA",
+    "date": "2026-04-09",
+    "score": 2.0
   }
 }

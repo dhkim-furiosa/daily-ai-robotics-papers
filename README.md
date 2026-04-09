@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-09 | A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model | Kaidong Zhang, Jian Zhang, Rongtao Xu | [arXiv](https://arxiv.org/abs/2604.05672) |
+| 2026-04-09 | SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation | Wuyang Luan, Junhui Li, Weiguang Zhao | [arXiv](https://arxiv.org/abs/2604.05656) |
+| 2026-04-09 | Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment | Theodor Wulff, Federico Tavella, Rahul Singh Maharjan | [arXiv](https://arxiv.org/abs/2604.05614) |
 | 2026-04-08 | VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models | Ravi Ranjan, Agoritsa Polyzou | [arXiv](https://arxiv.org/abs/2604.03956) |
 | 2026-04-08 | E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes | Jiajun Zhai, Hao Shi, Shangwei Guo | [arXiv](https://arxiv.org/abs/2604.04834) |
 | 2026-04-08 | Adaptive Action Chunking at Inference-time for Vision-Language-Action Models | Yuanchang Liang, Xiaobo Wang, Kai Wang | [arXiv](https://arxiv.org/abs/2604.04161) |
@@ -91,6 +94,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-09 | Gym-Anything: Turn any Software into an Agent Environment | Pranjal Aggarwal, Graham Neubig, Sean Welleck | [arXiv](https://arxiv.org/abs/2604.06126) |
+| 2026-04-09 | MPM: Mutual Pair Merging for Efficient Vision Transformers | Simon Ravé, Pejman Rasti, David Rousseau | [arXiv](https://arxiv.org/abs/2604.05718) |
 | 2026-04-08 | VA-FastNavi-MARL: Real-Time Robot Control with Multimedia-Driven Meta-Reinforcement Learning | Yang Zhang, Shengxi Jing, Fengxiang Wang | [arXiv](https://arxiv.org/abs/2604.03998) |
 | 2026-04-08 | AnyUser: Translating Sketched User Intent into Domestic Robots | Songyuan Yang, Huibin Tan, Kailun Yang | [arXiv](https://arxiv.org/abs/2604.04811) |
 | 2026-04-07 | Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models | Chengyin Hu, Yuxian Dong, Yikun Guo | [arXiv](https://arxiv.org/abs/2604.03117) |
@@ -175,6 +180,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-09](./2026/04/2026-04-09.md)
 - [2026-04-08](./2026/04/2026-04-08.md)
 - [2026-04-07](./2026/04/2026-04-07.md)
 - [2026-04-06](./2026/04/2026-04-06.md)
