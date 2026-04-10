@@ -906,5 +906,63 @@
     "category": "VLA",
     "date": "2026-04-09",
     "score": 2.0
+  },
+  "2604.06621": {
+    "title": "The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence",
+    "authors": [
+      "Napoleon Paxton"
+    ],
+    "url": "https://arxiv.org/abs/2604.06621",
+    "category": "Other",
+    "date": "2026-04-10",
+    "score": 3.0
+  },
+  "2604.07039": {
+    "title": "AEROS: A Single-Agent Operating Architecture with Embodied Capability Modules",
+    "authors": [
+      "Xue Qin",
+      "Simin Luan",
+      "Cong Yang"
+    ],
+    "url": "https://arxiv.org/abs/2604.07039",
+    "category": "Other",
+    "date": "2026-04-10",
+    "score": 2.0
+  },
+  "2604.06722": {
+    "title": "Infrastructure First: Enabling Embodied AI for Science in the Global South",
+    "authors": [
+      "Shaoshan Liu",
+      "Jie Tang",
+      "Marwa S. Hassan"
+    ],
+    "url": "https://arxiv.org/abs/2604.06722",
+    "category": "Physical AI",
+    "date": "2026-04-10",
+    "score": 2.0
+  },
+  "2604.07335": {
+    "title": "TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks",
+    "authors": [
+      "Longyan Wu",
+      "Jieji Ren",
+      "Chenghang Jiang"
+    ],
+    "url": "https://arxiv.org/abs/2604.07335",
+    "category": "Physical AI",
+    "date": "2026-04-10",
+    "score": 0.0
+  },
+  "2604.07331": {
+    "title": "RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild",
+    "authors": [
+      "Wenjing Margaret Mao",
+      "Jefferson Ng",
+      "Luyang Hu"
+    ],
+    "url": "https://arxiv.org/abs/2604.07331",
+    "category": "Physical AI",
+    "date": "2026-04-10",
+    "score": 0.0
   }
 }

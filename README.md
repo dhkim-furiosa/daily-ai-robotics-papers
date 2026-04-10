@@ -74,6 +74,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-10 | Infrastructure First: Enabling Embodied AI for Science in the Global South | Shaoshan Liu, Jie Tang, Marwa S. Hassan | [arXiv](https://arxiv.org/abs/2604.06722) |
+| 2026-04-10 | TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks | Longyan Wu, Jieji Ren, Chenghang Jiang | [arXiv](https://arxiv.org/abs/2604.07335) |
+| 2026-04-10 | RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild | Wenjing Margaret Mao, Jefferson Ng, Luyang Hu | [arXiv](https://arxiv.org/abs/2604.07331) |
 | 2026-04-07 | HeteroHub: An Applicable Data Management Framework for Heterogeneous Multi-Embodied Agent System | Xujia Li, Xin Li, Junquan Huang | [arXiv](https://arxiv.org/abs/2603.28010) |
 | 2026-04-07 | V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views | Junwei You, Pei Li, Zhuoyu Jiang | [arXiv](https://arxiv.org/abs/2604.02710) |
 | 2026-04-03 | A Physical Imitation Learning Pipeline for Energy-Efficient Quadruped Locomotion Assisted by Parallel Elastic Joint | Huyue Ma, Yurui Jin, Helmut Hauser | [arXiv](https://arxiv.org/abs/2604.00611) |
@@ -94,6 +97,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-10 | The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence | Napoleon Paxton | [arXiv](https://arxiv.org/abs/2604.06621) |
+| 2026-04-10 | AEROS: A Single-Agent Operating Architecture with Embodied Capability Modules | Xue Qin, Simin Luan, Cong Yang | [arXiv](https://arxiv.org/abs/2604.07039) |
 | 2026-04-09 | Gym-Anything: Turn any Software into an Agent Environment | Pranjal Aggarwal, Graham Neubig, Sean Welleck | [arXiv](https://arxiv.org/abs/2604.06126) |
 | 2026-04-09 | MPM: Mutual Pair Merging for Efficient Vision Transformers | Simon Ravé, Pejman Rasti, David Rousseau | [arXiv](https://arxiv.org/abs/2604.05718) |
 | 2026-04-08 | VA-FastNavi-MARL: Real-Time Robot Control with Multimedia-Driven Meta-Reinforcement Learning | Yang Zhang, Shengxi Jing, Fengxiang Wang | [arXiv](https://arxiv.org/abs/2604.03998) |
@@ -180,6 +185,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-10](./2026/04/2026-04-10.md)
 - [2026-04-09](./2026/04/2026-04-09.md)
 - [2026-04-08](./2026/04/2026-04-08.md)
 - [2026-04-07](./2026/04/2026-04-07.md)
