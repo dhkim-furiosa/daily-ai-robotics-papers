@@ -964,5 +964,63 @@
     "category": "Physical AI",
     "date": "2026-04-10",
     "score": 0.0
+  },
+  "2604.08465": {
+    "title": "From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis",
+    "authors": [
+      "Juergen Dietrich"
+    ],
+    "url": "https://arxiv.org/abs/2604.08465",
+    "category": "Other",
+    "date": "2026-04-11",
+    "score": 3.0
+  },
+  "2604.08340": {
+    "title": "PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models",
+    "authors": [
+      "Ruizhi Zhang",
+      "Ye Huang",
+      "Yuangang Pan"
+    ],
+    "url": "https://arxiv.org/abs/2604.08340",
+    "category": "Other",
+    "date": "2026-04-11",
+    "score": 3.0
+  },
+  "2604.07973": {
+    "title": "How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace",
+    "authors": [
+      "Baining Zhao",
+      "Ziyou Wang",
+      "Jianjie Fang"
+    ],
+    "url": "https://arxiv.org/abs/2604.07973",
+    "category": "VLA",
+    "date": "2026-04-11",
+    "score": 2.0
+  },
+  "2604.08232": {
+    "title": "HiRO-Nav: Hybrid ReasOning Enables Efficient Embodied Navigation",
+    "authors": [
+      "He Zhao",
+      "Yijun Yang",
+      "Zichuan Lin"
+    ],
+    "url": "https://arxiv.org/abs/2604.08232",
+    "category": "Other",
+    "date": "2026-04-11",
+    "score": 2.0
+  },
+  "2604.08226": {
+    "title": "Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework",
+    "authors": [
+      "Seyed Amir Ahmad Safavi-Naini",
+      "Elahe Meftah",
+      "Josh Mohess"
+    ],
+    "url": "https://arxiv.org/abs/2604.08226",
+    "category": "World Model",
+    "date": "2026-04-11",
+    "score": 2.0
   }
 }
