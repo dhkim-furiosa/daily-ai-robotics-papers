@@ -1022,5 +1022,65 @@
     "category": "World Model",
     "date": "2026-04-11",
     "score": 2.0
+  },
+  "2604.08544": {
+    "title": "SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
+    "authors": [
+      "Yunsong Zhou",
+      "Hangxu Liu",
+      "Xuekun Jiang"
+    ],
+    "url": "https://arxiv.org/abs/2604.08544",
+    "category": "Other",
+    "date": "2026-04-12",
+    "score": 0.0
+  },
+  "2604.08534": {
+    "title": "ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration",
+    "authors": [
+      "Yanwen Zou",
+      "Chenyang Shi",
+      "Wenye Yu"
+    ],
+    "url": "https://arxiv.org/abs/2604.08534",
+    "category": "Physical AI",
+    "date": "2026-04-12",
+    "score": 0.0
+  },
+  "2604.08528": {
+    "title": "A-SLIP: Acoustic Sensing for Continuous In-hand Slip Estimation",
+    "authors": [
+      "Uksang Yoo",
+      "Yuemin Mao",
+      "Jean Oh"
+    ],
+    "url": "https://arxiv.org/abs/2604.08528",
+    "category": "Other",
+    "date": "2026-04-12",
+    "score": 0.0
+  },
+  "2604.08508": {
+    "title": "Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation",
+    "authors": [
+      "John Z. Zhang",
+      "Maks Sorokin",
+      "Jan Brüdigam"
+    ],
+    "url": "https://arxiv.org/abs/2604.08508",
+    "category": "Other",
+    "date": "2026-04-12",
+    "score": 0.0
+  },
+  "2604.08475": {
+    "title": "LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation",
+    "authors": [
+      "Jingjing Wang",
+      "Zhengdong Hong",
+      "Chong Bao"
+    ],
+    "url": "https://arxiv.org/abs/2604.08475",
+    "category": "VLA",
+    "date": "2026-04-12",
+    "score": 0.0
   }
 }

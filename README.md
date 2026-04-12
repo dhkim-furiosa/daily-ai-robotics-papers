@@ -22,6 +22,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-12 | LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation | Jingjing Wang, Zhengdong Hong, Chong Bao | [arXiv](https://arxiv.org/abs/2604.08475) |
 | 2026-04-11 | How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace | Baining Zhao, Ziyou Wang, Jianjie Fang | [arXiv](https://arxiv.org/abs/2604.07973) |
 | 2026-04-09 | A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model | Kaidong Zhang, Jian Zhang, Rongtao Xu | [arXiv](https://arxiv.org/abs/2604.05672) |
 | 2026-04-09 | SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation | Wuyang Luan, Junhui Li, Weiguang Zhao | [arXiv](https://arxiv.org/abs/2604.05656) |
@@ -76,6 +77,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-12 | ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration | Yanwen Zou, Chenyang Shi, Wenye Yu | [arXiv](https://arxiv.org/abs/2604.08534) |
 | 2026-04-10 | Infrastructure First: Enabling Embodied AI for Science in the Global South | Shaoshan Liu, Jie Tang, Marwa S. Hassan | [arXiv](https://arxiv.org/abs/2604.06722) |
 | 2026-04-10 | TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks | Longyan Wu, Jieji Ren, Chenghang Jiang | [arXiv](https://arxiv.org/abs/2604.07335) |
 | 2026-04-10 | RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild | Wenjing Margaret Mao, Jefferson Ng, Luyang Hu | [arXiv](https://arxiv.org/abs/2604.07331) |
@@ -99,6 +101,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-12 | SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds | Yunsong Zhou, Hangxu Liu, Xuekun Jiang | [arXiv](https://arxiv.org/abs/2604.08544) |
+| 2026-04-12 | A-SLIP: Acoustic Sensing for Continuous In-hand Slip Estimation | Uksang Yoo, Yuemin Mao, Jean Oh | [arXiv](https://arxiv.org/abs/2604.08528) |
+| 2026-04-12 | Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation | John Z. Zhang, Maks Sorokin, Jan Brüdigam | [arXiv](https://arxiv.org/abs/2604.08508) |
 | 2026-04-11 | From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis | Juergen Dietrich | [arXiv](https://arxiv.org/abs/2604.08465) |
 | 2026-04-11 | PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models | Ruizhi Zhang, Ye Huang, Yuangang Pan | [arXiv](https://arxiv.org/abs/2604.08340) |
 | 2026-04-11 | HiRO-Nav: Hybrid ReasOning Enables Efficient Embodied Navigation | He Zhao, Yijun Yang, Zichuan Lin | [arXiv](https://arxiv.org/abs/2604.08232) |
@@ -190,6 +195,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-12](./2026/04/2026-04-12.md)
 - [2026-04-11](./2026/04/2026-04-11.md)
 - [2026-04-10](./2026/04/2026-04-10.md)
 - [2026-04-09](./2026/04/2026-04-09.md)
