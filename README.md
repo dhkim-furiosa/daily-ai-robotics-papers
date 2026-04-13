@@ -22,6 +22,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-13 | BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields | Fan Yang, Wenrui Chen, Guorun Yan | [arXiv](https://arxiv.org/abs/2604.08410) |
 | 2026-04-12 | LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation | Jingjing Wang, Zhengdong Hong, Chong Bao | [arXiv](https://arxiv.org/abs/2604.08475) |
 | 2026-04-11 | How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace | Baining Zhao, Ziyou Wang, Jianjie Fang | [arXiv](https://arxiv.org/abs/2604.07973) |
 | 2026-04-09 | A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model | Kaidong Zhang, Jian Zhang, Rongtao Xu | [arXiv](https://arxiv.org/abs/2604.05672) |
@@ -101,6 +102,10 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-13 | A Soft Robotic Interface for Chick-Robot Affective Interactions | Jue Chen, Alexander Mielke, Kaspar Althoefer | [arXiv](https://arxiv.org/abs/2604.08443) |
+| 2026-04-13 | Exploring Temporal Representation in Neural Processes for Multimodal Action Prediction | Marco Gabriele Fedozzi, Yukie Nagai, Francesco Rea | [arXiv](https://arxiv.org/abs/2604.08418) |
+| 2026-04-13 | A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations | Zi-Qi Yang, Mehrdad R. Kermani | [arXiv](https://arxiv.org/abs/2604.08341) |
+| 2026-04-13 | EMMa: End-Effector Stability-Oriented Mobile Manipulation for Tracked Rescue Robots | Yifei Wang, Hao Zhang, Jidong Huang | [arXiv](https://arxiv.org/abs/2604.08292) |
 | 2026-04-12 | SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds | Yunsong Zhou, Hangxu Liu, Xuekun Jiang | [arXiv](https://arxiv.org/abs/2604.08544) |
 | 2026-04-12 | A-SLIP: Acoustic Sensing for Continuous In-hand Slip Estimation | Uksang Yoo, Yuemin Mao, Jean Oh | [arXiv](https://arxiv.org/abs/2604.08528) |
 | 2026-04-12 | Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation | John Z. Zhang, Maks Sorokin, Jan Brüdigam | [arXiv](https://arxiv.org/abs/2604.08508) |
@@ -195,6 +200,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-13](./2026/04/2026-04-13.md)
 - [2026-04-12](./2026/04/2026-04-12.md)
 - [2026-04-11](./2026/04/2026-04-11.md)
 - [2026-04-10](./2026/04/2026-04-10.md)

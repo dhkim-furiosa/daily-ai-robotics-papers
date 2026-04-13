@@ -1082,5 +1082,64 @@
     "category": "VLA",
     "date": "2026-04-12",
     "score": 0.0
+  },
+  "2604.08443": {
+    "title": "A Soft Robotic Interface for Chick-Robot Affective Interactions",
+    "authors": [
+      "Jue Chen",
+      "Alexander Mielke",
+      "Kaspar Althoefer"
+    ],
+    "url": "https://arxiv.org/abs/2604.08443",
+    "category": "Other",
+    "date": "2026-04-13",
+    "score": 0.0
+  },
+  "2604.08418": {
+    "title": "Exploring Temporal Representation in Neural Processes for Multimodal Action Prediction",
+    "authors": [
+      "Marco Gabriele Fedozzi",
+      "Yukie Nagai",
+      "Francesco Rea"
+    ],
+    "url": "https://arxiv.org/abs/2604.08418",
+    "category": "Other",
+    "date": "2026-04-13",
+    "score": 0.0
+  },
+  "2604.08410": {
+    "title": "BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields",
+    "authors": [
+      "Fan Yang",
+      "Wenrui Chen",
+      "Guorun Yan"
+    ],
+    "url": "https://arxiv.org/abs/2604.08410",
+    "category": "VLA",
+    "date": "2026-04-13",
+    "score": 0.0
+  },
+  "2604.08341": {
+    "title": "A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations",
+    "authors": [
+      "Zi-Qi Yang",
+      "Mehrdad R. Kermani"
+    ],
+    "url": "https://arxiv.org/abs/2604.08341",
+    "category": "Other",
+    "date": "2026-04-13",
+    "score": 0.0
+  },
+  "2604.08292": {
+    "title": "EMMa: End-Effector Stability-Oriented Mobile Manipulation for Tracked Rescue Robots",
+    "authors": [
+      "Yifei Wang",
+      "Hao Zhang",
+      "Jidong Huang"
+    ],
+    "url": "https://arxiv.org/abs/2604.08292",
+    "category": "Other",
+    "date": "2026-04-13",
+    "score": 0.0
   }
 }
