@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-14 | Learning Vision-Language-Action World Models for Autonomous Driving | Guoqing Wang, Pin Tang, Xiangxuan Ren | [arXiv](https://arxiv.org/abs/2604.09059) |
+| 2026-04-14 | V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation | Yaru Liu, Ao-bo Wang, Nanyang Ye | [arXiv](https://arxiv.org/abs/2604.09036) |
+| 2026-04-14 | 2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness | Zihao Zheng, Sicheng Tian, Zhihao Mao | [arXiv](https://arxiv.org/abs/2604.09244) |
 | 2026-04-13 | BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields | Fan Yang, Wenrui Chen, Guorun Yan | [arXiv](https://arxiv.org/abs/2604.08410) |
 | 2026-04-12 | LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation | Jingjing Wang, Zhengdong Hong, Chong Bao | [arXiv](https://arxiv.org/abs/2604.08475) |
 | 2026-04-11 | How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace | Baining Zhao, Ziyou Wang, Jianjie Fang | [arXiv](https://arxiv.org/abs/2604.07973) |
@@ -61,6 +64,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-14 | VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis | Xiaolei Lang, Yang Wang, Yukun Zhou | [arXiv](https://arxiv.org/abs/2604.09330) |
 | 2026-04-11 | Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework | Seyed Amir Ahmad Safavi-Naini, Elahe Meftah, Josh Mohess | [arXiv](https://arxiv.org/abs/2604.08226) |
 | 2026-04-07 | Hierarchical Planning with Latent World Models | Wancong Zhang, Basile Terver, Artem Zholus | [arXiv](https://arxiv.org/abs/2604.03208) |
 | 2026-04-04 | World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry | Yuejiang Liu, Fan Feng, Lingjing Kong | [arXiv](https://arxiv.org/abs/2604.01985) |
@@ -102,6 +106,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-14 | Physics-Informed Reinforcement Learning of Spatial Density Velocity Potentials for Map-Free Racing | Shathushan Sivashangaran, Apoorva Khairnar, Sepideh Gohari | [arXiv](https://arxiv.org/abs/2604.09499) |
 | 2026-04-13 | A Soft Robotic Interface for Chick-Robot Affective Interactions | Jue Chen, Alexander Mielke, Kaspar Althoefer | [arXiv](https://arxiv.org/abs/2604.08443) |
 | 2026-04-13 | Exploring Temporal Representation in Neural Processes for Multimodal Action Prediction | Marco Gabriele Fedozzi, Yukie Nagai, Francesco Rea | [arXiv](https://arxiv.org/abs/2604.08418) |
 | 2026-04-13 | A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations | Zi-Qi Yang, Mehrdad R. Kermani | [arXiv](https://arxiv.org/abs/2604.08341) |
@@ -200,6 +205,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-14](./2026/04/2026-04-14.md)
 - [2026-04-13](./2026/04/2026-04-13.md)
 - [2026-04-12](./2026/04/2026-04-12.md)
 - [2026-04-11](./2026/04/2026-04-11.md)

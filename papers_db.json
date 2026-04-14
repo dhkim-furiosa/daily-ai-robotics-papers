@@ -1141,5 +1141,65 @@
     "category": "Other",
     "date": "2026-04-13",
     "score": 0.0
+  },
+  "2604.09059": {
+    "title": "Learning Vision-Language-Action World Models for Autonomous Driving",
+    "authors": [
+      "Guoqing Wang",
+      "Pin Tang",
+      "Xiangxuan Ren"
+    ],
+    "url": "https://arxiv.org/abs/2604.09059",
+    "category": "VLA",
+    "date": "2026-04-14",
+    "score": 4.0
+  },
+  "2604.09036": {
+    "title": "V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation",
+    "authors": [
+      "Yaru Liu",
+      "Ao-bo Wang",
+      "Nanyang Ye"
+    ],
+    "url": "https://arxiv.org/abs/2604.09036",
+    "category": "VLA",
+    "date": "2026-04-14",
+    "score": 3.0
+  },
+  "2604.09330": {
+    "title": "VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis",
+    "authors": [
+      "Xiaolei Lang",
+      "Yang Wang",
+      "Yukun Zhou"
+    ],
+    "url": "https://arxiv.org/abs/2604.09330",
+    "category": "World Model",
+    "date": "2026-04-14",
+    "score": 2.0
+  },
+  "2604.09244": {
+    "title": "2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness",
+    "authors": [
+      "Zihao Zheng",
+      "Sicheng Tian",
+      "Zhihao Mao"
+    ],
+    "url": "https://arxiv.org/abs/2604.09244",
+    "category": "VLA",
+    "date": "2026-04-14",
+    "score": 2.0
+  },
+  "2604.09499": {
+    "title": "Physics-Informed Reinforcement Learning of Spatial Density Velocity Potentials for Map-Free Racing",
+    "authors": [
+      "Shathushan Sivashangaran",
+      "Apoorva Khairnar",
+      "Sepideh Gohari"
+    ],
+    "url": "https://arxiv.org/abs/2604.09499",
+    "category": "Other",
+    "date": "2026-04-14",
+    "score": 0.0
   }
 }
