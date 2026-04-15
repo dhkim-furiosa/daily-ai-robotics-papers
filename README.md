@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-15 | StarVLA-$α$: Reducing Complexity in Vision-Language-Action Systems | Jinhui Ye, Ning Gao, Senqiao Yang | [arXiv](https://arxiv.org/abs/2604.11757) |
+| 2026-04-15 | Grounded World Model for Semantically Generalizable Planning | Quanyi Li, Lan Feng, Haonan Zhang | [arXiv](https://arxiv.org/abs/2604.11751) |
+| 2026-04-15 | DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models | Siyuan Xu, Tianshi Wang, Fengling Li | [arXiv](https://arxiv.org/abs/2604.11572) |
 | 2026-04-14 | Learning Vision-Language-Action World Models for Autonomous Driving | Guoqing Wang, Pin Tang, Xiangxuan Ren | [arXiv](https://arxiv.org/abs/2604.09059) |
 | 2026-04-14 | V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation | Yaru Liu, Ao-bo Wang, Nanyang Ye | [arXiv](https://arxiv.org/abs/2604.09036) |
 | 2026-04-14 | 2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness | Zihao Zheng, Sicheng Tian, Zhihao Mao | [arXiv](https://arxiv.org/abs/2604.09244) |
@@ -82,6 +85,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-15 | GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth | Krishna Jaganathan, Patricio Vela | [arXiv](https://arxiv.org/abs/2604.11585) |
 | 2026-04-12 | ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration | Yanwen Zou, Chenyang Shi, Wenye Yu | [arXiv](https://arxiv.org/abs/2604.08534) |
 | 2026-04-10 | Infrastructure First: Enabling Embodied AI for Science in the Global South | Shaoshan Liu, Jie Tang, Marwa S. Hassan | [arXiv](https://arxiv.org/abs/2604.06722) |
 | 2026-04-10 | TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks | Longyan Wu, Jieji Ren, Chenghang Jiang | [arXiv](https://arxiv.org/abs/2604.07335) |
@@ -106,6 +110,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-15 | AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation | Mingyang Li, Haofan Xu, Haowen Sun | [arXiv](https://arxiv.org/abs/2604.11674) |
 | 2026-04-14 | Physics-Informed Reinforcement Learning of Spatial Density Velocity Potentials for Map-Free Racing | Shathushan Sivashangaran, Apoorva Khairnar, Sepideh Gohari | [arXiv](https://arxiv.org/abs/2604.09499) |
 | 2026-04-13 | A Soft Robotic Interface for Chick-Robot Affective Interactions | Jue Chen, Alexander Mielke, Kaspar Althoefer | [arXiv](https://arxiv.org/abs/2604.08443) |
 | 2026-04-13 | Exploring Temporal Representation in Neural Processes for Multimodal Action Prediction | Marco Gabriele Fedozzi, Yukie Nagai, Francesco Rea | [arXiv](https://arxiv.org/abs/2604.08418) |
@@ -205,6 +210,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-15](./2026/04/2026-04-15.md)
 - [2026-04-14](./2026/04/2026-04-14.md)
 - [2026-04-13](./2026/04/2026-04-13.md)
 - [2026-04-12](./2026/04/2026-04-12.md)

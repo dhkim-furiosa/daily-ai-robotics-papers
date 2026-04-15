@@ -1201,5 +1201,64 @@
     "category": "Other",
     "date": "2026-04-14",
     "score": 0.0
+  },
+  "2604.11757": {
+    "title": "StarVLA-$α$: Reducing Complexity in Vision-Language-Action Systems",
+    "authors": [
+      "Jinhui Ye",
+      "Ning Gao",
+      "Senqiao Yang"
+    ],
+    "url": "https://arxiv.org/abs/2604.11757",
+    "category": "VLA",
+    "date": "2026-04-15",
+    "score": 4.0
+  },
+  "2604.11674": {
+    "title": "AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation",
+    "authors": [
+      "Mingyang Li",
+      "Haofan Xu",
+      "Haowen Sun"
+    ],
+    "url": "https://arxiv.org/abs/2604.11674",
+    "category": "Other",
+    "date": "2026-04-15",
+    "score": 3.0
+  },
+  "2604.11585": {
+    "title": "GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth",
+    "authors": [
+      "Krishna Jaganathan",
+      "Patricio Vela"
+    ],
+    "url": "https://arxiv.org/abs/2604.11585",
+    "category": "Physical AI",
+    "date": "2026-04-15",
+    "score": 3.0
+  },
+  "2604.11751": {
+    "title": "Grounded World Model for Semantically Generalizable Planning",
+    "authors": [
+      "Quanyi Li",
+      "Lan Feng",
+      "Haonan Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2604.11751",
+    "category": "VLA",
+    "date": "2026-04-15",
+    "score": 2.0
+  },
+  "2604.11572": {
+    "title": "DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models",
+    "authors": [
+      "Siyuan Xu",
+      "Tianshi Wang",
+      "Fengling Li"
+    ],
+    "url": "https://arxiv.org/abs/2604.11572",
+    "category": "VLA",
+    "date": "2026-04-15",
+    "score": 2.0
   }
 }
