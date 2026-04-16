@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-16 | Robotic Manipulation is Vision-to-Geometry Mapping ($f(v) \rightarrow G$): Vision-Geometry Backbones over Language and Video Models | Zijian Song, Qichang Li, Jiawei Zhou | [arXiv](https://arxiv.org/abs/2604.12908) |
+| 2026-04-16 | HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models | Zixing Chen, Yifeng Gao, Li Wang | [arXiv](https://arxiv.org/abs/2604.12447) |
 | 2026-04-15 | StarVLA-$α$: Reducing Complexity in Vision-Language-Action Systems | Jinhui Ye, Ning Gao, Senqiao Yang | [arXiv](https://arxiv.org/abs/2604.11757) |
 | 2026-04-15 | Grounded World Model for Semantically Generalizable Planning | Quanyi Li, Lan Feng, Haonan Zhang | [arXiv](https://arxiv.org/abs/2604.11751) |
 | 2026-04-15 | DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models | Siyuan Xu, Tianshi Wang, Fengling Li | [arXiv](https://arxiv.org/abs/2604.11572) |
@@ -85,6 +87,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-16 | Learning Versatile Humanoid Manipulation with Touch Dreaming | Yaru Niu, Zhenlong Fang, Binghong Chen | [arXiv](https://arxiv.org/abs/2604.13015) |
+| 2026-04-16 | XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios | Junming Wang, Teng Pu, Wingmun Fung | [arXiv](https://arxiv.org/abs/2604.13001) |
+| 2026-04-16 | Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots | Yifei Yan, Linqi Ye | [arXiv](https://arxiv.org/abs/2604.12909) |
 | 2026-04-15 | GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth | Krishna Jaganathan, Patricio Vela | [arXiv](https://arxiv.org/abs/2604.11585) |
 | 2026-04-12 | ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration | Yanwen Zou, Chenyang Shi, Wenye Yu | [arXiv](https://arxiv.org/abs/2604.08534) |
 | 2026-04-10 | Infrastructure First: Enabling Embodied AI for Science in the Global South | Shaoshan Liu, Jie Tang, Marwa S. Hassan | [arXiv](https://arxiv.org/abs/2604.06722) |
@@ -210,6 +215,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-16](./2026/04/2026-04-16.md)
 - [2026-04-15](./2026/04/2026-04-15.md)
 - [2026-04-14](./2026/04/2026-04-14.md)
 - [2026-04-13](./2026/04/2026-04-13.md)
