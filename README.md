@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-17 | HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System | Tianshuo Yang, Guanyu Chen, Yutian Chen | [arXiv](https://arxiv.org/abs/2604.14125) |
+| 2026-04-17 | Jump-Start Reinforcement Learning with Vision-Language-Action Regularization | Angelo Moroncelli, Roberto Zanetti, Marco Maccarini | [arXiv](https://arxiv.org/abs/2604.13733) |
 | 2026-04-16 | Robotic Manipulation is Vision-to-Geometry Mapping ($f(v) \rightarrow G$): Vision-Geometry Backbones over Language and Video Models | Zijian Song, Qichang Li, Jiawei Zhou | [arXiv](https://arxiv.org/abs/2604.12908) |
 | 2026-04-16 | HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models | Zixing Chen, Yifeng Gao, Li Wang | [arXiv](https://arxiv.org/abs/2604.12447) |
 | 2026-04-15 | StarVLA-$α$: Reducing Complexity in Vision-Language-Action Systems | Jinhui Ye, Ning Gao, Senqiao Yang | [arXiv](https://arxiv.org/abs/2604.11757) |
@@ -87,6 +89,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-17 | [Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI | You Rim Choi, Subeom Park, Hyung-Sin Kim | [arXiv](https://arxiv.org/abs/2604.13959) |
 | 2026-04-16 | Learning Versatile Humanoid Manipulation with Touch Dreaming | Yaru Niu, Zhenlong Fang, Binghong Chen | [arXiv](https://arxiv.org/abs/2604.13015) |
 | 2026-04-16 | XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios | Junming Wang, Teng Pu, Wingmun Fung | [arXiv](https://arxiv.org/abs/2604.13001) |
 | 2026-04-16 | Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots | Yifei Yan, Linqi Ye | [arXiv](https://arxiv.org/abs/2604.12909) |
@@ -115,6 +118,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-17 | Diffusion Sequence Models for Generative In-Context Meta-Learning of Robot Dynamics | Angelo Moroncelli, Matteo Rufolo, Gunes Cagin Aydin | [arXiv](https://arxiv.org/abs/2604.13366) |
+| 2026-04-17 | Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization | Jianzong Wang, Botao Zhao, Yayun He | [arXiv](https://arxiv.org/abs/2604.13533) |
 | 2026-04-15 | AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation | Mingyang Li, Haofan Xu, Haowen Sun | [arXiv](https://arxiv.org/abs/2604.11674) |
 | 2026-04-14 | Physics-Informed Reinforcement Learning of Spatial Density Velocity Potentials for Map-Free Racing | Shathushan Sivashangaran, Apoorva Khairnar, Sepideh Gohari | [arXiv](https://arxiv.org/abs/2604.09499) |
 | 2026-04-13 | A Soft Robotic Interface for Chick-Robot Affective Interactions | Jue Chen, Alexander Mielke, Kaspar Althoefer | [arXiv](https://arxiv.org/abs/2604.08443) |
@@ -215,6 +220,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-17](./2026/04/2026-04-17.md)
 - [2026-04-16](./2026/04/2026-04-16.md)
 - [2026-04-15](./2026/04/2026-04-15.md)
 - [2026-04-14](./2026/04/2026-04-14.md)

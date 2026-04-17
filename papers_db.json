@@ -1319,5 +1319,65 @@
     "category": "Physical AI",
     "date": "2026-04-16",
     "score": 0.0
+  },
+  "2604.14125": {
+    "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
+    "authors": [
+      "Tianshuo Yang",
+      "Guanyu Chen",
+      "Yutian Chen"
+    ],
+    "url": "https://arxiv.org/abs/2604.14125",
+    "category": "VLA",
+    "date": "2026-04-17",
+    "score": 4.0
+  },
+  "2604.13366": {
+    "title": "Diffusion Sequence Models for Generative In-Context Meta-Learning of Robot Dynamics",
+    "authors": [
+      "Angelo Moroncelli",
+      "Matteo Rufolo",
+      "Gunes Cagin Aydin"
+    ],
+    "url": "https://arxiv.org/abs/2604.13366",
+    "category": "Other",
+    "date": "2026-04-17",
+    "score": 3.0
+  },
+  "2604.13959": {
+    "title": "[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI",
+    "authors": [
+      "You Rim Choi",
+      "Subeom Park",
+      "Hyung-Sin Kim"
+    ],
+    "url": "https://arxiv.org/abs/2604.13959",
+    "category": "Physical AI",
+    "date": "2026-04-17",
+    "score": 2.0
+  },
+  "2604.13733": {
+    "title": "Jump-Start Reinforcement Learning with Vision-Language-Action Regularization",
+    "authors": [
+      "Angelo Moroncelli",
+      "Roberto Zanetti",
+      "Marco Maccarini"
+    ],
+    "url": "https://arxiv.org/abs/2604.13733",
+    "category": "VLA",
+    "date": "2026-04-17",
+    "score": 2.0
+  },
+  "2604.13533": {
+    "title": "Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization",
+    "authors": [
+      "Jianzong Wang",
+      "Botao Zhao",
+      "Yayun He"
+    ],
+    "url": "https://arxiv.org/abs/2604.13533",
+    "category": "Other",
+    "date": "2026-04-17",
+    "score": 2.0
   }
 }
