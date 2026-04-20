@@ -1,64 +1,4 @@
 {
-  "2603.15169": {
-    "title": "ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation",
-    "authors": [
-      "Yang Li",
-      " Zhaxizhuoma",
-      "Hongru Jiang"
-    ],
-    "url": "https://arxiv.org/abs/2603.15169",
-    "category": "VLA",
-    "date": "2026-03-20",
-    "score": 8.0
-  },
-  "2603.17850": {
-    "title": "ProbeFlow: Training-Free Adaptive Flow Matching for Vision-Language-Action Models",
-    "authors": [
-      "Zhou Fang",
-      "Jiaqi Wang",
-      "Yi Zhou"
-    ],
-    "url": "https://arxiv.org/abs/2603.17850",
-    "category": "VLA",
-    "date": "2026-03-20",
-    "score": 5.0
-  },
-  "2603.17573": {
-    "title": "HeiSD: Hybrid Speculative Decoding for Embodied Vision-Language-Action Models with Kinematic Awareness",
-    "authors": [
-      "Zihao Zheng",
-      "Zhihao Mao",
-      "Sicheng Tian"
-    ],
-    "url": "https://arxiv.org/abs/2603.17573",
-    "category": "VLA",
-    "date": "2026-03-20",
-    "score": 4.0
-  },
-  "2603.17524": {
-    "title": "KineVLA: Towards Kinematics-Aware Vision-Language-Action Models with Bi-Level Action Decomposition",
-    "authors": [
-      "Gaoge Han",
-      "Zhengqing Gao",
-      "Ziwen Li"
-    ],
-    "url": "https://arxiv.org/abs/2603.17524",
-    "category": "VLA",
-    "date": "2026-03-20",
-    "score": 4.0
-  },
-  "2603.16669": {
-    "title": "Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation",
-    "authors": [
-      "Mutian Xu",
-      "Tianbao Zhang",
-      "Tianqi Liu"
-    ],
-    "url": "https://arxiv.org/abs/2603.16669",
-    "category": "World Model",
-    "date": "2026-03-20",
-    "score": 4.0
-  },
   "2603.19131": {
     "title": "From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models",
     "authors": [
@@ -1379,5 +1319,65 @@
     "category": "Physical AI",
     "date": "2026-04-19",
     "score": 2.0
+  },
+  "2604.15289": {
+    "title": "Abstract Sim2Real through Approximate Information States",
+    "authors": [
+      "Yunfu Deng",
+      "Yuhao Li",
+      "Josiah P. Hanna"
+    ],
+    "url": "https://arxiv.org/abs/2604.15289",
+    "category": "Other",
+    "date": "2026-04-20",
+    "score": 0.0
+  },
+  "2604.15221": {
+    "title": "Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees",
+    "authors": [
+      "Jakob Thumm",
+      "Marian Frei",
+      "Tianle Ni"
+    ],
+    "url": "https://arxiv.org/abs/2604.15221",
+    "category": "Other",
+    "date": "2026-04-20",
+    "score": 0.0
+  },
+  "2604.15215": {
+    "title": "A Hierarchical Spatiotemporal Action Tokenizer for In-Context Imitation Learning in Robotics",
+    "authors": [
+      "Fawad Javed Fateh",
+      "Ali Shah Ali",
+      "Murad Popattia"
+    ],
+    "url": "https://arxiv.org/abs/2604.15215",
+    "category": "Other",
+    "date": "2026-04-20",
+    "score": 0.0
+  },
+  "2604.15076": {
+    "title": "NEAT-NC: NEAT guided Navigation Cells for Robot Path Planning",
+    "authors": [
+      "Hibatallah Meliani",
+      "Khadija Slimani",
+      "Samira Khoulji"
+    ],
+    "url": "https://arxiv.org/abs/2604.15076",
+    "category": "Other",
+    "date": "2026-04-20",
+    "score": 0.0
+  },
+  "2604.15052": {
+    "title": "CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture",
+    "authors": [
+      "Giacomo Franchini",
+      "David Rodríguez-Martínez",
+      "Alfonso Martínez-Petersen"
+    ],
+    "url": "https://arxiv.org/abs/2604.15052",
+    "category": "Other",
+    "date": "2026-04-20",
+    "score": 0.0
   }
 }

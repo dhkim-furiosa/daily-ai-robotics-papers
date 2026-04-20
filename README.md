@@ -63,10 +63,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-03-24 | HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks | Jingyu Guo, Ziye Chen, Ziwen Li | [arXiv](https://arxiv.org/abs/2603.19822) |
 | 2026-03-21 | From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models | Zhuofan Li, Hongkun Yang, Zhenyang Chen | [arXiv](https://arxiv.org/abs/2603.19131) |
 | 2026-03-21 | Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models | Bryce Grant, Xijia Zhao, Peng Wang | [arXiv](https://arxiv.org/abs/2603.19233) |
-| 2026-03-20 | ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation | Yang Li,  Zhaxizhuoma, Hongru Jiang | [arXiv](https://arxiv.org/abs/2603.15169) |
-| 2026-03-20 | ProbeFlow: Training-Free Adaptive Flow Matching for Vision-Language-Action Models | Zhou Fang, Jiaqi Wang, Yi Zhou | [arXiv](https://arxiv.org/abs/2603.17850) |
-| 2026-03-20 | HeiSD: Hybrid Speculative Decoding for Embodied Vision-Language-Action Models with Kinematic Awareness | Zihao Zheng, Zhihao Mao, Sicheng Tian | [arXiv](https://arxiv.org/abs/2603.17573) |
-| 2026-03-20 | KineVLA: Towards Kinematics-Aware Vision-Language-Action Models with Bi-Level Action Decomposition | Gaoge Han, Zhengqing Gao, Ziwen Li | [arXiv](https://arxiv.org/abs/2603.17524) |
 
 ### World Model
 
@@ -83,7 +79,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-03-26 | Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models | Massimiliano Pappa, Luca Romani, Valentino Sacco | [arXiv](https://arxiv.org/abs/2603.23149) |
 | 2026-03-24 | Structured Latent Dynamics in Wireless CSI via Homomorphic World Models | Salmane Naoumi, Mehdi Bennis, Marwa Chafii | [arXiv](https://arxiv.org/abs/2603.20048) |
 | 2026-03-21 | OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation | Yuhang Zheng, Songen Gu, Weize Li | [arXiv](https://arxiv.org/abs/2603.19201) |
-| 2026-03-20 | Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation | Mutian Xu, Tianbao Zhang, Tianqi Liu | [arXiv](https://arxiv.org/abs/2603.16669) |
 
 ### Physical AI
 
@@ -119,6 +114,11 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-20 | Abstract Sim2Real through Approximate Information States | Yunfu Deng, Yuhao Li, Josiah P. Hanna | [arXiv](https://arxiv.org/abs/2604.15289) |
+| 2026-04-20 | Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees | Jakob Thumm, Marian Frei, Tianle Ni | [arXiv](https://arxiv.org/abs/2604.15221) |
+| 2026-04-20 | A Hierarchical Spatiotemporal Action Tokenizer for In-Context Imitation Learning in Robotics | Fawad Javed Fateh, Ali Shah Ali, Murad Popattia | [arXiv](https://arxiv.org/abs/2604.15215) |
+| 2026-04-20 | NEAT-NC: NEAT guided Navigation Cells for Robot Path Planning | Hibatallah Meliani, Khadija Slimani, Samira Khoulji | [arXiv](https://arxiv.org/abs/2604.15076) |
+| 2026-04-20 | CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture | Giacomo Franchini, David Rodríguez-Martínez, Alfonso Martínez-Petersen | [arXiv](https://arxiv.org/abs/2604.15052) |
 | 2026-04-19 | Nautilus: An Auto-Scheduling Tensor Compiler for Efficient Tiled GPU Kernels | Yifan Zhao, Yuchen Yang, Matei Budiu | [arXiv](https://arxiv.org/abs/2604.14825) |
 | 2026-04-17 | Diffusion Sequence Models for Generative In-Context Meta-Learning of Robot Dynamics | Angelo Moroncelli, Matteo Rufolo, Gunes Cagin Aydin | [arXiv](https://arxiv.org/abs/2604.13366) |
 | 2026-04-17 | Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization | Jianzong Wang, Botao Zhao, Yayun He | [arXiv](https://arxiv.org/abs/2604.13533) |
@@ -220,6 +220,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-20](./2026/04/2026-04-20.md)
 - [2026-04-19](./2026/04/2026-04-19.md)
 - [2026-04-17](./2026/04/2026-04-17.md)
 - [2026-04-16](./2026/04/2026-04-16.md)
