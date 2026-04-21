@@ -1,64 +1,4 @@
 {
-  "2603.19131": {
-    "title": "From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models",
-    "authors": [
-      "Zhuofan Li",
-      "Hongkun Yang",
-      "Zhenyang Chen"
-    ],
-    "url": "https://arxiv.org/abs/2603.19131",
-    "category": "VLA",
-    "date": "2026-03-21",
-    "score": 4.0
-  },
-  "2603.18988": {
-    "title": "MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction",
-    "authors": [
-      "Joerg Deigmoeller",
-      "Nakul Agarwal",
-      "Stephan Hasler"
-    ],
-    "url": "https://arxiv.org/abs/2603.18988",
-    "category": "Other",
-    "date": "2026-03-21",
-    "score": 3.0
-  },
-  "2603.19233": {
-    "title": "Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models",
-    "authors": [
-      "Bryce Grant",
-      "Xijia Zhao",
-      "Peng Wang"
-    ],
-    "url": "https://arxiv.org/abs/2603.19233",
-    "category": "VLA",
-    "date": "2026-03-21",
-    "score": 2.0
-  },
-  "2603.19229": {
-    "title": "NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
-    "authors": [
-      "Huaide Jiang",
-      "Yash Chaudhary",
-      "Yuping Wang"
-    ],
-    "url": "https://arxiv.org/abs/2603.19229",
-    "category": "Other",
-    "date": "2026-03-21",
-    "score": 2.0
-  },
-  "2603.19201": {
-    "title": "OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation",
-    "authors": [
-      "Yuhang Zheng",
-      "Songen Gu",
-      "Weize Li"
-    ],
-    "url": "https://arxiv.org/abs/2603.19201",
-    "category": "World Model",
-    "date": "2026-03-21",
-    "score": 2.0
-  },
   "2603.16050": {
     "title": "The Era of End-to-End Autonomy: Transitioning from Rule-Based Driving to Large Driving Models",
     "authors": [
@@ -1378,6 +1318,64 @@
     "url": "https://arxiv.org/abs/2604.15052",
     "category": "Other",
     "date": "2026-04-20",
+    "score": 0.0
+  },
+  "2604.15483": {
+    "title": "$π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities",
+    "authors": [
+      "Physical Intelligence",
+      "Bo Ai",
+      "Ali Amin"
+    ],
+    "url": "https://arxiv.org/abs/2604.15483",
+    "category": "Foundation Model",
+    "date": "2026-04-21",
+    "score": 28.0
+  },
+  "2604.16067": {
+    "title": "AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning",
+    "authors": [
+      "Guransh Singh"
+    ],
+    "url": "https://arxiv.org/abs/2604.16067",
+    "category": "VLA",
+    "date": "2026-04-21",
+    "score": 2.0
+  },
+  "2604.15823": {
+    "title": "Watching Movies Like a Human: Egocentric Emotion Understanding for Embodied Companions",
+    "authors": [
+      "Ze Dong",
+      "Hao Shi",
+      "Zejia Gao"
+    ],
+    "url": "https://arxiv.org/abs/2604.15823",
+    "category": "Other",
+    "date": "2026-04-21",
+    "score": 2.0
+  },
+  "2604.15671": {
+    "title": "Long-Term Memory for VLA-based Agents in Open-World Task Execution",
+    "authors": [
+      "Xu Huang",
+      "Weixin Mao",
+      "Yinhao Li"
+    ],
+    "url": "https://arxiv.org/abs/2604.15671",
+    "category": "VLA",
+    "date": "2026-04-21",
+    "score": 2.0
+  },
+  "2604.16263": {
+    "title": "Semantic Area Graph Reasoning for Multi-Robot Language-Guided Search",
+    "authors": [
+      "Ruiyang Wang",
+      "Hao-Lun Hsu",
+      "Jiwoo Kim"
+    ],
+    "url": "https://arxiv.org/abs/2604.16263",
+    "category": "Other",
+    "date": "2026-04-21",
     "score": 0.0
   }
 }
