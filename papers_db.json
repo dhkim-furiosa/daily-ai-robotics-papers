@@ -1377,5 +1377,65 @@
     "category": "Other",
     "date": "2026-04-21",
     "score": 0.0
+  },
+  "2604.18000": {
+    "title": "Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models",
+    "authors": [
+      "Haiweng Xu",
+      "Sipeng Zheng",
+      "Hao Luo"
+    ],
+    "url": "https://arxiv.org/abs/2604.18000",
+    "category": "VLA",
+    "date": "2026-04-22",
+    "score": 7.0
+  },
+  "2604.18484": {
+    "title": "XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments",
+    "authors": [
+      "Kangan Qian",
+      "ChuChu Xie",
+      "Yang Zhong"
+    ],
+    "url": "https://arxiv.org/abs/2604.18484",
+    "category": "VLA",
+    "date": "2026-04-22",
+    "score": 4.0
+  },
+  "2604.18331": {
+    "title": "Will People Enjoy a Robot Trainer? A Case Study with Snoopie the Pacerbot",
+    "authors": [
+      "Maximilian Du",
+      "Jennifer Grannen",
+      "Shuran Song"
+    ],
+    "url": "https://arxiv.org/abs/2604.18331",
+    "category": "Other",
+    "date": "2026-04-22",
+    "score": 3.0
+  },
+  "2604.18584": {
+    "title": "MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval",
+    "authors": [
+      "Shaden Alshammari",
+      "Kevin Wen",
+      "Abrar Zainal"
+    ],
+    "url": "https://arxiv.org/abs/2604.18584",
+    "category": "Other",
+    "date": "2026-04-22",
+    "score": 3.0
+  },
+  "2604.18583": {
+    "title": "MUA: Mobile Ultra-detailed Animatable Avatars",
+    "authors": [
+      "Heming Zhu",
+      "Guoxing Sun",
+      "Marc Habermann"
+    ],
+    "url": "https://arxiv.org/abs/2604.18583",
+    "category": "Other",
+    "date": "2026-04-22",
+    "score": 3.0
   }
 }

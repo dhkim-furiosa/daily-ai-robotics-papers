@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-22 | Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models | Haiweng Xu, Sipeng Zheng, Hao Luo | [arXiv](https://arxiv.org/abs/2604.18000) |
+| 2026-04-22 | XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments | Kangan Qian, ChuChu Xie, Yang Zhong | [arXiv](https://arxiv.org/abs/2604.18484) |
 | 2026-04-21 | AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning | Guransh Singh | [arXiv](https://arxiv.org/abs/2604.16067) |
 | 2026-04-21 | Long-Term Memory for VLA-based Agents in Open-World Task Execution | Xu Huang, Weixin Mao, Yinhao Li | [arXiv](https://arxiv.org/abs/2604.15671) |
 | 2026-04-19 | World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems | Runze Li, Hongyin Zhang, Junxi Jin | [arXiv](https://arxiv.org/abs/2604.14732) |
@@ -114,6 +116,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-22 | Will People Enjoy a Robot Trainer? A Case Study with Snoopie the Pacerbot | Maximilian Du, Jennifer Grannen, Shuran Song | [arXiv](https://arxiv.org/abs/2604.18331) |
+| 2026-04-22 | MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval | Shaden Alshammari, Kevin Wen, Abrar Zainal | [arXiv](https://arxiv.org/abs/2604.18584) |
+| 2026-04-22 | MUA: Mobile Ultra-detailed Animatable Avatars | Heming Zhu, Guoxing Sun, Marc Habermann | [arXiv](https://arxiv.org/abs/2604.18583) |
 | 2026-04-21 | Watching Movies Like a Human: Egocentric Emotion Understanding for Embodied Companions | Ze Dong, Hao Shi, Zejia Gao | [arXiv](https://arxiv.org/abs/2604.15823) |
 | 2026-04-21 | Semantic Area Graph Reasoning for Multi-Robot Language-Guided Search | Ruiyang Wang, Hao-Lun Hsu, Jiwoo Kim | [arXiv](https://arxiv.org/abs/2604.16263) |
 | 2026-04-20 | Abstract Sim2Real through Approximate Information States | Yunfu Deng, Yuhao Li, Josiah P. Hanna | [arXiv](https://arxiv.org/abs/2604.15289) |
@@ -220,6 +225,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-22](./2026/04/2026-04-22.md)
 - [2026-04-21](./2026/04/2026-04-21.md)
 - [2026-04-20](./2026/04/2026-04-20.md)
 - [2026-04-19](./2026/04/2026-04-19.md)
