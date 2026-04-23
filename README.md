@@ -22,6 +22,10 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-23 | FASTER: Value-Guided Sampling for Fast RL | Perry Dong, Alexander Swerdlow, Dorsa Sadigh | [arXiv](https://arxiv.org/abs/2604.19730) |
+| 2026-04-23 | VLA Foundry: A Unified Framework for Training Vision-Language-Action Models | Jean Mercat, Sedrick Keh, Kushal Arora | [arXiv](https://arxiv.org/abs/2604.19728) |
+| 2026-04-23 | SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model | Zewei Zhou, Ruining Yang,  Xuewei | [arXiv](https://arxiv.org/abs/2604.19710) |
+| 2026-04-23 | OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL | Haoxiang Jie, Yaoyuan Yan, Xiangyu Wei | [arXiv](https://arxiv.org/abs/2604.17706) |
 | 2026-04-22 | Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models | Haiweng Xu, Sipeng Zheng, Hao Luo | [arXiv](https://arxiv.org/abs/2604.18000) |
 | 2026-04-22 | XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments | Kangan Qian, ChuChu Xie, Yang Zhong | [arXiv](https://arxiv.org/abs/2604.18484) |
 | 2026-04-21 | AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning | Guransh Singh | [arXiv](https://arxiv.org/abs/2604.16067) |
@@ -101,7 +105,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-03 | EgoSim: Egocentric World Simulator for Embodied Interaction Generation | Jinkun Hao, Mingda Jia, Ruiyan Wang | [arXiv](https://arxiv.org/abs/2604.01001) |
 | 2026-04-03 | Collaborative Task and Path Planning for Heterogeneous Robotic Teams using Multi-Agent PPO | Matthias Rubio, Julia Richter, Hendrik Kolvenbach | [arXiv](https://arxiv.org/abs/2604.01213) |
 | 2026-03-24 | Embodied Science: Closing the Discovery Loop with Agentic Embodied AI | Xiang Zhuang, Chenyi Zhou, Kehua Feng | [arXiv](https://arxiv.org/abs/2603.19782) |
-| 2026-03-23 | The Era of End-to-End Autonomy: Transitioning from Rule-Based Driving to Large Driving Models | Eduardo Nebot, Julie Stephany Berrio Perez | [arXiv](https://arxiv.org/abs/2603.16050) |
 
 ### Foundation Model
 
@@ -116,6 +119,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-23 | SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models | Josue Torres-Fonseca, Naihao Deng, Yinpei Dai | [arXiv](https://arxiv.org/abs/2604.19638) |
 | 2026-04-22 | Will People Enjoy a Robot Trainer? A Case Study with Snoopie the Pacerbot | Maximilian Du, Jennifer Grannen, Shuran Song | [arXiv](https://arxiv.org/abs/2604.18331) |
 | 2026-04-22 | MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval | Shaden Alshammari, Kevin Wen, Abrar Zainal | [arXiv](https://arxiv.org/abs/2604.18584) |
 | 2026-04-22 | MUA: Mobile Ultra-detailed Animatable Avatars | Heming Zhu, Guoxing Sun, Marc Habermann | [arXiv](https://arxiv.org/abs/2604.18583) |
@@ -225,6 +229,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-23](./2026/04/2026-04-23.md)
 - [2026-04-22](./2026/04/2026-04-22.md)
 - [2026-04-21](./2026/04/2026-04-21.md)
 - [2026-04-20](./2026/04/2026-04-20.md)

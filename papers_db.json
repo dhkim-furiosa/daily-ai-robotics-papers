@@ -1,15 +1,4 @@
 {
-  "2603.16050": {
-    "title": "The Era of End-to-End Autonomy: Transitioning from Rule-Based Driving to Large Driving Models",
-    "authors": [
-      "Eduardo Nebot",
-      "Julie Stephany Berrio Perez"
-    ],
-    "url": "https://arxiv.org/abs/2603.16050",
-    "category": "Physical AI",
-    "date": "2026-03-23",
-    "score": 3.0
-  },
   "2603.19794": {
     "title": "Generalized Task-Driven Design of Soft Robots via Reduced-Order FEM-based Surrogate Modeling",
     "authors": [
@@ -1436,6 +1425,66 @@
     "url": "https://arxiv.org/abs/2604.18583",
     "category": "Other",
     "date": "2026-04-22",
+    "score": 3.0
+  },
+  "2604.19730": {
+    "title": "FASTER: Value-Guided Sampling for Fast RL",
+    "authors": [
+      "Perry Dong",
+      "Alexander Swerdlow",
+      "Dorsa Sadigh"
+    ],
+    "url": "https://arxiv.org/abs/2604.19730",
+    "category": "VLA",
+    "date": "2026-04-23",
+    "score": 10.0
+  },
+  "2604.19728": {
+    "title": "VLA Foundry: A Unified Framework for Training Vision-Language-Action Models",
+    "authors": [
+      "Jean Mercat",
+      "Sedrick Keh",
+      "Kushal Arora"
+    ],
+    "url": "https://arxiv.org/abs/2604.19728",
+    "category": "VLA",
+    "date": "2026-04-23",
+    "score": 4.0
+  },
+  "2604.19710": {
+    "title": "SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model",
+    "authors": [
+      "Zewei Zhou",
+      "Ruining Yang",
+      " Xuewei"
+    ],
+    "url": "https://arxiv.org/abs/2604.19710",
+    "category": "VLA",
+    "date": "2026-04-23",
+    "score": 4.0
+  },
+  "2604.17706": {
+    "title": "OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL",
+    "authors": [
+      "Haoxiang Jie",
+      "Yaoyuan Yan",
+      "Xiangyu Wei"
+    ],
+    "url": "https://arxiv.org/abs/2604.17706",
+    "category": "VLA",
+    "date": "2026-04-23",
+    "score": 4.0
+  },
+  "2604.19638": {
+    "title": "SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models",
+    "authors": [
+      "Josue Torres-Fonseca",
+      "Naihao Deng",
+      "Yinpei Dai"
+    ],
+    "url": "https://arxiv.org/abs/2604.19638",
+    "category": "Other",
+    "date": "2026-04-23",
     "score": 3.0
   }
 }
