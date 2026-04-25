@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-25 | Long-Horizon Manipulation via Trace-Conditioned VLA Planning | Isabella Liu, An-Chieh Cheng, Rui Yan | [arXiv](https://arxiv.org/abs/2604.21924) |
+| 2026-04-25 | From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges | Yiming Zhong, Yaoyu He, Zemin Yang | [arXiv](https://arxiv.org/abs/2604.21391) |
+| 2026-04-25 | CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors | Dachong Li, ZhuangZhuang Chen, Jin Zhang | [arXiv](https://arxiv.org/abs/2604.21241) |
 | 2026-04-24 | PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance | Yupeng Zheng, Xiang Li, Songen Gu | [arXiv](https://arxiv.org/abs/2604.20834) |
 | 2026-04-24 | Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models | Shelly Francis-Meretzki, Mirco Mutti, Yaniv Romano | [arXiv](https://arxiv.org/abs/2604.20472) |
 | 2026-04-23 | FASTER: Value-Guided Sampling for Fast RL | Perry Dong, Alexander Swerdlow, Dorsa Sadigh | [arXiv](https://arxiv.org/abs/2604.19730) |
@@ -88,6 +91,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-25 | A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration | Kuan Xu, Ruimeng Liu, Yizhuo Yang | [arXiv](https://arxiv.org/abs/2604.21363) |
 | 2026-04-19 | EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development | Xueyang Zhou, Yihan Sun, Xijie Gong | [arXiv](https://arxiv.org/abs/2604.13800) |
 | 2026-04-17 | [Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI | You Rim Choi, Subeom Park, Hyung-Sin Kim | [arXiv](https://arxiv.org/abs/2604.13959) |
 | 2026-04-16 | Learning Versatile Humanoid Manipulation with Touch Dreaming | Yaru Niu, Zhenlong Fang, Binghong Chen | [arXiv](https://arxiv.org/abs/2604.13015) |
@@ -108,6 +112,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-25 | Transferable Physics-Informed Representations via Closed-Form Head Adaptation | Jian Cheng Wong, Isaac Yin Chung Lai, Pao-Hsiung Chiu | [arXiv](https://arxiv.org/abs/2604.21761) |
 | 2026-04-24 | Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples | Ana Sanchez-Fernandez, Thomas Pinetz, Werner Zellinger | [arXiv](https://arxiv.org/abs/2604.20824) |
 | 2026-04-21 | $π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities | Physical Intelligence, Bo Ai, Ali Amin | [arXiv](https://arxiv.org/abs/2604.15483) |
 | 2026-04-07 | Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model | Peiyan Li, Yixiang Chen, Yuan Xu | [arXiv](https://arxiv.org/abs/2604.03181) |
@@ -229,6 +234,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-25](./2026/04/2026-04-25.md)
 - [2026-04-24](./2026/04/2026-04-24.md)
 - [2026-04-23](./2026/04/2026-04-23.md)
 - [2026-04-22](./2026/04/2026-04-22.md)

@@ -1486,5 +1486,65 @@
     "category": "VLA",
     "date": "2026-04-24",
     "score": 2.0
+  },
+  "2604.21761": {
+    "title": "Transferable Physics-Informed Representations via Closed-Form Head Adaptation",
+    "authors": [
+      "Jian Cheng Wong",
+      "Isaac Yin Chung Lai",
+      "Pao-Hsiung Chiu"
+    ],
+    "url": "https://arxiv.org/abs/2604.21761",
+    "category": "Foundation Model",
+    "date": "2026-04-25",
+    "score": 10.0
+  },
+  "2604.21924": {
+    "title": "Long-Horizon Manipulation via Trace-Conditioned VLA Planning",
+    "authors": [
+      "Isabella Liu",
+      "An-Chieh Cheng",
+      "Rui Yan"
+    ],
+    "url": "https://arxiv.org/abs/2604.21924",
+    "category": "VLA",
+    "date": "2026-04-25",
+    "score": 2.0
+  },
+  "2604.21391": {
+    "title": "From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges",
+    "authors": [
+      "Yiming Zhong",
+      "Yaoyu He",
+      "Zemin Yang"
+    ],
+    "url": "https://arxiv.org/abs/2604.21391",
+    "category": "VLA",
+    "date": "2026-04-25",
+    "score": 2.0
+  },
+  "2604.21363": {
+    "title": "A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration",
+    "authors": [
+      "Kuan Xu",
+      "Ruimeng Liu",
+      "Yizhuo Yang"
+    ],
+    "url": "https://arxiv.org/abs/2604.21363",
+    "category": "Physical AI",
+    "date": "2026-04-25",
+    "score": 2.0
+  },
+  "2604.21241": {
+    "title": "CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors",
+    "authors": [
+      "Dachong Li",
+      "ZhuangZhuang Chen",
+      "Jin Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2604.21241",
+    "category": "VLA",
+    "date": "2026-04-25",
+    "score": 2.0
   }
 }
