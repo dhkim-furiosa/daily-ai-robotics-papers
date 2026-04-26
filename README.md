@@ -22,6 +22,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-26 | How VLAs (Really) Work In Open-World Environments | Amir Rasouli, Yangzheng Wu, Zhiyuan Li | [arXiv](https://arxiv.org/abs/2604.21192) |
 | 2026-04-25 | Long-Horizon Manipulation via Trace-Conditioned VLA Planning | Isabella Liu, An-Chieh Cheng, Rui Yan | [arXiv](https://arxiv.org/abs/2604.21924) |
 | 2026-04-25 | From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges | Yiming Zhong, Yaoyu He, Zemin Yang | [arXiv](https://arxiv.org/abs/2604.21391) |
 | 2026-04-25 | CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors | Dachong Li, ZhuangZhuang Chen, Jin Zhang | [arXiv](https://arxiv.org/abs/2604.21241) |
@@ -69,14 +70,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-03-27 | 3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models | Bin Yu, Shijie Lian, Xiaopeng Lin | [arXiv](https://arxiv.org/abs/2603.24393) |
 | 2026-03-27 | TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models | Jiaying Zhou, Zhihao Zhan, Ruifeng Zhai | [arXiv](https://arxiv.org/abs/2603.24584) |
 | 2026-03-27 | SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation | Zhuoran Li, Zhiyang Li, Kaijun Zhou | [arXiv](https://arxiv.org/abs/2603.24060) |
-| 2026-03-26 | Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring | Teng Yan, Zhengyang Pei, Chengyu Shi | [arXiv](https://arxiv.org/abs/2603.22899) |
-| 2026-03-26 | VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models | Jintao Cheng, Haozhe Wang, Weibin Li | [arXiv](https://arxiv.org/abs/2603.22991) |
-| 2026-03-26 | VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs | Haoran Yuan, Weigang Yi, Zhenyu Zhang | [arXiv](https://arxiv.org/abs/2603.23481) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-26 | Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training | Yaxuan Li, Zhongyi Zhou, Yefei Chen | [arXiv](https://arxiv.org/abs/2604.21741) |
 | 2026-04-19 | POMDP-based Object Search with Growing State Space and Hybrid Action Domain | Yongbo Chen, Hesheng Wang, Shoudong Huang | [arXiv](https://arxiv.org/abs/2604.14965) |
 | 2026-04-19 | Learning Ad Hoc Network Dynamics via Graph-Structured World Models | Can Karacelebi, Yusuf Talha Sahin, Elif Surer | [arXiv](https://arxiv.org/abs/2604.14811) |
 | 2026-04-14 | VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis | Xiaolei Lang, Yang Wang, Yukun Zhou | [arXiv](https://arxiv.org/abs/2604.09330) |
@@ -85,12 +84,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-04 | World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry | Yuejiang Liu, Fan Feng, Lingjing Kong | [arXiv](https://arxiv.org/abs/2604.01985) |
 | 2026-04-04 | Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation | Chongjie Ye, Cheng Cao, Chuanyu Pan | [arXiv](https://arxiv.org/abs/2604.02289) |
 | 2026-04-02 | Scaling Video Pretraining for Surgical Foundation Models | Sicheng Lu, Zikai Xiao, Jianhui Wei | [arXiv](https://arxiv.org/abs/2603.29966) |
-| 2026-03-26 | Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models | Massimiliano Pappa, Luca Romani, Valentino Sacco | [arXiv](https://arxiv.org/abs/2603.23149) |
 
 ### Physical AI
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-26 | VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis | Songen Gu, Yuhang Zheng, Weize Li | [arXiv](https://arxiv.org/abs/2604.21914) |
 | 2026-04-25 | A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration | Kuan Xu, Ruimeng Liu, Yizhuo Yang | [arXiv](https://arxiv.org/abs/2604.21363) |
 | 2026-04-19 | EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development | Xueyang Zhou, Yihan Sun, Xijie Gong | [arXiv](https://arxiv.org/abs/2604.13800) |
 | 2026-04-17 | [Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI | You Rim Choi, Subeom Park, Hyung-Sin Kim | [arXiv](https://arxiv.org/abs/2604.13959) |
@@ -123,6 +122,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-26 | Task-Driven Co-Design of Heterogeneous Multi-Robot Systems | Maximilian Stralz, Meshal Alharbi, Yujun Huang | [arXiv](https://arxiv.org/abs/2604.21894) |
+| 2026-04-26 | A Case Study in Recovery of Drones using Discrete-Event Systems | Liam P. Burns, Dayse M. Cavalcanti, Felipe G. Cabral | [arXiv](https://arxiv.org/abs/2604.21740) |
 | 2026-04-24 | Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly | Yongqiang Zhao, Xuyang Zhang, Zhuo Chen | [arXiv](https://arxiv.org/abs/2604.20712) |
 | 2026-04-24 | OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model | Qiguang Chen, Chengyu Luan, Jiajun Wu | [arXiv](https://arxiv.org/abs/2604.20806) |
 | 2026-04-23 | SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models | Josue Torres-Fonseca, Naihao Deng, Yinpei Dai | [arXiv](https://arxiv.org/abs/2604.19638) |
@@ -171,7 +172,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-02 | HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation | Xiangshan Tan, Jingtian Ji, Tianchong Jiang | [arXiv](https://arxiv.org/abs/2603.30042) |
 | 2026-03-27 | EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction | Falong Fan, Yi Xie, Arnis Lektauers | [arXiv](https://arxiv.org/abs/2603.24577) |
 | 2026-03-27 | Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation | Xinying Guo, Chenxi Jiang, Hyun Bin Kim | [arXiv](https://arxiv.org/abs/2603.24576) |
-| 2026-03-26 | AeroScene: Progressive Scene Synthesis for Aerial Robotics | Nghia Vu, Tuong Do, Dzung Tran | [arXiv](https://arxiv.org/abs/2603.23224) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -234,6 +234,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-26](./2026/04/2026-04-26.md)
 - [2026-04-25](./2026/04/2026-04-25.md)
 - [2026-04-24](./2026/04/2026-04-24.md)
 - [2026-04-23](./2026/04/2026-04-23.md)

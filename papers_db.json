@@ -1,64 +1,4 @@
 {
-  "2603.22899": {
-    "title": "Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring",
-    "authors": [
-      "Teng Yan",
-      "Zhengyang Pei",
-      "Chengyu Shi"
-    ],
-    "url": "https://arxiv.org/abs/2603.22899",
-    "category": "VLA",
-    "date": "2026-03-26",
-    "score": 5.0
-  },
-  "2603.23149": {
-    "title": "Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models",
-    "authors": [
-      "Massimiliano Pappa",
-      "Luca Romani",
-      "Valentino Sacco"
-    ],
-    "url": "https://arxiv.org/abs/2603.23149",
-    "category": "World Model",
-    "date": "2026-03-26",
-    "score": 5.0
-  },
-  "2603.22991": {
-    "title": "VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models",
-    "authors": [
-      "Jintao Cheng",
-      "Haozhe Wang",
-      "Weibin Li"
-    ],
-    "url": "https://arxiv.org/abs/2603.22991",
-    "category": "VLA",
-    "date": "2026-03-26",
-    "score": 4.0
-  },
-  "2603.23224": {
-    "title": "AeroScene: Progressive Scene Synthesis for Aerial Robotics",
-    "authors": [
-      "Nghia Vu",
-      "Tuong Do",
-      "Dzung Tran"
-    ],
-    "url": "https://arxiv.org/abs/2603.23224",
-    "category": "Other",
-    "date": "2026-03-26",
-    "score": 3.0
-  },
-  "2603.23481": {
-    "title": "VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs",
-    "authors": [
-      "Haoran Yuan",
-      "Weigang Yi",
-      "Zhenyu Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2603.23481",
-    "category": "VLA",
-    "date": "2026-03-26",
-    "score": 2.0
-  },
   "2603.24393": {
     "title": "3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models",
     "authors": [
@@ -1546,5 +1486,65 @@
     "category": "VLA",
     "date": "2026-04-25",
     "score": 2.0
+  },
+  "2604.21192": {
+    "title": "How VLAs (Really) Work In Open-World Environments",
+    "authors": [
+      "Amir Rasouli",
+      "Yangzheng Wu",
+      "Zhiyuan Li"
+    ],
+    "url": "https://arxiv.org/abs/2604.21192",
+    "category": "VLA",
+    "date": "2026-04-26",
+    "score": 2.0
+  },
+  "2604.21914": {
+    "title": "VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis",
+    "authors": [
+      "Songen Gu",
+      "Yuhang Zheng",
+      "Weize Li"
+    ],
+    "url": "https://arxiv.org/abs/2604.21914",
+    "category": "Physical AI",
+    "date": "2026-04-26",
+    "score": 0.0
+  },
+  "2604.21894": {
+    "title": "Task-Driven Co-Design of Heterogeneous Multi-Robot Systems",
+    "authors": [
+      "Maximilian Stralz",
+      "Meshal Alharbi",
+      "Yujun Huang"
+    ],
+    "url": "https://arxiv.org/abs/2604.21894",
+    "category": "Other",
+    "date": "2026-04-26",
+    "score": 0.0
+  },
+  "2604.21741": {
+    "title": "Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training",
+    "authors": [
+      "Yaxuan Li",
+      "Zhongyi Zhou",
+      "Yefei Chen"
+    ],
+    "url": "https://arxiv.org/abs/2604.21741",
+    "category": "World Model",
+    "date": "2026-04-26",
+    "score": 0.0
+  },
+  "2604.21740": {
+    "title": "A Case Study in Recovery of Drones using Discrete-Event Systems",
+    "authors": [
+      "Liam P. Burns",
+      "Dayse M. Cavalcanti",
+      "Felipe G. Cabral"
+    ],
+    "url": "https://arxiv.org/abs/2604.21740",
+    "category": "Other",
+    "date": "2026-04-26",
+    "score": 0.0
   }
 }
