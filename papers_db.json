@@ -1,64 +1,4 @@
 {
-  "2603.24393": {
-    "title": "3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models",
-    "authors": [
-      "Bin Yu",
-      "Shijie Lian",
-      "Xiaopeng Lin"
-    ],
-    "url": "https://arxiv.org/abs/2603.24393",
-    "category": "VLA",
-    "date": "2026-03-27",
-    "score": 4.0
-  },
-  "2603.24584": {
-    "title": "TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models",
-    "authors": [
-      "Jiaying Zhou",
-      "Zhihao Zhan",
-      "Ruifeng Zhai"
-    ],
-    "url": "https://arxiv.org/abs/2603.24584",
-    "category": "VLA",
-    "date": "2026-03-27",
-    "score": 2.0
-  },
-  "2603.24060": {
-    "title": "SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation",
-    "authors": [
-      "Zhuoran Li",
-      "Zhiyang Li",
-      "Kaijun Zhou"
-    ],
-    "url": "https://arxiv.org/abs/2603.24060",
-    "category": "VLA",
-    "date": "2026-03-27",
-    "score": 2.0
-  },
-  "2603.24577": {
-    "title": "EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction",
-    "authors": [
-      "Falong Fan",
-      "Yi Xie",
-      "Arnis Lektauers"
-    ],
-    "url": "https://arxiv.org/abs/2603.24577",
-    "category": "Other",
-    "date": "2026-03-27",
-    "score": 0.0
-  },
-  "2603.24576": {
-    "title": "Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation",
-    "authors": [
-      "Xinying Guo",
-      "Chenxi Jiang",
-      "Hyun Bin Kim"
-    ],
-    "url": "https://arxiv.org/abs/2603.24576",
-    "category": "Other",
-    "date": "2026-03-27",
-    "score": 0.0
-  },
   "2406.09246": {
     "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
     "authors": [
@@ -1545,6 +1485,66 @@
     "url": "https://arxiv.org/abs/2604.21740",
     "category": "Other",
     "date": "2026-04-26",
+    "score": 0.0
+  },
+  "2604.21686": {
+    "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
+    "authors": [
+      "Xiaojie Xu",
+      "Zhengyuan Lin",
+      "Kang He"
+    ],
+    "url": "https://arxiv.org/abs/2604.21686",
+    "category": "World Model",
+    "date": "2026-04-27",
+    "score": 2.0
+  },
+  "2604.17019": {
+    "title": "Mini-BEHAVIOR-Gran: Revealing U-Shaped Effects of Instruction Granularity on Language-Guided Embodied Agents",
+    "authors": [
+      "Sukai Huang",
+      "Chenyuan Zhang",
+      "Fucai Ke"
+    ],
+    "url": "https://arxiv.org/abs/2604.17019",
+    "category": "Physical AI",
+    "date": "2026-04-27",
+    "score": 2.0
+  },
+  "2604.21707": {
+    "title": "Effects of Swarm Size Variability on Operator Workload",
+    "authors": [
+      "William Hunt",
+      "Aleksandra Landowska",
+      "Horia A. Maior"
+    ],
+    "url": "https://arxiv.org/abs/2604.21707",
+    "category": "Other",
+    "date": "2026-04-27",
+    "score": 0.0
+  },
+  "2604.21693": {
+    "title": "SLAM as a Stochastic Control Problem with Partial Information: Optimal Solutions and Rigorous Approximations",
+    "authors": [
+      "Ilir Gusija",
+      "Fady Alajaji",
+      "Serdar Yüksel"
+    ],
+    "url": "https://arxiv.org/abs/2604.21693",
+    "category": "Other",
+    "date": "2026-04-27",
+    "score": 0.0
+  },
+  "2604.21568": {
+    "title": "A Bayesian Reasoning Framework for Robotic Systems in Autonomous Casualty Triage",
+    "authors": [
+      "Szymon Rusiecki",
+      "Cecilia Morales",
+      "Pia Störy"
+    ],
+    "url": "https://arxiv.org/abs/2604.21568",
+    "category": "Other",
+    "date": "2026-04-27",
     "score": 0.0
   }
 }

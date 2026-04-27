@@ -67,14 +67,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-03-28 | Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models | Lucy Xiaoyang Shi, Brian Ichter, Michael Equi | [arXiv](https://arxiv.org/abs/2502.19417) |
 | 2026-03-28 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control | Anthony Brohan, Noah Brown, Justice Carbajal | [arXiv](https://arxiv.org/abs/2307.15818) |
 | 2026-03-28 | GR00T N1: An Open Foundation Model for Generalist Humanoid Robots |  NVIDIA,  :, Johan Bjorck | [arXiv](https://arxiv.org/abs/2503.14734) |
-| 2026-03-27 | 3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models | Bin Yu, Shijie Lian, Xiaopeng Lin | [arXiv](https://arxiv.org/abs/2603.24393) |
-| 2026-03-27 | TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models | Jiaying Zhou, Zhihao Zhan, Ruifeng Zhai | [arXiv](https://arxiv.org/abs/2603.24584) |
-| 2026-03-27 | SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation | Zhuoran Li, Zhiyang Li, Kaijun Zhou | [arXiv](https://arxiv.org/abs/2603.24060) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-27 | WorldMark: A Unified Benchmark Suite for Interactive Video World Models | Xiaojie Xu, Zhengyuan Lin, Kang He | [arXiv](https://arxiv.org/abs/2604.21686) |
 | 2026-04-26 | Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training | Yaxuan Li, Zhongyi Zhou, Yefei Chen | [arXiv](https://arxiv.org/abs/2604.21741) |
 | 2026-04-19 | POMDP-based Object Search with Growing State Space and Hybrid Action Domain | Yongbo Chen, Hesheng Wang, Shoudong Huang | [arXiv](https://arxiv.org/abs/2604.14965) |
 | 2026-04-19 | Learning Ad Hoc Network Dynamics via Graph-Structured World Models | Can Karacelebi, Yusuf Talha Sahin, Elif Surer | [arXiv](https://arxiv.org/abs/2604.14811) |
@@ -89,6 +87,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-27 | Mini-BEHAVIOR-Gran: Revealing U-Shaped Effects of Instruction Granularity on Language-Guided Embodied Agents | Sukai Huang, Chenyuan Zhang, Fucai Ke | [arXiv](https://arxiv.org/abs/2604.17019) |
 | 2026-04-26 | VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis | Songen Gu, Yuhang Zheng, Weize Li | [arXiv](https://arxiv.org/abs/2604.21914) |
 | 2026-04-25 | A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration | Kuan Xu, Ruimeng Liu, Yizhuo Yang | [arXiv](https://arxiv.org/abs/2604.21363) |
 | 2026-04-19 | EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development | Xueyang Zhou, Yihan Sun, Xijie Gong | [arXiv](https://arxiv.org/abs/2604.13800) |
@@ -122,6 +121,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-27 | Effects of Swarm Size Variability on Operator Workload | William Hunt, Aleksandra Landowska, Horia A. Maior | [arXiv](https://arxiv.org/abs/2604.21707) |
+| 2026-04-27 | SLAM as a Stochastic Control Problem with Partial Information: Optimal Solutions and Rigorous Approximations | Ilir Gusija, Fady Alajaji, Serdar Yüksel | [arXiv](https://arxiv.org/abs/2604.21693) |
+| 2026-04-27 | A Bayesian Reasoning Framework for Robotic Systems in Autonomous Casualty Triage | Szymon Rusiecki, Cecilia Morales, Pia Störy | [arXiv](https://arxiv.org/abs/2604.21568) |
 | 2026-04-26 | Task-Driven Co-Design of Heterogeneous Multi-Robot Systems | Maximilian Stralz, Meshal Alharbi, Yujun Huang | [arXiv](https://arxiv.org/abs/2604.21894) |
 | 2026-04-26 | A Case Study in Recovery of Drones using Discrete-Event Systems | Liam P. Burns, Dayse M. Cavalcanti, Felipe G. Cabral | [arXiv](https://arxiv.org/abs/2604.21740) |
 | 2026-04-24 | Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly | Yongqiang Zhao, Xuyang Zhang, Zhuo Chen | [arXiv](https://arxiv.org/abs/2604.20712) |
@@ -170,8 +172,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-02 | Semantic Zone-Based Map Management for Stable AI-Integrated Mobile Robots | Huichang Yun, Seungho Yoo | [arXiv](https://arxiv.org/abs/2603.29627) |
 | 2026-04-02 | Measuring the metacognition of AI | Richard Servajean, Philippe Servajean | [arXiv](https://arxiv.org/abs/2603.29693) |
 | 2026-04-02 | HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation | Xiangshan Tan, Jingtian Ji, Tianchong Jiang | [arXiv](https://arxiv.org/abs/2603.30042) |
-| 2026-03-27 | EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction | Falong Fan, Yi Xie, Arnis Lektauers | [arXiv](https://arxiv.org/abs/2603.24577) |
-| 2026-03-27 | Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation | Xinying Guo, Chenxi Jiang, Hyun Bin Kim | [arXiv](https://arxiv.org/abs/2603.24576) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -234,6 +234,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-27](./2026/04/2026-04-27.md)
 - [2026-04-26](./2026/04/2026-04-26.md)
 - [2026-04-25](./2026/04/2026-04-25.md)
 - [2026-04-24](./2026/04/2026-04-24.md)
