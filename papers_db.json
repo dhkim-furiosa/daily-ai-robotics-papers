@@ -1,64 +1,4 @@
 {
-  "2406.09246": {
-    "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
-    "authors": [
-      "Moo Jin Kim",
-      "Karl Pertsch",
-      "Siddharth Karamcheti"
-    ],
-    "url": "https://arxiv.org/abs/2406.09246",
-    "category": "VLA",
-    "date": "2026-03-28",
-    "score": 34.0
-  },
-  "2501.09747": {
-    "title": "FAST: Efficient Action Tokenization for Vision-Language-Action Models",
-    "authors": [
-      "Karl Pertsch",
-      "Kyle Stachowicz",
-      "Brian Ichter"
-    ],
-    "url": "https://arxiv.org/abs/2501.09747",
-    "category": "VLA",
-    "date": "2026-03-28",
-    "score": 22.0
-  },
-  "2502.19417": {
-    "title": "Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models",
-    "authors": [
-      "Lucy Xiaoyang Shi",
-      "Brian Ichter",
-      "Michael Equi"
-    ],
-    "url": "https://arxiv.org/abs/2502.19417",
-    "category": "VLA",
-    "date": "2026-03-28",
-    "score": 22.0
-  },
-  "2307.15818": {
-    "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
-    "authors": [
-      "Anthony Brohan",
-      "Noah Brown",
-      "Justice Carbajal"
-    ],
-    "url": "https://arxiv.org/abs/2307.15818",
-    "category": "VLA",
-    "date": "2026-03-28",
-    "score": 22.0
-  },
-  "2503.14734": {
-    "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots",
-    "authors": [
-      " NVIDIA",
-      " :",
-      "Johan Bjorck"
-    ],
-    "url": "https://arxiv.org/abs/2503.14734",
-    "category": "VLA",
-    "date": "2026-03-28",
-    "score": 15.0
-  },
   "2603.29844": {
     "title": "DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA",
     "authors": [
@@ -1546,5 +1486,64 @@
     "category": "Other",
     "date": "2026-04-27",
     "score": 0.0
+  },
+  "2604.24182": {
+    "title": "$M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills",
+    "authors": [
+      "Siyao Xiao",
+      "Yuhong Zhang",
+      "Zhifang Liu"
+    ],
+    "url": "https://arxiv.org/abs/2604.24182",
+    "category": "VLA",
+    "date": "2026-04-29",
+    "score": 5.0
+  },
+  "2604.24622": {
+    "title": "CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies",
+    "authors": [
+      "Fan Du",
+      "Feng Yan",
+      "Jianxiong Wu"
+    ],
+    "url": "https://arxiv.org/abs/2604.24622",
+    "category": "VLA",
+    "date": "2026-04-29",
+    "score": 4.0
+  },
+  "2604.24685": {
+    "title": "Aycromo: An Open-Source Platform for Automatic Chromosome Detection in Metaphase Images Based on Deep Learning",
+    "authors": [
+      "Jorge L. A. Lima",
+      "Filipe R. Cordeiro"
+    ],
+    "url": "https://arxiv.org/abs/2604.24685",
+    "category": "Other",
+    "date": "2026-04-29",
+    "score": 3.0
+  },
+  "2604.24628": {
+    "title": "Real-time windrow detection from onboard tractor sensors for automated following",
+    "authors": [
+      "Lorenz Gunreben",
+      "Nico Heider",
+      "Sebastian Zürner"
+    ],
+    "url": "https://arxiv.org/abs/2604.24628",
+    "category": "Other",
+    "date": "2026-04-29",
+    "score": 3.0
+  },
+  "2604.24718": {
+    "title": "WildLIFT: Lifting monocular drone video to 3D for species-agnostic wildlife monitoring",
+    "authors": [
+      "Vandita Shukla",
+      "Fabio Remondino",
+      "Blair Costelloe"
+    ],
+    "url": "https://arxiv.org/abs/2604.24718",
+    "category": "Other",
+    "date": "2026-04-29",
+    "score": 3.0
   }
 }

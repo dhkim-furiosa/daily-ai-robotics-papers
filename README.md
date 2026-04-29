@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-29 | $M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills | Siyao Xiao, Yuhong Zhang, Zhifang Liu | [arXiv](https://arxiv.org/abs/2604.24182) |
+| 2026-04-29 | CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies | Fan Du, Feng Yan, Jianxiong Wu | [arXiv](https://arxiv.org/abs/2604.24622) |
 | 2026-04-26 | How VLAs (Really) Work In Open-World Environments | Amir Rasouli, Yangzheng Wu, Zhiyuan Li | [arXiv](https://arxiv.org/abs/2604.21192) |
 | 2026-04-25 | Long-Horizon Manipulation via Trace-Conditioned VLA Planning | Isabella Liu, An-Chieh Cheng, Rui Yan | [arXiv](https://arxiv.org/abs/2604.21924) |
 | 2026-04-25 | From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges | Yiming Zhong, Yaoyu He, Zemin Yang | [arXiv](https://arxiv.org/abs/2604.21391) |
@@ -62,11 +64,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-04 | UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving | Yongkang Li, Lijun Zhou, Sixu Yan | [arXiv](https://arxiv.org/abs/2604.02190) |
 | 2026-04-04 | Causal Scene Narration with Runtime Safety Supervision for Vision-Language-Action Driving | Yun Li, Yidu Zhang, Simon Thompson | [arXiv](https://arxiv.org/abs/2604.01723) |
 | 2026-04-02 | DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA | Yi Chen, Yuying Ge, Hui Zhou | [arXiv](https://arxiv.org/abs/2603.29844) |
-| 2026-03-28 | OpenVLA: An Open-Source Vision-Language-Action Model | Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti | [arXiv](https://arxiv.org/abs/2406.09246) |
-| 2026-03-28 | FAST: Efficient Action Tokenization for Vision-Language-Action Models | Karl Pertsch, Kyle Stachowicz, Brian Ichter | [arXiv](https://arxiv.org/abs/2501.09747) |
-| 2026-03-28 | Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models | Lucy Xiaoyang Shi, Brian Ichter, Michael Equi | [arXiv](https://arxiv.org/abs/2502.19417) |
-| 2026-03-28 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control | Anthony Brohan, Noah Brown, Justice Carbajal | [arXiv](https://arxiv.org/abs/2307.15818) |
-| 2026-03-28 | GR00T N1: An Open Foundation Model for Generalist Humanoid Robots |  NVIDIA,  :, Johan Bjorck | [arXiv](https://arxiv.org/abs/2503.14734) |
 
 ### World Model
 
@@ -121,6 +118,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-29 | Aycromo: An Open-Source Platform for Automatic Chromosome Detection in Metaphase Images Based on Deep Learning | Jorge L. A. Lima, Filipe R. Cordeiro | [arXiv](https://arxiv.org/abs/2604.24685) |
+| 2026-04-29 | Real-time windrow detection from onboard tractor sensors for automated following | Lorenz Gunreben, Nico Heider, Sebastian Zürner | [arXiv](https://arxiv.org/abs/2604.24628) |
+| 2026-04-29 | WildLIFT: Lifting monocular drone video to 3D for species-agnostic wildlife monitoring | Vandita Shukla, Fabio Remondino, Blair Costelloe | [arXiv](https://arxiv.org/abs/2604.24718) |
 | 2026-04-27 | Effects of Swarm Size Variability on Operator Workload | William Hunt, Aleksandra Landowska, Horia A. Maior | [arXiv](https://arxiv.org/abs/2604.21707) |
 | 2026-04-27 | SLAM as a Stochastic Control Problem with Partial Information: Optimal Solutions and Rigorous Approximations | Ilir Gusija, Fady Alajaji, Serdar Yüksel | [arXiv](https://arxiv.org/abs/2604.21693) |
 | 2026-04-27 | A Bayesian Reasoning Framework for Robotic Systems in Autonomous Casualty Triage | Szymon Rusiecki, Cecilia Morales, Pia Störy | [arXiv](https://arxiv.org/abs/2604.21568) |
@@ -234,6 +234,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-29](./2026/04/2026-04-29.md)
 - [2026-04-27](./2026/04/2026-04-27.md)
 - [2026-04-26](./2026/04/2026-04-26.md)
 - [2026-04-25](./2026/04/2026-04-25.md)
