@@ -22,6 +22,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-30 | Libra-VLA: Achieving Learning Equilibrium via Asynchronous Coarse-to-Fine Dual-System | Yifei Wei, Linqing Zhong, Yi Liu | [arXiv](https://arxiv.org/abs/2604.24921) |
 | 2026-04-29 | $M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills | Siyao Xiao, Yuhong Zhang, Zhifang Liu | [arXiv](https://arxiv.org/abs/2604.24182) |
 | 2026-04-29 | CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies | Fan Du, Feng Yan, Jianxiong Wu | [arXiv](https://arxiv.org/abs/2604.24622) |
 | 2026-04-26 | How VLAs (Really) Work In Open-World Environments | Amir Rasouli, Yangzheng Wu, Zhiyuan Li | [arXiv](https://arxiv.org/abs/2604.21192) |
@@ -84,6 +85,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-30 | Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty | Clinton Enwerem, Shreya Kalyanaraman, John S. Baras | [arXiv](https://arxiv.org/abs/2604.25897) |
+| 2026-04-30 | KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning | Yixuan Huang, Bowen Li, Vaibhav Saxena | [arXiv](https://arxiv.org/abs/2604.25788) |
 | 2026-04-27 | Mini-BEHAVIOR-Gran: Revealing U-Shaped Effects of Instruction Granularity on Language-Guided Embodied Agents | Sukai Huang, Chenyuan Zhang, Fucai Ke | [arXiv](https://arxiv.org/abs/2604.17019) |
 | 2026-04-26 | VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis | Songen Gu, Yuhang Zheng, Weize Li | [arXiv](https://arxiv.org/abs/2604.21914) |
 | 2026-04-25 | A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration | Kuan Xu, Ruimeng Liu, Yizhuo Yang | [arXiv](https://arxiv.org/abs/2604.21363) |
@@ -107,6 +110,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-30 | TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning | Dominik Żurek, Kamil Faber, Marcin Pietron | [arXiv](https://arxiv.org/abs/2604.25898) |
 | 2026-04-25 | Transferable Physics-Informed Representations via Closed-Form Head Adaptation | Jian Cheng Wong, Isaac Yin Chung Lai, Pao-Hsiung Chiu | [arXiv](https://arxiv.org/abs/2604.21761) |
 | 2026-04-24 | Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples | Ana Sanchez-Fernandez, Thomas Pinetz, Werner Zellinger | [arXiv](https://arxiv.org/abs/2604.20824) |
 | 2026-04-21 | $π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities | Physical Intelligence, Bo Ai, Ali Amin | [arXiv](https://arxiv.org/abs/2604.15483) |
@@ -118,6 +122,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-04-30 | Do LLMs Capture Embodied Cognition and Cultural Variation? Cross-Linguistic Evidence from Demonstratives | Yu Wang, Emmanuele Chersoni, Chu-Ren Huang | [arXiv](https://arxiv.org/abs/2604.25423) |
 | 2026-04-29 | Aycromo: An Open-Source Platform for Automatic Chromosome Detection in Metaphase Images Based on Deep Learning | Jorge L. A. Lima, Filipe R. Cordeiro | [arXiv](https://arxiv.org/abs/2604.24685) |
 | 2026-04-29 | Real-time windrow detection from onboard tractor sensors for automated following | Lorenz Gunreben, Nico Heider, Sebastian Zürner | [arXiv](https://arxiv.org/abs/2604.24628) |
 | 2026-04-29 | WildLIFT: Lifting monocular drone video to 3D for species-agnostic wildlife monitoring | Vandita Shukla, Fabio Remondino, Blair Costelloe | [arXiv](https://arxiv.org/abs/2604.24718) |
@@ -234,6 +239,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-04-30](./2026/04/2026-04-30.md)
 - [2026-04-29](./2026/04/2026-04-29.md)
 - [2026-04-27](./2026/04/2026-04-27.md)
 - [2026-04-26](./2026/04/2026-04-26.md)

@@ -1545,5 +1545,65 @@
     "category": "Other",
     "date": "2026-04-29",
     "score": 3.0
+  },
+  "2604.24921": {
+    "title": "Libra-VLA: Achieving Learning Equilibrium via Asynchronous Coarse-to-Fine Dual-System",
+    "authors": [
+      "Yifei Wei",
+      "Linqing Zhong",
+      "Yi Liu"
+    ],
+    "url": "https://arxiv.org/abs/2604.24921",
+    "category": "VLA",
+    "date": "2026-04-30",
+    "score": 2.0
+  },
+  "2604.25423": {
+    "title": "Do LLMs Capture Embodied Cognition and Cultural Variation? Cross-Linguistic Evidence from Demonstratives",
+    "authors": [
+      "Yu Wang",
+      "Emmanuele Chersoni",
+      "Chu-Ren Huang"
+    ],
+    "url": "https://arxiv.org/abs/2604.25423",
+    "category": "Other",
+    "date": "2026-04-30",
+    "score": 2.0
+  },
+  "2604.25898": {
+    "title": "TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning",
+    "authors": [
+      "Dominik Żurek",
+      "Kamil Faber",
+      "Marcin Pietron"
+    ],
+    "url": "https://arxiv.org/abs/2604.25898",
+    "category": "Foundation Model",
+    "date": "2026-04-30",
+    "score": 0.0
+  },
+  "2604.25897": {
+    "title": "Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty",
+    "authors": [
+      "Clinton Enwerem",
+      "Shreya Kalyanaraman",
+      "John S. Baras"
+    ],
+    "url": "https://arxiv.org/abs/2604.25897",
+    "category": "Physical AI",
+    "date": "2026-04-30",
+    "score": 0.0
+  },
+  "2604.25788": {
+    "title": "KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning",
+    "authors": [
+      "Yixuan Huang",
+      "Bowen Li",
+      "Vaibhav Saxena"
+    ],
+    "url": "https://arxiv.org/abs/2604.25788",
+    "category": "Physical AI",
+    "date": "2026-04-30",
+    "score": 0.0
   }
 }
