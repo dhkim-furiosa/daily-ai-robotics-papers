@@ -22,6 +22,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-01 | STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation | Yuxuan Tian, Yurun Jin, Bin Yu | [arXiv](https://arxiv.org/abs/2604.26848) |
 | 2026-04-30 | Libra-VLA: Achieving Learning Equilibrium via Asynchronous Coarse-to-Fine Dual-System | Yifei Wei, Linqing Zhong, Yi Liu | [arXiv](https://arxiv.org/abs/2604.24921) |
 | 2026-04-29 | $M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills | Siyao Xiao, Yuhong Zhang, Zhifang Liu | [arXiv](https://arxiv.org/abs/2604.24182) |
 | 2026-04-29 | CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies | Fan Du, Feng Yan, Jianxiong Wu | [arXiv](https://arxiv.org/abs/2604.24622) |
@@ -85,6 +86,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-01 | 3D Generation for Embodied AI and Robotic Simulation: A Survey | Tianwei Ye, Yifan Mao, Minwen Liao | [arXiv](https://arxiv.org/abs/2604.26509) |
+| 2026-05-01 | Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robots | Ruben Malacarne, Ioannis Tsikelis, Enrico Mingo Hoffman | [arXiv](https://arxiv.org/abs/2604.26910) |
 | 2026-04-30 | Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty | Clinton Enwerem, Shreya Kalyanaraman, John S. Baras | [arXiv](https://arxiv.org/abs/2604.25897) |
 | 2026-04-30 | KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning | Yixuan Huang, Bowen Li, Vaibhav Saxena | [arXiv](https://arxiv.org/abs/2604.25788) |
 | 2026-04-27 | Mini-BEHAVIOR-Gran: Revealing U-Shaped Effects of Instruction Granularity on Language-Guided Embodied Agents | Sukai Huang, Chenyuan Zhang, Fucai Ke | [arXiv](https://arxiv.org/abs/2604.17019) |
@@ -122,6 +125,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-01 | Alter-Art: Exploring Embodied Artistic Creation through a Robot Avatar | Do Won Park, Samuele Bordini, Giorgio Grioli | [arXiv](https://arxiv.org/abs/2604.26473) |
+| 2026-05-01 | Safe Navigation using Neural Radiance Fields via Reachable Sets | Omanshu Thapliyal, Malarvizhi Sankaranarayanasamy, Ravigopal Vennelakanti | [arXiv](https://arxiv.org/abs/2604.26899) |
 | 2026-04-30 | Do LLMs Capture Embodied Cognition and Cultural Variation? Cross-Linguistic Evidence from Demonstratives | Yu Wang, Emmanuele Chersoni, Chu-Ren Huang | [arXiv](https://arxiv.org/abs/2604.25423) |
 | 2026-04-29 | Aycromo: An Open-Source Platform for Automatic Chromosome Detection in Metaphase Images Based on Deep Learning | Jorge L. A. Lima, Filipe R. Cordeiro | [arXiv](https://arxiv.org/abs/2604.24685) |
 | 2026-04-29 | Real-time windrow detection from onboard tractor sensors for automated following | Lorenz Gunreben, Nico Heider, Sebastian Zürner | [arXiv](https://arxiv.org/abs/2604.24628) |
@@ -239,6 +244,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-01](./2026/05/2026-05-01.md)
 - [2026-04-30](./2026/04/2026-04-30.md)
 - [2026-04-29](./2026/04/2026-04-29.md)
 - [2026-04-27](./2026/04/2026-04-27.md)

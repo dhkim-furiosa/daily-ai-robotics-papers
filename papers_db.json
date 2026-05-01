@@ -1605,5 +1605,65 @@
     "category": "Physical AI",
     "date": "2026-04-30",
     "score": 0.0
+  },
+  "2604.26848": {
+    "title": "STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation",
+    "authors": [
+      "Yuxuan Tian",
+      "Yurun Jin",
+      "Bin Yu"
+    ],
+    "url": "https://arxiv.org/abs/2604.26848",
+    "category": "VLA",
+    "date": "2026-05-01",
+    "score": 2.0
+  },
+  "2604.26509": {
+    "title": "3D Generation for Embodied AI and Robotic Simulation: A Survey",
+    "authors": [
+      "Tianwei Ye",
+      "Yifan Mao",
+      "Minwen Liao"
+    ],
+    "url": "https://arxiv.org/abs/2604.26509",
+    "category": "Physical AI",
+    "date": "2026-05-01",
+    "score": 2.0
+  },
+  "2604.26473": {
+    "title": "Alter-Art: Exploring Embodied Artistic Creation through a Robot Avatar",
+    "authors": [
+      "Do Won Park",
+      "Samuele Bordini",
+      "Giorgio Grioli"
+    ],
+    "url": "https://arxiv.org/abs/2604.26473",
+    "category": "Other",
+    "date": "2026-05-01",
+    "score": 2.0
+  },
+  "2604.26910": {
+    "title": "Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robots",
+    "authors": [
+      "Ruben Malacarne",
+      "Ioannis Tsikelis",
+      "Enrico Mingo Hoffman"
+    ],
+    "url": "https://arxiv.org/abs/2604.26910",
+    "category": "Physical AI",
+    "date": "2026-05-01",
+    "score": 0.0
+  },
+  "2604.26899": {
+    "title": "Safe Navigation using Neural Radiance Fields via Reachable Sets",
+    "authors": [
+      "Omanshu Thapliyal",
+      "Malarvizhi Sankaranarayanasamy",
+      "Ravigopal Vennelakanti"
+    ],
+    "url": "https://arxiv.org/abs/2604.26899",
+    "category": "Other",
+    "date": "2026-05-01",
+    "score": 0.0
   }
 }
