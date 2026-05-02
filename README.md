@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-02 | EdgeFM: Efficient Edge Inference for Vision-Language Models | Mengling Deng, Yuanpeng Chen, Sheng Yang | [arXiv](https://arxiv.org/abs/2604.27476) |
+| 2026-05-02 | LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models | Hao Chen, Jiaming Liu, Zhonghao Yan | [arXiv](https://arxiv.org/abs/2604.28192) |
 | 2026-05-01 | STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation | Yuxuan Tian, Yurun Jin, Bin Yu | [arXiv](https://arxiv.org/abs/2604.26848) |
 | 2026-04-30 | Libra-VLA: Achieving Learning Equilibrium via Asynchronous Coarse-to-Fine Dual-System | Yifei Wei, Linqing Zhong, Yi Liu | [arXiv](https://arxiv.org/abs/2604.24921) |
 | 2026-04-29 | $M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills | Siyao Xiao, Yuhong Zhang, Zhifang Liu | [arXiv](https://arxiv.org/abs/2604.24182) |
@@ -86,6 +88,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-02 | AmaraSpatial-10K: A Spatially and Semantically Aligned 3D Dataset for Spatial Computing and Embodied AI | Mohammad Sadegh Salehi, Alex Perkins, Igor Maurell | [arXiv](https://arxiv.org/abs/2604.23018) |
+| 2026-05-02 | Efficient, VRAM-Constrained xLM Inference on Clients | Aditya Ukarande, Deep Shekhar, Marc Blackstein | [arXiv](https://arxiv.org/abs/2604.26334) |
 | 2026-05-01 | 3D Generation for Embodied AI and Robotic Simulation: A Survey | Tianwei Ye, Yifan Mao, Minwen Liao | [arXiv](https://arxiv.org/abs/2604.26509) |
 | 2026-05-01 | Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robots | Ruben Malacarne, Ioannis Tsikelis, Enrico Mingo Hoffman | [arXiv](https://arxiv.org/abs/2604.26910) |
 | 2026-04-30 | Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty | Clinton Enwerem, Shreya Kalyanaraman, John S. Baras | [arXiv](https://arxiv.org/abs/2604.25897) |
@@ -113,6 +117,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-02 | Can Tabular Foundation Models Guide Exploration in Robot Policy Learning? | Buqing Ou, Frederike Dümbgen | [arXiv](https://arxiv.org/abs/2604.27667) |
 | 2026-04-30 | TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning | Dominik Żurek, Kamil Faber, Marcin Pietron | [arXiv](https://arxiv.org/abs/2604.25898) |
 | 2026-04-25 | Transferable Physics-Informed Representations via Closed-Form Head Adaptation | Jian Cheng Wong, Isaac Yin Chung Lai, Pao-Hsiung Chiu | [arXiv](https://arxiv.org/abs/2604.21761) |
 | 2026-04-24 | Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples | Ana Sanchez-Fernandez, Thomas Pinetz, Werner Zellinger | [arXiv](https://arxiv.org/abs/2604.20824) |
@@ -244,6 +249,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-02](./2026/05/2026-05-02.md)
 - [2026-05-01](./2026/05/2026-05-01.md)
 - [2026-04-30](./2026/04/2026-04-30.md)
 - [2026-04-29](./2026/04/2026-04-29.md)

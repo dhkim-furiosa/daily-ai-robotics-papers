@@ -1665,5 +1665,64 @@
     "category": "Other",
     "date": "2026-05-01",
     "score": 0.0
+  },
+  "2604.23018": {
+    "title": "AmaraSpatial-10K: A Spatially and Semantically Aligned 3D Dataset for Spatial Computing and Embodied AI",
+    "authors": [
+      "Mohammad Sadegh Salehi",
+      "Alex Perkins",
+      "Igor Maurell"
+    ],
+    "url": "https://arxiv.org/abs/2604.23018",
+    "category": "Physical AI",
+    "date": "2026-05-02",
+    "score": 5.0
+  },
+  "2604.27476": {
+    "title": "EdgeFM: Efficient Edge Inference for Vision-Language Models",
+    "authors": [
+      "Mengling Deng",
+      "Yuanpeng Chen",
+      "Sheng Yang"
+    ],
+    "url": "https://arxiv.org/abs/2604.27476",
+    "category": "VLA",
+    "date": "2026-05-02",
+    "score": 3.0
+  },
+  "2604.26334": {
+    "title": "Efficient, VRAM-Constrained xLM Inference on Clients",
+    "authors": [
+      "Aditya Ukarande",
+      "Deep Shekhar",
+      "Marc Blackstein"
+    ],
+    "url": "https://arxiv.org/abs/2604.26334",
+    "category": "Physical AI",
+    "date": "2026-05-02",
+    "score": 3.0
+  },
+  "2604.28192": {
+    "title": "LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models",
+    "authors": [
+      "Hao Chen",
+      "Jiaming Liu",
+      "Zhonghao Yan"
+    ],
+    "url": "https://arxiv.org/abs/2604.28192",
+    "category": "VLA",
+    "date": "2026-05-02",
+    "score": 2.0
+  },
+  "2604.27667": {
+    "title": "Can Tabular Foundation Models Guide Exploration in Robot Policy Learning?",
+    "authors": [
+      "Buqing Ou",
+      "Frederike Dümbgen"
+    ],
+    "url": "https://arxiv.org/abs/2604.27667",
+    "category": "Foundation Model",
+    "date": "2026-05-02",
+    "score": 2.0
   }
 }
