@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-05 | MiniVLA-Nav v1: A Multi-Scene Simulation Dataset for Language-Conditioned Robot Navigation | Ali Al-Bustami, Jaerock Kwon | [arXiv](https://arxiv.org/abs/2605.00397) |
+| 2026-05-05 | Embodied Interpretability: Linking Causal Understanding to Generalization in Vision-Language-Action Models | Hanxin Zhang, Mingshuo Xu, Abdulqader Dhafer | [arXiv](https://arxiv.org/abs/2605.00321) |
 | 2026-05-02 | EdgeFM: Efficient Edge Inference for Vision-Language Models | Mengling Deng, Yuanpeng Chen, Sheng Yang | [arXiv](https://arxiv.org/abs/2604.27476) |
 | 2026-05-02 | LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models | Hao Chen, Jiaming Liu, Zhonghao Yan | [arXiv](https://arxiv.org/abs/2604.28192) |
 | 2026-05-01 | STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation | Yuxuan Tian, Yurun Jin, Bin Yu | [arXiv](https://arxiv.org/abs/2604.26848) |
@@ -64,14 +66,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-08 | Adaptive Action Chunking at Inference-time for Vision-Language-Action Models | Yuanchang Liang, Xiaobo Wang, Kai Wang | [arXiv](https://arxiv.org/abs/2604.04161) |
 | 2026-04-06 | $π^{*}_{0.6}$: a VLA That Learns From Experience | Physical Intelligence, Ali Amin, Raichelle Aniceto | [arXiv](https://arxiv.org/abs/2511.14759) |
 | 2026-04-06 | CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation | Max Fu, Justin Yu, Karim El-Refai | [arXiv](https://arxiv.org/abs/2603.22435) |
-| 2026-04-04 | UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models | Qiyao Zhang, Shuhua Zheng, Jianli Sun | [arXiv](https://arxiv.org/abs/2604.02241) |
-| 2026-04-04 | UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving | Yongkang Li, Lijun Zhou, Sixu Yan | [arXiv](https://arxiv.org/abs/2604.02190) |
-| 2026-04-04 | Causal Scene Narration with Runtime Safety Supervision for Vision-Language-Action Driving | Yun Li, Yidu Zhang, Simon Thompson | [arXiv](https://arxiv.org/abs/2604.01723) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-05 | Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling | Sen Cui, Jingheng Ma | [arXiv](https://arxiv.org/abs/2605.00412) |
 | 2026-05-03 | HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation | Xin Zhou, Dingkang Liang, Xiwu Chen | [arXiv](https://arxiv.org/abs/2604.28196) |
 | 2026-05-03 | Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling | Keming Wu, Zuhao Yang, Kaichen Zhang | [arXiv](https://arxiv.org/abs/2604.28185) |
 | 2026-05-03 | Flying by Inference: Active Inference World Models for Adaptive UAV Swarms | Kaleem Arshid, Ali Krayani, Lucio Marcenaro | [arXiv](https://arxiv.org/abs/2604.27935) |
@@ -83,8 +83,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-14 | VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis | Xiaolei Lang, Yang Wang, Yukun Zhou | [arXiv](https://arxiv.org/abs/2604.09330) |
 | 2026-04-11 | Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework | Seyed Amir Ahmad Safavi-Naini, Elahe Meftah, Josh Mohess | [arXiv](https://arxiv.org/abs/2604.08226) |
 | 2026-04-07 | Hierarchical Planning with Latent World Models | Wancong Zhang, Basile Terver, Artem Zholus | [arXiv](https://arxiv.org/abs/2604.03208) |
-| 2026-04-04 | World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry | Yuejiang Liu, Fan Feng, Lingjing Kong | [arXiv](https://arxiv.org/abs/2604.01985) |
-| 2026-04-04 | Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation | Chongjie Ye, Cheng Cao, Chuanyu Pan | [arXiv](https://arxiv.org/abs/2604.02289) |
 
 ### Physical AI
 
@@ -111,14 +109,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-10 | RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild | Wenjing Margaret Mao, Jefferson Ng, Luyang Hu | [arXiv](https://arxiv.org/abs/2604.07331) |
 | 2026-04-07 | HeteroHub: An Applicable Data Management Framework for Heterogeneous Multi-Embodied Agent System | Xujia Li, Xin Li, Junquan Huang | [arXiv](https://arxiv.org/abs/2603.28010) |
 | 2026-04-07 | V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views | Junwei You, Pei Li, Zhuoyu Jiang | [arXiv](https://arxiv.org/abs/2604.02710) |
-| 2026-04-03 | A Physical Imitation Learning Pipeline for Energy-Efficient Quadruped Locomotion Assisted by Parallel Elastic Joint | Huyue Ma, Yurui Jin, Helmut Hauser | [arXiv](https://arxiv.org/abs/2604.00611) |
-| 2026-04-03 | EgoSim: Egocentric World Simulator for Embodied Interaction Generation | Jinkun Hao, Mingda Jia, Ruiyan Wang | [arXiv](https://arxiv.org/abs/2604.01001) |
-| 2026-04-03 | Collaborative Task and Path Planning for Heterogeneous Robotic Teams using Multi-Agent PPO | Matthias Rubio, Julia Richter, Hendrik Kolvenbach | [arXiv](https://arxiv.org/abs/2604.01213) |
 
 ### Foundation Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-05 | High-Speed Vision Improves Zero-Shot Semantic Understanding of Human Actions | Yongpeng Cao, Yuji Yamakawa | [arXiv](https://arxiv.org/abs/2605.00496) |
 | 2026-05-02 | Can Tabular Foundation Models Guide Exploration in Robot Policy Learning? | Buqing Ou, Frederike Dümbgen | [arXiv](https://arxiv.org/abs/2604.27667) |
 | 2026-04-30 | TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning | Dominik Żurek, Kamil Faber, Marcin Pietron | [arXiv](https://arxiv.org/abs/2604.25898) |
 | 2026-04-25 | Transferable Physics-Informed Representations via Closed-Form Head Adaptation | Jian Cheng Wong, Isaac Yin Chung Lai, Pao-Hsiung Chiu | [arXiv](https://arxiv.org/abs/2604.21761) |
@@ -132,6 +128,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-05 | Real-Time Frame- and Event-based Object Detection with Spiking Neural Networks on Edge Neuromorphic Hardware: Design, Deployment and Benchmark | Udayanga G. W. K. N. Gamage, Yan Zeng, Cesar Cadena | [arXiv](https://arxiv.org/abs/2605.00146) |
 | 2026-05-03 | FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction | Zeyu Jiang, Changqing Zhou, Xingxing Zuo | [arXiv](https://arxiv.org/abs/2604.28115) |
 | 2026-05-01 | Alter-Art: Exploring Embodied Artistic Creation through a Robot Avatar | Do Won Park, Samuele Bordini, Giorgio Grioli | [arXiv](https://arxiv.org/abs/2604.26473) |
 | 2026-05-01 | Safe Navigation using Neural Radiance Fields via Reachable Sets | Omanshu Thapliyal, Malarvizhi Sankaranarayanasamy, Ravigopal Vennelakanti | [arXiv](https://arxiv.org/abs/2604.26899) |
@@ -185,8 +182,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-05 | Cross-Modal Visuo-Tactile Object Perception | Anirvan Dutta, Simone Tasciotti, Claudia Cusseddu | [arXiv](https://arxiv.org/abs/2604.02108) |
 | 2026-04-05 | HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models | Junxiang Pan, Lipu Zhou, Baojie Chen | [arXiv](https://arxiv.org/abs/2604.02107) |
 | 2026-04-05 | CompassAD: Intent-Driven 3D Affordance Grounding in Functionally Competing Objects | Jingliang Li, Jindou Jia, Tuo An | [arXiv](https://arxiv.org/abs/2604.02060) |
-| 2026-04-03 | ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data | Yaoqin Ye, Yiteng Xu, Qin Sun | [arXiv](https://arxiv.org/abs/2604.01082) |
-| 2026-04-03 | Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies | Uksang Yoo, Mengjia Zhu, Evan Pezent | [arXiv](https://arxiv.org/abs/2604.01224) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -249,6 +244,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-05](./2026/05/2026-05-05.md)
 - [2026-05-03](./2026/05/2026-05-03.md)
 - [2026-05-02](./2026/05/2026-05-02.md)
 - [2026-05-01](./2026/05/2026-05-01.md)
