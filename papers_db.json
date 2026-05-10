@@ -1,183 +1,4 @@
 {
-  "2604.03208": {
-    "title": "Hierarchical Planning with Latent World Models",
-    "authors": [
-      "Wancong Zhang",
-      "Basile Terver",
-      "Artem Zholus"
-    ],
-    "url": "https://arxiv.org/abs/2604.03208",
-    "category": "World Model",
-    "date": "2026-04-07",
-    "score": 12.0
-  },
-  "2603.28010": {
-    "title": "HeteroHub: An Applicable Data Management Framework for Heterogeneous Multi-Embodied Agent System",
-    "authors": [
-      "Xujia Li",
-      "Xin Li",
-      "Junquan Huang"
-    ],
-    "url": "https://arxiv.org/abs/2603.28010",
-    "category": "Physical AI",
-    "date": "2026-04-07",
-    "score": 5.0
-  },
-  "2604.03181": {
-    "title": "Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model",
-    "authors": [
-      "Peiyan Li",
-      "Yixiang Chen",
-      "Yuan Xu"
-    ],
-    "url": "https://arxiv.org/abs/2604.03181",
-    "category": "Foundation Model",
-    "date": "2026-04-07",
-    "score": 3.0
-  },
-  "2604.03117": {
-    "title": "Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models",
-    "authors": [
-      "Chengyin Hu",
-      "Yuxian Dong",
-      "Yikun Guo"
-    ],
-    "url": "https://arxiv.org/abs/2604.03117",
-    "category": "Other",
-    "date": "2026-04-07",
-    "score": 3.0
-  },
-  "2604.02710": {
-    "title": "V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views",
-    "authors": [
-      "Junwei You",
-      "Pei Li",
-      "Zhuoyu Jiang"
-    ],
-    "url": "https://arxiv.org/abs/2604.02710",
-    "category": "Physical AI",
-    "date": "2026-04-07",
-    "score": 3.0
-  },
-  "2604.03956": {
-    "title": "VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models",
-    "authors": [
-      "Ravi Ranjan",
-      "Agoritsa Polyzou"
-    ],
-    "url": "https://arxiv.org/abs/2604.03956",
-    "category": "VLA",
-    "date": "2026-04-08",
-    "score": 8.0
-  },
-  "2604.04834": {
-    "title": "E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes",
-    "authors": [
-      "Jiajun Zhai",
-      "Hao Shi",
-      "Shangwei Guo"
-    ],
-    "url": "https://arxiv.org/abs/2604.04834",
-    "category": "VLA",
-    "date": "2026-04-08",
-    "score": 4.0
-  },
-  "2604.03998": {
-    "title": "VA-FastNavi-MARL: Real-Time Robot Control with Multimedia-Driven Meta-Reinforcement Learning",
-    "authors": [
-      "Yang Zhang",
-      "Shengxi Jing",
-      "Fengxiang Wang"
-    ],
-    "url": "https://arxiv.org/abs/2604.03998",
-    "category": "Other",
-    "date": "2026-04-08",
-    "score": 3.0
-  },
-  "2604.04161": {
-    "title": "Adaptive Action Chunking at Inference-time for Vision-Language-Action Models",
-    "authors": [
-      "Yuanchang Liang",
-      "Xiaobo Wang",
-      "Kai Wang"
-    ],
-    "url": "https://arxiv.org/abs/2604.04161",
-    "category": "VLA",
-    "date": "2026-04-08",
-    "score": 2.0
-  },
-  "2604.04811": {
-    "title": "AnyUser: Translating Sketched User Intent into Domestic Robots",
-    "authors": [
-      "Songyuan Yang",
-      "Huibin Tan",
-      "Kailun Yang"
-    ],
-    "url": "https://arxiv.org/abs/2604.04811",
-    "category": "Other",
-    "date": "2026-04-08",
-    "score": 0.0
-  },
-  "2604.06126": {
-    "title": "Gym-Anything: Turn any Software into an Agent Environment",
-    "authors": [
-      "Pranjal Aggarwal",
-      "Graham Neubig",
-      "Sean Welleck"
-    ],
-    "url": "https://arxiv.org/abs/2604.06126",
-    "category": "Other",
-    "date": "2026-04-09",
-    "score": 3.0
-  },
-  "2604.05718": {
-    "title": "MPM: Mutual Pair Merging for Efficient Vision Transformers",
-    "authors": [
-      "Simon Ravé",
-      "Pejman Rasti",
-      "David Rousseau"
-    ],
-    "url": "https://arxiv.org/abs/2604.05718",
-    "category": "Other",
-    "date": "2026-04-09",
-    "score": 3.0
-  },
-  "2604.05672": {
-    "title": "A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model",
-    "authors": [
-      "Kaidong Zhang",
-      "Jian Zhang",
-      "Rongtao Xu"
-    ],
-    "url": "https://arxiv.org/abs/2604.05672",
-    "category": "VLA",
-    "date": "2026-04-09",
-    "score": 2.0
-  },
-  "2604.05656": {
-    "title": "SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation",
-    "authors": [
-      "Wuyang Luan",
-      "Junhui Li",
-      "Weiguang Zhao"
-    ],
-    "url": "https://arxiv.org/abs/2604.05656",
-    "category": "VLA",
-    "date": "2026-04-09",
-    "score": 2.0
-  },
-  "2604.05614": {
-    "title": "Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment",
-    "authors": [
-      "Theodor Wulff",
-      "Federico Tavella",
-      "Rahul Singh Maharjan"
-    ],
-    "url": "https://arxiv.org/abs/2604.05614",
-    "category": "VLA",
-    "date": "2026-04-09",
-    "score": 2.0
-  },
   "2604.06621": {
     "title": "The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence",
     "authors": [
@@ -1602,6 +1423,65 @@
     "url": "https://arxiv.org/abs/2605.03909",
     "category": "Other",
     "date": "2026-05-07",
+    "score": 0.0
+  },
+  "2605.06388": {
+    "title": "Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models",
+    "authors": [
+      " Nilaksh",
+      "Saurav Jha",
+      "Artem Zholus"
+    ],
+    "url": "https://arxiv.org/abs/2605.06388",
+    "category": "World Model",
+    "date": "2026-05-10",
+    "score": 2.0
+  },
+  "2605.06234": {
+    "title": "RobotEQ: Transitioning from Passive Intelligence to Active Intelligence in Embodied AI",
+    "authors": [
+      "Kuofei Fang",
+      "Xinyi Che",
+      "Haomin Ouyang"
+    ],
+    "url": "https://arxiv.org/abs/2605.06234",
+    "category": "Physical AI",
+    "date": "2026-05-10",
+    "score": 2.0
+  },
+  "2605.06192": {
+    "title": "EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields",
+    "authors": [
+      "Zhaoyang Yang",
+      "Yurun Jin",
+      "Lizhe Qi"
+    ],
+    "url": "https://arxiv.org/abs/2605.06192",
+    "category": "World Model",
+    "date": "2026-05-10",
+    "score": 2.0
+  },
+  "2605.06175": {
+    "title": "VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts",
+    "authors": [
+      "Yuhua Jiang",
+      "Junjie Lu",
+      "Xinyao Qin"
+    ],
+    "url": "https://arxiv.org/abs/2605.06175",
+    "category": "VLA",
+    "date": "2026-05-10",
+    "score": 2.0
+  },
+  "2605.06662": {
+    "title": "Multi-Robot Coordination in V2X Environments",
+    "authors": [
+      "John Pravin Arockiasamy",
+      "Alexey Vinel"
+    ],
+    "url": "https://arxiv.org/abs/2605.06662",
+    "category": "Other",
+    "date": "2026-05-10",
     "score": 0.0
   }
 }
