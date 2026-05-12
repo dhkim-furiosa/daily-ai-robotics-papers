@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-12 | One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy | Zuojin Tang, Shengchao Yuan, Xiaoxin Bai | [arXiv](https://arxiv.org/abs/2605.07931) |
+| 2026-05-12 | ForgeVLA: Federated Vision-Language-Action Learning without Language Annotations | Yuhao Zhou, Yunpeng Zhu, Yang Zhou | [arXiv](https://arxiv.org/abs/2605.07474) |
+| 2026-05-12 | EggHand: A Multimodal Foundation Model for Egocentric Hand Pose Forecasting | Jaeyoung Choi, Hyeondong Kim, Yujin Kim | [arXiv](https://arxiv.org/abs/2605.07642) |
 | 2026-05-11 | OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation | Yushan Liu, Peibo Sun, Shoujie Li | [arXiv](https://arxiv.org/abs/2605.06481) |
 | 2026-05-10 | VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts | Yuhua Jiang, Junjie Lu, Xinyao Qin | [arXiv](https://arxiv.org/abs/2605.06175) |
 | 2026-05-07 | MolmoAct2: Action Reasoning Models for Real-world Deployment | Haoquan Fang, Jiafei Duan, Donovan Clay | [arXiv](https://arxiv.org/abs/2605.02881) |
@@ -60,7 +63,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-14 | 2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness | Zihao Zheng, Sicheng Tian, Zhihao Mao | [arXiv](https://arxiv.org/abs/2604.09244) |
 | 2026-04-13 | BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields | Fan Yang, Wenrui Chen, Guorun Yan | [arXiv](https://arxiv.org/abs/2604.08410) |
 | 2026-04-12 | LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation | Jingjing Wang, Zhengdong Hong, Chong Bao | [arXiv](https://arxiv.org/abs/2604.08475) |
-| 2026-04-11 | How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace | Baining Zhao, Ziyou Wang, Jianjie Fang | [arXiv](https://arxiv.org/abs/2604.07973) |
 
 ### World Model
 
@@ -80,7 +82,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-19 | POMDP-based Object Search with Growing State Space and Hybrid Action Domain | Yongbo Chen, Hesheng Wang, Shoudong Huang | [arXiv](https://arxiv.org/abs/2604.14965) |
 | 2026-04-19 | Learning Ad Hoc Network Dynamics via Graph-Structured World Models | Can Karacelebi, Yusuf Talha Sahin, Elif Surer | [arXiv](https://arxiv.org/abs/2604.14811) |
 | 2026-04-14 | VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis | Xiaolei Lang, Yang Wang, Yukun Zhou | [arXiv](https://arxiv.org/abs/2604.09330) |
-| 2026-04-11 | Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework | Seyed Amir Ahmad Safavi-Naini, Elahe Meftah, Josh Mohess | [arXiv](https://arxiv.org/abs/2604.08226) |
 
 ### Physical AI
 
@@ -109,6 +110,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-12 | PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation | Yijin Wang, Yuru Tian, Xijie Huang | [arXiv](https://arxiv.org/abs/2605.07496) |
 | 2026-05-11 | On-Orbit Real-Time Wildfire Detection Under On-Board Constraints | Matthias Rötzer, Veronika Pörtge, Martin Ickerott | [arXiv](https://arxiv.org/abs/2605.06273) |
 | 2026-05-05 | High-Speed Vision Improves Zero-Shot Semantic Understanding of Human Actions | Yongpeng Cao, Yuji Yamakawa | [arXiv](https://arxiv.org/abs/2605.00496) |
 | 2026-05-02 | Can Tabular Foundation Models Guide Exploration in Robot Policy Learning? | Buqing Ou, Frederike Dümbgen | [arXiv](https://arxiv.org/abs/2604.27667) |
@@ -121,6 +123,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-12 | Search-based Robustness Testing of Laptop Refurbishing Robotic Software | Erblin Isaku, Hassan Sartaj, Shaukat Ali | [arXiv](https://arxiv.org/abs/2605.07530) |
 | 2026-05-11 | ReActor: Reinforcement Learning for Physics-Aware Motion Retargeting | David Müller, Agon Serifi, Sammy Christen | [arXiv](https://arxiv.org/abs/2605.06593) |
 | 2026-05-11 | Lie Group Formulation of Recursive Dynamics Algorithms of Higher Order for Floating-Base Robots | Ahmed Ali, Chiara Gabellieri, Antonio Franchi | [arXiv](https://arxiv.org/abs/2605.06498) |
 | 2026-05-10 | Multi-Robot Coordination in V2X Environments | John Pravin Arockiasamy, Alexey Vinel | [arXiv](https://arxiv.org/abs/2605.06662) |
@@ -164,9 +167,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-12 | SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds | Yunsong Zhou, Hangxu Liu, Xuekun Jiang | [arXiv](https://arxiv.org/abs/2604.08544) |
 | 2026-04-12 | A-SLIP: Acoustic Sensing for Continuous In-hand Slip Estimation | Uksang Yoo, Yuemin Mao, Jean Oh | [arXiv](https://arxiv.org/abs/2604.08528) |
 | 2026-04-12 | Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation | John Z. Zhang, Maks Sorokin, Jan Brüdigam | [arXiv](https://arxiv.org/abs/2604.08508) |
-| 2026-04-11 | From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis | Juergen Dietrich | [arXiv](https://arxiv.org/abs/2604.08465) |
-| 2026-04-11 | PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models | Ruizhi Zhang, Ye Huang, Yuangang Pan | [arXiv](https://arxiv.org/abs/2604.08340) |
-| 2026-04-11 | HiRO-Nav: Hybrid ReasOning Enables Efficient Embodied Navigation | He Zhao, Yijun Yang, Zichuan Lin | [arXiv](https://arxiv.org/abs/2604.08232) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -229,6 +229,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-12](./2026/05/2026-05-12.md)
 - [2026-05-11](./2026/05/2026-05-11.md)
 - [2026-05-10](./2026/05/2026-05-10.md)
 - [2026-05-07](./2026/05/2026-05-07.md)

@@ -1,62 +1,4 @@
 {
-  "2604.08465": {
-    "title": "From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis",
-    "authors": [
-      "Juergen Dietrich"
-    ],
-    "url": "https://arxiv.org/abs/2604.08465",
-    "category": "Other",
-    "date": "2026-04-11",
-    "score": 3.0
-  },
-  "2604.08340": {
-    "title": "PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models",
-    "authors": [
-      "Ruizhi Zhang",
-      "Ye Huang",
-      "Yuangang Pan"
-    ],
-    "url": "https://arxiv.org/abs/2604.08340",
-    "category": "Other",
-    "date": "2026-04-11",
-    "score": 3.0
-  },
-  "2604.07973": {
-    "title": "How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace",
-    "authors": [
-      "Baining Zhao",
-      "Ziyou Wang",
-      "Jianjie Fang"
-    ],
-    "url": "https://arxiv.org/abs/2604.07973",
-    "category": "VLA",
-    "date": "2026-04-11",
-    "score": 2.0
-  },
-  "2604.08232": {
-    "title": "HiRO-Nav: Hybrid ReasOning Enables Efficient Embodied Navigation",
-    "authors": [
-      "He Zhao",
-      "Yijun Yang",
-      "Zichuan Lin"
-    ],
-    "url": "https://arxiv.org/abs/2604.08232",
-    "category": "Other",
-    "date": "2026-04-11",
-    "score": 2.0
-  },
-  "2604.08226": {
-    "title": "Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework",
-    "authors": [
-      "Seyed Amir Ahmad Safavi-Naini",
-      "Elahe Meftah",
-      "Josh Mohess"
-    ],
-    "url": "https://arxiv.org/abs/2604.08226",
-    "category": "World Model",
-    "date": "2026-04-11",
-    "score": 2.0
-  },
   "2604.08544": {
     "title": "SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
     "authors": [
@@ -1485,5 +1427,65 @@
     "category": "VLA",
     "date": "2026-05-11",
     "score": 0.0
+  },
+  "2605.07931": {
+    "title": "One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy",
+    "authors": [
+      "Zuojin Tang",
+      "Shengchao Yuan",
+      "Xiaoxin Bai"
+    ],
+    "url": "https://arxiv.org/abs/2605.07931",
+    "category": "VLA",
+    "date": "2026-05-12",
+    "score": 7.0
+  },
+  "2605.07474": {
+    "title": "ForgeVLA: Federated Vision-Language-Action Learning without Language Annotations",
+    "authors": [
+      "Yuhao Zhou",
+      "Yunpeng Zhu",
+      "Yang Zhou"
+    ],
+    "url": "https://arxiv.org/abs/2605.07474",
+    "category": "VLA",
+    "date": "2026-05-12",
+    "score": 4.0
+  },
+  "2605.07530": {
+    "title": "Search-based Robustness Testing of Laptop Refurbishing Robotic Software",
+    "authors": [
+      "Erblin Isaku",
+      "Hassan Sartaj",
+      "Shaukat Ali"
+    ],
+    "url": "https://arxiv.org/abs/2605.07530",
+    "category": "Other",
+    "date": "2026-05-12",
+    "score": 3.0
+  },
+  "2605.07642": {
+    "title": "EggHand: A Multimodal Foundation Model for Egocentric Hand Pose Forecasting",
+    "authors": [
+      "Jaeyoung Choi",
+      "Hyeondong Kim",
+      "Yujin Kim"
+    ],
+    "url": "https://arxiv.org/abs/2605.07642",
+    "category": "VLA",
+    "date": "2026-05-12",
+    "score": 2.0
+  },
+  "2605.07496": {
+    "title": "PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation",
+    "authors": [
+      "Yijin Wang",
+      "Yuru Tian",
+      "Xijie Huang"
+    ],
+    "url": "https://arxiv.org/abs/2605.07496",
+    "category": "Foundation Model",
+    "date": "2026-05-12",
+    "score": 2.0
   }
 }
