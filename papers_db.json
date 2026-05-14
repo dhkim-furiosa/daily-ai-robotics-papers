@@ -1,123 +1,4 @@
 {
-  "2604.08544": {
-    "title": "SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
-    "authors": [
-      "Yunsong Zhou",
-      "Hangxu Liu",
-      "Xuekun Jiang"
-    ],
-    "url": "https://arxiv.org/abs/2604.08544",
-    "category": "Other",
-    "date": "2026-04-12",
-    "score": 0.0
-  },
-  "2604.08534": {
-    "title": "ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration",
-    "authors": [
-      "Yanwen Zou",
-      "Chenyang Shi",
-      "Wenye Yu"
-    ],
-    "url": "https://arxiv.org/abs/2604.08534",
-    "category": "Physical AI",
-    "date": "2026-04-12",
-    "score": 0.0
-  },
-  "2604.08528": {
-    "title": "A-SLIP: Acoustic Sensing for Continuous In-hand Slip Estimation",
-    "authors": [
-      "Uksang Yoo",
-      "Yuemin Mao",
-      "Jean Oh"
-    ],
-    "url": "https://arxiv.org/abs/2604.08528",
-    "category": "Other",
-    "date": "2026-04-12",
-    "score": 0.0
-  },
-  "2604.08508": {
-    "title": "Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation",
-    "authors": [
-      "John Z. Zhang",
-      "Maks Sorokin",
-      "Jan Brüdigam"
-    ],
-    "url": "https://arxiv.org/abs/2604.08508",
-    "category": "Other",
-    "date": "2026-04-12",
-    "score": 0.0
-  },
-  "2604.08475": {
-    "title": "LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation",
-    "authors": [
-      "Jingjing Wang",
-      "Zhengdong Hong",
-      "Chong Bao"
-    ],
-    "url": "https://arxiv.org/abs/2604.08475",
-    "category": "VLA",
-    "date": "2026-04-12",
-    "score": 0.0
-  },
-  "2604.08443": {
-    "title": "A Soft Robotic Interface for Chick-Robot Affective Interactions",
-    "authors": [
-      "Jue Chen",
-      "Alexander Mielke",
-      "Kaspar Althoefer"
-    ],
-    "url": "https://arxiv.org/abs/2604.08443",
-    "category": "Other",
-    "date": "2026-04-13",
-    "score": 0.0
-  },
-  "2604.08418": {
-    "title": "Exploring Temporal Representation in Neural Processes for Multimodal Action Prediction",
-    "authors": [
-      "Marco Gabriele Fedozzi",
-      "Yukie Nagai",
-      "Francesco Rea"
-    ],
-    "url": "https://arxiv.org/abs/2604.08418",
-    "category": "Other",
-    "date": "2026-04-13",
-    "score": 0.0
-  },
-  "2604.08410": {
-    "title": "BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields",
-    "authors": [
-      "Fan Yang",
-      "Wenrui Chen",
-      "Guorun Yan"
-    ],
-    "url": "https://arxiv.org/abs/2604.08410",
-    "category": "VLA",
-    "date": "2026-04-13",
-    "score": 0.0
-  },
-  "2604.08341": {
-    "title": "A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations",
-    "authors": [
-      "Zi-Qi Yang",
-      "Mehrdad R. Kermani"
-    ],
-    "url": "https://arxiv.org/abs/2604.08341",
-    "category": "Other",
-    "date": "2026-04-13",
-    "score": 0.0
-  },
-  "2604.08292": {
-    "title": "EMMa: End-Effector Stability-Oriented Mobile Manipulation for Tracked Rescue Robots",
-    "authors": [
-      "Yifei Wang",
-      "Hao Zhang",
-      "Jidong Huang"
-    ],
-    "url": "https://arxiv.org/abs/2604.08292",
-    "category": "Other",
-    "date": "2026-04-13",
-    "score": 0.0
-  },
   "2604.09059": {
     "title": "Learning Vision-Language-Action World Models for Autonomous Driving",
     "authors": [
@@ -1486,6 +1367,66 @@
     "url": "https://arxiv.org/abs/2605.07496",
     "category": "Foundation Model",
     "date": "2026-05-12",
+    "score": 2.0
+  },
+  "2605.12236": {
+    "title": "TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning",
+    "authors": [
+      "Matthew M. Hong",
+      "Jesse Zhang",
+      "Anusha Nagabandi"
+    ],
+    "url": "https://arxiv.org/abs/2605.12236",
+    "category": "VLA",
+    "date": "2026-05-14",
+    "score": 10.0
+  },
+  "2605.12334": {
+    "title": "Reinforcing VLAs in Task-Agnostic World Models",
+    "authors": [
+      "Yucen Wang",
+      "Rui Yu",
+      "Fengming Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2605.12334",
+    "category": "VLA",
+    "date": "2026-05-14",
+    "score": 4.0
+  },
+  "2605.12369": {
+    "title": "GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization",
+    "authors": [
+      "Xiaosong Jia",
+      "Bowen Yang",
+      "Zuhao Ge"
+    ],
+    "url": "https://arxiv.org/abs/2605.12369",
+    "category": "VLA",
+    "date": "2026-05-14",
+    "score": 2.0
+  },
+  "2605.12160": {
+    "title": "Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete",
+    "authors": [
+      "Joonha Park",
+      "Jiseung Jeong",
+      "Taesik Gong"
+    ],
+    "url": "https://arxiv.org/abs/2605.12160",
+    "category": "VLA",
+    "date": "2026-05-14",
+    "score": 2.0
+  },
+  "2605.12090": {
+    "title": "World Action Models: The Next Frontier in Embodied AI",
+    "authors": [
+      "Siyin Wang",
+      "Junhao Shi",
+      "Zhaoyang Fu"
+    ],
+    "url": "https://arxiv.org/abs/2605.12090",
+    "category": "VLA",
+    "date": "2026-05-14",
     "score": 2.0
   }
 }

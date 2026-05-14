@@ -22,6 +22,11 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-14 | TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning | Matthew M. Hong, Jesse Zhang, Anusha Nagabandi | [arXiv](https://arxiv.org/abs/2605.12236) |
+| 2026-05-14 | Reinforcing VLAs in Task-Agnostic World Models | Yucen Wang, Rui Yu, Fengming Zhang | [arXiv](https://arxiv.org/abs/2605.12334) |
+| 2026-05-14 | GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization | Xiaosong Jia, Bowen Yang, Zuhao Ge | [arXiv](https://arxiv.org/abs/2605.12369) |
+| 2026-05-14 | Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete | Joonha Park, Jiseung Jeong, Taesik Gong | [arXiv](https://arxiv.org/abs/2605.12160) |
+| 2026-05-14 | World Action Models: The Next Frontier in Embodied AI | Siyin Wang, Junhao Shi, Zhaoyang Fu | [arXiv](https://arxiv.org/abs/2605.12090) |
 | 2026-05-12 | One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy | Zuojin Tang, Shengchao Yuan, Xiaoxin Bai | [arXiv](https://arxiv.org/abs/2605.07931) |
 | 2026-05-12 | ForgeVLA: Federated Vision-Language-Action Learning without Language Annotations | Yuhao Zhou, Yunpeng Zhu, Yang Zhou | [arXiv](https://arxiv.org/abs/2605.07474) |
 | 2026-05-12 | EggHand: A Multimodal Foundation Model for Egocentric Hand Pose Forecasting | Jaeyoung Choi, Hyeondong Kim, Yujin Kim | [arXiv](https://arxiv.org/abs/2605.07642) |
@@ -61,8 +66,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-14 | Learning Vision-Language-Action World Models for Autonomous Driving | Guoqing Wang, Pin Tang, Xiangxuan Ren | [arXiv](https://arxiv.org/abs/2604.09059) |
 | 2026-04-14 | V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation | Yaru Liu, Ao-bo Wang, Nanyang Ye | [arXiv](https://arxiv.org/abs/2604.09036) |
 | 2026-04-14 | 2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness | Zihao Zheng, Sicheng Tian, Zhihao Mao | [arXiv](https://arxiv.org/abs/2604.09244) |
-| 2026-04-13 | BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields | Fan Yang, Wenrui Chen, Guorun Yan | [arXiv](https://arxiv.org/abs/2604.08410) |
-| 2026-04-12 | LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation | Jingjing Wang, Zhengdong Hong, Chong Bao | [arXiv](https://arxiv.org/abs/2604.08475) |
 
 ### World Model
 
@@ -104,7 +107,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-16 | XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios | Junming Wang, Teng Pu, Wingmun Fung | [arXiv](https://arxiv.org/abs/2604.13001) |
 | 2026-04-16 | Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots | Yifei Yan, Linqi Ye | [arXiv](https://arxiv.org/abs/2604.12909) |
 | 2026-04-15 | GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth | Krishna Jaganathan, Patricio Vela | [arXiv](https://arxiv.org/abs/2604.11585) |
-| 2026-04-12 | ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration | Yanwen Zou, Chenyang Shi, Wenye Yu | [arXiv](https://arxiv.org/abs/2604.08534) |
 
 ### Foundation Model
 
@@ -160,13 +162,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-17 | Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization | Jianzong Wang, Botao Zhao, Yayun He | [arXiv](https://arxiv.org/abs/2604.13533) |
 | 2026-04-15 | AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation | Mingyang Li, Haofan Xu, Haowen Sun | [arXiv](https://arxiv.org/abs/2604.11674) |
 | 2026-04-14 | Physics-Informed Reinforcement Learning of Spatial Density Velocity Potentials for Map-Free Racing | Shathushan Sivashangaran, Apoorva Khairnar, Sepideh Gohari | [arXiv](https://arxiv.org/abs/2604.09499) |
-| 2026-04-13 | A Soft Robotic Interface for Chick-Robot Affective Interactions | Jue Chen, Alexander Mielke, Kaspar Althoefer | [arXiv](https://arxiv.org/abs/2604.08443) |
-| 2026-04-13 | Exploring Temporal Representation in Neural Processes for Multimodal Action Prediction | Marco Gabriele Fedozzi, Yukie Nagai, Francesco Rea | [arXiv](https://arxiv.org/abs/2604.08418) |
-| 2026-04-13 | A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations | Zi-Qi Yang, Mehrdad R. Kermani | [arXiv](https://arxiv.org/abs/2604.08341) |
-| 2026-04-13 | EMMa: End-Effector Stability-Oriented Mobile Manipulation for Tracked Rescue Robots | Yifei Wang, Hao Zhang, Jidong Huang | [arXiv](https://arxiv.org/abs/2604.08292) |
-| 2026-04-12 | SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds | Yunsong Zhou, Hangxu Liu, Xuekun Jiang | [arXiv](https://arxiv.org/abs/2604.08544) |
-| 2026-04-12 | A-SLIP: Acoustic Sensing for Continuous In-hand Slip Estimation | Uksang Yoo, Yuemin Mao, Jean Oh | [arXiv](https://arxiv.org/abs/2604.08528) |
-| 2026-04-12 | Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation | John Z. Zhang, Maks Sorokin, Jan Brüdigam | [arXiv](https://arxiv.org/abs/2604.08508) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -229,6 +224,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-14](./2026/05/2026-05-14.md)
 - [2026-05-12](./2026/05/2026-05-12.md)
 - [2026-05-11](./2026/05/2026-05-11.md)
 - [2026-05-10](./2026/05/2026-05-10.md)
