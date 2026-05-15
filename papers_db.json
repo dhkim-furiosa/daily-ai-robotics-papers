@@ -1,64 +1,4 @@
 {
-  "2604.09059": {
-    "title": "Learning Vision-Language-Action World Models for Autonomous Driving",
-    "authors": [
-      "Guoqing Wang",
-      "Pin Tang",
-      "Xiangxuan Ren"
-    ],
-    "url": "https://arxiv.org/abs/2604.09059",
-    "category": "VLA",
-    "date": "2026-04-14",
-    "score": 4.0
-  },
-  "2604.09036": {
-    "title": "V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation",
-    "authors": [
-      "Yaru Liu",
-      "Ao-bo Wang",
-      "Nanyang Ye"
-    ],
-    "url": "https://arxiv.org/abs/2604.09036",
-    "category": "VLA",
-    "date": "2026-04-14",
-    "score": 3.0
-  },
-  "2604.09330": {
-    "title": "VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis",
-    "authors": [
-      "Xiaolei Lang",
-      "Yang Wang",
-      "Yukun Zhou"
-    ],
-    "url": "https://arxiv.org/abs/2604.09330",
-    "category": "World Model",
-    "date": "2026-04-14",
-    "score": 2.0
-  },
-  "2604.09244": {
-    "title": "2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness",
-    "authors": [
-      "Zihao Zheng",
-      "Sicheng Tian",
-      "Zhihao Mao"
-    ],
-    "url": "https://arxiv.org/abs/2604.09244",
-    "category": "VLA",
-    "date": "2026-04-14",
-    "score": 2.0
-  },
-  "2604.09499": {
-    "title": "Physics-Informed Reinforcement Learning of Spatial Density Velocity Potentials for Map-Free Racing",
-    "authors": [
-      "Shathushan Sivashangaran",
-      "Apoorva Khairnar",
-      "Sepideh Gohari"
-    ],
-    "url": "https://arxiv.org/abs/2604.09499",
-    "category": "Other",
-    "date": "2026-04-14",
-    "score": 0.0
-  },
   "2604.11757": {
     "title": "StarVLA-$α$: Reducing Complexity in Vision-Language-Action Systems",
     "authors": [
@@ -1427,6 +1367,66 @@
     "url": "https://arxiv.org/abs/2605.12090",
     "category": "VLA",
     "date": "2026-05-14",
+    "score": 2.0
+  },
+  "2605.13632": {
+    "title": "Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models",
+    "authors": [
+      "Yiran Ling",
+      "Qing Lian",
+      "Jinghang Li"
+    ],
+    "url": "https://arxiv.org/abs/2605.13632",
+    "category": "VLA",
+    "date": "2026-05-15",
+    "score": 4.0
+  },
+  "2605.13403": {
+    "title": "RotVLA: Rotational Latent Action for Vision-Language-Action Model",
+    "authors": [
+      "Qiwei Li",
+      "Xicheng Gong",
+      "Xinghang Li"
+    ],
+    "url": "https://arxiv.org/abs/2605.13403",
+    "category": "VLA",
+    "date": "2026-05-15",
+    "score": 4.0
+  },
+  "2605.13778": {
+    "title": "Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs",
+    "authors": [
+      "Jiahui Niu",
+      "Kefan Gu",
+      "Yucheng Zhao"
+    ],
+    "url": "https://arxiv.org/abs/2605.13778",
+    "category": "VLA",
+    "date": "2026-05-15",
+    "score": 2.0
+  },
+  "2605.13757": {
+    "title": "FrameSkip: Learning from Fewer but More Informative Frames in VLA Training",
+    "authors": [
+      "Bin Yu",
+      "Shijie Lian",
+      "Xiaopeng Lin"
+    ],
+    "url": "https://arxiv.org/abs/2605.13757",
+    "category": "VLA",
+    "date": "2026-05-15",
+    "score": 2.0
+  },
+  "2605.13740": {
+    "title": "Learning POMDP World Models from Observations with Language-Model Priors",
+    "authors": [
+      "Valentin Six",
+      "Frederik Panse",
+      "Mathis Fajeau"
+    ],
+    "url": "https://arxiv.org/abs/2605.13740",
+    "category": "World Model",
+    "date": "2026-05-15",
     "score": 2.0
   }
 }

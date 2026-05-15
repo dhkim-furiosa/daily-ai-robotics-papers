@@ -22,6 +22,10 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-15 | Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models | Yiran Ling, Qing Lian, Jinghang Li | [arXiv](https://arxiv.org/abs/2605.13632) |
+| 2026-05-15 | RotVLA: Rotational Latent Action for Vision-Language-Action Model | Qiwei Li, Xicheng Gong, Xinghang Li | [arXiv](https://arxiv.org/abs/2605.13403) |
+| 2026-05-15 | Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs | Jiahui Niu, Kefan Gu, Yucheng Zhao | [arXiv](https://arxiv.org/abs/2605.13778) |
+| 2026-05-15 | FrameSkip: Learning from Fewer but More Informative Frames in VLA Training | Bin Yu, Shijie Lian, Xiaopeng Lin | [arXiv](https://arxiv.org/abs/2605.13757) |
 | 2026-05-14 | TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning | Matthew M. Hong, Jesse Zhang, Anusha Nagabandi | [arXiv](https://arxiv.org/abs/2605.12236) |
 | 2026-05-14 | Reinforcing VLAs in Task-Agnostic World Models | Yucen Wang, Rui Yu, Fengming Zhang | [arXiv](https://arxiv.org/abs/2605.12334) |
 | 2026-05-14 | GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization | Xiaosong Jia, Bowen Yang, Zuhao Ge | [arXiv](https://arxiv.org/abs/2605.12369) |
@@ -63,14 +67,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-15 | StarVLA-$α$: Reducing Complexity in Vision-Language-Action Systems | Jinhui Ye, Ning Gao, Senqiao Yang | [arXiv](https://arxiv.org/abs/2604.11757) |
 | 2026-04-15 | Grounded World Model for Semantically Generalizable Planning | Quanyi Li, Lan Feng, Haonan Zhang | [arXiv](https://arxiv.org/abs/2604.11751) |
 | 2026-04-15 | DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models | Siyuan Xu, Tianshi Wang, Fengling Li | [arXiv](https://arxiv.org/abs/2604.11572) |
-| 2026-04-14 | Learning Vision-Language-Action World Models for Autonomous Driving | Guoqing Wang, Pin Tang, Xiangxuan Ren | [arXiv](https://arxiv.org/abs/2604.09059) |
-| 2026-04-14 | V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation | Yaru Liu, Ao-bo Wang, Nanyang Ye | [arXiv](https://arxiv.org/abs/2604.09036) |
-| 2026-04-14 | 2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness | Zihao Zheng, Sicheng Tian, Zhihao Mao | [arXiv](https://arxiv.org/abs/2604.09244) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-15 | Learning POMDP World Models from Observations with Language-Model Priors | Valentin Six, Frederik Panse, Mathis Fajeau | [arXiv](https://arxiv.org/abs/2605.13740) |
 | 2026-05-11 | World Model for Robot Learning: A Comprehensive Survey | Bohan Hou, Gen Li, Jindou Jia | [arXiv](https://arxiv.org/abs/2605.00080) |
 | 2026-05-10 | Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models |  Nilaksh, Saurav Jha, Artem Zholus | [arXiv](https://arxiv.org/abs/2605.06388) |
 | 2026-05-10 | EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields | Zhaoyang Yang, Yurun Jin, Lizhe Qi | [arXiv](https://arxiv.org/abs/2605.06192) |
@@ -84,7 +86,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-26 | Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training | Yaxuan Li, Zhongyi Zhou, Yefei Chen | [arXiv](https://arxiv.org/abs/2604.21741) |
 | 2026-04-19 | POMDP-based Object Search with Growing State Space and Hybrid Action Domain | Yongbo Chen, Hesheng Wang, Shoudong Huang | [arXiv](https://arxiv.org/abs/2604.14965) |
 | 2026-04-19 | Learning Ad Hoc Network Dynamics via Graph-Structured World Models | Can Karacelebi, Yusuf Talha Sahin, Elif Surer | [arXiv](https://arxiv.org/abs/2604.14811) |
-| 2026-04-14 | VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis | Xiaolei Lang, Yang Wang, Yukun Zhou | [arXiv](https://arxiv.org/abs/2604.09330) |
 
 ### Physical AI
 
@@ -161,7 +162,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-17 | Diffusion Sequence Models for Generative In-Context Meta-Learning of Robot Dynamics | Angelo Moroncelli, Matteo Rufolo, Gunes Cagin Aydin | [arXiv](https://arxiv.org/abs/2604.13366) |
 | 2026-04-17 | Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization | Jianzong Wang, Botao Zhao, Yayun He | [arXiv](https://arxiv.org/abs/2604.13533) |
 | 2026-04-15 | AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation | Mingyang Li, Haofan Xu, Haowen Sun | [arXiv](https://arxiv.org/abs/2604.11674) |
-| 2026-04-14 | Physics-Informed Reinforcement Learning of Spatial Density Velocity Potentials for Map-Free Racing | Shathushan Sivashangaran, Apoorva Khairnar, Sepideh Gohari | [arXiv](https://arxiv.org/abs/2604.09499) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -224,6 +224,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-15](./2026/05/2026-05-15.md)
 - [2026-05-14](./2026/05/2026-05-14.md)
 - [2026-05-12](./2026/05/2026-05-12.md)
 - [2026-05-11](./2026/05/2026-05-11.md)
