@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-16 | D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models | Yucheng Guo, Yongjian Guo, Zhong Guan | [arXiv](https://arxiv.org/abs/2605.13276) |
+| 2026-05-16 | BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation | Zhaohui Du, Zhe Wang, Hongmei Fei | [arXiv](https://arxiv.org/abs/2605.07306) |
+| 2026-05-16 | Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction | Zhuohang Li, Liqun Huang, Wei Xu | [arXiv](https://arxiv.org/abs/2605.15157) |
 | 2026-05-15 | Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models | Yiran Ling, Qing Lian, Jinghang Li | [arXiv](https://arxiv.org/abs/2605.13632) |
 | 2026-05-15 | RotVLA: Rotational Latent Action for Vision-Language-Action Model | Qiwei Li, Xicheng Gong, Xinghang Li | [arXiv](https://arxiv.org/abs/2605.13403) |
 | 2026-05-15 | Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs | Jiahui Niu, Kefan Gu, Yucheng Zhao | [arXiv](https://arxiv.org/abs/2605.13778) |
@@ -64,9 +67,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-17 | Jump-Start Reinforcement Learning with Vision-Language-Action Regularization | Angelo Moroncelli, Roberto Zanetti, Marco Maccarini | [arXiv](https://arxiv.org/abs/2604.13733) |
 | 2026-04-16 | Robotic Manipulation is Vision-to-Geometry Mapping ($f(v) \rightarrow G$): Vision-Geometry Backbones over Language and Video Models | Zijian Song, Qichang Li, Jiawei Zhou | [arXiv](https://arxiv.org/abs/2604.12908) |
 | 2026-04-16 | HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models | Zixing Chen, Yifeng Gao, Li Wang | [arXiv](https://arxiv.org/abs/2604.12447) |
-| 2026-04-15 | StarVLA-$α$: Reducing Complexity in Vision-Language-Action Systems | Jinhui Ye, Ning Gao, Senqiao Yang | [arXiv](https://arxiv.org/abs/2604.11757) |
-| 2026-04-15 | Grounded World Model for Semantically Generalizable Planning | Quanyi Li, Lan Feng, Haonan Zhang | [arXiv](https://arxiv.org/abs/2604.11751) |
-| 2026-04-15 | DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models | Siyuan Xu, Tianshi Wang, Fengling Li | [arXiv](https://arxiv.org/abs/2604.11572) |
 
 ### World Model
 
@@ -91,6 +91,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-16 | SpeakerLLM: A Speaker-Specialized Audio-LLM for Speaker Understanding and Verification Reasoning | KiHyun Nam, Jungwoo Heo, Siu Bae | [arXiv](https://arxiv.org/abs/2605.15044) |
+| 2026-05-16 | BARISTA: A Multi-Task Egocentric Benchmark for Compositional Visual Understanding | Patrick Knab, Orgest Xhelili, Inis Buzi | [arXiv](https://arxiv.org/abs/2605.12074) |
 | 2026-05-10 | RobotEQ: Transitioning from Passive Intelligence to Active Intelligence in Embodied AI | Kuofei Fang, Xinyi Che, Haomin Ouyang | [arXiv](https://arxiv.org/abs/2605.06234) |
 | 2026-05-07 | OGPO: Sample Efficient Full-Finetuning of Generative Control Policies | Sarvesh Patil, Mitsuhiko Nakamoto, Manan Agarwal | [arXiv](https://arxiv.org/abs/2605.03065) |
 | 2026-05-02 | AmaraSpatial-10K: A Spatially and Semantically Aligned 3D Dataset for Spatial Computing and Embodied AI | Mohammad Sadegh Salehi, Alex Perkins, Igor Maurell | [arXiv](https://arxiv.org/abs/2604.23018) |
@@ -107,7 +109,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-16 | Learning Versatile Humanoid Manipulation with Touch Dreaming | Yaru Niu, Zhenlong Fang, Binghong Chen | [arXiv](https://arxiv.org/abs/2604.13015) |
 | 2026-04-16 | XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios | Junming Wang, Teng Pu, Wingmun Fung | [arXiv](https://arxiv.org/abs/2604.13001) |
 | 2026-04-16 | Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots | Yifei Yan, Linqi Ye | [arXiv](https://arxiv.org/abs/2604.12909) |
-| 2026-04-15 | GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth | Krishna Jaganathan, Patricio Vela | [arXiv](https://arxiv.org/abs/2604.11585) |
 
 ### Foundation Model
 
@@ -161,7 +162,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-19 | Nautilus: An Auto-Scheduling Tensor Compiler for Efficient Tiled GPU Kernels | Yifan Zhao, Yuchen Yang, Matei Budiu | [arXiv](https://arxiv.org/abs/2604.14825) |
 | 2026-04-17 | Diffusion Sequence Models for Generative In-Context Meta-Learning of Robot Dynamics | Angelo Moroncelli, Matteo Rufolo, Gunes Cagin Aydin | [arXiv](https://arxiv.org/abs/2604.13366) |
 | 2026-04-17 | Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization | Jianzong Wang, Botao Zhao, Yayun He | [arXiv](https://arxiv.org/abs/2604.13533) |
-| 2026-04-15 | AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation | Mingyang Li, Haofan Xu, Haowen Sun | [arXiv](https://arxiv.org/abs/2604.11674) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -224,6 +224,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-16](./2026/05/2026-05-16.md)
 - [2026-05-15](./2026/05/2026-05-15.md)
 - [2026-05-14](./2026/05/2026-05-14.md)
 - [2026-05-12](./2026/05/2026-05-12.md)

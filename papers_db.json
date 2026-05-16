@@ -1,63 +1,4 @@
 {
-  "2604.11757": {
-    "title": "StarVLA-$α$: Reducing Complexity in Vision-Language-Action Systems",
-    "authors": [
-      "Jinhui Ye",
-      "Ning Gao",
-      "Senqiao Yang"
-    ],
-    "url": "https://arxiv.org/abs/2604.11757",
-    "category": "VLA",
-    "date": "2026-04-15",
-    "score": 4.0
-  },
-  "2604.11674": {
-    "title": "AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation",
-    "authors": [
-      "Mingyang Li",
-      "Haofan Xu",
-      "Haowen Sun"
-    ],
-    "url": "https://arxiv.org/abs/2604.11674",
-    "category": "Other",
-    "date": "2026-04-15",
-    "score": 3.0
-  },
-  "2604.11585": {
-    "title": "GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth",
-    "authors": [
-      "Krishna Jaganathan",
-      "Patricio Vela"
-    ],
-    "url": "https://arxiv.org/abs/2604.11585",
-    "category": "Physical AI",
-    "date": "2026-04-15",
-    "score": 3.0
-  },
-  "2604.11751": {
-    "title": "Grounded World Model for Semantically Generalizable Planning",
-    "authors": [
-      "Quanyi Li",
-      "Lan Feng",
-      "Haonan Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2604.11751",
-    "category": "VLA",
-    "date": "2026-04-15",
-    "score": 2.0
-  },
-  "2604.11572": {
-    "title": "DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models",
-    "authors": [
-      "Siyuan Xu",
-      "Tianshi Wang",
-      "Fengling Li"
-    ],
-    "url": "https://arxiv.org/abs/2604.11572",
-    "category": "VLA",
-    "date": "2026-04-15",
-    "score": 2.0
-  },
   "2604.12908": {
     "title": "Robotic Manipulation is Vision-to-Geometry Mapping ($f(v) \\rightarrow G$): Vision-Geometry Backbones over Language and Video Models",
     "authors": [
@@ -1427,6 +1368,66 @@
     "url": "https://arxiv.org/abs/2605.13740",
     "category": "World Model",
     "date": "2026-05-15",
+    "score": 2.0
+  },
+  "2605.13276": {
+    "title": "D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models",
+    "authors": [
+      "Yucheng Guo",
+      "Yongjian Guo",
+      "Zhong Guan"
+    ],
+    "url": "https://arxiv.org/abs/2605.13276",
+    "category": "VLA",
+    "date": "2026-05-16",
+    "score": 4.0
+  },
+  "2605.07306": {
+    "title": "BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation",
+    "authors": [
+      "Zhaohui Du",
+      "Zhe Wang",
+      "Hongmei Fei"
+    ],
+    "url": "https://arxiv.org/abs/2605.07306",
+    "category": "VLA",
+    "date": "2026-05-16",
+    "score": 4.0
+  },
+  "2605.15044": {
+    "title": "SpeakerLLM: A Speaker-Specialized Audio-LLM for Speaker Understanding and Verification Reasoning",
+    "authors": [
+      "KiHyun Nam",
+      "Jungwoo Heo",
+      "Siu Bae"
+    ],
+    "url": "https://arxiv.org/abs/2605.15044",
+    "category": "Physical AI",
+    "date": "2026-05-16",
+    "score": 3.0
+  },
+  "2605.12074": {
+    "title": "BARISTA: A Multi-Task Egocentric Benchmark for Compositional Visual Understanding",
+    "authors": [
+      "Patrick Knab",
+      "Orgest Xhelili",
+      "Inis Buzi"
+    ],
+    "url": "https://arxiv.org/abs/2605.12074",
+    "category": "Physical AI",
+    "date": "2026-05-16",
+    "score": 3.0
+  },
+  "2605.15157": {
+    "title": "Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction",
+    "authors": [
+      "Zhuohang Li",
+      "Liqun Huang",
+      "Wei Xu"
+    ],
+    "url": "https://arxiv.org/abs/2605.15157",
+    "category": "VLA",
+    "date": "2026-05-16",
     "score": 2.0
   }
 }
