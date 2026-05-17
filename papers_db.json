@@ -1,63 +1,4 @@
 {
-  "2604.12908": {
-    "title": "Robotic Manipulation is Vision-to-Geometry Mapping ($f(v) \\rightarrow G$): Vision-Geometry Backbones over Language and Video Models",
-    "authors": [
-      "Zijian Song",
-      "Qichang Li",
-      "Jiawei Zhou"
-    ],
-    "url": "https://arxiv.org/abs/2604.12908",
-    "category": "VLA",
-    "date": "2026-04-16",
-    "score": 3.0
-  },
-  "2604.12447": {
-    "title": "HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models",
-    "authors": [
-      "Zixing Chen",
-      "Yifeng Gao",
-      "Li Wang"
-    ],
-    "url": "https://arxiv.org/abs/2604.12447",
-    "category": "VLA",
-    "date": "2026-04-16",
-    "score": 2.0
-  },
-  "2604.13015": {
-    "title": "Learning Versatile Humanoid Manipulation with Touch Dreaming",
-    "authors": [
-      "Yaru Niu",
-      "Zhenlong Fang",
-      "Binghong Chen"
-    ],
-    "url": "https://arxiv.org/abs/2604.13015",
-    "category": "Physical AI",
-    "date": "2026-04-16",
-    "score": 0.0
-  },
-  "2604.13001": {
-    "title": "XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios",
-    "authors": [
-      "Junming Wang",
-      "Teng Pu",
-      "Wingmun Fung"
-    ],
-    "url": "https://arxiv.org/abs/2604.13001",
-    "category": "Physical AI",
-    "date": "2026-04-16",
-    "score": 0.0
-  },
-  "2604.12909": {
-    "title": "Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots",
-    "authors": [
-      "Yifei Yan",
-      "Linqi Ye"
-    ],
-    "url": "https://arxiv.org/abs/2604.12909",
-    "category": "Physical AI",
-    "date": "2026-04-16",
-    "score": 0.0
-  },
   "2604.14125": {
     "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
     "authors": [
@@ -1428,6 +1369,66 @@
     "url": "https://arxiv.org/abs/2605.15157",
     "category": "VLA",
     "date": "2026-05-16",
+    "score": 2.0
+  },
+  "2605.14759": {
+    "title": "Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement",
+    "authors": [
+      "Nian Liu",
+      "Nikita Kazeev",
+      "Stephen Gregory Dale"
+    ],
+    "url": "https://arxiv.org/abs/2605.14759",
+    "category": "World Model",
+    "date": "2026-05-17",
+    "score": 10.0
+  },
+  "2605.13986": {
+    "title": "TabPFN-3: Technical Report",
+    "authors": [
+      "Léo Grinsztajn",
+      "Klemens Flöge",
+      "Oscar Key"
+    ],
+    "url": "https://arxiv.org/abs/2605.13986",
+    "category": "Foundation Model",
+    "date": "2026-05-17",
+    "score": 10.0
+  },
+  "2605.06732": {
+    "title": "On Training in Imagination",
+    "authors": [
+      "Nadav Timor",
+      "Ravid Shwartz-Ziv",
+      "Micah Goldblum"
+    ],
+    "url": "https://arxiv.org/abs/2605.06732",
+    "category": "Other",
+    "date": "2026-05-17",
+    "score": 10.0
+  },
+  "2605.14950": {
+    "title": "Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model",
+    "authors": [
+      "Tao Lin",
+      "Yuxin Du",
+      "Jiting Liu"
+    ],
+    "url": "https://arxiv.org/abs/2605.14950",
+    "category": "VLA",
+    "date": "2026-05-17",
+    "score": 2.0
+  },
+  "2605.14712": {
+    "title": "IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation",
+    "authors": [
+      "Shijie Lian",
+      "Bin Yu",
+      "Xiaopeng Lin"
+    ],
+    "url": "https://arxiv.org/abs/2605.14712",
+    "category": "VLA",
+    "date": "2026-05-17",
     "score": 2.0
   }
 }
