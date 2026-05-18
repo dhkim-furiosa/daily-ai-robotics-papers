@@ -1,64 +1,4 @@
 {
-  "2604.14125": {
-    "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
-    "authors": [
-      "Tianshuo Yang",
-      "Guanyu Chen",
-      "Yutian Chen"
-    ],
-    "url": "https://arxiv.org/abs/2604.14125",
-    "category": "VLA",
-    "date": "2026-04-17",
-    "score": 4.0
-  },
-  "2604.13366": {
-    "title": "Diffusion Sequence Models for Generative In-Context Meta-Learning of Robot Dynamics",
-    "authors": [
-      "Angelo Moroncelli",
-      "Matteo Rufolo",
-      "Gunes Cagin Aydin"
-    ],
-    "url": "https://arxiv.org/abs/2604.13366",
-    "category": "Other",
-    "date": "2026-04-17",
-    "score": 3.0
-  },
-  "2604.13959": {
-    "title": "[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI",
-    "authors": [
-      "You Rim Choi",
-      "Subeom Park",
-      "Hyung-Sin Kim"
-    ],
-    "url": "https://arxiv.org/abs/2604.13959",
-    "category": "Physical AI",
-    "date": "2026-04-17",
-    "score": 2.0
-  },
-  "2604.13733": {
-    "title": "Jump-Start Reinforcement Learning with Vision-Language-Action Regularization",
-    "authors": [
-      "Angelo Moroncelli",
-      "Roberto Zanetti",
-      "Marco Maccarini"
-    ],
-    "url": "https://arxiv.org/abs/2604.13733",
-    "category": "VLA",
-    "date": "2026-04-17",
-    "score": 2.0
-  },
-  "2604.13533": {
-    "title": "Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization",
-    "authors": [
-      "Jianzong Wang",
-      "Botao Zhao",
-      "Yayun He"
-    ],
-    "url": "https://arxiv.org/abs/2604.13533",
-    "category": "Other",
-    "date": "2026-04-17",
-    "score": 2.0
-  },
   "2604.14965": {
     "title": "POMDP-based Object Search with Growing State Space and Hybrid Action Domain",
     "authors": [
@@ -1429,6 +1369,66 @@
     "url": "https://arxiv.org/abs/2605.14712",
     "category": "VLA",
     "date": "2026-05-17",
+    "score": 2.0
+  },
+  "2605.15177": {
+    "title": "OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation",
+    "authors": [
+      "Shang Zhou",
+      "Wenhao Chai",
+      "Kaiyuan Liu"
+    ],
+    "url": "https://arxiv.org/abs/2605.15177",
+    "category": "Other",
+    "date": "2026-05-18",
+    "score": 3.0
+  },
+  "2605.14571": {
+    "title": "Let Robots Feel Your Touch: Visuo-Tactile Cortical Alignment for Embodied Mirror Resonance",
+    "authors": [
+      "Tianfang Zhu",
+      "Ning An",
+      "Rui Wang"
+    ],
+    "url": "https://arxiv.org/abs/2605.14571",
+    "category": "Other",
+    "date": "2026-05-18",
+    "score": 2.0
+  },
+  "2605.15185": {
+    "title": "Quantitative Video World Model Evaluation for Geometric-Consistency",
+    "authors": [
+      "Jiaxin Wu",
+      "Yihao Pi",
+      "Yinling Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2605.15185",
+    "category": "World Model",
+    "date": "2026-05-18",
+    "score": 2.0
+  },
+  "2605.15178": {
+    "title": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
+    "authors": [
+      "Haoyi Zhu",
+      "Haozhe Liu",
+      "Yuyang Zhao"
+    ],
+    "url": "https://arxiv.org/abs/2605.15178",
+    "category": "World Model",
+    "date": "2026-05-18",
+    "score": 2.0
+  },
+  "2605.15153": {
+    "title": "Pelican-Unified 1.0: A Unified Embodied Intelligence Model for Understanding, Reasoning, Imagination and Action",
+    "authors": [
+      "Yi Zhang",
+      "Yinda Chen",
+      "Che Liu"
+    ],
+    "url": "https://arxiv.org/abs/2605.15153",
+    "category": "Physical AI",
+    "date": "2026-05-18",
     "score": 2.0
   }
 }
