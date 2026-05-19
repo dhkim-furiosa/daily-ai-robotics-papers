@@ -22,6 +22,10 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-19 | Learning Bilevel Policies over Symbolic World Models for Long-Horizon Planning | Dillon Z. Chen, Till Hofmann, Toryn Q. Klassen | [arXiv](https://arxiv.org/abs/2605.15975) |
+| 2026-05-19 | Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation | Jin Shi, Brady Zhang, Yishun Lu | [arXiv](https://arxiv.org/abs/2605.16241) |
+| 2026-05-19 | Learn Where Outcomes Diverge: Efficient VLA RL via Probabilistic Chunk Masking | Vaidehi Bagaria, Nikshep Grampurohit, Pulkit Verma | [arXiv](https://arxiv.org/abs/2605.16154) |
+| 2026-05-19 | Health-Conditioned Vision-Language-Action Models for Malfunction-Aware Robot Control | Hüseyin Arslan, Özgür Erkent | [arXiv](https://arxiv.org/abs/2605.16056) |
 | 2026-05-17 | Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model | Tao Lin, Yuxin Du, Jiting Liu | [arXiv](https://arxiv.org/abs/2605.14950) |
 | 2026-05-17 | IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation | Shijie Lian, Bin Yu, Xiaopeng Lin | [arXiv](https://arxiv.org/abs/2605.14712) |
 | 2026-05-16 | D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models | Yucheng Guo, Yongjian Guo, Zhong Guan | [arXiv](https://arxiv.org/abs/2605.13276) |
@@ -70,6 +74,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-19 | Mind Dreamer: Untethering Imagination via Active Latent Intervention on Latent Manifolds | Shaojun Xu, Xiaoling Zhou, Yihan Lin | [arXiv](https://arxiv.org/abs/2605.16030) |
 | 2026-05-18 | Quantitative Video World Model Evaluation for Geometric-Consistency | Jiaxin Wu, Yihao Pi, Yinling Zhang | [arXiv](https://arxiv.org/abs/2605.15185) |
 | 2026-05-18 | SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer | Haoyi Zhu, Haozhe Liu, Yuyang Zhao | [arXiv](https://arxiv.org/abs/2605.15178) |
 | 2026-05-17 | Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement | Nian Liu, Nikita Kazeev, Stephen Gregory Dale | [arXiv](https://arxiv.org/abs/2605.14759) |
@@ -224,6 +229,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-19](./2026/05/2026-05-19.md)
 - [2026-05-18](./2026/05/2026-05-18.md)
 - [2026-05-17](./2026/05/2026-05-17.md)
 - [2026-05-16](./2026/05/2026-05-16.md)

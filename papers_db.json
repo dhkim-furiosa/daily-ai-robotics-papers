@@ -1430,5 +1430,64 @@
     "category": "Physical AI",
     "date": "2026-05-18",
     "score": 2.0
+  },
+  "2605.15975": {
+    "title": "Learning Bilevel Policies over Symbolic World Models for Long-Horizon Planning",
+    "authors": [
+      "Dillon Z. Chen",
+      "Till Hofmann",
+      "Toryn Q. Klassen"
+    ],
+    "url": "https://arxiv.org/abs/2605.15975",
+    "category": "VLA",
+    "date": "2026-05-19",
+    "score": 5.0
+  },
+  "2605.16030": {
+    "title": "Mind Dreamer: Untethering Imagination via Active Latent Intervention on Latent Manifolds",
+    "authors": [
+      "Shaojun Xu",
+      "Xiaoling Zhou",
+      "Yihan Lin"
+    ],
+    "url": "https://arxiv.org/abs/2605.16030",
+    "category": "World Model",
+    "date": "2026-05-19",
+    "score": 3.0
+  },
+  "2605.16241": {
+    "title": "Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation",
+    "authors": [
+      "Jin Shi",
+      "Brady Zhang",
+      "Yishun Lu"
+    ],
+    "url": "https://arxiv.org/abs/2605.16241",
+    "category": "VLA",
+    "date": "2026-05-19",
+    "score": 2.0
+  },
+  "2605.16154": {
+    "title": "Learn Where Outcomes Diverge: Efficient VLA RL via Probabilistic Chunk Masking",
+    "authors": [
+      "Vaidehi Bagaria",
+      "Nikshep Grampurohit",
+      "Pulkit Verma"
+    ],
+    "url": "https://arxiv.org/abs/2605.16154",
+    "category": "VLA",
+    "date": "2026-05-19",
+    "score": 2.0
+  },
+  "2605.16056": {
+    "title": "Health-Conditioned Vision-Language-Action Models for Malfunction-Aware Robot Control",
+    "authors": [
+      "Hüseyin Arslan",
+      "Özgür Erkent"
+    ],
+    "url": "https://arxiv.org/abs/2605.16056",
+    "category": "VLA",
+    "date": "2026-05-19",
+    "score": 2.0
   }
 }
