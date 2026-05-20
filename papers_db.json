@@ -1,64 +1,4 @@
 {
-  "2604.14965": {
-    "title": "POMDP-based Object Search with Growing State Space and Hybrid Action Domain",
-    "authors": [
-      "Yongbo Chen",
-      "Hesheng Wang",
-      "Shoudong Huang"
-    ],
-    "url": "https://arxiv.org/abs/2604.14965",
-    "category": "World Model",
-    "date": "2026-04-19",
-    "score": 3.0
-  },
-  "2604.14825": {
-    "title": "Nautilus: An Auto-Scheduling Tensor Compiler for Efficient Tiled GPU Kernels",
-    "authors": [
-      "Yifan Zhao",
-      "Yuchen Yang",
-      "Matei Budiu"
-    ],
-    "url": "https://arxiv.org/abs/2604.14825",
-    "category": "Other",
-    "date": "2026-04-19",
-    "score": 3.0
-  },
-  "2604.14732": {
-    "title": "World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems",
-    "authors": [
-      "Runze Li",
-      "Hongyin Zhang",
-      "Junxi Jin"
-    ],
-    "url": "https://arxiv.org/abs/2604.14732",
-    "category": "VLA",
-    "date": "2026-04-19",
-    "score": 2.0
-  },
-  "2604.14811": {
-    "title": "Learning Ad Hoc Network Dynamics via Graph-Structured World Models",
-    "authors": [
-      "Can Karacelebi",
-      "Yusuf Talha Sahin",
-      "Elif Surer"
-    ],
-    "url": "https://arxiv.org/abs/2604.14811",
-    "category": "World Model",
-    "date": "2026-04-19",
-    "score": 2.0
-  },
-  "2604.13800": {
-    "title": "EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development",
-    "authors": [
-      "Xueyang Zhou",
-      "Yihan Sun",
-      "Xijie Gong"
-    ],
-    "url": "https://arxiv.org/abs/2604.13800",
-    "category": "Physical AI",
-    "date": "2026-04-19",
-    "score": 2.0
-  },
   "2604.15289": {
     "title": "Abstract Sim2Real through Approximate Information States",
     "authors": [
@@ -1488,6 +1428,66 @@
     "url": "https://arxiv.org/abs/2605.16056",
     "category": "VLA",
     "date": "2026-05-19",
+    "score": 2.0
+  },
+  "2605.18287": {
+    "title": "StableVLA: Towards Robust Vision-Language-Action Models without Extra Data",
+    "authors": [
+      "Yiyang Fu",
+      "Chubin Zhang",
+      "Shukai Gong"
+    ],
+    "url": "https://arxiv.org/abs/2605.18287",
+    "category": "VLA",
+    "date": "2026-05-20",
+    "score": 4.0
+  },
+  "2605.18729": {
+    "title": "Robo-Cortex: A Self-Evolving Embodied Agent via Dual-Grain Cognitive Memory and Autonomous Knowledge Induction",
+    "authors": [
+      "Nga Teng Chan",
+      "Yi Zhang",
+      "Yechi Liu"
+    ],
+    "url": "https://arxiv.org/abs/2605.18729",
+    "category": "World Model",
+    "date": "2026-05-20",
+    "score": 2.0
+  },
+  "2605.18722": {
+    "title": "Dexora: Open-source VLA for High-DoF Bimanual Dexterity",
+    "authors": [
+      "Zongzheng Zhang",
+      "Jingrui Pang",
+      "Zhuo Yang"
+    ],
+    "url": "https://arxiv.org/abs/2605.18722",
+    "category": "VLA",
+    "date": "2026-05-20",
+    "score": 2.0
+  },
+  "2605.18556": {
+    "title": "Key-Gram: Extensible World Knowledge for Embodied Manipulation",
+    "authors": [
+      "Jingjing Fan",
+      "Siyuan Li",
+      "Botao Ren"
+    ],
+    "url": "https://arxiv.org/abs/2605.18556",
+    "category": "VLA",
+    "date": "2026-05-20",
+    "score": 2.0
+  },
+  "2605.18407": {
+    "title": "Qumus: Realization of An Embodied AI Quantum Material Experimentalist",
+    "authors": [
+      "Lihan Shi",
+      "Zhaoyi Joy Zheng",
+      "Xinzhe Juan"
+    ],
+    "url": "https://arxiv.org/abs/2605.18407",
+    "category": "Physical AI",
+    "date": "2026-05-20",
     "score": 2.0
   }
 }

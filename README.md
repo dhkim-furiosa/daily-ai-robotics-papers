@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-20 | StableVLA: Towards Robust Vision-Language-Action Models without Extra Data | Yiyang Fu, Chubin Zhang, Shukai Gong | [arXiv](https://arxiv.org/abs/2605.18287) |
+| 2026-05-20 | Dexora: Open-source VLA for High-DoF Bimanual Dexterity | Zongzheng Zhang, Jingrui Pang, Zhuo Yang | [arXiv](https://arxiv.org/abs/2605.18722) |
+| 2026-05-20 | Key-Gram: Extensible World Knowledge for Embodied Manipulation | Jingjing Fan, Siyuan Li, Botao Ren | [arXiv](https://arxiv.org/abs/2605.18556) |
 | 2026-05-19 | Learning Bilevel Policies over Symbolic World Models for Long-Horizon Planning | Dillon Z. Chen, Till Hofmann, Toryn Q. Klassen | [arXiv](https://arxiv.org/abs/2605.15975) |
 | 2026-05-19 | Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation | Jin Shi, Brady Zhang, Yishun Lu | [arXiv](https://arxiv.org/abs/2605.16241) |
 | 2026-05-19 | Learn Where Outcomes Diverge: Efficient VLA RL via Probabilistic Chunk Masking | Vaidehi Bagaria, Nikshep Grampurohit, Pulkit Verma | [arXiv](https://arxiv.org/abs/2605.16154) |
@@ -68,12 +71,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-22 | XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments | Kangan Qian, ChuChu Xie, Yang Zhong | [arXiv](https://arxiv.org/abs/2604.18484) |
 | 2026-04-21 | AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning | Guransh Singh | [arXiv](https://arxiv.org/abs/2604.16067) |
 | 2026-04-21 | Long-Term Memory for VLA-based Agents in Open-World Task Execution | Xu Huang, Weixin Mao, Yinhao Li | [arXiv](https://arxiv.org/abs/2604.15671) |
-| 2026-04-19 | World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems | Runze Li, Hongyin Zhang, Junxi Jin | [arXiv](https://arxiv.org/abs/2604.14732) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-20 | Robo-Cortex: A Self-Evolving Embodied Agent via Dual-Grain Cognitive Memory and Autonomous Knowledge Induction | Nga Teng Chan, Yi Zhang, Yechi Liu | [arXiv](https://arxiv.org/abs/2605.18729) |
 | 2026-05-19 | Mind Dreamer: Untethering Imagination via Active Latent Intervention on Latent Manifolds | Shaojun Xu, Xiaoling Zhou, Yihan Lin | [arXiv](https://arxiv.org/abs/2605.16030) |
 | 2026-05-18 | Quantitative Video World Model Evaluation for Geometric-Consistency | Jiaxin Wu, Yihao Pi, Yinling Zhang | [arXiv](https://arxiv.org/abs/2605.15185) |
 | 2026-05-18 | SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer | Haoyi Zhu, Haozhe Liu, Yuyang Zhao | [arXiv](https://arxiv.org/abs/2605.15178) |
@@ -90,13 +93,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-03 | Graph World Models: Concepts, Taxonomy, and Future Directions | Jiawei Liu, Senqiao Yang, Mingjun Wang | [arXiv](https://arxiv.org/abs/2604.27895) |
 | 2026-04-27 | WorldMark: A Unified Benchmark Suite for Interactive Video World Models | Xiaojie Xu, Zhengyuan Lin, Kang He | [arXiv](https://arxiv.org/abs/2604.21686) |
 | 2026-04-26 | Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training | Yaxuan Li, Zhongyi Zhou, Yefei Chen | [arXiv](https://arxiv.org/abs/2604.21741) |
-| 2026-04-19 | POMDP-based Object Search with Growing State Space and Hybrid Action Domain | Yongbo Chen, Hesheng Wang, Shoudong Huang | [arXiv](https://arxiv.org/abs/2604.14965) |
-| 2026-04-19 | Learning Ad Hoc Network Dynamics via Graph-Structured World Models | Can Karacelebi, Yusuf Talha Sahin, Elif Surer | [arXiv](https://arxiv.org/abs/2604.14811) |
 
 ### Physical AI
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-20 | Qumus: Realization of An Embodied AI Quantum Material Experimentalist | Lihan Shi, Zhaoyi Joy Zheng, Xinzhe Juan | [arXiv](https://arxiv.org/abs/2605.18407) |
 | 2026-05-18 | Pelican-Unified 1.0: A Unified Embodied Intelligence Model for Understanding, Reasoning, Imagination and Action | Yi Zhang, Yinda Chen, Che Liu | [arXiv](https://arxiv.org/abs/2605.15153) |
 | 2026-05-16 | SpeakerLLM: A Speaker-Specialized Audio-LLM for Speaker Understanding and Verification Reasoning | KiHyun Nam, Jungwoo Heo, Siu Bae | [arXiv](https://arxiv.org/abs/2605.15044) |
 | 2026-05-16 | BARISTA: A Multi-Task Egocentric Benchmark for Compositional Visual Understanding | Patrick Knab, Orgest Xhelili, Inis Buzi | [arXiv](https://arxiv.org/abs/2605.12074) |
@@ -111,7 +113,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-27 | Mini-BEHAVIOR-Gran: Revealing U-Shaped Effects of Instruction Granularity on Language-Guided Embodied Agents | Sukai Huang, Chenyuan Zhang, Fucai Ke | [arXiv](https://arxiv.org/abs/2604.17019) |
 | 2026-04-26 | VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis | Songen Gu, Yuhang Zheng, Weize Li | [arXiv](https://arxiv.org/abs/2604.21914) |
 | 2026-04-25 | A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration | Kuan Xu, Ruimeng Liu, Yizhuo Yang | [arXiv](https://arxiv.org/abs/2604.21363) |
-| 2026-04-19 | EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development | Xueyang Zhou, Yihan Sun, Xijie Gong | [arXiv](https://arxiv.org/abs/2604.13800) |
 
 ### Foundation Model
 
@@ -166,7 +167,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-20 | A Hierarchical Spatiotemporal Action Tokenizer for In-Context Imitation Learning in Robotics | Fawad Javed Fateh, Ali Shah Ali, Murad Popattia | [arXiv](https://arxiv.org/abs/2604.15215) |
 | 2026-04-20 | NEAT-NC: NEAT guided Navigation Cells for Robot Path Planning | Hibatallah Meliani, Khadija Slimani, Samira Khoulji | [arXiv](https://arxiv.org/abs/2604.15076) |
 | 2026-04-20 | CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture | Giacomo Franchini, David Rodríguez-Martínez, Alfonso Martínez-Petersen | [arXiv](https://arxiv.org/abs/2604.15052) |
-| 2026-04-19 | Nautilus: An Auto-Scheduling Tensor Compiler for Efficient Tiled GPU Kernels | Yifan Zhao, Yuchen Yang, Matei Budiu | [arXiv](https://arxiv.org/abs/2604.14825) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -229,6 +229,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-20](./2026/05/2026-05-20.md)
 - [2026-05-19](./2026/05/2026-05-19.md)
 - [2026-05-18](./2026/05/2026-05-18.md)
 - [2026-05-17](./2026/05/2026-05-17.md)
