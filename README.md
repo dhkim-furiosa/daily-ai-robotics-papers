@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-21 | RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models | Jingzhou Luo, Yifan Wen, Yongjie Bai | [arXiv](https://arxiv.org/abs/2605.19678) |
+| 2026-05-21 | PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models | Peizheng Guo, Jingyao Wang, Changwen Zheng | [arXiv](https://arxiv.org/abs/2605.19580) |
+| 2026-05-21 | Beyond Binary Success: A Diagnostic Meta-Evaluation Framework for Fine-Grained Manipulation | He-Yang Xu, Pengyuan Zhang, Zongyuan Ge | [arXiv](https://arxiv.org/abs/2605.19986) |
 | 2026-05-20 | StableVLA: Towards Robust Vision-Language-Action Models without Extra Data | Yiyang Fu, Chubin Zhang, Shukai Gong | [arXiv](https://arxiv.org/abs/2605.18287) |
 | 2026-05-20 | Dexora: Open-source VLA for High-DoF Bimanual Dexterity | Zongzheng Zhang, Jingrui Pang, Zhuo Yang | [arXiv](https://arxiv.org/abs/2605.18722) |
 | 2026-05-20 | Key-Gram: Extensible World Knowledge for Embodied Manipulation | Jingjing Fan, Siyuan Li, Botao Ren | [arXiv](https://arxiv.org/abs/2605.18556) |
@@ -98,6 +101,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-21 | SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects | Puyi Wang, Yuhao Wang, Linjie Li | [arXiv](https://arxiv.org/abs/2605.19587) |
 | 2026-05-20 | Qumus: Realization of An Embodied AI Quantum Material Experimentalist | Lihan Shi, Zhaoyi Joy Zheng, Xinzhe Juan | [arXiv](https://arxiv.org/abs/2605.18407) |
 | 2026-05-18 | Pelican-Unified 1.0: A Unified Embodied Intelligence Model for Understanding, Reasoning, Imagination and Action | Yi Zhang, Yinda Chen, Che Liu | [arXiv](https://arxiv.org/abs/2605.15153) |
 | 2026-05-16 | SpeakerLLM: A Speaker-Specialized Audio-LLM for Speaker Understanding and Verification Reasoning | KiHyun Nam, Jungwoo Heo, Siu Bae | [arXiv](https://arxiv.org/abs/2605.15044) |
@@ -132,6 +136,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-21 | Probing Embodied LLMs: When Higher Observation Fidelity Hurts Problem Solving | Oussama Zenkri, Oliver Brock | [arXiv](https://arxiv.org/abs/2605.20072) |
 | 2026-05-18 | OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation | Shang Zhou, Wenhao Chai, Kaiyuan Liu | [arXiv](https://arxiv.org/abs/2605.15177) |
 | 2026-05-18 | Let Robots Feel Your Touch: Visuo-Tactile Cortical Alignment for Embodied Mirror Resonance | Tianfang Zhu, Ning An, Rui Wang | [arXiv](https://arxiv.org/abs/2605.14571) |
 | 2026-05-17 | On Training in Imagination | Nadav Timor, Ravid Shwartz-Ziv, Micah Goldblum | [arXiv](https://arxiv.org/abs/2605.06732) |
@@ -162,11 +167,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-22 | MUA: Mobile Ultra-detailed Animatable Avatars | Heming Zhu, Guoxing Sun, Marc Habermann | [arXiv](https://arxiv.org/abs/2604.18583) |
 | 2026-04-21 | Watching Movies Like a Human: Egocentric Emotion Understanding for Embodied Companions | Ze Dong, Hao Shi, Zejia Gao | [arXiv](https://arxiv.org/abs/2604.15823) |
 | 2026-04-21 | Semantic Area Graph Reasoning for Multi-Robot Language-Guided Search | Ruiyang Wang, Hao-Lun Hsu, Jiwoo Kim | [arXiv](https://arxiv.org/abs/2604.16263) |
-| 2026-04-20 | Abstract Sim2Real through Approximate Information States | Yunfu Deng, Yuhao Li, Josiah P. Hanna | [arXiv](https://arxiv.org/abs/2604.15289) |
-| 2026-04-20 | Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees | Jakob Thumm, Marian Frei, Tianle Ni | [arXiv](https://arxiv.org/abs/2604.15221) |
-| 2026-04-20 | A Hierarchical Spatiotemporal Action Tokenizer for In-Context Imitation Learning in Robotics | Fawad Javed Fateh, Ali Shah Ali, Murad Popattia | [arXiv](https://arxiv.org/abs/2604.15215) |
-| 2026-04-20 | NEAT-NC: NEAT guided Navigation Cells for Robot Path Planning | Hibatallah Meliani, Khadija Slimani, Samira Khoulji | [arXiv](https://arxiv.org/abs/2604.15076) |
-| 2026-04-20 | CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture | Giacomo Franchini, David Rodríguez-Martínez, Alfonso Martínez-Petersen | [arXiv](https://arxiv.org/abs/2604.15052) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -229,6 +229,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-21](./2026/05/2026-05-21.md)
 - [2026-05-20](./2026/05/2026-05-20.md)
 - [2026-05-19](./2026/05/2026-05-19.md)
 - [2026-05-18](./2026/05/2026-05-18.md)

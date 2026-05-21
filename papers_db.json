@@ -1,64 +1,4 @@
 {
-  "2604.15289": {
-    "title": "Abstract Sim2Real through Approximate Information States",
-    "authors": [
-      "Yunfu Deng",
-      "Yuhao Li",
-      "Josiah P. Hanna"
-    ],
-    "url": "https://arxiv.org/abs/2604.15289",
-    "category": "Other",
-    "date": "2026-04-20",
-    "score": 0.0
-  },
-  "2604.15221": {
-    "title": "Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees",
-    "authors": [
-      "Jakob Thumm",
-      "Marian Frei",
-      "Tianle Ni"
-    ],
-    "url": "https://arxiv.org/abs/2604.15221",
-    "category": "Other",
-    "date": "2026-04-20",
-    "score": 0.0
-  },
-  "2604.15215": {
-    "title": "A Hierarchical Spatiotemporal Action Tokenizer for In-Context Imitation Learning in Robotics",
-    "authors": [
-      "Fawad Javed Fateh",
-      "Ali Shah Ali",
-      "Murad Popattia"
-    ],
-    "url": "https://arxiv.org/abs/2604.15215",
-    "category": "Other",
-    "date": "2026-04-20",
-    "score": 0.0
-  },
-  "2604.15076": {
-    "title": "NEAT-NC: NEAT guided Navigation Cells for Robot Path Planning",
-    "authors": [
-      "Hibatallah Meliani",
-      "Khadija Slimani",
-      "Samira Khoulji"
-    ],
-    "url": "https://arxiv.org/abs/2604.15076",
-    "category": "Other",
-    "date": "2026-04-20",
-    "score": 0.0
-  },
-  "2604.15052": {
-    "title": "CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture",
-    "authors": [
-      "Giacomo Franchini",
-      "David Rodríguez-Martínez",
-      "Alfonso Martínez-Petersen"
-    ],
-    "url": "https://arxiv.org/abs/2604.15052",
-    "category": "Other",
-    "date": "2026-04-20",
-    "score": 0.0
-  },
   "2604.15483": {
     "title": "$π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities",
     "authors": [
@@ -1488,6 +1428,65 @@
     "url": "https://arxiv.org/abs/2605.18407",
     "category": "Physical AI",
     "date": "2026-05-20",
+    "score": 2.0
+  },
+  "2605.19678": {
+    "title": "RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models",
+    "authors": [
+      "Jingzhou Luo",
+      "Yifan Wen",
+      "Yongjie Bai"
+    ],
+    "url": "https://arxiv.org/abs/2605.19678",
+    "category": "VLA",
+    "date": "2026-05-21",
+    "score": 4.0
+  },
+  "2605.19580": {
+    "title": "PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models",
+    "authors": [
+      "Peizheng Guo",
+      "Jingyao Wang",
+      "Changwen Zheng"
+    ],
+    "url": "https://arxiv.org/abs/2605.19580",
+    "category": "VLA",
+    "date": "2026-05-21",
+    "score": 4.0
+  },
+  "2605.19986": {
+    "title": "Beyond Binary Success: A Diagnostic Meta-Evaluation Framework for Fine-Grained Manipulation",
+    "authors": [
+      "He-Yang Xu",
+      "Pengyuan Zhang",
+      "Zongyuan Ge"
+    ],
+    "url": "https://arxiv.org/abs/2605.19986",
+    "category": "VLA",
+    "date": "2026-05-21",
+    "score": 3.0
+  },
+  "2605.19587": {
+    "title": "SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects",
+    "authors": [
+      "Puyi Wang",
+      "Yuhao Wang",
+      "Linjie Li"
+    ],
+    "url": "https://arxiv.org/abs/2605.19587",
+    "category": "Physical AI",
+    "date": "2026-05-21",
+    "score": 3.0
+  },
+  "2605.20072": {
+    "title": "Probing Embodied LLMs: When Higher Observation Fidelity Hurts Problem Solving",
+    "authors": [
+      "Oussama Zenkri",
+      "Oliver Brock"
+    ],
+    "url": "https://arxiv.org/abs/2605.20072",
+    "category": "Other",
+    "date": "2026-05-21",
     "score": 2.0
   }
 }
