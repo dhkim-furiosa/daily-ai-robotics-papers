@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-23 | GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations | Wenxuan Guo, Ziyuan Li, Meng Zhang | [arXiv](https://arxiv.org/abs/2605.22812) |
+| 2026-05-23 | Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts | Zhen Sun, Yongjian Guo, Haoran Sun | [arXiv](https://arxiv.org/abs/2605.22446) |
+| 2026-05-23 | From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model | Bing Hu, Zaijing Li, Rui Shao | [arXiv](https://arxiv.org/abs/2605.22671) |
 | 2026-05-21 | RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models | Jingzhou Luo, Yifan Wen, Yongjie Bai | [arXiv](https://arxiv.org/abs/2605.19678) |
 | 2026-05-21 | PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models | Peizheng Guo, Jingyao Wang, Changwen Zheng | [arXiv](https://arxiv.org/abs/2605.19580) |
 | 2026-05-21 | Beyond Binary Success: A Diagnostic Meta-Evaluation Framework for Fine-Grained Manipulation | He-Yang Xu, Pengyuan Zhang, Zongyuan Ge | [arXiv](https://arxiv.org/abs/2605.19986) |
@@ -70,10 +73,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-23 | VLA Foundry: A Unified Framework for Training Vision-Language-Action Models | Jean Mercat, Sedrick Keh, Kushal Arora | [arXiv](https://arxiv.org/abs/2604.19728) |
 | 2026-04-23 | SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model | Zewei Zhou, Ruining Yang,  Xuewei | [arXiv](https://arxiv.org/abs/2604.19710) |
 | 2026-04-23 | OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL | Haoxiang Jie, Yaoyuan Yan, Xiangyu Wei | [arXiv](https://arxiv.org/abs/2604.17706) |
-| 2026-04-22 | Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models | Haiweng Xu, Sipeng Zheng, Hao Luo | [arXiv](https://arxiv.org/abs/2604.18000) |
-| 2026-04-22 | XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments | Kangan Qian, ChuChu Xie, Yang Zhong | [arXiv](https://arxiv.org/abs/2604.18484) |
-| 2026-04-21 | AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning | Guransh Singh | [arXiv](https://arxiv.org/abs/2604.16067) |
-| 2026-04-21 | Long-Term Memory for VLA-based Agents in Open-World Task Execution | Xu Huang, Weixin Mao, Yinhao Li | [arXiv](https://arxiv.org/abs/2604.15671) |
 
 ### World Model
 
@@ -130,12 +129,13 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-30 | TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning | Dominik Żurek, Kamil Faber, Marcin Pietron | [arXiv](https://arxiv.org/abs/2604.25898) |
 | 2026-04-25 | Transferable Physics-Informed Representations via Closed-Form Head Adaptation | Jian Cheng Wong, Isaac Yin Chung Lai, Pao-Hsiung Chiu | [arXiv](https://arxiv.org/abs/2604.21761) |
 | 2026-04-24 | Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples | Ana Sanchez-Fernandez, Thomas Pinetz, Werner Zellinger | [arXiv](https://arxiv.org/abs/2604.20824) |
-| 2026-04-21 | $π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities | Physical Intelligence, Bo Ai, Ali Amin | [arXiv](https://arxiv.org/abs/2604.15483) |
 
 ### Other
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-23 | Beyond Pixels: Learning Invariant Rewards for Real-World Robotics From a Few Demonstrations | Tengye Xu, Yangting Sun, Ziju Shen | [arXiv](https://arxiv.org/abs/2605.22123) |
+| 2026-05-23 | CoRMA: Contrastive RMA for Contact-Rich Meta-Adaptation | Wentian Wang, Chutong Wen, Hongxu Ma | [arXiv](https://arxiv.org/abs/2605.22082) |
 | 2026-05-21 | Probing Embodied LLMs: When Higher Observation Fidelity Hurts Problem Solving | Oussama Zenkri, Oliver Brock | [arXiv](https://arxiv.org/abs/2605.20072) |
 | 2026-05-18 | OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation | Shang Zhou, Wenhao Chai, Kaiyuan Liu | [arXiv](https://arxiv.org/abs/2605.15177) |
 | 2026-05-18 | Let Robots Feel Your Touch: Visuo-Tactile Cortical Alignment for Embodied Mirror Resonance | Tianfang Zhu, Ning An, Rui Wang | [arXiv](https://arxiv.org/abs/2605.14571) |
@@ -162,11 +162,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-24 | Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly | Yongqiang Zhao, Xuyang Zhang, Zhuo Chen | [arXiv](https://arxiv.org/abs/2604.20712) |
 | 2026-04-24 | OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model | Qiguang Chen, Chengyu Luan, Jiajun Wu | [arXiv](https://arxiv.org/abs/2604.20806) |
 | 2026-04-23 | SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models | Josue Torres-Fonseca, Naihao Deng, Yinpei Dai | [arXiv](https://arxiv.org/abs/2604.19638) |
-| 2026-04-22 | Will People Enjoy a Robot Trainer? A Case Study with Snoopie the Pacerbot | Maximilian Du, Jennifer Grannen, Shuran Song | [arXiv](https://arxiv.org/abs/2604.18331) |
-| 2026-04-22 | MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval | Shaden Alshammari, Kevin Wen, Abrar Zainal | [arXiv](https://arxiv.org/abs/2604.18584) |
-| 2026-04-22 | MUA: Mobile Ultra-detailed Animatable Avatars | Heming Zhu, Guoxing Sun, Marc Habermann | [arXiv](https://arxiv.org/abs/2604.18583) |
-| 2026-04-21 | Watching Movies Like a Human: Egocentric Emotion Understanding for Embodied Companions | Ze Dong, Hao Shi, Zejia Gao | [arXiv](https://arxiv.org/abs/2604.15823) |
-| 2026-04-21 | Semantic Area Graph Reasoning for Multi-Robot Language-Guided Search | Ruiyang Wang, Hao-Lun Hsu, Jiwoo Kim | [arXiv](https://arxiv.org/abs/2604.16263) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -229,6 +224,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-23](./2026/05/2026-05-23.md)
 - [2026-05-21](./2026/05/2026-05-21.md)
 - [2026-05-20](./2026/05/2026-05-20.md)
 - [2026-05-19](./2026/05/2026-05-19.md)
