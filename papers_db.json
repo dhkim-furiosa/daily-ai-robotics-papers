@@ -1,124 +1,4 @@
 {
-  "2604.19730": {
-    "title": "FASTER: Value-Guided Sampling for Fast RL",
-    "authors": [
-      "Perry Dong",
-      "Alexander Swerdlow",
-      "Dorsa Sadigh"
-    ],
-    "url": "https://arxiv.org/abs/2604.19730",
-    "category": "VLA",
-    "date": "2026-04-23",
-    "score": 10.0
-  },
-  "2604.19728": {
-    "title": "VLA Foundry: A Unified Framework for Training Vision-Language-Action Models",
-    "authors": [
-      "Jean Mercat",
-      "Sedrick Keh",
-      "Kushal Arora"
-    ],
-    "url": "https://arxiv.org/abs/2604.19728",
-    "category": "VLA",
-    "date": "2026-04-23",
-    "score": 4.0
-  },
-  "2604.19710": {
-    "title": "SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model",
-    "authors": [
-      "Zewei Zhou",
-      "Ruining Yang",
-      " Xuewei"
-    ],
-    "url": "https://arxiv.org/abs/2604.19710",
-    "category": "VLA",
-    "date": "2026-04-23",
-    "score": 4.0
-  },
-  "2604.17706": {
-    "title": "OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL",
-    "authors": [
-      "Haoxiang Jie",
-      "Yaoyuan Yan",
-      "Xiangyu Wei"
-    ],
-    "url": "https://arxiv.org/abs/2604.17706",
-    "category": "VLA",
-    "date": "2026-04-23",
-    "score": 4.0
-  },
-  "2604.19638": {
-    "title": "SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models",
-    "authors": [
-      "Josue Torres-Fonseca",
-      "Naihao Deng",
-      "Yinpei Dai"
-    ],
-    "url": "https://arxiv.org/abs/2604.19638",
-    "category": "Other",
-    "date": "2026-04-23",
-    "score": 3.0
-  },
-  "2604.20834": {
-    "title": "PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance",
-    "authors": [
-      "Yupeng Zheng",
-      "Xiang Li",
-      "Songen Gu"
-    ],
-    "url": "https://arxiv.org/abs/2604.20834",
-    "category": "VLA",
-    "date": "2026-04-24",
-    "score": 4.0
-  },
-  "2604.20712": {
-    "title": "Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly",
-    "authors": [
-      "Yongqiang Zhao",
-      "Xuyang Zhang",
-      "Zhuo Chen"
-    ],
-    "url": "https://arxiv.org/abs/2604.20712",
-    "category": "Other",
-    "date": "2026-04-24",
-    "score": 3.0
-  },
-  "2604.20806": {
-    "title": "OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model",
-    "authors": [
-      "Qiguang Chen",
-      "Chengyu Luan",
-      "Jiajun Wu"
-    ],
-    "url": "https://arxiv.org/abs/2604.20806",
-    "category": "Other",
-    "date": "2026-04-24",
-    "score": 3.0
-  },
-  "2604.20824": {
-    "title": "Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples",
-    "authors": [
-      "Ana Sanchez-Fernandez",
-      "Thomas Pinetz",
-      "Werner Zellinger"
-    ],
-    "url": "https://arxiv.org/abs/2604.20824",
-    "category": "Foundation Model",
-    "date": "2026-04-24",
-    "score": 3.0
-  },
-  "2604.20472": {
-    "title": "Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models",
-    "authors": [
-      "Shelly Francis-Meretzki",
-      "Mirco Mutti",
-      "Yaniv Romano"
-    ],
-    "url": "https://arxiv.org/abs/2604.20472",
-    "category": "VLA",
-    "date": "2026-04-24",
-    "score": 2.0
-  },
   "2604.21761": {
     "title": "Transferable Physics-Informed Representations via Closed-Form Head Adaptation",
     "authors": [
@@ -1430,5 +1310,29 @@
     "category": "VLA",
     "date": "2026-05-23",
     "score": 2.0
+  },
+  "2605.18746": {
+    "title": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
+    "authors": [
+      "Yining Hong",
+      "Jiageng Liu",
+      "Han Yin"
+    ],
+    "url": "https://arxiv.org/abs/2605.18746",
+    "category": "Physical AI",
+    "date": "2026-05-25",
+    "score": 5.0
+  },
+  "2605.09989": {
+    "title": "StereoPolicy: Improving Robotic Manipulation Policies via Stereo Perception",
+    "authors": [
+      "Evans Han",
+      "Yunfan Jiang",
+      "Yingke Wang"
+    ],
+    "url": "https://arxiv.org/abs/2605.09989",
+    "category": "VLA",
+    "date": "2026-05-25",
+    "score": 0.0
   }
 }

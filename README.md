@@ -22,6 +22,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-25 | StereoPolicy: Improving Robotic Manipulation Policies via Stereo Perception | Evans Han, Yunfan Jiang, Yingke Wang | [arXiv](https://arxiv.org/abs/2605.09989) |
 | 2026-05-23 | GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations | Wenxuan Guo, Ziyuan Li, Meng Zhang | [arXiv](https://arxiv.org/abs/2605.22812) |
 | 2026-05-23 | Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts | Zhen Sun, Yongjian Guo, Haoran Sun | [arXiv](https://arxiv.org/abs/2605.22446) |
 | 2026-05-23 | From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model | Bing Hu, Zaijing Li, Rui Shao | [arXiv](https://arxiv.org/abs/2605.22671) |
@@ -67,12 +68,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-25 | Long-Horizon Manipulation via Trace-Conditioned VLA Planning | Isabella Liu, An-Chieh Cheng, Rui Yan | [arXiv](https://arxiv.org/abs/2604.21924) |
 | 2026-04-25 | From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges | Yiming Zhong, Yaoyu He, Zemin Yang | [arXiv](https://arxiv.org/abs/2604.21391) |
 | 2026-04-25 | CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors | Dachong Li, ZhuangZhuang Chen, Jin Zhang | [arXiv](https://arxiv.org/abs/2604.21241) |
-| 2026-04-24 | PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance | Yupeng Zheng, Xiang Li, Songen Gu | [arXiv](https://arxiv.org/abs/2604.20834) |
-| 2026-04-24 | Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models | Shelly Francis-Meretzki, Mirco Mutti, Yaniv Romano | [arXiv](https://arxiv.org/abs/2604.20472) |
-| 2026-04-23 | FASTER: Value-Guided Sampling for Fast RL | Perry Dong, Alexander Swerdlow, Dorsa Sadigh | [arXiv](https://arxiv.org/abs/2604.19730) |
-| 2026-04-23 | VLA Foundry: A Unified Framework for Training Vision-Language-Action Models | Jean Mercat, Sedrick Keh, Kushal Arora | [arXiv](https://arxiv.org/abs/2604.19728) |
-| 2026-04-23 | SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model | Zewei Zhou, Ruining Yang,  Xuewei | [arXiv](https://arxiv.org/abs/2604.19710) |
-| 2026-04-23 | OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL | Haoxiang Jie, Yaoyuan Yan, Xiangyu Wei | [arXiv](https://arxiv.org/abs/2604.17706) |
 
 ### World Model
 
@@ -100,6 +95,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-25 | ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop | Yining Hong, Jiageng Liu, Han Yin | [arXiv](https://arxiv.org/abs/2605.18746) |
 | 2026-05-21 | SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects | Puyi Wang, Yuhao Wang, Linjie Li | [arXiv](https://arxiv.org/abs/2605.19587) |
 | 2026-05-20 | Qumus: Realization of An Embodied AI Quantum Material Experimentalist | Lihan Shi, Zhaoyi Joy Zheng, Xinzhe Juan | [arXiv](https://arxiv.org/abs/2605.18407) |
 | 2026-05-18 | Pelican-Unified 1.0: A Unified Embodied Intelligence Model for Understanding, Reasoning, Imagination and Action | Yi Zhang, Yinda Chen, Che Liu | [arXiv](https://arxiv.org/abs/2605.15153) |
@@ -128,7 +124,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-02 | Can Tabular Foundation Models Guide Exploration in Robot Policy Learning? | Buqing Ou, Frederike Dümbgen | [arXiv](https://arxiv.org/abs/2604.27667) |
 | 2026-04-30 | TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning | Dominik Żurek, Kamil Faber, Marcin Pietron | [arXiv](https://arxiv.org/abs/2604.25898) |
 | 2026-04-25 | Transferable Physics-Informed Representations via Closed-Form Head Adaptation | Jian Cheng Wong, Isaac Yin Chung Lai, Pao-Hsiung Chiu | [arXiv](https://arxiv.org/abs/2604.21761) |
-| 2026-04-24 | Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples | Ana Sanchez-Fernandez, Thomas Pinetz, Werner Zellinger | [arXiv](https://arxiv.org/abs/2604.20824) |
 
 ### Other
 
@@ -159,9 +154,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-27 | A Bayesian Reasoning Framework for Robotic Systems in Autonomous Casualty Triage | Szymon Rusiecki, Cecilia Morales, Pia Störy | [arXiv](https://arxiv.org/abs/2604.21568) |
 | 2026-04-26 | Task-Driven Co-Design of Heterogeneous Multi-Robot Systems | Maximilian Stralz, Meshal Alharbi, Yujun Huang | [arXiv](https://arxiv.org/abs/2604.21894) |
 | 2026-04-26 | A Case Study in Recovery of Drones using Discrete-Event Systems | Liam P. Burns, Dayse M. Cavalcanti, Felipe G. Cabral | [arXiv](https://arxiv.org/abs/2604.21740) |
-| 2026-04-24 | Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly | Yongqiang Zhao, Xuyang Zhang, Zhuo Chen | [arXiv](https://arxiv.org/abs/2604.20712) |
-| 2026-04-24 | OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model | Qiguang Chen, Chengyu Luan, Jiajun Wu | [arXiv](https://arxiv.org/abs/2604.20806) |
-| 2026-04-23 | SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models | Josue Torres-Fonseca, Naihao Deng, Yinpei Dai | [arXiv](https://arxiv.org/abs/2604.19638) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -224,6 +216,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-25](./2026/05/2026-05-25.md)
 - [2026-05-23](./2026/05/2026-05-23.md)
 - [2026-05-21](./2026/05/2026-05-21.md)
 - [2026-05-20](./2026/05/2026-05-20.md)
