@@ -1,64 +1,4 @@
 {
-  "2604.21761": {
-    "title": "Transferable Physics-Informed Representations via Closed-Form Head Adaptation",
-    "authors": [
-      "Jian Cheng Wong",
-      "Isaac Yin Chung Lai",
-      "Pao-Hsiung Chiu"
-    ],
-    "url": "https://arxiv.org/abs/2604.21761",
-    "category": "Foundation Model",
-    "date": "2026-04-25",
-    "score": 10.0
-  },
-  "2604.21924": {
-    "title": "Long-Horizon Manipulation via Trace-Conditioned VLA Planning",
-    "authors": [
-      "Isabella Liu",
-      "An-Chieh Cheng",
-      "Rui Yan"
-    ],
-    "url": "https://arxiv.org/abs/2604.21924",
-    "category": "VLA",
-    "date": "2026-04-25",
-    "score": 2.0
-  },
-  "2604.21391": {
-    "title": "From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges",
-    "authors": [
-      "Yiming Zhong",
-      "Yaoyu He",
-      "Zemin Yang"
-    ],
-    "url": "https://arxiv.org/abs/2604.21391",
-    "category": "VLA",
-    "date": "2026-04-25",
-    "score": 2.0
-  },
-  "2604.21363": {
-    "title": "A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration",
-    "authors": [
-      "Kuan Xu",
-      "Ruimeng Liu",
-      "Yizhuo Yang"
-    ],
-    "url": "https://arxiv.org/abs/2604.21363",
-    "category": "Physical AI",
-    "date": "2026-04-25",
-    "score": 2.0
-  },
-  "2604.21241": {
-    "title": "CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors",
-    "authors": [
-      "Dachong Li",
-      "ZhuangZhuang Chen",
-      "Jin Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2604.21241",
-    "category": "VLA",
-    "date": "2026-04-25",
-    "score": 2.0
-  },
   "2604.21192": {
     "title": "How VLAs (Really) Work In Open-World Environments",
     "authors": [
@@ -1333,6 +1273,66 @@
     "url": "https://arxiv.org/abs/2605.09989",
     "category": "VLA",
     "date": "2026-05-25",
+    "score": 0.0
+  },
+  "2605.23270": {
+    "title": "ChainFlow-VLA: Causal Flow Planning with Vision-Language Models",
+    "authors": [
+      "Xiyang Wang",
+      "Xinlin Wang",
+      "Tingguang Zhou"
+    ],
+    "url": "https://arxiv.org/abs/2605.23270",
+    "category": "VLA",
+    "date": "2026-05-26",
+    "score": 2.0
+  },
+  "2605.23263": {
+    "title": "6G Communication Networks Enabling Embodied Agents: Architecture and Prototype",
+    "authors": [
+      "Lipeng Dai",
+      "Luping Xiang",
+      "Kun Yang"
+    ],
+    "url": "https://arxiv.org/abs/2605.23263",
+    "category": "Other",
+    "date": "2026-05-26",
+    "score": 2.0
+  },
+  "2605.23863": {
+    "title": "Robotic Strawberry Harvesting with Robust Vision and Deep Reinforcement Learning based Sim-to-Real Control",
+    "authors": [
+      "Al Bashir",
+      "Shao-Yang Chang",
+      "Partho Ghose"
+    ],
+    "url": "https://arxiv.org/abs/2605.23863",
+    "category": "Other",
+    "date": "2026-05-26",
+    "score": 0.0
+  },
+  "2605.23856": {
+    "title": "Point Tracking Improves World Action Models",
+    "authors": [
+      "Jiarui Guan",
+      "Wenshuai Zhao",
+      "Yue Pei"
+    ],
+    "url": "https://arxiv.org/abs/2605.23856",
+    "category": "Other",
+    "date": "2026-05-26",
+    "score": 0.0
+  },
+  "2605.23847": {
+    "title": "Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion",
+    "authors": [
+      "Remko Proesmans",
+      "Thomas Lips",
+      "Francis wyffels"
+    ],
+    "url": "https://arxiv.org/abs/2605.23847",
+    "category": "Other",
+    "date": "2026-05-26",
     "score": 0.0
   }
 }
