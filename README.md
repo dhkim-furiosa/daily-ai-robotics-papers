@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-27 | EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models | Perry Dong, Kuo-Han Hung, Tian Gao | [arXiv](https://arxiv.org/abs/2605.25477) |
+| 2026-05-27 | Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models | Jianwei Tai | [arXiv](https://arxiv.org/abs/2605.25889) |
+| 2026-05-27 | Rethinking VLM Representation for VLA Initialization | Weifeng Lin, Siyuan Huang, Hao Li | [arXiv](https://arxiv.org/abs/2605.25802) |
 | 2026-05-26 | ChainFlow-VLA: Causal Flow Planning with Vision-Language Models | Xiyang Wang, Xinlin Wang, Tingguang Zhou | [arXiv](https://arxiv.org/abs/2605.23270) |
 | 2026-05-25 | StereoPolicy: Improving Robotic Manipulation Policies via Stereo Perception | Evans Han, Yunfan Jiang, Yingke Wang | [arXiv](https://arxiv.org/abs/2605.09989) |
 | 2026-05-23 | GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations | Wenxuan Guo, Ziyuan Li, Meng Zhang | [arXiv](https://arxiv.org/abs/2605.22812) |
@@ -65,7 +68,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-30 | Libra-VLA: Achieving Learning Equilibrium via Asynchronous Coarse-to-Fine Dual-System | Yifei Wei, Linqing Zhong, Yi Liu | [arXiv](https://arxiv.org/abs/2604.24921) |
 | 2026-04-29 | $M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills | Siyao Xiao, Yuhong Zhang, Zhifang Liu | [arXiv](https://arxiv.org/abs/2604.24182) |
 | 2026-04-29 | CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies | Fan Du, Feng Yan, Jianxiong Wu | [arXiv](https://arxiv.org/abs/2604.24622) |
-| 2026-04-26 | How VLAs (Really) Work In Open-World Environments | Amir Rasouli, Yangzheng Wu, Zhiyuan Li | [arXiv](https://arxiv.org/abs/2604.21192) |
 
 ### World Model
 
@@ -87,7 +89,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-03 | Flying by Inference: Active Inference World Models for Adaptive UAV Swarms | Kaleem Arshid, Ali Krayani, Lucio Marcenaro | [arXiv](https://arxiv.org/abs/2604.27935) |
 | 2026-05-03 | Graph World Models: Concepts, Taxonomy, and Future Directions | Jiawei Liu, Senqiao Yang, Mingjun Wang | [arXiv](https://arxiv.org/abs/2604.27895) |
 | 2026-04-27 | WorldMark: A Unified Benchmark Suite for Interactive Video World Models | Xiaojie Xu, Zhengyuan Lin, Kang He | [arXiv](https://arxiv.org/abs/2604.21686) |
-| 2026-04-26 | Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training | Yaxuan Li, Zhongyi Zhou, Yefei Chen | [arXiv](https://arxiv.org/abs/2604.21741) |
 
 ### Physical AI
 
@@ -108,12 +109,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-30 | Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty | Clinton Enwerem, Shreya Kalyanaraman, John S. Baras | [arXiv](https://arxiv.org/abs/2604.25897) |
 | 2026-04-30 | KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning | Yixuan Huang, Bowen Li, Vaibhav Saxena | [arXiv](https://arxiv.org/abs/2604.25788) |
 | 2026-04-27 | Mini-BEHAVIOR-Gran: Revealing U-Shaped Effects of Instruction Granularity on Language-Guided Embodied Agents | Sukai Huang, Chenyuan Zhang, Fucai Ke | [arXiv](https://arxiv.org/abs/2604.17019) |
-| 2026-04-26 | VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis | Songen Gu, Yuhang Zheng, Weize Li | [arXiv](https://arxiv.org/abs/2604.21914) |
 
 ### Foundation Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-27 | RepSAM: Bridging Foundation Models to Robotic Vision via Representation-Guided Adaptation | Wenhui Chu | [arXiv](https://arxiv.org/abs/2605.25495) |
 | 2026-05-17 | TabPFN-3: Technical Report | Léo Grinsztajn, Klemens Flöge, Oscar Key | [arXiv](https://arxiv.org/abs/2605.13986) |
 | 2026-05-12 | PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation | Yijin Wang, Yuru Tian, Xijie Huang | [arXiv](https://arxiv.org/abs/2605.07496) |
 | 2026-05-11 | On-Orbit Real-Time Wildfire Detection Under On-Board Constraints | Matthias Rötzer, Veronika Pörtge, Martin Ickerott | [arXiv](https://arxiv.org/abs/2605.06273) |
@@ -125,6 +126,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-27 | Active Query Synthesis for Preference Learning | Namrata Nadagouda, Nauman Ahad, Maegan Tucker | [arXiv](https://arxiv.org/abs/2605.26072) |
 | 2026-05-26 | 6G Communication Networks Enabling Embodied Agents: Architecture and Prototype | Lipeng Dai, Luping Xiang, Kun Yang | [arXiv](https://arxiv.org/abs/2605.23263) |
 | 2026-05-26 | Robotic Strawberry Harvesting with Robust Vision and Deep Reinforcement Learning based Sim-to-Real Control | Al Bashir, Shao-Yang Chang, Partho Ghose | [arXiv](https://arxiv.org/abs/2605.23863) |
 | 2026-05-26 | Point Tracking Improves World Action Models | Jiarui Guan, Wenshuai Zhao, Yue Pei | [arXiv](https://arxiv.org/abs/2605.23856) |
@@ -152,8 +154,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-04-27 | Effects of Swarm Size Variability on Operator Workload | William Hunt, Aleksandra Landowska, Horia A. Maior | [arXiv](https://arxiv.org/abs/2604.21707) |
 | 2026-04-27 | SLAM as a Stochastic Control Problem with Partial Information: Optimal Solutions and Rigorous Approximations | Ilir Gusija, Fady Alajaji, Serdar Yüksel | [arXiv](https://arxiv.org/abs/2604.21693) |
 | 2026-04-27 | A Bayesian Reasoning Framework for Robotic Systems in Autonomous Casualty Triage | Szymon Rusiecki, Cecilia Morales, Pia Störy | [arXiv](https://arxiv.org/abs/2604.21568) |
-| 2026-04-26 | Task-Driven Co-Design of Heterogeneous Multi-Robot Systems | Maximilian Stralz, Meshal Alharbi, Yujun Huang | [arXiv](https://arxiv.org/abs/2604.21894) |
-| 2026-04-26 | A Case Study in Recovery of Drones using Discrete-Event Systems | Liam P. Burns, Dayse M. Cavalcanti, Felipe G. Cabral | [arXiv](https://arxiv.org/abs/2604.21740) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -216,6 +216,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-27](./2026/05/2026-05-27.md)
 - [2026-05-26](./2026/05/2026-05-26.md)
 - [2026-05-25](./2026/05/2026-05-25.md)
 - [2026-05-23](./2026/05/2026-05-23.md)

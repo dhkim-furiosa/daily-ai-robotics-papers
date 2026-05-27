@@ -1,64 +1,4 @@
 {
-  "2604.21192": {
-    "title": "How VLAs (Really) Work In Open-World Environments",
-    "authors": [
-      "Amir Rasouli",
-      "Yangzheng Wu",
-      "Zhiyuan Li"
-    ],
-    "url": "https://arxiv.org/abs/2604.21192",
-    "category": "VLA",
-    "date": "2026-04-26",
-    "score": 2.0
-  },
-  "2604.21914": {
-    "title": "VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis",
-    "authors": [
-      "Songen Gu",
-      "Yuhang Zheng",
-      "Weize Li"
-    ],
-    "url": "https://arxiv.org/abs/2604.21914",
-    "category": "Physical AI",
-    "date": "2026-04-26",
-    "score": 0.0
-  },
-  "2604.21894": {
-    "title": "Task-Driven Co-Design of Heterogeneous Multi-Robot Systems",
-    "authors": [
-      "Maximilian Stralz",
-      "Meshal Alharbi",
-      "Yujun Huang"
-    ],
-    "url": "https://arxiv.org/abs/2604.21894",
-    "category": "Other",
-    "date": "2026-04-26",
-    "score": 0.0
-  },
-  "2604.21741": {
-    "title": "Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training",
-    "authors": [
-      "Yaxuan Li",
-      "Zhongyi Zhou",
-      "Yefei Chen"
-    ],
-    "url": "https://arxiv.org/abs/2604.21741",
-    "category": "World Model",
-    "date": "2026-04-26",
-    "score": 0.0
-  },
-  "2604.21740": {
-    "title": "A Case Study in Recovery of Drones using Discrete-Event Systems",
-    "authors": [
-      "Liam P. Burns",
-      "Dayse M. Cavalcanti",
-      "Felipe G. Cabral"
-    ],
-    "url": "https://arxiv.org/abs/2604.21740",
-    "category": "Other",
-    "date": "2026-04-26",
-    "score": 0.0
-  },
   "2604.21686": {
     "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
     "authors": [
@@ -1333,6 +1273,62 @@
     "url": "https://arxiv.org/abs/2605.23847",
     "category": "Other",
     "date": "2026-05-26",
+    "score": 0.0
+  },
+  "2605.25477": {
+    "title": "EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models",
+    "authors": [
+      "Perry Dong",
+      "Kuo-Han Hung",
+      "Tian Gao"
+    ],
+    "url": "https://arxiv.org/abs/2605.25477",
+    "category": "VLA",
+    "date": "2026-05-27",
+    "score": 12.0
+  },
+  "2605.25889": {
+    "title": "Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models",
+    "authors": [
+      "Jianwei Tai"
+    ],
+    "url": "https://arxiv.org/abs/2605.25889",
+    "category": "VLA",
+    "date": "2026-05-27",
+    "score": 2.0
+  },
+  "2605.25802": {
+    "title": "Rethinking VLM Representation for VLA Initialization",
+    "authors": [
+      "Weifeng Lin",
+      "Siyuan Huang",
+      "Hao Li"
+    ],
+    "url": "https://arxiv.org/abs/2605.25802",
+    "category": "VLA",
+    "date": "2026-05-27",
+    "score": 2.0
+  },
+  "2605.25495": {
+    "title": "RepSAM: Bridging Foundation Models to Robotic Vision via Representation-Guided Adaptation",
+    "authors": [
+      "Wenhui Chu"
+    ],
+    "url": "https://arxiv.org/abs/2605.25495",
+    "category": "Foundation Model",
+    "date": "2026-05-27",
+    "score": 2.0
+  },
+  "2605.26072": {
+    "title": "Active Query Synthesis for Preference Learning",
+    "authors": [
+      "Namrata Nadagouda",
+      "Nauman Ahad",
+      "Maegan Tucker"
+    ],
+    "url": "https://arxiv.org/abs/2605.26072",
+    "category": "Other",
+    "date": "2026-05-27",
     "score": 0.0
   }
 }
