@@ -1,64 +1,4 @@
 {
-  "2604.21686": {
-    "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
-    "authors": [
-      "Xiaojie Xu",
-      "Zhengyuan Lin",
-      "Kang He"
-    ],
-    "url": "https://arxiv.org/abs/2604.21686",
-    "category": "World Model",
-    "date": "2026-04-27",
-    "score": 2.0
-  },
-  "2604.17019": {
-    "title": "Mini-BEHAVIOR-Gran: Revealing U-Shaped Effects of Instruction Granularity on Language-Guided Embodied Agents",
-    "authors": [
-      "Sukai Huang",
-      "Chenyuan Zhang",
-      "Fucai Ke"
-    ],
-    "url": "https://arxiv.org/abs/2604.17019",
-    "category": "Physical AI",
-    "date": "2026-04-27",
-    "score": 2.0
-  },
-  "2604.21707": {
-    "title": "Effects of Swarm Size Variability on Operator Workload",
-    "authors": [
-      "William Hunt",
-      "Aleksandra Landowska",
-      "Horia A. Maior"
-    ],
-    "url": "https://arxiv.org/abs/2604.21707",
-    "category": "Other",
-    "date": "2026-04-27",
-    "score": 0.0
-  },
-  "2604.21693": {
-    "title": "SLAM as a Stochastic Control Problem with Partial Information: Optimal Solutions and Rigorous Approximations",
-    "authors": [
-      "Ilir Gusija",
-      "Fady Alajaji",
-      "Serdar Yüksel"
-    ],
-    "url": "https://arxiv.org/abs/2604.21693",
-    "category": "Other",
-    "date": "2026-04-27",
-    "score": 0.0
-  },
-  "2604.21568": {
-    "title": "A Bayesian Reasoning Framework for Robotic Systems in Autonomous Casualty Triage",
-    "authors": [
-      "Szymon Rusiecki",
-      "Cecilia Morales",
-      "Pia Störy"
-    ],
-    "url": "https://arxiv.org/abs/2604.21568",
-    "category": "Other",
-    "date": "2026-04-27",
-    "score": 0.0
-  },
   "2604.24182": {
     "title": "$M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills",
     "authors": [
@@ -1329,6 +1269,65 @@
     "url": "https://arxiv.org/abs/2605.26072",
     "category": "Other",
     "date": "2026-05-27",
+    "score": 0.0
+  },
+  "2605.26991": {
+    "title": "Towards Shared Embodied Intelligence in Humanoid Robots through Optimization Development and Testing of the Human Aware ergoCub Robot",
+    "authors": [
+      "Carlotta Sartore",
+      "Mohamed Elobaid",
+      "Lorenzo Rapetti"
+    ],
+    "url": "https://arxiv.org/abs/2605.26991",
+    "category": "Physical AI",
+    "date": "2026-05-28",
+    "score": 5.0
+  },
+  "2605.27284": {
+    "title": "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies",
+    "authors": [
+      "Xintong Hu",
+      "Xuhong Huang",
+      "Jinyu Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2605.27284",
+    "category": "VLA",
+    "date": "2026-05-28",
+    "score": 4.0
+  },
+  "2605.26820": {
+    "title": "Can VLA Models Learn from Real-World Data Continually without Forgetting?",
+    "authors": [
+      "Jiarun Zhu",
+      "Yijun Hong",
+      "Xiaoquan Sun"
+    ],
+    "url": "https://arxiv.org/abs/2605.26820",
+    "category": "VLA",
+    "date": "2026-05-28",
+    "score": 2.0
+  },
+  "2605.27367": {
+    "title": "SpatialBench: Is Your Spatial Foundation Model an All-Round Player?",
+    "authors": [
+      "Haosong Peng",
+      "Hao Li",
+      "Jiaqi Chen"
+    ],
+    "url": "https://arxiv.org/abs/2605.27367",
+    "category": "Foundation Model",
+    "date": "2026-05-28",
+    "score": 2.0
+  },
+  "2605.27314": {
+    "title": "Riding the Shifting Potential: When Reactive Control Suffices for Multi-Goal Behavior",
+    "authors": [
+      "Vito Mengers",
+      "Oliver Brock"
+    ],
+    "url": "https://arxiv.org/abs/2605.27314",
+    "category": "World Model",
+    "date": "2026-05-28",
     "score": 0.0
   }
 }
