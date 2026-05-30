@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-30 | Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments | Qiuyue Wang, Mingsheng Li, Jian Guan | [arXiv](https://arxiv.org/abs/2605.30280) |
+| 2026-05-30 | VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing | Haoyuan Shi, Xiancong Ren, Yingji Zhang | [arXiv](https://arxiv.org/abs/2605.30117) |
+| 2026-05-30 | VisualThink-VLA: Visual Intermediate Reasoning for Effective and Low-Latency Vision-Language-Action Policies | Mingjian Gao, Wenqiao Zhang, Yuqian Yuan | [arXiv](https://arxiv.org/abs/2605.30011) |
 | 2026-05-28 | FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies | Xintong Hu, Xuhong Huang, Jinyu Zhang | [arXiv](https://arxiv.org/abs/2605.27284) |
 | 2026-05-28 | Can VLA Models Learn from Real-World Data Continually without Forgetting? | Jiarun Zhu, Yijun Hong, Xiaoquan Sun | [arXiv](https://arxiv.org/abs/2605.26820) |
 | 2026-05-27 | EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models | Perry Dong, Kuo-Han Hung, Tian Gao | [arXiv](https://arxiv.org/abs/2605.25477) |
@@ -68,8 +71,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-02 | LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models | Hao Chen, Jiaming Liu, Zhonghao Yan | [arXiv](https://arxiv.org/abs/2604.28192) |
 | 2026-05-01 | STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation | Yuxuan Tian, Yurun Jin, Bin Yu | [arXiv](https://arxiv.org/abs/2604.26848) |
 | 2026-04-30 | Libra-VLA: Achieving Learning Equilibrium via Asynchronous Coarse-to-Fine Dual-System | Yifei Wei, Linqing Zhong, Yi Liu | [arXiv](https://arxiv.org/abs/2604.24921) |
-| 2026-04-29 | $M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills | Siyao Xiao, Yuhong Zhang, Zhifang Liu | [arXiv](https://arxiv.org/abs/2604.24182) |
-| 2026-04-29 | CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies | Fan Du, Feng Yan, Jianxiong Wu | [arXiv](https://arxiv.org/abs/2604.24622) |
 
 ### World Model
 
@@ -129,6 +130,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-05-30 | A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms | Yufei Jia, Zhanxiang Cao, Mingrui Yu | [arXiv](https://arxiv.org/abs/2605.30313) |
+| 2026-05-30 | Replicable Simulation-Based Robot Validation through Provenance | Argentina Ortega, Samuel Wiest, Frederik Pasch | [arXiv](https://arxiv.org/abs/2605.29973) |
 | 2026-05-27 | Active Query Synthesis for Preference Learning | Namrata Nadagouda, Nauman Ahad, Maegan Tucker | [arXiv](https://arxiv.org/abs/2605.26072) |
 | 2026-05-26 | 6G Communication Networks Enabling Embodied Agents: Architecture and Prototype | Lipeng Dai, Luping Xiang, Kun Yang | [arXiv](https://arxiv.org/abs/2605.23263) |
 | 2026-05-26 | Robotic Strawberry Harvesting with Robust Vision and Deep Reinforcement Learning based Sim-to-Real Control | Al Bashir, Shao-Yang Chang, Partho Ghose | [arXiv](https://arxiv.org/abs/2605.23863) |
@@ -151,9 +154,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-01 | Alter-Art: Exploring Embodied Artistic Creation through a Robot Avatar | Do Won Park, Samuele Bordini, Giorgio Grioli | [arXiv](https://arxiv.org/abs/2604.26473) |
 | 2026-05-01 | Safe Navigation using Neural Radiance Fields via Reachable Sets | Omanshu Thapliyal, Malarvizhi Sankaranarayanasamy, Ravigopal Vennelakanti | [arXiv](https://arxiv.org/abs/2604.26899) |
 | 2026-04-30 | Do LLMs Capture Embodied Cognition and Cultural Variation? Cross-Linguistic Evidence from Demonstratives | Yu Wang, Emmanuele Chersoni, Chu-Ren Huang | [arXiv](https://arxiv.org/abs/2604.25423) |
-| 2026-04-29 | Aycromo: An Open-Source Platform for Automatic Chromosome Detection in Metaphase Images Based on Deep Learning | Jorge L. A. Lima, Filipe R. Cordeiro | [arXiv](https://arxiv.org/abs/2604.24685) |
-| 2026-04-29 | Real-time windrow detection from onboard tractor sensors for automated following | Lorenz Gunreben, Nico Heider, Sebastian Zürner | [arXiv](https://arxiv.org/abs/2604.24628) |
-| 2026-04-29 | WildLIFT: Lifting monocular drone video to 3D for species-agnostic wildlife monitoring | Vandita Shukla, Fabio Remondino, Blair Costelloe | [arXiv](https://arxiv.org/abs/2604.24718) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -216,6 +216,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-05-30](./2026/05/2026-05-30.md)
 - [2026-05-28](./2026/05/2026-05-28.md)
 - [2026-05-27](./2026/05/2026-05-27.md)
 - [2026-05-26](./2026/05/2026-05-26.md)

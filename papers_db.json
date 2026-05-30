@@ -1,63 +1,4 @@
 {
-  "2604.24182": {
-    "title": "$M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills",
-    "authors": [
-      "Siyao Xiao",
-      "Yuhong Zhang",
-      "Zhifang Liu"
-    ],
-    "url": "https://arxiv.org/abs/2604.24182",
-    "category": "VLA",
-    "date": "2026-04-29",
-    "score": 5.0
-  },
-  "2604.24622": {
-    "title": "CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies",
-    "authors": [
-      "Fan Du",
-      "Feng Yan",
-      "Jianxiong Wu"
-    ],
-    "url": "https://arxiv.org/abs/2604.24622",
-    "category": "VLA",
-    "date": "2026-04-29",
-    "score": 4.0
-  },
-  "2604.24685": {
-    "title": "Aycromo: An Open-Source Platform for Automatic Chromosome Detection in Metaphase Images Based on Deep Learning",
-    "authors": [
-      "Jorge L. A. Lima",
-      "Filipe R. Cordeiro"
-    ],
-    "url": "https://arxiv.org/abs/2604.24685",
-    "category": "Other",
-    "date": "2026-04-29",
-    "score": 3.0
-  },
-  "2604.24628": {
-    "title": "Real-time windrow detection from onboard tractor sensors for automated following",
-    "authors": [
-      "Lorenz Gunreben",
-      "Nico Heider",
-      "Sebastian Zürner"
-    ],
-    "url": "https://arxiv.org/abs/2604.24628",
-    "category": "Other",
-    "date": "2026-04-29",
-    "score": 3.0
-  },
-  "2604.24718": {
-    "title": "WildLIFT: Lifting monocular drone video to 3D for species-agnostic wildlife monitoring",
-    "authors": [
-      "Vandita Shukla",
-      "Fabio Remondino",
-      "Blair Costelloe"
-    ],
-    "url": "https://arxiv.org/abs/2604.24718",
-    "category": "Other",
-    "date": "2026-04-29",
-    "score": 3.0
-  },
   "2604.24921": {
     "title": "Libra-VLA: Achieving Learning Equilibrium via Asynchronous Coarse-to-Fine Dual-System",
     "authors": [
@@ -1329,5 +1270,65 @@
     "category": "World Model",
     "date": "2026-05-28",
     "score": 0.0
+  },
+  "2605.30280": {
+    "title": "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments",
+    "authors": [
+      "Qiuyue Wang",
+      "Mingsheng Li",
+      "Jian Guan"
+    ],
+    "url": "https://arxiv.org/abs/2605.30280",
+    "category": "VLA",
+    "date": "2026-05-30",
+    "score": 4.0
+  },
+  "2605.30117": {
+    "title": "VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing",
+    "authors": [
+      "Haoyuan Shi",
+      "Xiancong Ren",
+      "Yingji Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2605.30117",
+    "category": "VLA",
+    "date": "2026-05-30",
+    "score": 4.0
+  },
+  "2605.30011": {
+    "title": "VisualThink-VLA: Visual Intermediate Reasoning for Effective and Low-Latency Vision-Language-Action Policies",
+    "authors": [
+      "Mingjian Gao",
+      "Wenqiao Zhang",
+      "Yuqian Yuan"
+    ],
+    "url": "https://arxiv.org/abs/2605.30011",
+    "category": "VLA",
+    "date": "2026-05-30",
+    "score": 4.0
+  },
+  "2605.30313": {
+    "title": "A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms",
+    "authors": [
+      "Yufei Jia",
+      "Zhanxiang Cao",
+      "Mingrui Yu"
+    ],
+    "url": "https://arxiv.org/abs/2605.30313",
+    "category": "Other",
+    "date": "2026-05-30",
+    "score": 3.0
+  },
+  "2605.29973": {
+    "title": "Replicable Simulation-Based Robot Validation through Provenance",
+    "authors": [
+      "Argentina Ortega",
+      "Samuel Wiest",
+      "Frederik Pasch"
+    ],
+    "url": "https://arxiv.org/abs/2605.29973",
+    "category": "Other",
+    "date": "2026-05-30",
+    "score": 3.0
   }
 }
