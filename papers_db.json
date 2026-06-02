@@ -1,63 +1,4 @@
 {
-  "2604.23018": {
-    "title": "AmaraSpatial-10K: A Spatially and Semantically Aligned 3D Dataset for Spatial Computing and Embodied AI",
-    "authors": [
-      "Mohammad Sadegh Salehi",
-      "Alex Perkins",
-      "Igor Maurell"
-    ],
-    "url": "https://arxiv.org/abs/2604.23018",
-    "category": "Physical AI",
-    "date": "2026-05-02",
-    "score": 5.0
-  },
-  "2604.27476": {
-    "title": "EdgeFM: Efficient Edge Inference for Vision-Language Models",
-    "authors": [
-      "Mengling Deng",
-      "Yuanpeng Chen",
-      "Sheng Yang"
-    ],
-    "url": "https://arxiv.org/abs/2604.27476",
-    "category": "VLA",
-    "date": "2026-05-02",
-    "score": 3.0
-  },
-  "2604.26334": {
-    "title": "Efficient, VRAM-Constrained xLM Inference on Clients",
-    "authors": [
-      "Aditya Ukarande",
-      "Deep Shekhar",
-      "Marc Blackstein"
-    ],
-    "url": "https://arxiv.org/abs/2604.26334",
-    "category": "Physical AI",
-    "date": "2026-05-02",
-    "score": 3.0
-  },
-  "2604.28192": {
-    "title": "LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models",
-    "authors": [
-      "Hao Chen",
-      "Jiaming Liu",
-      "Zhonghao Yan"
-    ],
-    "url": "https://arxiv.org/abs/2604.28192",
-    "category": "VLA",
-    "date": "2026-05-02",
-    "score": 2.0
-  },
-  "2604.27667": {
-    "title": "Can Tabular Foundation Models Guide Exploration in Robot Policy Learning?",
-    "authors": [
-      "Buqing Ou",
-      "Frederike Dümbgen"
-    ],
-    "url": "https://arxiv.org/abs/2604.27667",
-    "category": "Foundation Model",
-    "date": "2026-05-02",
-    "score": 2.0
-  },
   "2604.28196": {
     "title": "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation",
     "authors": [
@@ -1268,5 +1209,65 @@
     "category": "Other",
     "date": "2026-06-01",
     "score": 0.0
+  },
+  "2605.31286": {
+    "title": "DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation",
+    "authors": [
+      "Taiyi Su",
+      "Jian Zhu",
+      "Tianjian Wang"
+    ],
+    "url": "https://arxiv.org/abs/2605.31286",
+    "category": "VLA",
+    "date": "2026-06-02",
+    "score": 6.0
+  },
+  "2605.31271": {
+    "title": "DriveMA: Driving Vision-Language-Action Models with verifiable Meta-Actions",
+    "authors": [
+      "Weicheng Zheng",
+      "Yixin Huang",
+      "Qiao Sun"
+    ],
+    "url": "https://arxiv.org/abs/2605.31271",
+    "category": "VLA",
+    "date": "2026-06-02",
+    "score": 5.0
+  },
+  "2605.31234": {
+    "title": "HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model",
+    "authors": [
+      "Xiang Zhu",
+      "Puzhen Yuan",
+      "Yichen Liu"
+    ],
+    "url": "https://arxiv.org/abs/2605.31234",
+    "category": "VLA",
+    "date": "2026-06-02",
+    "score": 4.0
+  },
+  "2605.31481": {
+    "title": "Batched Differentiable Rigid Body Dynamics in PyTorch for GPU-Accelerated Robot Learning",
+    "authors": [
+      "Yue Wang",
+      "Yanran Xu",
+      "Wenbo Wu"
+    ],
+    "url": "https://arxiv.org/abs/2605.31481",
+    "category": "Physical AI",
+    "date": "2026-06-02",
+    "score": 3.0
+  },
+  "2605.31196": {
+    "title": "Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration",
+    "authors": [
+      "Jun Wang",
+      "Xiaohao Xu",
+      "Xiaonan Huang"
+    ],
+    "url": "https://arxiv.org/abs/2605.31196",
+    "category": "Other",
+    "date": "2026-06-02",
+    "score": 3.0
   }
 }
