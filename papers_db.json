@@ -1,64 +1,4 @@
 {
-  "2604.28196": {
-    "title": "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation",
-    "authors": [
-      "Xin Zhou",
-      "Dingkang Liang",
-      "Xiwu Chen"
-    ],
-    "url": "https://arxiv.org/abs/2604.28196",
-    "category": "World Model",
-    "date": "2026-05-03",
-    "score": 2.0
-  },
-  "2604.28185": {
-    "title": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling",
-    "authors": [
-      "Keming Wu",
-      "Zuhao Yang",
-      "Kaichen Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2604.28185",
-    "category": "World Model",
-    "date": "2026-05-03",
-    "score": 2.0
-  },
-  "2604.28115": {
-    "title": "FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction",
-    "authors": [
-      "Zeyu Jiang",
-      "Changqing Zhou",
-      "Xingxing Zuo"
-    ],
-    "url": "https://arxiv.org/abs/2604.28115",
-    "category": "Other",
-    "date": "2026-05-03",
-    "score": 2.0
-  },
-  "2604.27935": {
-    "title": "Flying by Inference: Active Inference World Models for Adaptive UAV Swarms",
-    "authors": [
-      "Kaleem Arshid",
-      "Ali Krayani",
-      "Lucio Marcenaro"
-    ],
-    "url": "https://arxiv.org/abs/2604.27935",
-    "category": "World Model",
-    "date": "2026-05-03",
-    "score": 2.0
-  },
-  "2604.27895": {
-    "title": "Graph World Models: Concepts, Taxonomy, and Future Directions",
-    "authors": [
-      "Jiawei Liu",
-      "Senqiao Yang",
-      "Mingjun Wang"
-    ],
-    "url": "https://arxiv.org/abs/2604.27895",
-    "category": "World Model",
-    "date": "2026-05-03",
-    "score": 2.0
-  },
   "2605.00397": {
     "title": "MiniVLA-Nav v1: A Multi-Scene Simulation Dataset for Language-Conditioned Robot Navigation",
     "authors": [
@@ -1269,5 +1209,65 @@
     "category": "Other",
     "date": "2026-06-02",
     "score": 3.0
+  },
+  "2606.03890": {
+    "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
+    "authors": [
+      "Yifei Li",
+      "Pengyiang Liu",
+      "Yuhang Zang"
+    ],
+    "url": "https://arxiv.org/abs/2606.03890",
+    "category": "Other",
+    "date": "2026-06-04",
+    "score": 3.0
+  },
+  "2606.03784": {
+    "title": "Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation",
+    "authors": [
+      "Nan Sun",
+      "Yuan Zhang",
+      "Yongkun Yang"
+    ],
+    "url": "https://arxiv.org/abs/2606.03784",
+    "category": "VLA",
+    "date": "2026-06-04",
+    "score": 2.0
+  },
+  "2606.03609": {
+    "title": "A 3D Isovist World Model -- Revealing a City's Unseen Geometry and Its Emergent Cross-City Signature",
+    "authors": [
+      "Xuhui Lin",
+      "Stephen Law",
+      "Nanjiang Chen"
+    ],
+    "url": "https://arxiv.org/abs/2606.03609",
+    "category": "World Model",
+    "date": "2026-06-04",
+    "score": 2.0
+  },
+  "2606.03598": {
+    "title": "PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models",
+    "authors": [
+      "Ziyang Chen",
+      "Shaoguang Wang",
+      "Weiyu Guo"
+    ],
+    "url": "https://arxiv.org/abs/2606.03598",
+    "category": "VLA",
+    "date": "2026-06-04",
+    "score": 2.0
+  },
+  "2606.03556": {
+    "title": "Partially Observable Adversarial Patch Attacks on Vision-Language-Action Models in Robotics",
+    "authors": [
+      "Xiaofei Wang",
+      "Mingliang Han",
+      "Tianyu Hao"
+    ],
+    "url": "https://arxiv.org/abs/2606.03556",
+    "category": "VLA",
+    "date": "2026-06-04",
+    "score": 2.0
   }
 }
