@@ -1,61 +1,4 @@
 {
-  "2605.00397": {
-    "title": "MiniVLA-Nav v1: A Multi-Scene Simulation Dataset for Language-Conditioned Robot Navigation",
-    "authors": [
-      "Ali Al-Bustami",
-      "Jaerock Kwon"
-    ],
-    "url": "https://arxiv.org/abs/2605.00397",
-    "category": "VLA",
-    "date": "2026-05-05",
-    "score": 5.0
-  },
-  "2605.00321": {
-    "title": "Embodied Interpretability: Linking Causal Understanding to Generalization in Vision-Language-Action Models",
-    "authors": [
-      "Hanxin Zhang",
-      "Mingshuo Xu",
-      "Abdulqader Dhafer"
-    ],
-    "url": "https://arxiv.org/abs/2605.00321",
-    "category": "VLA",
-    "date": "2026-05-05",
-    "score": 4.0
-  },
-  "2605.00146": {
-    "title": "Real-Time Frame- and Event-based Object Detection with Spiking Neural Networks on Edge Neuromorphic Hardware: Design, Deployment and Benchmark",
-    "authors": [
-      "Udayanga G. W. K. N. Gamage",
-      "Yan Zeng",
-      "Cesar Cadena"
-    ],
-    "url": "https://arxiv.org/abs/2605.00146",
-    "category": "Other",
-    "date": "2026-05-05",
-    "score": 3.0
-  },
-  "2605.00412": {
-    "title": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling",
-    "authors": [
-      "Sen Cui",
-      "Jingheng Ma"
-    ],
-    "url": "https://arxiv.org/abs/2605.00412",
-    "category": "World Model",
-    "date": "2026-05-05",
-    "score": 2.0
-  },
-  "2605.00496": {
-    "title": "High-Speed Vision Improves Zero-Shot Semantic Understanding of Human Actions",
-    "authors": [
-      "Yongpeng Cao",
-      "Yuji Yamakawa"
-    ],
-    "url": "https://arxiv.org/abs/2605.00496",
-    "category": "Foundation Model",
-    "date": "2026-05-05",
-    "score": 0.0
-  },
   "2605.03065": {
     "title": "OGPO: Sample Efficient Full-Finetuning of Generative Control Policies",
     "authors": [
@@ -1269,5 +1212,65 @@
     "category": "VLA",
     "date": "2026-06-04",
     "score": 2.0
+  },
+  "2605.26379": {
+    "title": "When Does LeJEPA Learn a World Model?",
+    "authors": [
+      "David Klindt",
+      "Yann LeCun",
+      "Randall Balestriero"
+    ],
+    "url": "https://arxiv.org/abs/2605.26379",
+    "category": "World Model",
+    "date": "2026-06-06",
+    "score": 12.0
+  },
+  "2606.02800": {
+    "title": "Cosmos 3: Omnimodal World Models for Physical AI",
+    "authors": [
+      " Aditi",
+      "Niket Agarwal",
+      "Arslan Ali"
+    ],
+    "url": "https://arxiv.org/abs/2606.02800",
+    "category": "World Model",
+    "date": "2026-06-06",
+    "score": 7.0
+  },
+  "2606.03159": {
+    "title": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation",
+    "authors": [
+      " NVIDIA",
+      " :",
+      "Aarti Basant"
+    ],
+    "url": "https://arxiv.org/abs/2606.03159",
+    "category": "VLA",
+    "date": "2026-06-06",
+    "score": 5.0
+  },
+  "2606.02753": {
+    "title": "MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data",
+    "authors": [
+      "Teng Hu",
+      "Mingchun Lu",
+      "Yating Wang"
+    ],
+    "url": "https://arxiv.org/abs/2606.02753",
+    "category": "World Model",
+    "date": "2026-06-06",
+    "score": 5.0
+  },
+  "2606.06491": {
+    "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
+    "authors": [
+      "Dong Jing",
+      "Jingchen Nie",
+      "Tianqi Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2606.06491",
+    "category": "VLA",
+    "date": "2026-06-06",
+    "score": 4.0
   }
 }
