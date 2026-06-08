@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-08 | MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action | Boyang Zhang, Lianlei Shan | [arXiv](https://arxiv.org/abs/2606.06245) |
+| 2026-06-08 | WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation | Shengtao Zheng, Kai Li, Weichen Zhang | [arXiv](https://arxiv.org/abs/2606.06147) |
 | 2026-06-07 | AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding | Qize Yu, Jiadi You, Yuran Wang | [arXiv](https://arxiv.org/abs/2606.06155) |
 | 2026-06-06 | NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation |  NVIDIA,  :, Aarti Basant | [arXiv](https://arxiv.org/abs/2606.03159) |
 | 2026-06-06 | TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies | Dong Jing, Jingchen Nie, Tianqi Zhang | [arXiv](https://arxiv.org/abs/2606.06491) |
@@ -101,6 +103,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-08 | Safe Embodied AI for Long-horizon Tasks: A Cross-layer Analysis of Robotic Manipulation | Dabin Kim, Daemin Park, Sangyub Lee | [arXiv](https://arxiv.org/abs/2606.05660) |
+| 2026-06-08 | VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents | Yunhao Yang, Neel P. Bhatt, Kevin Wang | [arXiv](https://arxiv.org/abs/2606.05395) |
 | 2026-06-02 | Batched Differentiable Rigid Body Dynamics in PyTorch for GPU-Accelerated Robot Learning | Yue Wang, Yanran Xu, Wenbo Wu | [arXiv](https://arxiv.org/abs/2605.31481) |
 | 2026-05-28 | Towards Shared Embodied Intelligence in Humanoid Robots through Optimization Development and Testing of the Human Aware ergoCub Robot | Carlotta Sartore, Mohamed Elobaid, Lorenzo Rapetti | [arXiv](https://arxiv.org/abs/2605.26991) |
 | 2026-05-25 | ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop | Yining Hong, Jiageng Liu, Han Yin | [arXiv](https://arxiv.org/abs/2605.18746) |
@@ -115,6 +119,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-08 | Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents | Zhuoming Chen, Xinrui Zhong, Qilong Feng | [arXiv](https://arxiv.org/abs/2606.06453) |
 | 2026-05-28 | SpatialBench: Is Your Spatial Foundation Model an All-Round Player? | Haosong Peng, Hao Li, Jiaqi Chen | [arXiv](https://arxiv.org/abs/2605.27367) |
 | 2026-05-27 | RepSAM: Bridging Foundation Models to Robotic Vision via Representation-Guided Adaptation | Wenhui Chu | [arXiv](https://arxiv.org/abs/2605.25495) |
 | 2026-05-17 | TabPFN-3: Technical Report | Léo Grinsztajn, Klemens Flöge, Oscar Key | [arXiv](https://arxiv.org/abs/2605.13986) |
@@ -211,6 +216,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-06-08](./2026/06/2026-06-08.md)
 - [2026-06-07](./2026/06/2026-06-07.md)
 - [2026-06-06](./2026/06/2026-06-06.md)
 - [2026-06-04](./2026/06/2026-06-04.md)
