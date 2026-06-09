@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-09 | Robotic Policy Adaptation via Weight-Space Meta-Learning | Christian Bianchi, Siamak Yousefi, Alessio Sampieri | [arXiv](https://arxiv.org/abs/2606.07217) |
+| 2026-06-09 | RhinoVLA Technical Report | Huixi Intelligence,  :, Chen Zhang | [arXiv](https://arxiv.org/abs/2606.07383) |
 | 2026-06-08 | MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action | Boyang Zhang, Lianlei Shan | [arXiv](https://arxiv.org/abs/2606.06245) |
 | 2026-06-08 | WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation | Shengtao Zheng, Kai Li, Weichen Zhang | [arXiv](https://arxiv.org/abs/2606.06147) |
 | 2026-06-07 | AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding | Qize Yu, Jiadi You, Yuran Wang | [arXiv](https://arxiv.org/abs/2606.06155) |
@@ -130,6 +132,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-09 | Simulation-Driven Imitation Learning for Biosignals-Free Shared-Autonomy Prosthetic Grasping | Kaijie Shi, Wanglong Lu, Huiling Chen | [arXiv](https://arxiv.org/abs/2606.07389) |
+| 2026-06-09 | Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification | Sercan Karakaş, Yusuf Şimşek | [arXiv](https://arxiv.org/abs/2606.07479) |
+| 2026-06-09 | Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning | Haoyuan Li, Zhengdong Hu, Jun Wang | [arXiv](https://arxiv.org/abs/2606.07436) |
 | 2026-06-07 | Towards Realistic 3D Sonar Simulation | Youssef Attia, Davide Costa, Francesco Wanderlingh | [arXiv](https://arxiv.org/abs/2606.06130) |
 | 2026-06-07 | Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators | Chenming Zhu, Jingli Lin, Yilin Long | [arXiv](https://arxiv.org/abs/2606.06476) |
 | 2026-06-07 | GPIC: A Giant Permissive Image Corpus for Visual Generation | Keshigeyan Chandrasegaran, Kyle Sargent, Suchir Agarwal | [arXiv](https://arxiv.org/abs/2605.30341) |
@@ -216,6 +221,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-06-09](./2026/06/2026-06-09.md)
 - [2026-06-08](./2026/06/2026-06-08.md)
 - [2026-06-07](./2026/06/2026-06-07.md)
 - [2026-06-06](./2026/06/2026-06-06.md)

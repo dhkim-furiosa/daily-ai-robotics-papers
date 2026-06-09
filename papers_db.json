@@ -1331,5 +1331,64 @@
     "category": "Physical AI",
     "date": "2026-06-08",
     "score": 2.0
+  },
+  "2606.07217": {
+    "title": "Robotic Policy Adaptation via Weight-Space Meta-Learning",
+    "authors": [
+      "Christian Bianchi",
+      "Siamak Yousefi",
+      "Alessio Sampieri"
+    ],
+    "url": "https://arxiv.org/abs/2606.07217",
+    "category": "VLA",
+    "date": "2026-06-09",
+    "score": 3.0
+  },
+  "2606.07389": {
+    "title": "Simulation-Driven Imitation Learning for Biosignals-Free Shared-Autonomy Prosthetic Grasping",
+    "authors": [
+      "Kaijie Shi",
+      "Wanglong Lu",
+      "Huiling Chen"
+    ],
+    "url": "https://arxiv.org/abs/2606.07389",
+    "category": "Other",
+    "date": "2026-06-09",
+    "score": 3.0
+  },
+  "2606.07479": {
+    "title": "Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification",
+    "authors": [
+      "Sercan Karakaş",
+      "Yusuf Şimşek"
+    ],
+    "url": "https://arxiv.org/abs/2606.07479",
+    "category": "Other",
+    "date": "2026-06-09",
+    "score": 3.0
+  },
+  "2606.07436": {
+    "title": "Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning",
+    "authors": [
+      "Haoyuan Li",
+      "Zhengdong Hu",
+      "Jun Wang"
+    ],
+    "url": "https://arxiv.org/abs/2606.07436",
+    "category": "Other",
+    "date": "2026-06-09",
+    "score": 3.0
+  },
+  "2606.07383": {
+    "title": "RhinoVLA Technical Report",
+    "authors": [
+      "Huixi Intelligence",
+      " :",
+      "Chen Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2606.07383",
+    "category": "VLA",
+    "date": "2026-06-09",
+    "score": 2.0
   }
 }
