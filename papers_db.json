@@ -1,63 +1,4 @@
 {
-  "2605.06388": {
-    "title": "Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models",
-    "authors": [
-      " Nilaksh",
-      "Saurav Jha",
-      "Artem Zholus"
-    ],
-    "url": "https://arxiv.org/abs/2605.06388",
-    "category": "World Model",
-    "date": "2026-05-10",
-    "score": 2.0
-  },
-  "2605.06234": {
-    "title": "RobotEQ: Transitioning from Passive Intelligence to Active Intelligence in Embodied AI",
-    "authors": [
-      "Kuofei Fang",
-      "Xinyi Che",
-      "Haomin Ouyang"
-    ],
-    "url": "https://arxiv.org/abs/2605.06234",
-    "category": "Physical AI",
-    "date": "2026-05-10",
-    "score": 2.0
-  },
-  "2605.06192": {
-    "title": "EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields",
-    "authors": [
-      "Zhaoyang Yang",
-      "Yurun Jin",
-      "Lizhe Qi"
-    ],
-    "url": "https://arxiv.org/abs/2605.06192",
-    "category": "World Model",
-    "date": "2026-05-10",
-    "score": 2.0
-  },
-  "2605.06175": {
-    "title": "VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts",
-    "authors": [
-      "Yuhua Jiang",
-      "Junjie Lu",
-      "Xinyao Qin"
-    ],
-    "url": "https://arxiv.org/abs/2605.06175",
-    "category": "VLA",
-    "date": "2026-05-10",
-    "score": 2.0
-  },
-  "2605.06662": {
-    "title": "Multi-Robot Coordination in V2X Environments",
-    "authors": [
-      "John Pravin Arockiasamy",
-      "Alexey Vinel"
-    ],
-    "url": "https://arxiv.org/abs/2605.06662",
-    "category": "Other",
-    "date": "2026-05-10",
-    "score": 0.0
-  },
   "2605.06273": {
     "title": "On-Orbit Real-Time Wildfire Detection Under On-Board Constraints",
     "authors": [
@@ -1390,5 +1331,65 @@
     "category": "VLA",
     "date": "2026-06-09",
     "score": 2.0
+  },
+  "2606.08775": {
+    "title": "Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks",
+    "authors": [
+      "Raktim Gautam Goswami",
+      "Prashanth Krishnamurthy",
+      "Yann LeCun"
+    ],
+    "url": "https://arxiv.org/abs/2606.08775",
+    "category": "World Model",
+    "date": "2026-06-10",
+    "score": 12.0
+  },
+  "2606.08107": {
+    "title": "Ego-Pi: VLA Fine-Tuning for Ego-Centric Human and Robot Data",
+    "authors": [
+      "Ji Woong Kim",
+      "Ke Wang",
+      "Zipeng Fu"
+    ],
+    "url": "https://arxiv.org/abs/2606.08107",
+    "category": "VLA",
+    "date": "2026-06-10",
+    "score": 12.0
+  },
+  "2606.09758": {
+    "title": "Difference-Aware Retrieval Policies for Imitation Learning",
+    "authors": [
+      "Quinn Pfeifer",
+      "Ethan Pronovost",
+      "Paarth Shah"
+    ],
+    "url": "https://arxiv.org/abs/2606.09758",
+    "category": "Other",
+    "date": "2026-06-10",
+    "score": 10.0
+  },
+  "2606.06895": {
+    "title": "Blockchain Infrastructure for Intelligent Cyber--Physical--Social Systems:Post-Quantum Security, Interoperability, and Trustworthy Data Economies in the Era of Embodied AI",
+    "authors": [
+      "Song Guo",
+      "Huawei Huang",
+      "Dongping Liu"
+    ],
+    "url": "https://arxiv.org/abs/2606.06895",
+    "category": "Physical AI",
+    "date": "2026-06-10",
+    "score": 5.0
+  },
+  "2606.09827": {
+    "title": "MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models",
+    "authors": [
+      "Hao Shi",
+      "Weiye Li",
+      "Bin Xie"
+    ],
+    "url": "https://arxiv.org/abs/2606.09827",
+    "category": "VLA",
+    "date": "2026-06-10",
+    "score": 4.0
   }
 }
