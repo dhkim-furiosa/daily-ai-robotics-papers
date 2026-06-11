@@ -1,64 +1,4 @@
 {
-  "2605.06273": {
-    "title": "On-Orbit Real-Time Wildfire Detection Under On-Board Constraints",
-    "authors": [
-      "Matthias Rötzer",
-      "Veronika Pörtge",
-      "Martin Ickerott"
-    ],
-    "url": "https://arxiv.org/abs/2605.06273",
-    "category": "Foundation Model",
-    "date": "2026-05-11",
-    "score": 3.0
-  },
-  "2605.00080": {
-    "title": "World Model for Robot Learning: A Comprehensive Survey",
-    "authors": [
-      "Bohan Hou",
-      "Gen Li",
-      "Jindou Jia"
-    ],
-    "url": "https://arxiv.org/abs/2605.00080",
-    "category": "World Model",
-    "date": "2026-05-11",
-    "score": 2.0
-  },
-  "2605.06593": {
-    "title": "ReActor: Reinforcement Learning for Physics-Aware Motion Retargeting",
-    "authors": [
-      "David Müller",
-      "Agon Serifi",
-      "Sammy Christen"
-    ],
-    "url": "https://arxiv.org/abs/2605.06593",
-    "category": "Other",
-    "date": "2026-05-11",
-    "score": 0.0
-  },
-  "2605.06498": {
-    "title": "Lie Group Formulation of Recursive Dynamics Algorithms of Higher Order for Floating-Base Robots",
-    "authors": [
-      "Ahmed Ali",
-      "Chiara Gabellieri",
-      "Antonio Franchi"
-    ],
-    "url": "https://arxiv.org/abs/2605.06498",
-    "category": "Other",
-    "date": "2026-05-11",
-    "score": 0.0
-  },
-  "2605.06481": {
-    "title": "OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation",
-    "authors": [
-      "Yushan Liu",
-      "Peibo Sun",
-      "Shoujie Li"
-    ],
-    "url": "https://arxiv.org/abs/2605.06481",
-    "category": "VLA",
-    "date": "2026-05-11",
-    "score": 0.0
-  },
   "2605.07931": {
     "title": "One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy",
     "authors": [
@@ -1391,5 +1331,65 @@
     "category": "VLA",
     "date": "2026-06-10",
     "score": 4.0
+  },
+  "2606.11087": {
+    "title": "Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning",
+    "authors": [
+      "Zhiyuan Zhou",
+      "Andy Peng",
+      "Charles Xu"
+    ],
+    "url": "https://arxiv.org/abs/2606.11087",
+    "category": "Other",
+    "date": "2026-06-11",
+    "score": 10.0
+  },
+  "2606.10857": {
+    "title": "Embodiment-conditioned Generalist Control for Multirotor Aerial Robots",
+    "authors": [
+      "Orestis Konstantaropoulos",
+      "Welf Rehberg",
+      "Mihir Kulkarni"
+    ],
+    "url": "https://arxiv.org/abs/2606.10857",
+    "category": "Other",
+    "date": "2026-06-11",
+    "score": 3.0
+  },
+  "2606.10803": {
+    "title": "Beyond APIs: Probing the Limits of MLLMs in Physical Tool Use",
+    "authors": [
+      "Zhixin Ma",
+      "Yutong Zhou",
+      "Yongqi Li"
+    ],
+    "url": "https://arxiv.org/abs/2606.10803",
+    "category": "Physical AI",
+    "date": "2026-06-11",
+    "score": 3.0
+  },
+  "2606.11184": {
+    "title": "TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation",
+    "authors": [
+      "Yujie Zang",
+      "Yuhang Zheng",
+      "Xian Nie"
+    ],
+    "url": "https://arxiv.org/abs/2606.11184",
+    "category": "World Model",
+    "date": "2026-06-11",
+    "score": 2.0
+  },
+  "2606.11129": {
+    "title": "WorldOlympiad: Can Your World Model Survive a Triathlon?",
+    "authors": [
+      "Yuke Zhao",
+      "Wangbo Zhao",
+      "Weijie Wang"
+    ],
+    "url": "https://arxiv.org/abs/2606.11129",
+    "category": "World Model",
+    "date": "2026-06-11",
+    "score": 2.0
   }
 }

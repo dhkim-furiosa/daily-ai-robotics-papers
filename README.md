@@ -81,12 +81,13 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-12 | One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy | Zuojin Tang, Shengchao Yuan, Xiaoxin Bai | [arXiv](https://arxiv.org/abs/2605.07931) |
 | 2026-05-12 | ForgeVLA: Federated Vision-Language-Action Learning without Language Annotations | Yuhao Zhou, Yunpeng Zhu, Yang Zhou | [arXiv](https://arxiv.org/abs/2605.07474) |
 | 2026-05-12 | EggHand: A Multimodal Foundation Model for Egocentric Hand Pose Forecasting | Jaeyoung Choi, Hyeondong Kim, Yujin Kim | [arXiv](https://arxiv.org/abs/2605.07642) |
-| 2026-05-11 | OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation | Yushan Liu, Peibo Sun, Shoujie Li | [arXiv](https://arxiv.org/abs/2605.06481) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-11 | TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation | Yujie Zang, Yuhang Zheng, Xian Nie | [arXiv](https://arxiv.org/abs/2606.11184) |
+| 2026-06-11 | WorldOlympiad: Can Your World Model Survive a Triathlon? | Yuke Zhao, Wangbo Zhao, Weijie Wang | [arXiv](https://arxiv.org/abs/2606.11129) |
 | 2026-06-10 | Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks | Raktim Gautam Goswami, Prashanth Krishnamurthy, Yann LeCun | [arXiv](https://arxiv.org/abs/2606.08775) |
 | 2026-06-06 | When Does LeJEPA Learn a World Model? | David Klindt, Yann LeCun, Randall Balestriero | [arXiv](https://arxiv.org/abs/2605.26379) |
 | 2026-06-06 | Cosmos 3: Omnimodal World Models for Physical AI |  Aditi, Niket Agarwal, Arslan Ali | [arXiv](https://arxiv.org/abs/2606.02800) |
@@ -99,12 +100,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-18 | SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer | Haoyi Zhu, Haozhe Liu, Yuyang Zhao | [arXiv](https://arxiv.org/abs/2605.15178) |
 | 2026-05-17 | Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement | Nian Liu, Nikita Kazeev, Stephen Gregory Dale | [arXiv](https://arxiv.org/abs/2605.14759) |
 | 2026-05-15 | Learning POMDP World Models from Observations with Language-Model Priors | Valentin Six, Frederik Panse, Mathis Fajeau | [arXiv](https://arxiv.org/abs/2605.13740) |
-| 2026-05-11 | World Model for Robot Learning: A Comprehensive Survey | Bohan Hou, Gen Li, Jindou Jia | [arXiv](https://arxiv.org/abs/2605.00080) |
 
 ### Physical AI
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-11 | Beyond APIs: Probing the Limits of MLLMs in Physical Tool Use | Zhixin Ma, Yutong Zhou, Yongqi Li | [arXiv](https://arxiv.org/abs/2606.10803) |
 | 2026-06-10 | Blockchain Infrastructure for Intelligent Cyber--Physical--Social Systems:Post-Quantum Security, Interoperability, and Trustworthy Data Economies in the Era of Embodied AI | Song Guo, Huawei Huang, Dongping Liu | [arXiv](https://arxiv.org/abs/2606.06895) |
 | 2026-06-08 | Safe Embodied AI for Long-horizon Tasks: A Cross-layer Analysis of Robotic Manipulation | Dabin Kim, Daemin Park, Sangyub Lee | [arXiv](https://arxiv.org/abs/2606.05660) |
 | 2026-06-08 | VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents | Yunhao Yang, Neel P. Bhatt, Kevin Wang | [arXiv](https://arxiv.org/abs/2606.05395) |
@@ -126,12 +127,13 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-27 | RepSAM: Bridging Foundation Models to Robotic Vision via Representation-Guided Adaptation | Wenhui Chu | [arXiv](https://arxiv.org/abs/2605.25495) |
 | 2026-05-17 | TabPFN-3: Technical Report | Léo Grinsztajn, Klemens Flöge, Oscar Key | [arXiv](https://arxiv.org/abs/2605.13986) |
 | 2026-05-12 | PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation | Yijin Wang, Yuru Tian, Xijie Huang | [arXiv](https://arxiv.org/abs/2605.07496) |
-| 2026-05-11 | On-Orbit Real-Time Wildfire Detection Under On-Board Constraints | Matthias Rötzer, Veronika Pörtge, Martin Ickerott | [arXiv](https://arxiv.org/abs/2605.06273) |
 
 ### Other
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-11 | Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning | Zhiyuan Zhou, Andy Peng, Charles Xu | [arXiv](https://arxiv.org/abs/2606.11087) |
+| 2026-06-11 | Embodiment-conditioned Generalist Control for Multirotor Aerial Robots | Orestis Konstantaropoulos, Welf Rehberg, Mihir Kulkarni | [arXiv](https://arxiv.org/abs/2606.10857) |
 | 2026-06-10 | Difference-Aware Retrieval Policies for Imitation Learning | Quinn Pfeifer, Ethan Pronovost, Paarth Shah | [arXiv](https://arxiv.org/abs/2606.09758) |
 | 2026-06-09 | Simulation-Driven Imitation Learning for Biosignals-Free Shared-Autonomy Prosthetic Grasping | Kaijie Shi, Wanglong Lu, Huiling Chen | [arXiv](https://arxiv.org/abs/2606.07389) |
 | 2026-06-09 | Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification | Sercan Karakaş, Yusuf Şimşek | [arXiv](https://arxiv.org/abs/2606.07479) |
@@ -157,8 +159,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-18 | Let Robots Feel Your Touch: Visuo-Tactile Cortical Alignment for Embodied Mirror Resonance | Tianfang Zhu, Ning An, Rui Wang | [arXiv](https://arxiv.org/abs/2605.14571) |
 | 2026-05-17 | On Training in Imagination | Nadav Timor, Ravid Shwartz-Ziv, Micah Goldblum | [arXiv](https://arxiv.org/abs/2605.06732) |
 | 2026-05-12 | Search-based Robustness Testing of Laptop Refurbishing Robotic Software | Erblin Isaku, Hassan Sartaj, Shaukat Ali | [arXiv](https://arxiv.org/abs/2605.07530) |
-| 2026-05-11 | ReActor: Reinforcement Learning for Physics-Aware Motion Retargeting | David Müller, Agon Serifi, Sammy Christen | [arXiv](https://arxiv.org/abs/2605.06593) |
-| 2026-05-11 | Lie Group Formulation of Recursive Dynamics Algorithms of Higher Order for Floating-Base Robots | Ahmed Ali, Chiara Gabellieri, Antonio Franchi | [arXiv](https://arxiv.org/abs/2605.06498) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -221,6 +221,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-06-11](./2026/06/2026-06-11.md)
 - [2026-06-10](./2026/06/2026-06-10.md)
 - [2026-06-09](./2026/06/2026-06-09.md)
 - [2026-06-08](./2026/06/2026-06-08.md)
