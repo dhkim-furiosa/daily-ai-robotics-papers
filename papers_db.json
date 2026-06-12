@@ -1,64 +1,4 @@
 {
-  "2605.07931": {
-    "title": "One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy",
-    "authors": [
-      "Zuojin Tang",
-      "Shengchao Yuan",
-      "Xiaoxin Bai"
-    ],
-    "url": "https://arxiv.org/abs/2605.07931",
-    "category": "VLA",
-    "date": "2026-05-12",
-    "score": 7.0
-  },
-  "2605.07474": {
-    "title": "ForgeVLA: Federated Vision-Language-Action Learning without Language Annotations",
-    "authors": [
-      "Yuhao Zhou",
-      "Yunpeng Zhu",
-      "Yang Zhou"
-    ],
-    "url": "https://arxiv.org/abs/2605.07474",
-    "category": "VLA",
-    "date": "2026-05-12",
-    "score": 4.0
-  },
-  "2605.07530": {
-    "title": "Search-based Robustness Testing of Laptop Refurbishing Robotic Software",
-    "authors": [
-      "Erblin Isaku",
-      "Hassan Sartaj",
-      "Shaukat Ali"
-    ],
-    "url": "https://arxiv.org/abs/2605.07530",
-    "category": "Other",
-    "date": "2026-05-12",
-    "score": 3.0
-  },
-  "2605.07642": {
-    "title": "EggHand: A Multimodal Foundation Model for Egocentric Hand Pose Forecasting",
-    "authors": [
-      "Jaeyoung Choi",
-      "Hyeondong Kim",
-      "Yujin Kim"
-    ],
-    "url": "https://arxiv.org/abs/2605.07642",
-    "category": "VLA",
-    "date": "2026-05-12",
-    "score": 2.0
-  },
-  "2605.07496": {
-    "title": "PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation",
-    "authors": [
-      "Yijin Wang",
-      "Yuru Tian",
-      "Xijie Huang"
-    ],
-    "url": "https://arxiv.org/abs/2605.07496",
-    "category": "Foundation Model",
-    "date": "2026-05-12",
-    "score": 2.0
-  },
   "2605.12236": {
     "title": "TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning",
     "authors": [
@@ -1390,6 +1330,66 @@
     "url": "https://arxiv.org/abs/2606.11129",
     "category": "World Model",
     "date": "2026-06-11",
+    "score": 2.0
+  },
+  "2606.12402": {
+    "title": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
+    "authors": [
+      "Jadelynn Dao",
+      "Milan Ganai",
+      "Yasmina Abukhadra"
+    ],
+    "url": "https://arxiv.org/abs/2606.12402",
+    "category": "VLA",
+    "date": "2026-06-12",
+    "score": 12.0
+  },
+  "2606.12352": {
+    "title": "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy",
+    "authors": [
+      "Ria Doshi",
+      "Tian Gao",
+      "Annie Chen"
+    ],
+    "url": "https://arxiv.org/abs/2606.12352",
+    "category": "VLA",
+    "date": "2026-06-12",
+    "score": 12.0
+  },
+  "2606.12407": {
+    "title": "How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology",
+    "authors": [
+      "Kian R. Weihrauch",
+      "Thomas A. Buckley",
+      "William Lotter"
+    ],
+    "url": "https://arxiv.org/abs/2606.12407",
+    "category": "Other",
+    "date": "2026-06-12",
+    "score": 3.0
+  },
+  "2606.12403": {
+    "title": "World Pilot: Steering Vision-Language-Action Models with World-Action Priors",
+    "authors": [
+      "Zefu Lin",
+      "Rongxu Cui",
+      "Junjia Xu"
+    ],
+    "url": "https://arxiv.org/abs/2606.12403",
+    "category": "VLA",
+    "date": "2026-06-12",
+    "score": 2.0
+  },
+  "2606.12366": {
+    "title": "APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies",
+    "authors": [
+      "Kechun Xu",
+      "Zhenjie Zhu",
+      "Anzhe Chen"
+    ],
+    "url": "https://arxiv.org/abs/2606.12366",
+    "category": "VLA",
+    "date": "2026-06-12",
     "score": 2.0
   }
 }

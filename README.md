@@ -22,6 +22,10 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-12 | DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners? | Jadelynn Dao, Milan Ganai, Yasmina Abukhadra | [arXiv](https://arxiv.org/abs/2606.12402) |
+| 2026-06-12 | CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy | Ria Doshi, Tian Gao, Annie Chen | [arXiv](https://arxiv.org/abs/2606.12352) |
+| 2026-06-12 | World Pilot: Steering Vision-Language-Action Models with World-Action Priors | Zefu Lin, Rongxu Cui, Junjia Xu | [arXiv](https://arxiv.org/abs/2606.12403) |
+| 2026-06-12 | APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies | Kechun Xu, Zhenjie Zhu, Anzhe Chen | [arXiv](https://arxiv.org/abs/2606.12366) |
 | 2026-06-10 | Ego-Pi: VLA Fine-Tuning for Ego-Centric Human and Robot Data | Ji Woong Kim, Ke Wang, Zipeng Fu | [arXiv](https://arxiv.org/abs/2606.08107) |
 | 2026-06-10 | MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models | Hao Shi, Weiye Li, Bin Xie | [arXiv](https://arxiv.org/abs/2606.09827) |
 | 2026-06-09 | Robotic Policy Adaptation via Weight-Space Meta-Learning | Christian Bianchi, Siamak Yousefi, Alessio Sampieri | [arXiv](https://arxiv.org/abs/2606.07217) |
@@ -78,9 +82,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-14 | GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization | Xiaosong Jia, Bowen Yang, Zuhao Ge | [arXiv](https://arxiv.org/abs/2605.12369) |
 | 2026-05-14 | Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete | Joonha Park, Jiseung Jeong, Taesik Gong | [arXiv](https://arxiv.org/abs/2605.12160) |
 | 2026-05-14 | World Action Models: The Next Frontier in Embodied AI | Siyin Wang, Junhao Shi, Zhaoyang Fu | [arXiv](https://arxiv.org/abs/2605.12090) |
-| 2026-05-12 | One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy | Zuojin Tang, Shengchao Yuan, Xiaoxin Bai | [arXiv](https://arxiv.org/abs/2605.07931) |
-| 2026-05-12 | ForgeVLA: Federated Vision-Language-Action Learning without Language Annotations | Yuhao Zhou, Yunpeng Zhu, Yang Zhou | [arXiv](https://arxiv.org/abs/2605.07474) |
-| 2026-05-12 | EggHand: A Multimodal Foundation Model for Egocentric Hand Pose Forecasting | Jaeyoung Choi, Hyeondong Kim, Yujin Kim | [arXiv](https://arxiv.org/abs/2605.07642) |
 
 ### World Model
 
@@ -126,12 +127,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-28 | SpatialBench: Is Your Spatial Foundation Model an All-Round Player? | Haosong Peng, Hao Li, Jiaqi Chen | [arXiv](https://arxiv.org/abs/2605.27367) |
 | 2026-05-27 | RepSAM: Bridging Foundation Models to Robotic Vision via Representation-Guided Adaptation | Wenhui Chu | [arXiv](https://arxiv.org/abs/2605.25495) |
 | 2026-05-17 | TabPFN-3: Technical Report | Léo Grinsztajn, Klemens Flöge, Oscar Key | [arXiv](https://arxiv.org/abs/2605.13986) |
-| 2026-05-12 | PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation | Yijin Wang, Yuru Tian, Xijie Huang | [arXiv](https://arxiv.org/abs/2605.07496) |
 
 ### Other
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-12 | How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology | Kian R. Weihrauch, Thomas A. Buckley, William Lotter | [arXiv](https://arxiv.org/abs/2606.12407) |
 | 2026-06-11 | Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning | Zhiyuan Zhou, Andy Peng, Charles Xu | [arXiv](https://arxiv.org/abs/2606.11087) |
 | 2026-06-11 | Embodiment-conditioned Generalist Control for Multirotor Aerial Robots | Orestis Konstantaropoulos, Welf Rehberg, Mihir Kulkarni | [arXiv](https://arxiv.org/abs/2606.10857) |
 | 2026-06-10 | Difference-Aware Retrieval Policies for Imitation Learning | Quinn Pfeifer, Ethan Pronovost, Paarth Shah | [arXiv](https://arxiv.org/abs/2606.09758) |
@@ -158,7 +159,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-18 | OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation | Shang Zhou, Wenhao Chai, Kaiyuan Liu | [arXiv](https://arxiv.org/abs/2605.15177) |
 | 2026-05-18 | Let Robots Feel Your Touch: Visuo-Tactile Cortical Alignment for Embodied Mirror Resonance | Tianfang Zhu, Ning An, Rui Wang | [arXiv](https://arxiv.org/abs/2605.14571) |
 | 2026-05-17 | On Training in Imagination | Nadav Timor, Ravid Shwartz-Ziv, Micah Goldblum | [arXiv](https://arxiv.org/abs/2605.06732) |
-| 2026-05-12 | Search-based Robustness Testing of Laptop Refurbishing Robotic Software | Erblin Isaku, Hassan Sartaj, Shaukat Ali | [arXiv](https://arxiv.org/abs/2605.07530) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -221,6 +221,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-06-12](./2026/06/2026-06-12.md)
 - [2026-06-11](./2026/06/2026-06-11.md)
 - [2026-06-10](./2026/06/2026-06-10.md)
 - [2026-06-09](./2026/06/2026-06-09.md)
