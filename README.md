@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-13 | Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models | Yifu Yuan, Yaoting Huang, Xianze Yao | [arXiv](https://arxiv.org/abs/2606.11324) |
+| 2026-06-13 | LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories | Baochang Ren, Xinjie Liu, Xi Chen | [arXiv](https://arxiv.org/abs/2606.13578) |
 | 2026-06-12 | DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners? | Jadelynn Dao, Milan Ganai, Yasmina Abukhadra | [arXiv](https://arxiv.org/abs/2606.12402) |
 | 2026-06-12 | CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy | Ria Doshi, Tian Gao, Annie Chen | [arXiv](https://arxiv.org/abs/2606.12352) |
 | 2026-06-12 | World Pilot: Steering Vision-Language-Action Models with World-Action Priors | Zefu Lin, Rongxu Cui, Junjia Xu | [arXiv](https://arxiv.org/abs/2606.12403) |
@@ -87,6 +89,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-13 | MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold | Yang Zhou, Ziheng Wang, Yuqin Lu | [arXiv](https://arxiv.org/abs/2606.13376) |
+| 2026-06-13 | A Tutorial on World Models and Physical AI | Il-Seok Oh | [arXiv](https://arxiv.org/abs/2606.12783) |
 | 2026-06-11 | TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation | Yujie Zang, Yuhang Zheng, Xian Nie | [arXiv](https://arxiv.org/abs/2606.11184) |
 | 2026-06-11 | WorldOlympiad: Can Your World Model Survive a Triathlon? | Yuke Zhao, Wangbo Zhao, Weijie Wang | [arXiv](https://arxiv.org/abs/2606.11129) |
 | 2026-06-10 | Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks | Raktim Gautam Goswami, Prashanth Krishnamurthy, Yann LeCun | [arXiv](https://arxiv.org/abs/2606.08775) |
@@ -132,6 +136,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-13 | Improving Robotic Generalist Policies via Flow Reversal Steering | Andy Tang, William Chen, Andrew Wagenmaker | [arXiv](https://arxiv.org/abs/2606.13675) |
 | 2026-06-12 | How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology | Kian R. Weihrauch, Thomas A. Buckley, William Lotter | [arXiv](https://arxiv.org/abs/2606.12407) |
 | 2026-06-11 | Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning | Zhiyuan Zhou, Andy Peng, Charles Xu | [arXiv](https://arxiv.org/abs/2606.11087) |
 | 2026-06-11 | Embodiment-conditioned Generalist Control for Multirotor Aerial Robots | Orestis Konstantaropoulos, Welf Rehberg, Mihir Kulkarni | [arXiv](https://arxiv.org/abs/2606.10857) |
@@ -221,6 +226,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-06-13](./2026/06/2026-06-13.md)
 - [2026-06-12](./2026/06/2026-06-12.md)
 - [2026-06-11](./2026/06/2026-06-11.md)
 - [2026-06-10](./2026/06/2026-06-10.md)

@@ -1391,5 +1391,63 @@
     "category": "VLA",
     "date": "2026-06-12",
     "score": 2.0
+  },
+  "2606.13675": {
+    "title": "Improving Robotic Generalist Policies via Flow Reversal Steering",
+    "authors": [
+      "Andy Tang",
+      "William Chen",
+      "Andrew Wagenmaker"
+    ],
+    "url": "https://arxiv.org/abs/2606.13675",
+    "category": "Other",
+    "date": "2026-06-13",
+    "score": 20.0
+  },
+  "2606.11324": {
+    "title": "Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models",
+    "authors": [
+      "Yifu Yuan",
+      "Yaoting Huang",
+      "Xianze Yao"
+    ],
+    "url": "https://arxiv.org/abs/2606.11324",
+    "category": "VLA",
+    "date": "2026-06-13",
+    "score": 12.0
+  },
+  "2606.13376": {
+    "title": "MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold",
+    "authors": [
+      "Yang Zhou",
+      "Ziheng Wang",
+      "Yuqin Lu"
+    ],
+    "url": "https://arxiv.org/abs/2606.13376",
+    "category": "World Model",
+    "date": "2026-06-13",
+    "score": 5.0
+  },
+  "2606.13578": {
+    "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories",
+    "authors": [
+      "Baochang Ren",
+      "Xinjie Liu",
+      "Xi Chen"
+    ],
+    "url": "https://arxiv.org/abs/2606.13578",
+    "category": "VLA",
+    "date": "2026-06-13",
+    "score": 4.0
+  },
+  "2606.12783": {
+    "title": "A Tutorial on World Models and Physical AI",
+    "authors": [
+      "Il-Seok Oh"
+    ],
+    "url": "https://arxiv.org/abs/2606.12783",
+    "category": "World Model",
+    "date": "2026-06-13",
+    "score": 4.0
   }
 }
