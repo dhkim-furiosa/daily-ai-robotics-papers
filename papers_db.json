@@ -1,64 +1,4 @@
 {
-  "2605.12236": {
-    "title": "TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning",
-    "authors": [
-      "Matthew M. Hong",
-      "Jesse Zhang",
-      "Anusha Nagabandi"
-    ],
-    "url": "https://arxiv.org/abs/2605.12236",
-    "category": "VLA",
-    "date": "2026-05-14",
-    "score": 10.0
-  },
-  "2605.12334": {
-    "title": "Reinforcing VLAs in Task-Agnostic World Models",
-    "authors": [
-      "Yucen Wang",
-      "Rui Yu",
-      "Fengming Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2605.12334",
-    "category": "VLA",
-    "date": "2026-05-14",
-    "score": 4.0
-  },
-  "2605.12369": {
-    "title": "GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization",
-    "authors": [
-      "Xiaosong Jia",
-      "Bowen Yang",
-      "Zuhao Ge"
-    ],
-    "url": "https://arxiv.org/abs/2605.12369",
-    "category": "VLA",
-    "date": "2026-05-14",
-    "score": 2.0
-  },
-  "2605.12160": {
-    "title": "Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete",
-    "authors": [
-      "Joonha Park",
-      "Jiseung Jeong",
-      "Taesik Gong"
-    ],
-    "url": "https://arxiv.org/abs/2605.12160",
-    "category": "VLA",
-    "date": "2026-05-14",
-    "score": 2.0
-  },
-  "2605.12090": {
-    "title": "World Action Models: The Next Frontier in Embodied AI",
-    "authors": [
-      "Siyin Wang",
-      "Junhao Shi",
-      "Zhaoyang Fu"
-    ],
-    "url": "https://arxiv.org/abs/2605.12090",
-    "category": "VLA",
-    "date": "2026-05-14",
-    "score": 2.0
-  },
   "2605.13632": {
     "title": "Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models",
     "authors": [
@@ -1449,5 +1389,64 @@
     "category": "World Model",
     "date": "2026-06-13",
     "score": 4.0
+  },
+  "2606.13672": {
+    "title": "$\\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation",
+    "authors": [
+      "Arnav Kumar Jain",
+      "Yilin Wu",
+      "Jesse Farebrother"
+    ],
+    "url": "https://arxiv.org/abs/2606.13672",
+    "category": "World Model",
+    "date": "2026-06-14",
+    "score": 2.0
+  },
+  "2606.13460": {
+    "title": "VISA: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models",
+    "authors": [
+      "Ruiqi Xian",
+      "Yuehan Xian",
+      "Jing Liang"
+    ],
+    "url": "https://arxiv.org/abs/2606.13460",
+    "category": "World Model",
+    "date": "2026-06-14",
+    "score": 2.0
+  },
+  "2606.13435": {
+    "title": "GIVE: Grounding Human Gestures in Vision-Language-Action Models",
+    "authors": [
+      "Pengfei Liu",
+      "Gen Li",
+      "Junqiao Fan"
+    ],
+    "url": "https://arxiv.org/abs/2606.13435",
+    "category": "VLA",
+    "date": "2026-06-14",
+    "score": 2.0
+  },
+  "2606.09416": {
+    "title": "Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer",
+    "authors": [
+      "Sanghoon Lee",
+      "Jiyeong Chae",
+      "Kyung-Joon Park"
+    ],
+    "url": "https://arxiv.org/abs/2606.09416",
+    "category": "VLA",
+    "date": "2026-06-14",
+    "score": 2.0
+  },
+  "2606.08881": {
+    "title": "Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis",
+    "authors": [
+      "Yi Yu",
+      "Xinchuan Qiu"
+    ],
+    "url": "https://arxiv.org/abs/2606.08881",
+    "category": "VLA",
+    "date": "2026-06-14",
+    "score": 2.0
   }
 }

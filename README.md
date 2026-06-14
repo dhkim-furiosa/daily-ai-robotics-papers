@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-14 | GIVE: Grounding Human Gestures in Vision-Language-Action Models | Pengfei Liu, Gen Li, Junqiao Fan | [arXiv](https://arxiv.org/abs/2606.13435) |
+| 2026-06-14 | Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer | Sanghoon Lee, Jiyeong Chae, Kyung-Joon Park | [arXiv](https://arxiv.org/abs/2606.09416) |
+| 2026-06-14 | Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis | Yi Yu, Xinchuan Qiu | [arXiv](https://arxiv.org/abs/2606.08881) |
 | 2026-06-13 | Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models | Yifu Yuan, Yaoting Huang, Xianze Yao | [arXiv](https://arxiv.org/abs/2606.11324) |
 | 2026-06-13 | LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories | Baochang Ren, Xinjie Liu, Xi Chen | [arXiv](https://arxiv.org/abs/2606.13578) |
 | 2026-06-12 | DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners? | Jadelynn Dao, Milan Ganai, Yasmina Abukhadra | [arXiv](https://arxiv.org/abs/2606.12402) |
@@ -79,16 +82,13 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-15 | RotVLA: Rotational Latent Action for Vision-Language-Action Model | Qiwei Li, Xicheng Gong, Xinghang Li | [arXiv](https://arxiv.org/abs/2605.13403) |
 | 2026-05-15 | Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs | Jiahui Niu, Kefan Gu, Yucheng Zhao | [arXiv](https://arxiv.org/abs/2605.13778) |
 | 2026-05-15 | FrameSkip: Learning from Fewer but More Informative Frames in VLA Training | Bin Yu, Shijie Lian, Xiaopeng Lin | [arXiv](https://arxiv.org/abs/2605.13757) |
-| 2026-05-14 | TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning | Matthew M. Hong, Jesse Zhang, Anusha Nagabandi | [arXiv](https://arxiv.org/abs/2605.12236) |
-| 2026-05-14 | Reinforcing VLAs in Task-Agnostic World Models | Yucen Wang, Rui Yu, Fengming Zhang | [arXiv](https://arxiv.org/abs/2605.12334) |
-| 2026-05-14 | GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization | Xiaosong Jia, Bowen Yang, Zuhao Ge | [arXiv](https://arxiv.org/abs/2605.12369) |
-| 2026-05-14 | Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete | Joonha Park, Jiseung Jeong, Taesik Gong | [arXiv](https://arxiv.org/abs/2605.12160) |
-| 2026-05-14 | World Action Models: The Next Frontier in Embodied AI | Siyin Wang, Junhao Shi, Zhaoyang Fu | [arXiv](https://arxiv.org/abs/2605.12090) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-14 | $\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation | Arnav Kumar Jain, Yilin Wu, Jesse Farebrother | [arXiv](https://arxiv.org/abs/2606.13672) |
+| 2026-06-14 | VISA: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models | Ruiqi Xian, Yuehan Xian, Jing Liang | [arXiv](https://arxiv.org/abs/2606.13460) |
 | 2026-06-13 | MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold | Yang Zhou, Ziheng Wang, Yuqin Lu | [arXiv](https://arxiv.org/abs/2606.13376) |
 | 2026-06-13 | A Tutorial on World Models and Physical AI | Il-Seok Oh | [arXiv](https://arxiv.org/abs/2606.12783) |
 | 2026-06-11 | TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation | Yujie Zang, Yuhang Zheng, Xian Nie | [arXiv](https://arxiv.org/abs/2606.11184) |
@@ -226,6 +226,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-06-14](./2026/06/2026-06-14.md)
 - [2026-06-13](./2026/06/2026-06-13.md)
 - [2026-06-12](./2026/06/2026-06-12.md)
 - [2026-06-11](./2026/06/2026-06-11.md)
