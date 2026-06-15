@@ -22,6 +22,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-15 | OpenEAI-Platform: An Open-source Embodied Artificial Intelligence Hardware-Software Unified Platform | Jinyuan Zhang, Luoyi Fan, Leiyu Wang | [arXiv](https://arxiv.org/abs/2606.03392) |
 | 2026-06-14 | GIVE: Grounding Human Gestures in Vision-Language-Action Models | Pengfei Liu, Gen Li, Junqiao Fan | [arXiv](https://arxiv.org/abs/2606.13435) |
 | 2026-06-14 | Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer | Sanghoon Lee, Jiyeong Chae, Kyung-Joon Park | [arXiv](https://arxiv.org/abs/2606.09416) |
 | 2026-06-14 | Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis | Yi Yu, Xinchuan Qiu | [arXiv](https://arxiv.org/abs/2606.08881) |
@@ -78,10 +79,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-16 | D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models | Yucheng Guo, Yongjian Guo, Zhong Guan | [arXiv](https://arxiv.org/abs/2605.13276) |
 | 2026-05-16 | BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation | Zhaohui Du, Zhe Wang, Hongmei Fei | [arXiv](https://arxiv.org/abs/2605.07306) |
 | 2026-05-16 | Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction | Zhuohang Li, Liqun Huang, Wei Xu | [arXiv](https://arxiv.org/abs/2605.15157) |
-| 2026-05-15 | Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models | Yiran Ling, Qing Lian, Jinghang Li | [arXiv](https://arxiv.org/abs/2605.13632) |
-| 2026-05-15 | RotVLA: Rotational Latent Action for Vision-Language-Action Model | Qiwei Li, Xicheng Gong, Xinghang Li | [arXiv](https://arxiv.org/abs/2605.13403) |
-| 2026-05-15 | Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs | Jiahui Niu, Kefan Gu, Yucheng Zhao | [arXiv](https://arxiv.org/abs/2605.13778) |
-| 2026-05-15 | FrameSkip: Learning from Fewer but More Informative Frames in VLA Training | Bin Yu, Shijie Lian, Xiaopeng Lin | [arXiv](https://arxiv.org/abs/2605.13757) |
 
 ### World Model
 
@@ -104,12 +101,14 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-18 | Quantitative Video World Model Evaluation for Geometric-Consistency | Jiaxin Wu, Yihao Pi, Yinling Zhang | [arXiv](https://arxiv.org/abs/2605.15185) |
 | 2026-05-18 | SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer | Haoyi Zhu, Haozhe Liu, Yuyang Zhao | [arXiv](https://arxiv.org/abs/2605.15178) |
 | 2026-05-17 | Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement | Nian Liu, Nikita Kazeev, Stephen Gregory Dale | [arXiv](https://arxiv.org/abs/2605.14759) |
-| 2026-05-15 | Learning POMDP World Models from Observations with Language-Model Priors | Valentin Six, Frederik Panse, Mathis Fajeau | [arXiv](https://arxiv.org/abs/2605.13740) |
 
 ### Physical AI
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-15 | AEGIS: A Backup Reflex for Physical AI | Josef Chen | [arXiv](https://arxiv.org/abs/2606.06660) |
+| 2026-06-15 | Making Embodied AI Reliable: A Community Agenda from Testing to Formal Verification | Xi Zheng, Dulanga Weerakoon, Yintong Huo | [arXiv](https://arxiv.org/abs/2606.03593) |
+| 2026-06-15 | Mana: Dexterous Manipulation of Articulated Tools | Zhao-Heng Yin, Guanya Shi, Pieter Abbeel | [arXiv](https://arxiv.org/abs/2606.13677) |
 | 2026-06-11 | Beyond APIs: Probing the Limits of MLLMs in Physical Tool Use | Zhixin Ma, Yutong Zhou, Yongqi Li | [arXiv](https://arxiv.org/abs/2606.10803) |
 | 2026-06-10 | Blockchain Infrastructure for Intelligent Cyber--Physical--Social Systems:Post-Quantum Security, Interoperability, and Trustworthy Data Economies in the Era of Embodied AI | Song Guo, Huawei Huang, Dongping Liu | [arXiv](https://arxiv.org/abs/2606.06895) |
 | 2026-06-08 | Safe Embodied AI for Long-horizon Tasks: A Cross-layer Analysis of Robotic Manipulation | Dabin Kim, Daemin Park, Sangyub Lee | [arXiv](https://arxiv.org/abs/2606.05660) |
@@ -127,6 +126,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-15 | RepWAM: World Action Modeling with Representation Visual-Action Tokenizers | Junke Wang, Qihang Zhang, Shuai Yang | [arXiv](https://arxiv.org/abs/2606.13674) |
 | 2026-06-08 | Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents | Zhuoming Chen, Xinrui Zhong, Qilong Feng | [arXiv](https://arxiv.org/abs/2606.06453) |
 | 2026-05-28 | SpatialBench: Is Your Spatial Foundation Model an All-Round Player? | Haosong Peng, Hao Li, Jiaqi Chen | [arXiv](https://arxiv.org/abs/2605.27367) |
 | 2026-05-27 | RepSAM: Bridging Foundation Models to Robotic Vision via Representation-Guided Adaptation | Wenhui Chu | [arXiv](https://arxiv.org/abs/2605.25495) |
@@ -226,6 +226,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-06-15](./2026/06/2026-06-15.md)
 - [2026-06-14](./2026/06/2026-06-14.md)
 - [2026-06-13](./2026/06/2026-06-13.md)
 - [2026-06-12](./2026/06/2026-06-12.md)

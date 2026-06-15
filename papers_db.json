@@ -1,64 +1,4 @@
 {
-  "2605.13632": {
-    "title": "Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models",
-    "authors": [
-      "Yiran Ling",
-      "Qing Lian",
-      "Jinghang Li"
-    ],
-    "url": "https://arxiv.org/abs/2605.13632",
-    "category": "VLA",
-    "date": "2026-05-15",
-    "score": 4.0
-  },
-  "2605.13403": {
-    "title": "RotVLA: Rotational Latent Action for Vision-Language-Action Model",
-    "authors": [
-      "Qiwei Li",
-      "Xicheng Gong",
-      "Xinghang Li"
-    ],
-    "url": "https://arxiv.org/abs/2605.13403",
-    "category": "VLA",
-    "date": "2026-05-15",
-    "score": 4.0
-  },
-  "2605.13778": {
-    "title": "Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs",
-    "authors": [
-      "Jiahui Niu",
-      "Kefan Gu",
-      "Yucheng Zhao"
-    ],
-    "url": "https://arxiv.org/abs/2605.13778",
-    "category": "VLA",
-    "date": "2026-05-15",
-    "score": 2.0
-  },
-  "2605.13757": {
-    "title": "FrameSkip: Learning from Fewer but More Informative Frames in VLA Training",
-    "authors": [
-      "Bin Yu",
-      "Shijie Lian",
-      "Xiaopeng Lin"
-    ],
-    "url": "https://arxiv.org/abs/2605.13757",
-    "category": "VLA",
-    "date": "2026-05-15",
-    "score": 2.0
-  },
-  "2605.13740": {
-    "title": "Learning POMDP World Models from Observations with Language-Model Priors",
-    "authors": [
-      "Valentin Six",
-      "Frederik Panse",
-      "Mathis Fajeau"
-    ],
-    "url": "https://arxiv.org/abs/2605.13740",
-    "category": "World Model",
-    "date": "2026-05-15",
-    "score": 2.0
-  },
   "2605.13276": {
     "title": "D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models",
     "authors": [
@@ -1448,5 +1388,63 @@
     "category": "VLA",
     "date": "2026-06-14",
     "score": 2.0
+  },
+  "2606.06660": {
+    "title": "AEGIS: A Backup Reflex for Physical AI",
+    "authors": [
+      "Josef Chen"
+    ],
+    "url": "https://arxiv.org/abs/2606.06660",
+    "category": "Physical AI",
+    "date": "2026-06-15",
+    "score": 2.0
+  },
+  "2606.03593": {
+    "title": "Making Embodied AI Reliable: A Community Agenda from Testing to Formal Verification",
+    "authors": [
+      "Xi Zheng",
+      "Dulanga Weerakoon",
+      "Yintong Huo"
+    ],
+    "url": "https://arxiv.org/abs/2606.03593",
+    "category": "Physical AI",
+    "date": "2026-06-15",
+    "score": 2.0
+  },
+  "2606.03392": {
+    "title": "OpenEAI-Platform: An Open-source Embodied Artificial Intelligence Hardware-Software Unified Platform",
+    "authors": [
+      "Jinyuan Zhang",
+      "Luoyi Fan",
+      "Leiyu Wang"
+    ],
+    "url": "https://arxiv.org/abs/2606.03392",
+    "category": "VLA",
+    "date": "2026-06-15",
+    "score": 2.0
+  },
+  "2606.13677": {
+    "title": "Mana: Dexterous Manipulation of Articulated Tools",
+    "authors": [
+      "Zhao-Heng Yin",
+      "Guanya Shi",
+      "Pieter Abbeel"
+    ],
+    "url": "https://arxiv.org/abs/2606.13677",
+    "category": "Physical AI",
+    "date": "2026-06-15",
+    "score": 0.0
+  },
+  "2606.13674": {
+    "title": "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers",
+    "authors": [
+      "Junke Wang",
+      "Qihang Zhang",
+      "Shuai Yang"
+    ],
+    "url": "https://arxiv.org/abs/2606.13674",
+    "category": "Foundation Model",
+    "date": "2026-06-15",
+    "score": 0.0
   }
 }
