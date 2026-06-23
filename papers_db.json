@@ -1,422 +1,4 @@
 {
-  "2605.13276": {
-    "title": "D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models",
-    "authors": [
-      "Yucheng Guo",
-      "Yongjian Guo",
-      "Zhong Guan"
-    ],
-    "url": "https://arxiv.org/abs/2605.13276",
-    "category": "VLA",
-    "date": "2026-05-16",
-    "score": 4.0
-  },
-  "2605.07306": {
-    "title": "BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation",
-    "authors": [
-      "Zhaohui Du",
-      "Zhe Wang",
-      "Hongmei Fei"
-    ],
-    "url": "https://arxiv.org/abs/2605.07306",
-    "category": "VLA",
-    "date": "2026-05-16",
-    "score": 4.0
-  },
-  "2605.15044": {
-    "title": "SpeakerLLM: A Speaker-Specialized Audio-LLM for Speaker Understanding and Verification Reasoning",
-    "authors": [
-      "KiHyun Nam",
-      "Jungwoo Heo",
-      "Siu Bae"
-    ],
-    "url": "https://arxiv.org/abs/2605.15044",
-    "category": "Physical AI",
-    "date": "2026-05-16",
-    "score": 3.0
-  },
-  "2605.12074": {
-    "title": "BARISTA: A Multi-Task Egocentric Benchmark for Compositional Visual Understanding",
-    "authors": [
-      "Patrick Knab",
-      "Orgest Xhelili",
-      "Inis Buzi"
-    ],
-    "url": "https://arxiv.org/abs/2605.12074",
-    "category": "Physical AI",
-    "date": "2026-05-16",
-    "score": 3.0
-  },
-  "2605.15157": {
-    "title": "Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction",
-    "authors": [
-      "Zhuohang Li",
-      "Liqun Huang",
-      "Wei Xu"
-    ],
-    "url": "https://arxiv.org/abs/2605.15157",
-    "category": "VLA",
-    "date": "2026-05-16",
-    "score": 2.0
-  },
-  "2605.14759": {
-    "title": "Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement",
-    "authors": [
-      "Nian Liu",
-      "Nikita Kazeev",
-      "Stephen Gregory Dale"
-    ],
-    "url": "https://arxiv.org/abs/2605.14759",
-    "category": "World Model",
-    "date": "2026-05-17",
-    "score": 10.0
-  },
-  "2605.13986": {
-    "title": "TabPFN-3: Technical Report",
-    "authors": [
-      "Léo Grinsztajn",
-      "Klemens Flöge",
-      "Oscar Key"
-    ],
-    "url": "https://arxiv.org/abs/2605.13986",
-    "category": "Foundation Model",
-    "date": "2026-05-17",
-    "score": 10.0
-  },
-  "2605.06732": {
-    "title": "On Training in Imagination",
-    "authors": [
-      "Nadav Timor",
-      "Ravid Shwartz-Ziv",
-      "Micah Goldblum"
-    ],
-    "url": "https://arxiv.org/abs/2605.06732",
-    "category": "Other",
-    "date": "2026-05-17",
-    "score": 10.0
-  },
-  "2605.14950": {
-    "title": "Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model",
-    "authors": [
-      "Tao Lin",
-      "Yuxin Du",
-      "Jiting Liu"
-    ],
-    "url": "https://arxiv.org/abs/2605.14950",
-    "category": "VLA",
-    "date": "2026-05-17",
-    "score": 2.0
-  },
-  "2605.14712": {
-    "title": "IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation",
-    "authors": [
-      "Shijie Lian",
-      "Bin Yu",
-      "Xiaopeng Lin"
-    ],
-    "url": "https://arxiv.org/abs/2605.14712",
-    "category": "VLA",
-    "date": "2026-05-17",
-    "score": 2.0
-  },
-  "2605.15177": {
-    "title": "OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation",
-    "authors": [
-      "Shang Zhou",
-      "Wenhao Chai",
-      "Kaiyuan Liu"
-    ],
-    "url": "https://arxiv.org/abs/2605.15177",
-    "category": "Other",
-    "date": "2026-05-18",
-    "score": 3.0
-  },
-  "2605.14571": {
-    "title": "Let Robots Feel Your Touch: Visuo-Tactile Cortical Alignment for Embodied Mirror Resonance",
-    "authors": [
-      "Tianfang Zhu",
-      "Ning An",
-      "Rui Wang"
-    ],
-    "url": "https://arxiv.org/abs/2605.14571",
-    "category": "Other",
-    "date": "2026-05-18",
-    "score": 2.0
-  },
-  "2605.15185": {
-    "title": "Quantitative Video World Model Evaluation for Geometric-Consistency",
-    "authors": [
-      "Jiaxin Wu",
-      "Yihao Pi",
-      "Yinling Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2605.15185",
-    "category": "World Model",
-    "date": "2026-05-18",
-    "score": 2.0
-  },
-  "2605.15178": {
-    "title": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
-    "authors": [
-      "Haoyi Zhu",
-      "Haozhe Liu",
-      "Yuyang Zhao"
-    ],
-    "url": "https://arxiv.org/abs/2605.15178",
-    "category": "World Model",
-    "date": "2026-05-18",
-    "score": 2.0
-  },
-  "2605.15153": {
-    "title": "Pelican-Unified 1.0: A Unified Embodied Intelligence Model for Understanding, Reasoning, Imagination and Action",
-    "authors": [
-      "Yi Zhang",
-      "Yinda Chen",
-      "Che Liu"
-    ],
-    "url": "https://arxiv.org/abs/2605.15153",
-    "category": "Physical AI",
-    "date": "2026-05-18",
-    "score": 2.0
-  },
-  "2605.15975": {
-    "title": "Learning Bilevel Policies over Symbolic World Models for Long-Horizon Planning",
-    "authors": [
-      "Dillon Z. Chen",
-      "Till Hofmann",
-      "Toryn Q. Klassen"
-    ],
-    "url": "https://arxiv.org/abs/2605.15975",
-    "category": "VLA",
-    "date": "2026-05-19",
-    "score": 5.0
-  },
-  "2605.16030": {
-    "title": "Mind Dreamer: Untethering Imagination via Active Latent Intervention on Latent Manifolds",
-    "authors": [
-      "Shaojun Xu",
-      "Xiaoling Zhou",
-      "Yihan Lin"
-    ],
-    "url": "https://arxiv.org/abs/2605.16030",
-    "category": "World Model",
-    "date": "2026-05-19",
-    "score": 3.0
-  },
-  "2605.16241": {
-    "title": "Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation",
-    "authors": [
-      "Jin Shi",
-      "Brady Zhang",
-      "Yishun Lu"
-    ],
-    "url": "https://arxiv.org/abs/2605.16241",
-    "category": "VLA",
-    "date": "2026-05-19",
-    "score": 2.0
-  },
-  "2605.16154": {
-    "title": "Learn Where Outcomes Diverge: Efficient VLA RL via Probabilistic Chunk Masking",
-    "authors": [
-      "Vaidehi Bagaria",
-      "Nikshep Grampurohit",
-      "Pulkit Verma"
-    ],
-    "url": "https://arxiv.org/abs/2605.16154",
-    "category": "VLA",
-    "date": "2026-05-19",
-    "score": 2.0
-  },
-  "2605.16056": {
-    "title": "Health-Conditioned Vision-Language-Action Models for Malfunction-Aware Robot Control",
-    "authors": [
-      "Hüseyin Arslan",
-      "Özgür Erkent"
-    ],
-    "url": "https://arxiv.org/abs/2605.16056",
-    "category": "VLA",
-    "date": "2026-05-19",
-    "score": 2.0
-  },
-  "2605.18287": {
-    "title": "StableVLA: Towards Robust Vision-Language-Action Models without Extra Data",
-    "authors": [
-      "Yiyang Fu",
-      "Chubin Zhang",
-      "Shukai Gong"
-    ],
-    "url": "https://arxiv.org/abs/2605.18287",
-    "category": "VLA",
-    "date": "2026-05-20",
-    "score": 4.0
-  },
-  "2605.18729": {
-    "title": "Robo-Cortex: A Self-Evolving Embodied Agent via Dual-Grain Cognitive Memory and Autonomous Knowledge Induction",
-    "authors": [
-      "Nga Teng Chan",
-      "Yi Zhang",
-      "Yechi Liu"
-    ],
-    "url": "https://arxiv.org/abs/2605.18729",
-    "category": "World Model",
-    "date": "2026-05-20",
-    "score": 2.0
-  },
-  "2605.18722": {
-    "title": "Dexora: Open-source VLA for High-DoF Bimanual Dexterity",
-    "authors": [
-      "Zongzheng Zhang",
-      "Jingrui Pang",
-      "Zhuo Yang"
-    ],
-    "url": "https://arxiv.org/abs/2605.18722",
-    "category": "VLA",
-    "date": "2026-05-20",
-    "score": 2.0
-  },
-  "2605.18556": {
-    "title": "Key-Gram: Extensible World Knowledge for Embodied Manipulation",
-    "authors": [
-      "Jingjing Fan",
-      "Siyuan Li",
-      "Botao Ren"
-    ],
-    "url": "https://arxiv.org/abs/2605.18556",
-    "category": "VLA",
-    "date": "2026-05-20",
-    "score": 2.0
-  },
-  "2605.18407": {
-    "title": "Qumus: Realization of An Embodied AI Quantum Material Experimentalist",
-    "authors": [
-      "Lihan Shi",
-      "Zhaoyi Joy Zheng",
-      "Xinzhe Juan"
-    ],
-    "url": "https://arxiv.org/abs/2605.18407",
-    "category": "Physical AI",
-    "date": "2026-05-20",
-    "score": 2.0
-  },
-  "2605.19678": {
-    "title": "RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models",
-    "authors": [
-      "Jingzhou Luo",
-      "Yifan Wen",
-      "Yongjie Bai"
-    ],
-    "url": "https://arxiv.org/abs/2605.19678",
-    "category": "VLA",
-    "date": "2026-05-21",
-    "score": 4.0
-  },
-  "2605.19580": {
-    "title": "PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models",
-    "authors": [
-      "Peizheng Guo",
-      "Jingyao Wang",
-      "Changwen Zheng"
-    ],
-    "url": "https://arxiv.org/abs/2605.19580",
-    "category": "VLA",
-    "date": "2026-05-21",
-    "score": 4.0
-  },
-  "2605.19986": {
-    "title": "Beyond Binary Success: A Diagnostic Meta-Evaluation Framework for Fine-Grained Manipulation",
-    "authors": [
-      "He-Yang Xu",
-      "Pengyuan Zhang",
-      "Zongyuan Ge"
-    ],
-    "url": "https://arxiv.org/abs/2605.19986",
-    "category": "VLA",
-    "date": "2026-05-21",
-    "score": 3.0
-  },
-  "2605.19587": {
-    "title": "SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects",
-    "authors": [
-      "Puyi Wang",
-      "Yuhao Wang",
-      "Linjie Li"
-    ],
-    "url": "https://arxiv.org/abs/2605.19587",
-    "category": "Physical AI",
-    "date": "2026-05-21",
-    "score": 3.0
-  },
-  "2605.20072": {
-    "title": "Probing Embodied LLMs: When Higher Observation Fidelity Hurts Problem Solving",
-    "authors": [
-      "Oussama Zenkri",
-      "Oliver Brock"
-    ],
-    "url": "https://arxiv.org/abs/2605.20072",
-    "category": "Other",
-    "date": "2026-05-21",
-    "score": 2.0
-  },
-  "2605.22812": {
-    "title": "GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations",
-    "authors": [
-      "Wenxuan Guo",
-      "Ziyuan Li",
-      "Meng Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2605.22812",
-    "category": "VLA",
-    "date": "2026-05-23",
-    "score": 4.0
-  },
-  "2605.22446": {
-    "title": "Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts",
-    "authors": [
-      "Zhen Sun",
-      "Yongjian Guo",
-      "Haoran Sun"
-    ],
-    "url": "https://arxiv.org/abs/2605.22446",
-    "category": "VLA",
-    "date": "2026-05-23",
-    "score": 4.0
-  },
-  "2605.22123": {
-    "title": "Beyond Pixels: Learning Invariant Rewards for Real-World Robotics From a Few Demonstrations",
-    "authors": [
-      "Tengye Xu",
-      "Yangting Sun",
-      "Ziju Shen"
-    ],
-    "url": "https://arxiv.org/abs/2605.22123",
-    "category": "Other",
-    "date": "2026-05-23",
-    "score": 3.0
-  },
-  "2605.22082": {
-    "title": "CoRMA: Contrastive RMA for Contact-Rich Meta-Adaptation",
-    "authors": [
-      "Wentian Wang",
-      "Chutong Wen",
-      "Hongxu Ma"
-    ],
-    "url": "https://arxiv.org/abs/2605.22082",
-    "category": "Other",
-    "date": "2026-05-23",
-    "score": 3.0
-  },
-  "2605.22671": {
-    "title": "From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model",
-    "authors": [
-      "Bing Hu",
-      "Zaijing Li",
-      "Rui Shao"
-    ],
-    "url": "https://arxiv.org/abs/2605.22671",
-    "category": "VLA",
-    "date": "2026-05-23",
-    "score": 2.0
-  },
   "2605.18746": {
     "title": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
     "authors": [
@@ -1446,5 +1028,65 @@
     "category": "Foundation Model",
     "date": "2026-06-15",
     "score": 0.0
+  },
+  "2606.23444": {
+    "title": "SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors",
+    "authors": [
+      "Pratyaksh Rao",
+      "Wancong Zhang",
+      "Randall Balestriero"
+    ],
+    "url": "https://arxiv.org/abs/2606.23444",
+    "category": "World Model",
+    "date": "2026-06-23",
+    "score": 12.0
+  },
+  "2606.18610": {
+    "title": "SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation",
+    "authors": [
+      "Wei-Cheng Tseng",
+      "Gashon Hussein",
+      "Yuzhu Dong"
+    ],
+    "url": "https://arxiv.org/abs/2606.18610",
+    "category": "VLA",
+    "date": "2026-06-23",
+    "score": 12.0
+  },
+  "2606.23640": {
+    "title": "Learning Process Rewards via Success Visitation Matching for Efficient RL",
+    "authors": [
+      "Raymond Tsao",
+      "Andrew Wagenmaker",
+      "Sergey Levine"
+    ],
+    "url": "https://arxiv.org/abs/2606.23640",
+    "category": "Other",
+    "date": "2026-06-23",
+    "score": 10.0
+  },
+  "2606.15956": {
+    "title": "You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences",
+    "authors": [
+      "Ninad Daithankar",
+      "Alexi Gladstone",
+      "Yann LeCun"
+    ],
+    "url": "https://arxiv.org/abs/2606.15956",
+    "category": "Other",
+    "date": "2026-06-23",
+    "score": 10.0
+  },
+  "2606.23595": {
+    "title": "SPIRAL: Learning to Search and Aggregate",
+    "authors": [
+      "Jubayer Ibn Hamid",
+      "Ifdita Hasan Orney",
+      "Michael Y. Li"
+    ],
+    "url": "https://arxiv.org/abs/2606.23595",
+    "category": "Other",
+    "date": "2026-06-23",
+    "score": 10.0
   }
 }
