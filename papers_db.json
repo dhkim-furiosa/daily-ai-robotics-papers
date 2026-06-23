@@ -1088,5 +1088,63 @@
     "category": "Other",
     "date": "2026-06-23",
     "score": 10.0
+  },
+  "2606.20008": {
+    "title": "VIMPO: Value-Implicit Policy Optimization for LLMs",
+    "authors": [
+      "Zhewei Kang",
+      "Aosong Feng",
+      "Sergey Levine"
+    ],
+    "url": "https://arxiv.org/abs/2606.20008",
+    "category": "Other",
+    "date": "2026-06-23",
+    "score": 10.0
+  },
+  "2606.17551": {
+    "title": "Reversal Q-Learning",
+    "authors": [
+      "Aditya Oberai",
+      "Seohong Park",
+      "Sergey Levine"
+    ],
+    "url": "https://arxiv.org/abs/2606.17551",
+    "category": "Other",
+    "date": "2026-06-23",
+    "score": 10.0
+  },
+  "2606.16533": {
+    "title": "Kairos: A Native World Model Stack for Physical AI",
+    "authors": [
+      " Kairos Team",
+      "Fei Wang",
+      "Shan You"
+    ],
+    "url": "https://arxiv.org/abs/2606.16533",
+    "category": "World Model",
+    "date": "2026-06-23",
+    "score": 7.0
+  },
+  "2606.20537": {
+    "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+    "authors": [
+      "Liang Su"
+    ],
+    "url": "https://arxiv.org/abs/2606.20537",
+    "category": "Other",
+    "date": "2026-06-23",
+    "score": 6.0
+  },
+  "2606.14409": {
+    "title": "Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack",
+    "authors": [
+      "He Zhang",
+      "Lingzhu Xiang",
+      "Haitao Lin"
+    ],
+    "url": "https://arxiv.org/abs/2606.14409",
+    "category": "VLA",
+    "date": "2026-06-23",
+    "score": 6.0
   }
 }

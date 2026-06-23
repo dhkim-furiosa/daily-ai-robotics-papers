@@ -23,6 +23,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
 | 2026-06-23 | SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation | Wei-Cheng Tseng, Gashon Hussein, Yuzhu Dong | [arXiv](https://arxiv.org/abs/2606.18610) |
+| 2026-06-23 | Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack | He Zhang, Lingzhu Xiang, Haitao Lin | [arXiv](https://arxiv.org/abs/2606.14409) |
 | 2026-06-15 | OpenEAI-Platform: An Open-source Embodied Artificial Intelligence Hardware-Software Unified Platform | Jinyuan Zhang, Luoyi Fan, Leiyu Wang | [arXiv](https://arxiv.org/abs/2606.03392) |
 | 2026-06-14 | GIVE: Grounding Human Gestures in Vision-Language-Action Models | Pengfei Liu, Gen Li, Junqiao Fan | [arXiv](https://arxiv.org/abs/2606.13435) |
 | 2026-06-14 | Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer | Sanghoon Lee, Jiyeong Chae, Kyung-Joon Park | [arXiv](https://arxiv.org/abs/2606.09416) |
@@ -68,6 +69,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
 | 2026-06-23 | SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors | Pratyaksh Rao, Wancong Zhang, Randall Balestriero | [arXiv](https://arxiv.org/abs/2606.23444) |
+| 2026-06-23 | Kairos: A Native World Model Stack for Physical AI |  Kairos Team, Fei Wang, Shan You | [arXiv](https://arxiv.org/abs/2606.16533) |
 | 2026-06-14 | $\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation | Arnav Kumar Jain, Yilin Wu, Jesse Farebrother | [arXiv](https://arxiv.org/abs/2606.13672) |
 | 2026-06-14 | VISA: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models | Ruiqi Xian, Yuehan Xian, Jing Liang | [arXiv](https://arxiv.org/abs/2606.13460) |
 | 2026-06-13 | MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold | Yang Zhou, Ziheng Wang, Yuqin Lu | [arXiv](https://arxiv.org/abs/2606.13376) |
@@ -112,6 +114,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-23 | Learning Process Rewards via Success Visitation Matching for Efficient RL | Raymond Tsao, Andrew Wagenmaker, Sergey Levine | [arXiv](https://arxiv.org/abs/2606.23640) |
 | 2026-06-23 | You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences | Ninad Daithankar, Alexi Gladstone, Yann LeCun | [arXiv](https://arxiv.org/abs/2606.15956) |
 | 2026-06-23 | SPIRAL: Learning to Search and Aggregate | Jubayer Ibn Hamid, Ifdita Hasan Orney, Michael Y. Li | [arXiv](https://arxiv.org/abs/2606.23595) |
+| 2026-06-23 | VIMPO: Value-Implicit Policy Optimization for LLMs | Zhewei Kang, Aosong Feng, Sergey Levine | [arXiv](https://arxiv.org/abs/2606.20008) |
+| 2026-06-23 | Reversal Q-Learning | Aditya Oberai, Seohong Park, Sergey Levine | [arXiv](https://arxiv.org/abs/2606.17551) |
+| 2026-06-23 | Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving | Liang Su | [arXiv](https://arxiv.org/abs/2606.20537) |
 | 2026-06-13 | Improving Robotic Generalist Policies via Flow Reversal Steering | Andy Tang, William Chen, Andrew Wagenmaker | [arXiv](https://arxiv.org/abs/2606.13675) |
 | 2026-06-12 | How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology | Kian R. Weihrauch, Thomas A. Buckley, William Lotter | [arXiv](https://arxiv.org/abs/2606.12407) |
 | 2026-06-11 | Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning | Zhiyuan Zhou, Andy Peng, Charles Xu | [arXiv](https://arxiv.org/abs/2606.11087) |
