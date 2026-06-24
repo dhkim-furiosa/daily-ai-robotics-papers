@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-24 | G$^3$VLA: Geometric inductive bias for Vision-Language-Action Models | Yue Peng, Yongzhe Zhao, Artur Habuda | [arXiv](https://arxiv.org/abs/2606.24472) |
+| 2026-06-24 | InSight: Self-Guided Skill Acquisition via Steerable VLAs | Maggie Wang, Lars Osterberg, Stephen Tian | [arXiv](https://arxiv.org/abs/2606.24884) |
 | 2026-06-23 | SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation | Wei-Cheng Tseng, Gashon Hussein, Yuzhu Dong | [arXiv](https://arxiv.org/abs/2606.18610) |
 | 2026-06-23 | Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack | He Zhang, Lingzhu Xiang, Haitao Lin | [arXiv](https://arxiv.org/abs/2606.14409) |
 | 2026-06-15 | OpenEAI-Platform: An Open-source Embodied Artificial Intelligence Hardware-Software Unified Platform | Jinyuan Zhang, Luoyi Fan, Leiyu Wang | [arXiv](https://arxiv.org/abs/2606.03392) |
@@ -87,6 +89,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-24 | Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI | Shaoshan Liu, Xiugong Qin, Xuan Wu | [arXiv](https://arxiv.org/abs/2606.19769) |
+| 2026-06-24 | ENPIRE: Agentic Robot Policy Self-Improvement in the Real World | Wenli Xiao, Jia Xie, Tonghe Zhang | [arXiv](https://arxiv.org/abs/2606.19980) |
 | 2026-06-15 | AEGIS: A Backup Reflex for Physical AI | Josef Chen | [arXiv](https://arxiv.org/abs/2606.06660) |
 | 2026-06-15 | Making Embodied AI Reliable: A Community Agenda from Testing to Formal Verification | Xi Zheng, Dulanga Weerakoon, Yintong Huo | [arXiv](https://arxiv.org/abs/2606.03593) |
 | 2026-06-15 | Mana: Dexterous Manipulation of Articulated Tools | Zhao-Heng Yin, Guanya Shi, Pieter Abbeel | [arXiv](https://arxiv.org/abs/2606.13677) |
@@ -102,6 +106,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-24 | LaGO: Latent Action Guidance for Online Reinforcement Learning | Kuan-Yen Liu, Ren-Jyun Huang, Ti-Rong Wu | [arXiv](https://arxiv.org/abs/2606.24669) |
 | 2026-06-15 | RepWAM: World Action Modeling with Representation Visual-Action Tokenizers | Junke Wang, Qihang Zhang, Shuai Yang | [arXiv](https://arxiv.org/abs/2606.13674) |
 | 2026-06-08 | Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents | Zhuoming Chen, Xinrui Zhong, Qilong Feng | [arXiv](https://arxiv.org/abs/2606.06453) |
 | 2026-05-28 | SpatialBench: Is Your Spatial Foundation Model an All-Round Player? | Haosong Peng, Hao Li, Jiaqi Chen | [arXiv](https://arxiv.org/abs/2605.27367) |
@@ -201,6 +206,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-06-24](./2026/06/2026-06-24.md)
 - [2026-06-23](./2026/06/2026-06-23.md)
 - [2026-06-15](./2026/06/2026-06-15.md)
 - [2026-06-14](./2026/06/2026-06-14.md)

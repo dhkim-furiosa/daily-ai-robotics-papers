@@ -1146,5 +1146,65 @@
     "category": "VLA",
     "date": "2026-06-23",
     "score": 6.0
+  },
+  "2606.24472": {
+    "title": "G$^3$VLA: Geometric inductive bias for Vision-Language-Action Models",
+    "authors": [
+      "Yue Peng",
+      "Yongzhe Zhao",
+      "Artur Habuda"
+    ],
+    "url": "https://arxiv.org/abs/2606.24472",
+    "category": "VLA",
+    "date": "2026-06-24",
+    "score": 7.0
+  },
+  "2606.19769": {
+    "title": "Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI",
+    "authors": [
+      "Shaoshan Liu",
+      "Xiugong Qin",
+      "Xuan Wu"
+    ],
+    "url": "https://arxiv.org/abs/2606.19769",
+    "category": "Physical AI",
+    "date": "2026-06-24",
+    "score": 5.0
+  },
+  "2606.24669": {
+    "title": "LaGO: Latent Action Guidance for Online Reinforcement Learning",
+    "authors": [
+      "Kuan-Yen Liu",
+      "Ren-Jyun Huang",
+      "Ti-Rong Wu"
+    ],
+    "url": "https://arxiv.org/abs/2606.24669",
+    "category": "Foundation Model",
+    "date": "2026-06-24",
+    "score": 3.0
+  },
+  "2606.19980": {
+    "title": "ENPIRE: Agentic Robot Policy Self-Improvement in the Real World",
+    "authors": [
+      "Wenli Xiao",
+      "Jia Xie",
+      "Tonghe Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2606.19980",
+    "category": "Physical AI",
+    "date": "2026-06-24",
+    "score": 3.0
+  },
+  "2606.24884": {
+    "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+    "authors": [
+      "Maggie Wang",
+      "Lars Osterberg",
+      "Stephen Tian"
+    ],
+    "url": "https://arxiv.org/abs/2606.24884",
+    "category": "VLA",
+    "date": "2026-06-24",
+    "score": 2.0
   }
 }
