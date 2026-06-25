@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-25 | Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models | Tiecheng Guo, Meng Guo | [arXiv](https://arxiv.org/abs/2606.25985) |
+| 2026-06-25 | ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models | Kejing Wang, Toan Nguyen, Minh Hoang Nguyen | [arXiv](https://arxiv.org/abs/2606.25800) |
+| 2026-06-25 | In-Context World Modeling for Robotic Control | Siyin Wang, Junhao Shi, Senyu Fei | [arXiv](https://arxiv.org/abs/2606.26025) |
 | 2026-06-24 | G$^3$VLA: Geometric inductive bias for Vision-Language-Action Models | Yue Peng, Yongzhe Zhao, Artur Habuda | [arXiv](https://arxiv.org/abs/2606.24472) |
 | 2026-06-24 | InSight: Self-Guided Skill Acquisition via Steerable VLAs | Maggie Wang, Lars Osterberg, Stephen Tian | [arXiv](https://arxiv.org/abs/2606.24884) |
 | 2026-06-23 | SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation | Wei-Cheng Tseng, Gashon Hussein, Yuzhu Dong | [arXiv](https://arxiv.org/abs/2606.18610) |
@@ -64,7 +67,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-27 | Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models | Jianwei Tai | [arXiv](https://arxiv.org/abs/2605.25889) |
 | 2026-05-27 | Rethinking VLM Representation for VLA Initialization | Weifeng Lin, Siyuan Huang, Hao Li | [arXiv](https://arxiv.org/abs/2605.25802) |
 | 2026-05-26 | ChainFlow-VLA: Causal Flow Planning with Vision-Language Models | Xiyang Wang, Xinlin Wang, Tingguang Zhou | [arXiv](https://arxiv.org/abs/2605.23270) |
-| 2026-05-25 | StereoPolicy: Improving Robotic Manipulation Policies via Stereo Perception | Evans Han, Yunfan Jiang, Yingke Wang | [arXiv](https://arxiv.org/abs/2605.09989) |
 
 ### World Model
 
@@ -100,7 +102,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-08 | VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents | Yunhao Yang, Neel P. Bhatt, Kevin Wang | [arXiv](https://arxiv.org/abs/2606.05395) |
 | 2026-06-02 | Batched Differentiable Rigid Body Dynamics in PyTorch for GPU-Accelerated Robot Learning | Yue Wang, Yanran Xu, Wenbo Wu | [arXiv](https://arxiv.org/abs/2605.31481) |
 | 2026-05-28 | Towards Shared Embodied Intelligence in Humanoid Robots through Optimization Development and Testing of the Human Aware ergoCub Robot | Carlotta Sartore, Mohamed Elobaid, Lorenzo Rapetti | [arXiv](https://arxiv.org/abs/2605.26991) |
-| 2026-05-25 | ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop | Yining Hong, Jiageng Liu, Han Yin | [arXiv](https://arxiv.org/abs/2605.18746) |
 
 ### Foundation Model
 
@@ -116,6 +117,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-25 | Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models | Akshay Paruchuri, Sanmi Koyejo, Ehsan Adeli | [arXiv](https://arxiv.org/abs/2606.26079) |
+| 2026-06-25 | Emcar: Embodied Controller for Animating Robots | Carlos Gomez Cubero, Elizabeth Jochum | [arXiv](https://arxiv.org/abs/2606.26008) |
 | 2026-06-23 | Learning Process Rewards via Success Visitation Matching for Efficient RL | Raymond Tsao, Andrew Wagenmaker, Sergey Levine | [arXiv](https://arxiv.org/abs/2606.23640) |
 | 2026-06-23 | You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences | Ninad Daithankar, Alexi Gladstone, Yann LeCun | [arXiv](https://arxiv.org/abs/2606.15956) |
 | 2026-06-23 | SPIRAL: Learning to Search and Aggregate | Jubayer Ibn Hamid, Ifdita Hasan Orney, Michael Y. Li | [arXiv](https://arxiv.org/abs/2606.23595) |
@@ -206,6 +209,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-06-25](./2026/06/2026-06-25.md)
 - [2026-06-24](./2026/06/2026-06-24.md)
 - [2026-06-23](./2026/06/2026-06-23.md)
 - [2026-06-15](./2026/06/2026-06-15.md)

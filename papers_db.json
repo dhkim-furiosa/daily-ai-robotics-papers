@@ -1,28 +1,4 @@
 {
-  "2605.18746": {
-    "title": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
-    "authors": [
-      "Yining Hong",
-      "Jiageng Liu",
-      "Han Yin"
-    ],
-    "url": "https://arxiv.org/abs/2605.18746",
-    "category": "Physical AI",
-    "date": "2026-05-25",
-    "score": 5.0
-  },
-  "2605.09989": {
-    "title": "StereoPolicy: Improving Robotic Manipulation Policies via Stereo Perception",
-    "authors": [
-      "Evans Han",
-      "Yunfan Jiang",
-      "Yingke Wang"
-    ],
-    "url": "https://arxiv.org/abs/2605.09989",
-    "category": "VLA",
-    "date": "2026-05-25",
-    "score": 0.0
-  },
   "2605.23270": {
     "title": "ChainFlow-VLA: Causal Flow Planning with Vision-Language Models",
     "authors": [
@@ -1205,6 +1181,64 @@
     "url": "https://arxiv.org/abs/2606.24884",
     "category": "VLA",
     "date": "2026-06-24",
+    "score": 2.0
+  },
+  "2606.25985": {
+    "title": "Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models",
+    "authors": [
+      "Tiecheng Guo",
+      "Meng Guo"
+    ],
+    "url": "https://arxiv.org/abs/2606.25985",
+    "category": "VLA",
+    "date": "2026-06-25",
+    "score": 5.0
+  },
+  "2606.25800": {
+    "title": "ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models",
+    "authors": [
+      "Kejing Wang",
+      "Toan Nguyen",
+      "Minh Hoang Nguyen"
+    ],
+    "url": "https://arxiv.org/abs/2606.25800",
+    "category": "VLA",
+    "date": "2026-06-25",
+    "score": 4.0
+  },
+  "2606.26079": {
+    "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
+    "authors": [
+      "Akshay Paruchuri",
+      "Sanmi Koyejo",
+      "Ehsan Adeli"
+    ],
+    "url": "https://arxiv.org/abs/2606.26079",
+    "category": "Other",
+    "date": "2026-06-25",
+    "score": 3.0
+  },
+  "2606.26025": {
+    "title": "In-Context World Modeling for Robotic Control",
+    "authors": [
+      "Siyin Wang",
+      "Junhao Shi",
+      "Senyu Fei"
+    ],
+    "url": "https://arxiv.org/abs/2606.26025",
+    "category": "VLA",
+    "date": "2026-06-25",
+    "score": 2.0
+  },
+  "2606.26008": {
+    "title": "Emcar: Embodied Controller for Animating Robots",
+    "authors": [
+      "Carlos Gomez Cubero",
+      "Elizabeth Jochum"
+    ],
+    "url": "https://arxiv.org/abs/2606.26008",
+    "category": "Other",
+    "date": "2026-06-25",
     "score": 2.0
   }
 }
