@@ -1,64 +1,4 @@
 {
-  "2605.23270": {
-    "title": "ChainFlow-VLA: Causal Flow Planning with Vision-Language Models",
-    "authors": [
-      "Xiyang Wang",
-      "Xinlin Wang",
-      "Tingguang Zhou"
-    ],
-    "url": "https://arxiv.org/abs/2605.23270",
-    "category": "VLA",
-    "date": "2026-05-26",
-    "score": 2.0
-  },
-  "2605.23263": {
-    "title": "6G Communication Networks Enabling Embodied Agents: Architecture and Prototype",
-    "authors": [
-      "Lipeng Dai",
-      "Luping Xiang",
-      "Kun Yang"
-    ],
-    "url": "https://arxiv.org/abs/2605.23263",
-    "category": "Other",
-    "date": "2026-05-26",
-    "score": 2.0
-  },
-  "2605.23863": {
-    "title": "Robotic Strawberry Harvesting with Robust Vision and Deep Reinforcement Learning based Sim-to-Real Control",
-    "authors": [
-      "Al Bashir",
-      "Shao-Yang Chang",
-      "Partho Ghose"
-    ],
-    "url": "https://arxiv.org/abs/2605.23863",
-    "category": "Other",
-    "date": "2026-05-26",
-    "score": 0.0
-  },
-  "2605.23856": {
-    "title": "Point Tracking Improves World Action Models",
-    "authors": [
-      "Jiarui Guan",
-      "Wenshuai Zhao",
-      "Yue Pei"
-    ],
-    "url": "https://arxiv.org/abs/2605.23856",
-    "category": "Other",
-    "date": "2026-05-26",
-    "score": 0.0
-  },
-  "2605.23847": {
-    "title": "Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion",
-    "authors": [
-      "Remko Proesmans",
-      "Thomas Lips",
-      "Francis wyffels"
-    ],
-    "url": "https://arxiv.org/abs/2605.23847",
-    "category": "Other",
-    "date": "2026-05-26",
-    "score": 0.0
-  },
   "2605.25477": {
     "title": "EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models",
     "authors": [
@@ -1239,6 +1179,66 @@
     "url": "https://arxiv.org/abs/2606.26008",
     "category": "Other",
     "date": "2026-06-25",
+    "score": 2.0
+  },
+  "2606.27146": {
+    "title": "PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies",
+    "authors": [
+      "Jiayu Yang",
+      "Tao Yang",
+      "Weijun Li"
+    ],
+    "url": "https://arxiv.org/abs/2606.27146",
+    "category": "VLA",
+    "date": "2026-06-26",
+    "score": 4.0
+  },
+  "2606.27079": {
+    "title": "ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models",
+    "authors": [
+      "Mingyang Lyu",
+      "Yinqian Sun",
+      "Yiyang Jia"
+    ],
+    "url": "https://arxiv.org/abs/2606.27079",
+    "category": "VLA",
+    "date": "2026-06-26",
+    "score": 4.0
+  },
+  "2606.27317": {
+    "title": "OctoSense: Self-Supervised Learning for Multimodal Robot Perception",
+    "authors": [
+      "Anthony Bisulco",
+      "Jeremy Wang",
+      "Kostas Daniilidis"
+    ],
+    "url": "https://arxiv.org/abs/2606.27317",
+    "category": "Foundation Model",
+    "date": "2026-06-26",
+    "score": 3.0
+  },
+  "2606.27355": {
+    "title": "RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection",
+    "authors": [
+      "Xingyu Ren",
+      "Chugang Yi",
+      "Ge Ma"
+    ],
+    "url": "https://arxiv.org/abs/2606.27355",
+    "category": "VLA",
+    "date": "2026-06-26",
+    "score": 2.0
+  },
+  "2606.27295": {
+    "title": "LA4VLA: Learning to Act without Seeing via Language-Action Pretraining",
+    "authors": [
+      "Tao Lin",
+      "Yuxin Du",
+      "Yiran Mao"
+    ],
+    "url": "https://arxiv.org/abs/2606.27295",
+    "category": "VLA",
+    "date": "2026-06-26",
     "score": 2.0
   }
 }

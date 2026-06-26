@@ -22,6 +22,10 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-26 | PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies | Jiayu Yang, Tao Yang, Weijun Li | [arXiv](https://arxiv.org/abs/2606.27146) |
+| 2026-06-26 | ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models | Mingyang Lyu, Yinqian Sun, Yiyang Jia | [arXiv](https://arxiv.org/abs/2606.27079) |
+| 2026-06-26 | RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection | Xingyu Ren, Chugang Yi, Ge Ma | [arXiv](https://arxiv.org/abs/2606.27355) |
+| 2026-06-26 | LA4VLA: Learning to Act without Seeing via Language-Action Pretraining | Tao Lin, Yuxin Du, Yiran Mao | [arXiv](https://arxiv.org/abs/2606.27295) |
 | 2026-06-25 | Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models | Tiecheng Guo, Meng Guo | [arXiv](https://arxiv.org/abs/2606.25985) |
 | 2026-06-25 | ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models | Kejing Wang, Toan Nguyen, Minh Hoang Nguyen | [arXiv](https://arxiv.org/abs/2606.25800) |
 | 2026-06-25 | In-Context World Modeling for Robotic Control | Siyin Wang, Junhao Shi, Senyu Fei | [arXiv](https://arxiv.org/abs/2606.26025) |
@@ -66,7 +70,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-27 | EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models | Perry Dong, Kuo-Han Hung, Tian Gao | [arXiv](https://arxiv.org/abs/2605.25477) |
 | 2026-05-27 | Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models | Jianwei Tai | [arXiv](https://arxiv.org/abs/2605.25889) |
 | 2026-05-27 | Rethinking VLM Representation for VLA Initialization | Weifeng Lin, Siyuan Huang, Hao Li | [arXiv](https://arxiv.org/abs/2605.25802) |
-| 2026-05-26 | ChainFlow-VLA: Causal Flow Planning with Vision-Language Models | Xiyang Wang, Xinlin Wang, Tingguang Zhou | [arXiv](https://arxiv.org/abs/2605.23270) |
 
 ### World Model
 
@@ -107,6 +110,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-26 | OctoSense: Self-Supervised Learning for Multimodal Robot Perception | Anthony Bisulco, Jeremy Wang, Kostas Daniilidis | [arXiv](https://arxiv.org/abs/2606.27317) |
 | 2026-06-24 | LaGO: Latent Action Guidance for Online Reinforcement Learning | Kuan-Yen Liu, Ren-Jyun Huang, Ti-Rong Wu | [arXiv](https://arxiv.org/abs/2606.24669) |
 | 2026-06-15 | RepWAM: World Action Modeling with Representation Visual-Action Tokenizers | Junke Wang, Qihang Zhang, Shuai Yang | [arXiv](https://arxiv.org/abs/2606.13674) |
 | 2026-06-08 | Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents | Zhuoming Chen, Xinrui Zhong, Qilong Feng | [arXiv](https://arxiv.org/abs/2606.06453) |
@@ -143,10 +147,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-30 | A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms | Yufei Jia, Zhanxiang Cao, Mingrui Yu | [arXiv](https://arxiv.org/abs/2605.30313) |
 | 2026-05-30 | Replicable Simulation-Based Robot Validation through Provenance | Argentina Ortega, Samuel Wiest, Frederik Pasch | [arXiv](https://arxiv.org/abs/2605.29973) |
 | 2026-05-27 | Active Query Synthesis for Preference Learning | Namrata Nadagouda, Nauman Ahad, Maegan Tucker | [arXiv](https://arxiv.org/abs/2605.26072) |
-| 2026-05-26 | 6G Communication Networks Enabling Embodied Agents: Architecture and Prototype | Lipeng Dai, Luping Xiang, Kun Yang | [arXiv](https://arxiv.org/abs/2605.23263) |
-| 2026-05-26 | Robotic Strawberry Harvesting with Robust Vision and Deep Reinforcement Learning based Sim-to-Real Control | Al Bashir, Shao-Yang Chang, Partho Ghose | [arXiv](https://arxiv.org/abs/2605.23863) |
-| 2026-05-26 | Point Tracking Improves World Action Models | Jiarui Guan, Wenshuai Zhao, Yue Pei | [arXiv](https://arxiv.org/abs/2605.23856) |
-| 2026-05-26 | Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion | Remko Proesmans, Thomas Lips, Francis wyffels | [arXiv](https://arxiv.org/abs/2605.23847) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -209,6 +209,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-06-26](./2026/06/2026-06-26.md)
 - [2026-06-25](./2026/06/2026-06-25.md)
 - [2026-06-24](./2026/06/2026-06-24.md)
 - [2026-06-23](./2026/06/2026-06-23.md)
