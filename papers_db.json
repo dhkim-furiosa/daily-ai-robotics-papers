@@ -1,60 +1,4 @@
 {
-  "2605.25477": {
-    "title": "EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models",
-    "authors": [
-      "Perry Dong",
-      "Kuo-Han Hung",
-      "Tian Gao"
-    ],
-    "url": "https://arxiv.org/abs/2605.25477",
-    "category": "VLA",
-    "date": "2026-05-27",
-    "score": 12.0
-  },
-  "2605.25889": {
-    "title": "Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models",
-    "authors": [
-      "Jianwei Tai"
-    ],
-    "url": "https://arxiv.org/abs/2605.25889",
-    "category": "VLA",
-    "date": "2026-05-27",
-    "score": 2.0
-  },
-  "2605.25802": {
-    "title": "Rethinking VLM Representation for VLA Initialization",
-    "authors": [
-      "Weifeng Lin",
-      "Siyuan Huang",
-      "Hao Li"
-    ],
-    "url": "https://arxiv.org/abs/2605.25802",
-    "category": "VLA",
-    "date": "2026-05-27",
-    "score": 2.0
-  },
-  "2605.25495": {
-    "title": "RepSAM: Bridging Foundation Models to Robotic Vision via Representation-Guided Adaptation",
-    "authors": [
-      "Wenhui Chu"
-    ],
-    "url": "https://arxiv.org/abs/2605.25495",
-    "category": "Foundation Model",
-    "date": "2026-05-27",
-    "score": 2.0
-  },
-  "2605.26072": {
-    "title": "Active Query Synthesis for Preference Learning",
-    "authors": [
-      "Namrata Nadagouda",
-      "Nauman Ahad",
-      "Maegan Tucker"
-    ],
-    "url": "https://arxiv.org/abs/2605.26072",
-    "category": "Other",
-    "date": "2026-05-27",
-    "score": 0.0
-  },
   "2605.26991": {
     "title": "Towards Shared Embodied Intelligence in Humanoid Robots through Optimization Development and Testing of the Human Aware ergoCub Robot",
     "authors": [
@@ -1239,6 +1183,65 @@
     "url": "https://arxiv.org/abs/2606.27295",
     "category": "VLA",
     "date": "2026-06-26",
+    "score": 2.0
+  },
+  "2606.27268": {
+    "title": "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
+    "authors": [
+      "Wen Ye",
+      "Peiyan Li",
+      "Tingyu Yuan"
+    ],
+    "url": "https://arxiv.org/abs/2606.27268",
+    "category": "VLA",
+    "date": "2026-06-27",
+    "score": 2.0
+  },
+  "2606.27251": {
+    "title": "Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy",
+    "authors": [
+      "Junhao Shi",
+      "Zezheng Huai",
+      "Siyin Wang"
+    ],
+    "url": "https://arxiv.org/abs/2606.27251",
+    "category": "VLA",
+    "date": "2026-06-27",
+    "score": 2.0
+  },
+  "2606.27144": {
+    "title": "PAMAE: Phase-Aware-MoE Action Experts Towards Reliable Flow-Matching Vision-Language-Action Policies",
+    "authors": [
+      "Jiayu Yang",
+      "Tao Yang",
+      "Xiang Chang"
+    ],
+    "url": "https://arxiv.org/abs/2606.27144",
+    "category": "VLA",
+    "date": "2026-06-27",
+    "score": 2.0
+  },
+  "2606.27326": {
+    "title": "Hallucination in World Models is Predictable and Preventable",
+    "authors": [
+      "Nicklas Hansen",
+      "Xiaolong Wang"
+    ],
+    "url": "https://arxiv.org/abs/2606.27326",
+    "category": "World Model",
+    "date": "2026-06-27",
+    "score": 2.0
+  },
+  "2606.27325": {
+    "title": "Not All Actions Are Equal: Rethinking Conditioning for Dexterous World Model",
+    "authors": [
+      "Zizhao Yuan",
+      "Zhengtu Liang",
+      "Taowen Wang"
+    ],
+    "url": "https://arxiv.org/abs/2606.27325",
+    "category": "World Model",
+    "date": "2026-06-27",
     "score": 2.0
   }
 }
