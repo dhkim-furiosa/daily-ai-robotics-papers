@@ -68,13 +68,14 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-05-30 | Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments | Qiuyue Wang, Mingsheng Li, Jian Guan | [arXiv](https://arxiv.org/abs/2605.30280) |
 | 2026-05-30 | VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing | Haoyuan Shi, Xiancong Ren, Yingji Zhang | [arXiv](https://arxiv.org/abs/2605.30117) |
 | 2026-05-30 | VisualThink-VLA: Visual Intermediate Reasoning for Effective and Low-Latency Vision-Language-Action Policies | Mingjian Gao, Wenqiao Zhang, Yuqian Yuan | [arXiv](https://arxiv.org/abs/2605.30011) |
-| 2026-05-28 | FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies | Xintong Hu, Xuhong Huang, Jinyu Zhang | [arXiv](https://arxiv.org/abs/2605.27284) |
-| 2026-05-28 | Can VLA Models Learn from Real-World Data Continually without Forgetting? | Jiarun Zhu, Yijun Hong, Xiaoquan Sun | [arXiv](https://arxiv.org/abs/2605.26820) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-28 | EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting | Junwei Luo, Shuai Yuan, Zhenya Yang | [arXiv](https://arxiv.org/abs/2606.27277) |
+| 2026-06-28 | Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models | Kaiwen Zheng, Guande He, Min Zhao | [arXiv](https://arxiv.org/abs/2606.25473) |
+| 2026-06-28 | Active Inference as the Test-Time Scaling Law for Physical AI Agents | Omar Hashash, Christo Kurisummoottil Thomas, Walid Saad | [arXiv](https://arxiv.org/abs/2606.22813) |
 | 2026-06-27 | Hallucination in World Models is Predictable and Preventable | Nicklas Hansen, Xiaolong Wang | [arXiv](https://arxiv.org/abs/2606.27326) |
 | 2026-06-27 | Not All Actions Are Equal: Rethinking Conditioning for Dexterous World Model | Zizhao Yuan, Zhengtu Liang, Taowen Wang | [arXiv](https://arxiv.org/abs/2606.27325) |
 | 2026-06-23 | SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors | Pratyaksh Rao, Wancong Zhang, Randall Balestriero | [arXiv](https://arxiv.org/abs/2606.23444) |
@@ -90,12 +91,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-06 | Cosmos 3: Omnimodal World Models for Physical AI |  Aditi, Niket Agarwal, Arslan Ali | [arXiv](https://arxiv.org/abs/2606.02800) |
 | 2026-06-06 | MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data | Teng Hu, Mingchun Lu, Yating Wang | [arXiv](https://arxiv.org/abs/2606.02753) |
 | 2026-06-04 | A 3D Isovist World Model -- Revealing a City's Unseen Geometry and Its Emergent Cross-City Signature | Xuhui Lin, Stephen Law, Nanjiang Chen | [arXiv](https://arxiv.org/abs/2606.03609) |
-| 2026-05-28 | Riding the Shifting Potential: When Reactive Control Suffices for Multi-Goal Behavior | Vito Mengers, Oliver Brock | [arXiv](https://arxiv.org/abs/2605.27314) |
 
 ### Physical AI
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-28 | Humanoid-OmniOcc: Stereo-Based Full-View Occupancy Dataset for Embodied AI | Xianda Guo, Bohao Zhang, Chenwei Huang | [arXiv](https://arxiv.org/abs/2606.22971) |
 | 2026-06-24 | Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI | Shaoshan Liu, Xiugong Qin, Xuan Wu | [arXiv](https://arxiv.org/abs/2606.19769) |
 | 2026-06-24 | ENPIRE: Agentic Robot Policy Self-Improvement in the Real World | Wenli Xiao, Jia Xie, Tonghe Zhang | [arXiv](https://arxiv.org/abs/2606.19980) |
 | 2026-06-15 | AEGIS: A Backup Reflex for Physical AI | Josef Chen | [arXiv](https://arxiv.org/abs/2606.06660) |
@@ -106,7 +107,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-08 | Safe Embodied AI for Long-horizon Tasks: A Cross-layer Analysis of Robotic Manipulation | Dabin Kim, Daemin Park, Sangyub Lee | [arXiv](https://arxiv.org/abs/2606.05660) |
 | 2026-06-08 | VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents | Yunhao Yang, Neel P. Bhatt, Kevin Wang | [arXiv](https://arxiv.org/abs/2606.05395) |
 | 2026-06-02 | Batched Differentiable Rigid Body Dynamics in PyTorch for GPU-Accelerated Robot Learning | Yue Wang, Yanran Xu, Wenbo Wu | [arXiv](https://arxiv.org/abs/2605.31481) |
-| 2026-05-28 | Towards Shared Embodied Intelligence in Humanoid Robots through Optimization Development and Testing of the Human Aware ergoCub Robot | Carlotta Sartore, Mohamed Elobaid, Lorenzo Rapetti | [arXiv](https://arxiv.org/abs/2605.26991) |
 
 ### Foundation Model
 
@@ -116,12 +116,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-24 | LaGO: Latent Action Guidance for Online Reinforcement Learning | Kuan-Yen Liu, Ren-Jyun Huang, Ti-Rong Wu | [arXiv](https://arxiv.org/abs/2606.24669) |
 | 2026-06-15 | RepWAM: World Action Modeling with Representation Visual-Action Tokenizers | Junke Wang, Qihang Zhang, Shuai Yang | [arXiv](https://arxiv.org/abs/2606.13674) |
 | 2026-06-08 | Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents | Zhuoming Chen, Xinrui Zhong, Qilong Feng | [arXiv](https://arxiv.org/abs/2606.06453) |
-| 2026-05-28 | SpatialBench: Is Your Spatial Foundation Model an All-Round Player? | Haosong Peng, Hao Li, Jiaqi Chen | [arXiv](https://arxiv.org/abs/2605.27367) |
 
 ### Other
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-28 | HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory | Xiaolin Zhou, Liu Liu, Tingyang Xiao | [arXiv](https://arxiv.org/abs/2606.23565) |
 | 2026-06-25 | Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models | Akshay Paruchuri, Sanmi Koyejo, Ehsan Adeli | [arXiv](https://arxiv.org/abs/2606.26079) |
 | 2026-06-25 | Emcar: Embodied Controller for Animating Robots | Carlos Gomez Cubero, Elizabeth Jochum | [arXiv](https://arxiv.org/abs/2606.26008) |
 | 2026-06-23 | Learning Process Rewards via Success Visitation Matching for Efficient RL | Raymond Tsao, Andrew Wagenmaker, Sergey Levine | [arXiv](https://arxiv.org/abs/2606.23640) |
@@ -209,6 +209,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-06-28](./2026/06/2026-06-28.md)
 - [2026-06-27](./2026/06/2026-06-27.md)
 - [2026-06-26](./2026/06/2026-06-26.md)
 - [2026-06-25](./2026/06/2026-06-25.md)

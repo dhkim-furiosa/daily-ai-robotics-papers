@@ -1,63 +1,4 @@
 {
-  "2605.26991": {
-    "title": "Towards Shared Embodied Intelligence in Humanoid Robots through Optimization Development and Testing of the Human Aware ergoCub Robot",
-    "authors": [
-      "Carlotta Sartore",
-      "Mohamed Elobaid",
-      "Lorenzo Rapetti"
-    ],
-    "url": "https://arxiv.org/abs/2605.26991",
-    "category": "Physical AI",
-    "date": "2026-05-28",
-    "score": 5.0
-  },
-  "2605.27284": {
-    "title": "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies",
-    "authors": [
-      "Xintong Hu",
-      "Xuhong Huang",
-      "Jinyu Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2605.27284",
-    "category": "VLA",
-    "date": "2026-05-28",
-    "score": 4.0
-  },
-  "2605.26820": {
-    "title": "Can VLA Models Learn from Real-World Data Continually without Forgetting?",
-    "authors": [
-      "Jiarun Zhu",
-      "Yijun Hong",
-      "Xiaoquan Sun"
-    ],
-    "url": "https://arxiv.org/abs/2605.26820",
-    "category": "VLA",
-    "date": "2026-05-28",
-    "score": 2.0
-  },
-  "2605.27367": {
-    "title": "SpatialBench: Is Your Spatial Foundation Model an All-Round Player?",
-    "authors": [
-      "Haosong Peng",
-      "Hao Li",
-      "Jiaqi Chen"
-    ],
-    "url": "https://arxiv.org/abs/2605.27367",
-    "category": "Foundation Model",
-    "date": "2026-05-28",
-    "score": 2.0
-  },
-  "2605.27314": {
-    "title": "Riding the Shifting Potential: When Reactive Control Suffices for Multi-Goal Behavior",
-    "authors": [
-      "Vito Mengers",
-      "Oliver Brock"
-    ],
-    "url": "https://arxiv.org/abs/2605.27314",
-    "category": "World Model",
-    "date": "2026-05-28",
-    "score": 0.0
-  },
   "2605.30280": {
     "title": "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments",
     "authors": [
@@ -1242,6 +1183,66 @@
     "url": "https://arxiv.org/abs/2606.27325",
     "category": "World Model",
     "date": "2026-06-27",
+    "score": 2.0
+  },
+  "2606.27277": {
+    "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
+    "authors": [
+      "Junwei Luo",
+      "Shuai Yuan",
+      "Zhenya Yang"
+    ],
+    "url": "https://arxiv.org/abs/2606.27277",
+    "category": "World Model",
+    "date": "2026-06-28",
+    "score": 2.0
+  },
+  "2606.25473": {
+    "title": "Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models",
+    "authors": [
+      "Kaiwen Zheng",
+      "Guande He",
+      "Min Zhao"
+    ],
+    "url": "https://arxiv.org/abs/2606.25473",
+    "category": "World Model",
+    "date": "2026-06-28",
+    "score": 2.0
+  },
+  "2606.23565": {
+    "title": "HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory",
+    "authors": [
+      "Xiaolin Zhou",
+      "Liu Liu",
+      "Tingyang Xiao"
+    ],
+    "url": "https://arxiv.org/abs/2606.23565",
+    "category": "Other",
+    "date": "2026-06-28",
+    "score": 2.0
+  },
+  "2606.22971": {
+    "title": "Humanoid-OmniOcc: Stereo-Based Full-View Occupancy Dataset for Embodied AI",
+    "authors": [
+      "Xianda Guo",
+      "Bohao Zhang",
+      "Chenwei Huang"
+    ],
+    "url": "https://arxiv.org/abs/2606.22971",
+    "category": "Physical AI",
+    "date": "2026-06-28",
+    "score": 2.0
+  },
+  "2606.22813": {
+    "title": "Active Inference as the Test-Time Scaling Law for Physical AI Agents",
+    "authors": [
+      "Omar Hashash",
+      "Christo Kurisummoottil Thomas",
+      "Walid Saad"
+    ],
+    "url": "https://arxiv.org/abs/2606.22813",
+    "category": "World Model",
+    "date": "2026-06-28",
     "score": 2.0
   }
 }
