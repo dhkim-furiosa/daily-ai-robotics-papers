@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-29 | S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation | Zhipeng Xie, Zongyi Han, Xiangyi Wei | [arXiv](https://arxiv.org/abs/2606.27872) |
+| 2026-06-29 | SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks | Ruiqi Song, Dujun Nie, Siyu Teng | [arXiv](https://arxiv.org/abs/2606.27807) |
 | 2026-06-27 | E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation | Wen Ye, Peiyan Li, Tingyu Yuan | [arXiv](https://arxiv.org/abs/2606.27268) |
 | 2026-06-27 | Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy | Junhao Shi, Zezheng Huai, Siyin Wang | [arXiv](https://arxiv.org/abs/2606.27251) |
 | 2026-06-27 | PAMAE: Phase-Aware-MoE Action Experts Towards Reliable Flow-Matching Vision-Language-Action Policies | Jiayu Yang, Tao Yang, Xiang Chang | [arXiv](https://arxiv.org/abs/2606.27144) |
@@ -96,6 +98,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-29 | Support-Constrained RL Enables Real-World Policy Improvement without Real-World Experience | Raymond Yu, William Huey, Mustafa Mukadam | [arXiv](https://arxiv.org/abs/2606.27475) |
+| 2026-06-29 | CacheMPC: Certified Cached Model Predictive Control for Quadruped Locomotion | Nimesh Khandelwal, Mehul Anand, Shakti S. Gupta | [arXiv](https://arxiv.org/abs/2606.28300) |
 | 2026-06-28 | Humanoid-OmniOcc: Stereo-Based Full-View Occupancy Dataset for Embodied AI | Xianda Guo, Bohao Zhang, Chenwei Huang | [arXiv](https://arxiv.org/abs/2606.22971) |
 | 2026-06-24 | Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI | Shaoshan Liu, Xiugong Qin, Xuan Wu | [arXiv](https://arxiv.org/abs/2606.19769) |
 | 2026-06-24 | ENPIRE: Agentic Robot Policy Self-Improvement in the Real World | Wenli Xiao, Jia Xie, Tonghe Zhang | [arXiv](https://arxiv.org/abs/2606.19980) |
@@ -121,6 +125,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-06-29 | SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation | Nadun Ranawaka, Josiah Wong, Wei-Lin Pai | [arXiv](https://arxiv.org/abs/2606.28276) |
 | 2026-06-28 | HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory | Xiaolin Zhou, Liu Liu, Tingyang Xiao | [arXiv](https://arxiv.org/abs/2606.23565) |
 | 2026-06-25 | Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models | Akshay Paruchuri, Sanmi Koyejo, Ehsan Adeli | [arXiv](https://arxiv.org/abs/2606.26079) |
 | 2026-06-25 | Emcar: Embodied Controller for Animating Robots | Carlos Gomez Cubero, Elizabeth Jochum | [arXiv](https://arxiv.org/abs/2606.26008) |
@@ -209,6 +214,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-06-29](./2026/06/2026-06-29.md)
 - [2026-06-28](./2026/06/2026-06-28.md)
 - [2026-06-27](./2026/06/2026-06-27.md)
 - [2026-06-26](./2026/06/2026-06-26.md)
