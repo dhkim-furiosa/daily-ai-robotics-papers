@@ -1,64 +1,4 @@
 {
-  "2605.30280": {
-    "title": "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments",
-    "authors": [
-      "Qiuyue Wang",
-      "Mingsheng Li",
-      "Jian Guan"
-    ],
-    "url": "https://arxiv.org/abs/2605.30280",
-    "category": "VLA",
-    "date": "2026-05-30",
-    "score": 4.0
-  },
-  "2605.30117": {
-    "title": "VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing",
-    "authors": [
-      "Haoyuan Shi",
-      "Xiancong Ren",
-      "Yingji Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2605.30117",
-    "category": "VLA",
-    "date": "2026-05-30",
-    "score": 4.0
-  },
-  "2605.30011": {
-    "title": "VisualThink-VLA: Visual Intermediate Reasoning for Effective and Low-Latency Vision-Language-Action Policies",
-    "authors": [
-      "Mingjian Gao",
-      "Wenqiao Zhang",
-      "Yuqian Yuan"
-    ],
-    "url": "https://arxiv.org/abs/2605.30011",
-    "category": "VLA",
-    "date": "2026-05-30",
-    "score": 4.0
-  },
-  "2605.30313": {
-    "title": "A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms",
-    "authors": [
-      "Yufei Jia",
-      "Zhanxiang Cao",
-      "Mingrui Yu"
-    ],
-    "url": "https://arxiv.org/abs/2605.30313",
-    "category": "Other",
-    "date": "2026-05-30",
-    "score": 3.0
-  },
-  "2605.29973": {
-    "title": "Replicable Simulation-Based Robot Validation through Provenance",
-    "authors": [
-      "Argentina Ortega",
-      "Samuel Wiest",
-      "Frederik Pasch"
-    ],
-    "url": "https://arxiv.org/abs/2605.29973",
-    "category": "Other",
-    "date": "2026-05-30",
-    "score": 3.0
-  },
   "2605.30282": {
     "title": "Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation",
     "authors": [
@@ -1303,6 +1243,66 @@
     "url": "https://arxiv.org/abs/2606.28276",
     "category": "Other",
     "date": "2026-06-29",
+    "score": 3.0
+  },
+  "2606.30552": {
+    "title": "Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision",
+    "authors": [
+      "Haoyang Li",
+      "Guanlin Li",
+      "Youhe Feng"
+    ],
+    "url": "https://arxiv.org/abs/2606.30552",
+    "category": "VLA",
+    "date": "2026-06-30",
+    "score": 4.0
+  },
+  "2606.30113": {
+    "title": "SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance",
+    "authors": [
+      "Tengyue Jiang",
+      "Chunpu Xu",
+      "Jiayue Kang"
+    ],
+    "url": "https://arxiv.org/abs/2606.30113",
+    "category": "VLA",
+    "date": "2026-06-30",
+    "score": 4.0
+  },
+  "2606.29384": {
+    "title": "Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model",
+    "authors": [
+      "Jiaxin Liu",
+      "Xun Xu",
+      "Zhenhao Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2606.29384",
+    "category": "VLA",
+    "date": "2026-06-30",
+    "score": 4.0
+  },
+  "2606.30613": {
+    "title": "Sequential Planning via Anchored Robotic Keypoints",
+    "authors": [
+      "Bryce Grant",
+      "Aryeh Rothenberg",
+      "Logan Senning"
+    ],
+    "url": "https://arxiv.org/abs/2606.30613",
+    "category": "VLA",
+    "date": "2026-06-30",
+    "score": 3.0
+  },
+  "2606.30555": {
+    "title": "Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing",
+    "authors": [
+      "Dvir Alsheich",
+      "Adar Peleg",
+      "Ben Hagag"
+    ],
+    "url": "https://arxiv.org/abs/2606.30555",
+    "category": "Other",
+    "date": "2026-06-30",
     "score": 3.0
   }
 }
