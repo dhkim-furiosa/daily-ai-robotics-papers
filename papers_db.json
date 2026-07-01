@@ -1304,5 +1304,65 @@
     "category": "Other",
     "date": "2026-06-30",
     "score": 3.0
+  },
+  "2606.32026": {
+    "title": "AdaJEPA: An Adaptive Latent World Model",
+    "authors": [
+      "Ying Wang",
+      "Oumayma Bounou",
+      "Yann LeCun"
+    ],
+    "url": "https://arxiv.org/abs/2606.32026",
+    "category": "World Model",
+    "date": "2026-07-01",
+    "score": 12.0
+  },
+  "2606.32027": {
+    "title": "Freeform Preference Learning for Robotic Manipulation",
+    "authors": [
+      "Marcel Torne",
+      "Anubha Mahajan",
+      "Abhijnya Bhat"
+    ],
+    "url": "https://arxiv.org/abs/2606.32027",
+    "category": "VLA",
+    "date": "2026-07-01",
+    "score": 10.0
+  },
+  "2606.31958": {
+    "title": "Adapting Generalist Robot Policies with Semantic Reinforcement Learning",
+    "authors": [
+      "Jagdeep Singh Bhatia",
+      "Andrew Wagenmaker",
+      "William Chen"
+    ],
+    "url": "https://arxiv.org/abs/2606.31958",
+    "category": "VLA",
+    "date": "2026-07-01",
+    "score": 10.0
+  },
+  "2606.32028": {
+    "title": "DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation",
+    "authors": [
+      "Ziyu Shan",
+      "Zhenyu Wu",
+      "Xiaofeng Wang"
+    ],
+    "url": "https://arxiv.org/abs/2606.32028",
+    "category": "World Model",
+    "date": "2026-07-01",
+    "score": 4.0
+  },
+  "2606.31993": {
+    "title": "OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation",
+    "authors": [
+      "Arnav Balaji",
+      "Arpit Bahety",
+      "Sriniket Ambatipudi"
+    ],
+    "url": "https://arxiv.org/abs/2606.31993",
+    "category": "VLA",
+    "date": "2026-07-01",
+    "score": 3.0
   }
 }

@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-01 | Freeform Preference Learning for Robotic Manipulation | Marcel Torne, Anubha Mahajan, Abhijnya Bhat | [arXiv](https://arxiv.org/abs/2606.32027) |
+| 2026-07-01 | Adapting Generalist Robot Policies with Semantic Reinforcement Learning | Jagdeep Singh Bhatia, Andrew Wagenmaker, William Chen | [arXiv](https://arxiv.org/abs/2606.31958) |
+| 2026-07-01 | OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation | Arnav Balaji, Arpit Bahety, Sriniket Ambatipudi | [arXiv](https://arxiv.org/abs/2606.31993) |
 | 2026-06-30 | Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision | Haoyang Li, Guanlin Li, Youhe Feng | [arXiv](https://arxiv.org/abs/2606.30552) |
 | 2026-06-30 | SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance | Tengyue Jiang, Chunpu Xu, Jiayue Kang | [arXiv](https://arxiv.org/abs/2606.30113) |
 | 2026-06-30 | Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model | Jiaxin Liu, Xun Xu, Zhenhao Zhang | [arXiv](https://arxiv.org/abs/2606.29384) |
@@ -76,6 +79,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-01 | AdaJEPA: An Adaptive Latent World Model | Ying Wang, Oumayma Bounou, Yann LeCun | [arXiv](https://arxiv.org/abs/2606.32026) |
+| 2026-07-01 | DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation | Ziyu Shan, Zhenyu Wu, Xiaofeng Wang | [arXiv](https://arxiv.org/abs/2606.32028) |
 | 2026-06-28 | EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting | Junwei Luo, Shuai Yuan, Zhenya Yang | [arXiv](https://arxiv.org/abs/2606.27277) |
 | 2026-06-28 | Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models | Kaiwen Zheng, Guande He, Min Zhao | [arXiv](https://arxiv.org/abs/2606.25473) |
 | 2026-06-28 | Active Inference as the Test-Time Scaling Law for Physical AI Agents | Omar Hashash, Christo Kurisummoottil Thomas, Walid Saad | [arXiv](https://arxiv.org/abs/2606.22813) |
@@ -214,6 +219,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-01](./2026/07/2026-07-01.md)
 - [2026-06-30](./2026/06/2026-06-30.md)
 - [2026-06-29](./2026/06/2026-06-29.md)
 - [2026-06-28](./2026/06/2026-06-28.md)
