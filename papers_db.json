@@ -1,62 +1,4 @@
 {
-  "2605.30282": {
-    "title": "Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation",
-    "authors": [
-      "Kuangji Zuo",
-      "Gen Li",
-      "Bofan Lyu"
-    ],
-    "url": "https://arxiv.org/abs/2605.30282",
-    "category": "VLA",
-    "date": "2026-06-01",
-    "score": 2.0
-  },
-  "2605.30226": {
-    "title": "BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models",
-    "authors": [
-      "Zhongxi Chen",
-      "Yifan Han",
-      "Yanming Shao"
-    ],
-    "url": "https://arxiv.org/abs/2605.30226",
-    "category": "VLA",
-    "date": "2026-06-01",
-    "score": 2.0
-  },
-  "2605.29710": {
-    "title": "PhAIL: A Real-Robot VLA Benchmark and Distributional Methodology",
-    "authors": [
-      "Sergey Arkhangelskiy"
-    ],
-    "url": "https://arxiv.org/abs/2605.29710",
-    "category": "VLA",
-    "date": "2026-06-01",
-    "score": 2.0
-  },
-  "2605.30350": {
-    "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
-    "authors": [
-      "Jusuk Lee",
-      "Seungjae Lee",
-      "Jonghun Shin"
-    ],
-    "url": "https://arxiv.org/abs/2605.30350",
-    "category": "VLA",
-    "date": "2026-06-01",
-    "score": 0.0
-  },
-  "2605.30328": {
-    "title": "Supercharging Thermal Gaussian Splatting with Depth Estimation",
-    "authors": [
-      "Manoj Biswanath",
-      "Chenxin Cai",
-      "Hannah Schieber"
-    ],
-    "url": "https://arxiv.org/abs/2605.30328",
-    "category": "Other",
-    "date": "2026-06-01",
-    "score": 0.0
-  },
   "2605.31286": {
     "title": "DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation",
     "authors": [
@@ -1364,5 +1306,65 @@
     "category": "VLA",
     "date": "2026-07-01",
     "score": 3.0
+  },
+  "2607.01060": {
+    "title": "RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation",
+    "authors": [
+      "Byeongguk Jeon",
+      "Seonghyeon Ye",
+      "JaeHyeok Doo"
+    ],
+    "url": "https://arxiv.org/abs/2607.01060",
+    "category": "World Model",
+    "date": "2026-07-02",
+    "score": 10.0
+  },
+  "2607.01224": {
+    "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+    "authors": [
+      "Shengguang Wu",
+      "Hao Zhu",
+      "Yuhui Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2607.01224",
+    "category": "Other",
+    "date": "2026-07-02",
+    "score": 6.0
+  },
+  "2607.01212": {
+    "title": "FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model",
+    "authors": [
+      "Chenyang Ma",
+      "Yue Yang",
+      "Radu Corcodel"
+    ],
+    "url": "https://arxiv.org/abs/2607.01212",
+    "category": "VLA",
+    "date": "2026-07-02",
+    "score": 4.0
+  },
+  "2607.00796": {
+    "title": "Task-Relevant Representation Decoupling for Visual Reinforcement Learning Generalization",
+    "authors": [
+      "Jinwen Wang",
+      "Youfang Lin",
+      "Xiaobo Hu"
+    ],
+    "url": "https://arxiv.org/abs/2607.00796",
+    "category": "Other",
+    "date": "2026-07-02",
+    "score": 3.0
+  },
+  "2607.01088": {
+    "title": "ROSA: A Robotics Foundation Model Serving System for Robot Factories",
+    "authors": [
+      "Wenqi Jiang",
+      "Jason Clemons",
+      "Rowland O'Flaherty"
+    ],
+    "url": "https://arxiv.org/abs/2607.01088",
+    "category": "Foundation Model",
+    "date": "2026-07-02",
+    "score": 2.0
   }
 }
