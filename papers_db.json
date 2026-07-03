@@ -1,64 +1,4 @@
 {
-  "2605.31286": {
-    "title": "DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation",
-    "authors": [
-      "Taiyi Su",
-      "Jian Zhu",
-      "Tianjian Wang"
-    ],
-    "url": "https://arxiv.org/abs/2605.31286",
-    "category": "VLA",
-    "date": "2026-06-02",
-    "score": 6.0
-  },
-  "2605.31271": {
-    "title": "DriveMA: Driving Vision-Language-Action Models with verifiable Meta-Actions",
-    "authors": [
-      "Weicheng Zheng",
-      "Yixin Huang",
-      "Qiao Sun"
-    ],
-    "url": "https://arxiv.org/abs/2605.31271",
-    "category": "VLA",
-    "date": "2026-06-02",
-    "score": 5.0
-  },
-  "2605.31234": {
-    "title": "HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model",
-    "authors": [
-      "Xiang Zhu",
-      "Puzhen Yuan",
-      "Yichen Liu"
-    ],
-    "url": "https://arxiv.org/abs/2605.31234",
-    "category": "VLA",
-    "date": "2026-06-02",
-    "score": 4.0
-  },
-  "2605.31481": {
-    "title": "Batched Differentiable Rigid Body Dynamics in PyTorch for GPU-Accelerated Robot Learning",
-    "authors": [
-      "Yue Wang",
-      "Yanran Xu",
-      "Wenbo Wu"
-    ],
-    "url": "https://arxiv.org/abs/2605.31481",
-    "category": "Physical AI",
-    "date": "2026-06-02",
-    "score": 3.0
-  },
-  "2605.31196": {
-    "title": "Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration",
-    "authors": [
-      "Jun Wang",
-      "Xiaohao Xu",
-      "Xiaonan Huang"
-    ],
-    "url": "https://arxiv.org/abs/2605.31196",
-    "category": "Other",
-    "date": "2026-06-02",
-    "score": 3.0
-  },
   "2606.03890": {
     "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
     "authors": [
@@ -1365,6 +1305,66 @@
     "url": "https://arxiv.org/abs/2607.01088",
     "category": "Foundation Model",
     "date": "2026-07-02",
+    "score": 2.0
+  },
+  "2607.02391": {
+    "title": "WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs",
+    "authors": [
+      "Mauricio Fadel Argerich",
+      "Jonathan Fürst",
+      "Marta Patiño-Martínez"
+    ],
+    "url": "https://arxiv.org/abs/2607.02391",
+    "category": "Other",
+    "date": "2026-07-03",
+    "score": 6.0
+  },
+  "2607.02432": {
+    "title": "Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach",
+    "authors": [
+      "Manuel Alonso-Carracedo",
+      "Ruben Fernandez-Boullon",
+      "Pedro Celard"
+    ],
+    "url": "https://arxiv.org/abs/2607.02432",
+    "category": "Other",
+    "date": "2026-07-03",
+    "score": 3.0
+  },
+  "2607.02501": {
+    "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+    "authors": [
+      "Ling Xu",
+      "Chuyu Han",
+      "Borui Li"
+    ],
+    "url": "https://arxiv.org/abs/2607.02501",
+    "category": "VLA",
+    "date": "2026-07-03",
+    "score": 2.0
+  },
+  "2607.02466": {
+    "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
+    "authors": [
+      "Junhao Shi",
+      "Siyin Wang",
+      "Xiaopeng Yu"
+    ],
+    "url": "https://arxiv.org/abs/2607.02466",
+    "category": "VLA",
+    "date": "2026-07-03",
+    "score": 2.0
+  },
+  "2607.02431": {
+    "title": "WorldSample: Closed-loop Real-robot RL with World Modelling",
+    "authors": [
+      "Yuquan Xue",
+      "Le Xu",
+      "Zeyi Liu"
+    ],
+    "url": "https://arxiv.org/abs/2607.02431",
+    "category": "World Model",
+    "date": "2026-07-03",
     "score": 2.0
   }
 }
