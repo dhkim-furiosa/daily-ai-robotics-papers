@@ -1366,5 +1366,65 @@
     "category": "World Model",
     "date": "2026-07-03",
     "score": 2.0
+  },
+  "2607.02322": {
+    "title": "The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection",
+    "authors": [
+      "Jincheng Tang",
+      "Yilong Zhu",
+      "Zhengyuan Xie"
+    ],
+    "url": "https://arxiv.org/abs/2607.02322",
+    "category": "VLA",
+    "date": "2026-07-04",
+    "score": 2.0
+  },
+  "2607.02092": {
+    "title": "Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies",
+    "authors": [
+      "Liuhaichen Yang",
+      "Zhuang Jiang",
+      "Chenchao Sheng"
+    ],
+    "url": "https://arxiv.org/abs/2607.02092",
+    "category": "VLA",
+    "date": "2026-07-04",
+    "score": 2.0
+  },
+  "2607.01938": {
+    "title": "PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation",
+    "authors": [
+      "Peng Yun",
+      "Shouwang Huang",
+      "Hao Li"
+    ],
+    "url": "https://arxiv.org/abs/2607.01938",
+    "category": "World Model",
+    "date": "2026-07-04",
+    "score": 2.0
+  },
+  "2607.01804": {
+    "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
+    "authors": [
+      "Yi Pan",
+      "Miao Pan",
+      "Qi Lu"
+    ],
+    "url": "https://arxiv.org/abs/2607.01804",
+    "category": "VLA",
+    "date": "2026-07-04",
+    "score": 2.0
+  },
+  "2607.02479": {
+    "title": "EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$",
+    "authors": [
+      "Jingtao Xu",
+      "Zizhuo Lin",
+      "Jianwen Sun"
+    ],
+    "url": "https://arxiv.org/abs/2607.02479",
+    "category": "Other",
+    "date": "2026-07-04",
+    "score": 2.0
   }
 }

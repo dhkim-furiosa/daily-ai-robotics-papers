@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-04 | The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection | Jincheng Tang, Yilong Zhu, Zhengyuan Xie | [arXiv](https://arxiv.org/abs/2607.02322) |
+| 2026-07-04 | Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies | Liuhaichen Yang, Zhuang Jiang, Chenchao Sheng | [arXiv](https://arxiv.org/abs/2607.02092) |
+| 2026-07-04 | VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon | Yi Pan, Miao Pan, Qi Lu | [arXiv](https://arxiv.org/abs/2607.01804) |
 | 2026-07-03 | Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots | Ling Xu, Chuyu Han, Borui Li | [arXiv](https://arxiv.org/abs/2607.02501) |
 | 2026-07-03 | Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs | Junhao Shi, Siyin Wang, Xiaopeng Yu | [arXiv](https://arxiv.org/abs/2607.02466) |
 | 2026-07-02 | FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model | Chenyang Ma, Yue Yang, Radu Corcodel | [arXiv](https://arxiv.org/abs/2607.01212) |
@@ -75,6 +78,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-04 | PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation | Peng Yun, Shouwang Huang, Hao Li | [arXiv](https://arxiv.org/abs/2607.01938) |
 | 2026-07-03 | WorldSample: Closed-loop Real-robot RL with World Modelling | Yuquan Xue, Le Xu, Zeyi Liu | [arXiv](https://arxiv.org/abs/2607.02431) |
 | 2026-07-02 | RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation | Byeongguk Jeon, Seonghyeon Ye, JaeHyeok Doo | [arXiv](https://arxiv.org/abs/2607.01060) |
 | 2026-07-01 | AdaJEPA: An Adaptive Latent World Model | Ying Wang, Oumayma Bounou, Yann LeCun | [arXiv](https://arxiv.org/abs/2606.32026) |
@@ -129,6 +133,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-04 | EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\circ$ | Jingtao Xu, Zizhuo Lin, Jianwen Sun | [arXiv](https://arxiv.org/abs/2607.02479) |
 | 2026-07-03 | WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs | Mauricio Fadel Argerich, Jonathan Fürst, Marta Patiño-Martínez | [arXiv](https://arxiv.org/abs/2607.02391) |
 | 2026-07-03 | Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach | Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard | [arXiv](https://arxiv.org/abs/2607.02432) |
 | 2026-07-02 | AutoMem: Automated Learning of Memory as a Cognitive Skill | Shengguang Wu, Hao Zhu, Yuhui Zhang | [arXiv](https://arxiv.org/abs/2607.01224) |
@@ -219,6 +224,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-04](./2026/07/2026-07-04.md)
 - [2026-07-03](./2026/07/2026-07-03.md)
 - [2026-07-02](./2026/07/2026-07-02.md)
 - [2026-07-01](./2026/07/2026-07-01.md)
