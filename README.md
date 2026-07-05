@@ -70,14 +70,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-07 | AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding | Qize Yu, Jiadi You, Yuran Wang | [arXiv](https://arxiv.org/abs/2606.06155) |
 | 2026-06-06 | NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation |  NVIDIA,  :, Aarti Basant | [arXiv](https://arxiv.org/abs/2606.03159) |
 | 2026-06-06 | TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies | Dong Jing, Jingchen Nie, Tianqi Zhang | [arXiv](https://arxiv.org/abs/2606.06491) |
-| 2026-06-04 | Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation | Nan Sun, Yuan Zhang, Yongkun Yang | [arXiv](https://arxiv.org/abs/2606.03784) |
-| 2026-06-04 | PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models | Ziyang Chen, Shaoguang Wang, Weiyu Guo | [arXiv](https://arxiv.org/abs/2606.03598) |
-| 2026-06-04 | Partially Observable Adversarial Patch Attacks on Vision-Language-Action Models in Robotics | Xiaofei Wang, Mingliang Han, Tianyu Hao | [arXiv](https://arxiv.org/abs/2606.03556) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-05 | ACID: Action Consistency via Inverse Dynamics for Planning with World Models | Gawon Seo, Dongwon Kim, Suha Kwak | [arXiv](https://arxiv.org/abs/2607.02403) |
 | 2026-07-04 | PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation | Peng Yun, Shouwang Huang, Hao Li | [arXiv](https://arxiv.org/abs/2607.01938) |
 | 2026-07-03 | WorldSample: Closed-loop Real-robot RL with World Modelling | Yuquan Xue, Le Xu, Zeyi Liu | [arXiv](https://arxiv.org/abs/2607.02431) |
 | 2026-07-02 | RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation | Byeongguk Jeon, Seonghyeon Ye, JaeHyeok Doo | [arXiv](https://arxiv.org/abs/2607.01060) |
@@ -100,12 +98,13 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-06 | When Does LeJEPA Learn a World Model? | David Klindt, Yann LeCun, Randall Balestriero | [arXiv](https://arxiv.org/abs/2605.26379) |
 | 2026-06-06 | Cosmos 3: Omnimodal World Models for Physical AI |  Aditi, Niket Agarwal, Arslan Ali | [arXiv](https://arxiv.org/abs/2606.02800) |
 | 2026-06-06 | MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data | Teng Hu, Mingchun Lu, Yating Wang | [arXiv](https://arxiv.org/abs/2606.02753) |
-| 2026-06-04 | A 3D Isovist World Model -- Revealing a City's Unseen Geometry and Its Emergent Cross-City Signature | Xuhui Lin, Stephen Law, Nanjiang Chen | [arXiv](https://arxiv.org/abs/2606.03609) |
 
 ### Physical AI
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-05 | Efficient Visual Pointing for Embodied AI:Agent-Driven Data Synthesis, Cross-Block Attention, and Iterative Correction | Zijian Hong, Qi Lv, Yuxiang Xie | [arXiv](https://arxiv.org/abs/2606.29850) |
+| 2026-07-05 | When Multi-Robot Systems Meet Agentic AI:Towards Embodied Collective Intelligence | Yuxuan Yan, Yuanyuan Jia, Qianqian Yang | [arXiv](https://arxiv.org/abs/2606.27929) |
 | 2026-06-29 | Support-Constrained RL Enables Real-World Policy Improvement without Real-World Experience | Raymond Yu, William Huey, Mustafa Mukadam | [arXiv](https://arxiv.org/abs/2606.27475) |
 | 2026-06-29 | CacheMPC: Certified Cached Model Predictive Control for Quadruped Locomotion | Nimesh Khandelwal, Mehul Anand, Shakti S. Gupta | [arXiv](https://arxiv.org/abs/2606.28300) |
 | 2026-06-28 | Humanoid-OmniOcc: Stereo-Based Full-View Occupancy Dataset for Embodied AI | Xianda Guo, Bohao Zhang, Chenwei Huang | [arXiv](https://arxiv.org/abs/2606.22971) |
@@ -133,6 +132,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-05 | QuadRocket: An Aerial Robotic Testbed for Adaptive Thrust-Vector Control of Rocket-Like Vehicles | Pedro Santos, Joel Reis, Paulo Oliveira | [arXiv](https://arxiv.org/abs/2607.02474) |
+| 2026-07-05 | QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition | Quoc Bao Phan, Tuy Tan Nguyen | [arXiv](https://arxiv.org/abs/2607.02426) |
 | 2026-07-04 | EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\circ$ | Jingtao Xu, Zizhuo Lin, Jianwen Sun | [arXiv](https://arxiv.org/abs/2607.02479) |
 | 2026-07-03 | WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs | Mauricio Fadel Argerich, Jonathan Fürst, Marta Patiño-Martínez | [arXiv](https://arxiv.org/abs/2607.02391) |
 | 2026-07-03 | Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach | Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard | [arXiv](https://arxiv.org/abs/2607.02432) |
@@ -161,7 +162,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-07 | Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators | Chenming Zhu, Jingli Lin, Yilin Long | [arXiv](https://arxiv.org/abs/2606.06476) |
 | 2026-06-07 | GPIC: A Giant Permissive Image Corpus for Visual Generation | Keshigeyan Chandrasegaran, Kyle Sargent, Suchir Agarwal | [arXiv](https://arxiv.org/abs/2605.30341) |
 | 2026-06-07 | Planning with the Views via Scene Self-Exploration | Kangrui Wang, Linjie Li, Zhengyuan Yang | [arXiv](https://arxiv.org/abs/2605.29563) |
-| 2026-06-04 | OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs | Yifei Li, Pengyiang Liu, Yuhang Zang | [arXiv](https://arxiv.org/abs/2606.03890) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -224,6 +224,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-05](./2026/07/2026-07-05.md)
 - [2026-07-04](./2026/07/2026-07-04.md)
 - [2026-07-03](./2026/07/2026-07-03.md)
 - [2026-07-02](./2026/07/2026-07-02.md)

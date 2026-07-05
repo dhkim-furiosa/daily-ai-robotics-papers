@@ -1,64 +1,4 @@
 {
-  "2606.03890": {
-    "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
-    "authors": [
-      "Yifei Li",
-      "Pengyiang Liu",
-      "Yuhang Zang"
-    ],
-    "url": "https://arxiv.org/abs/2606.03890",
-    "category": "Other",
-    "date": "2026-06-04",
-    "score": 3.0
-  },
-  "2606.03784": {
-    "title": "Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation",
-    "authors": [
-      "Nan Sun",
-      "Yuan Zhang",
-      "Yongkun Yang"
-    ],
-    "url": "https://arxiv.org/abs/2606.03784",
-    "category": "VLA",
-    "date": "2026-06-04",
-    "score": 2.0
-  },
-  "2606.03609": {
-    "title": "A 3D Isovist World Model -- Revealing a City's Unseen Geometry and Its Emergent Cross-City Signature",
-    "authors": [
-      "Xuhui Lin",
-      "Stephen Law",
-      "Nanjiang Chen"
-    ],
-    "url": "https://arxiv.org/abs/2606.03609",
-    "category": "World Model",
-    "date": "2026-06-04",
-    "score": 2.0
-  },
-  "2606.03598": {
-    "title": "PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models",
-    "authors": [
-      "Ziyang Chen",
-      "Shaoguang Wang",
-      "Weiyu Guo"
-    ],
-    "url": "https://arxiv.org/abs/2606.03598",
-    "category": "VLA",
-    "date": "2026-06-04",
-    "score": 2.0
-  },
-  "2606.03556": {
-    "title": "Partially Observable Adversarial Patch Attacks on Vision-Language-Action Models in Robotics",
-    "authors": [
-      "Xiaofei Wang",
-      "Mingliang Han",
-      "Tianyu Hao"
-    ],
-    "url": "https://arxiv.org/abs/2606.03556",
-    "category": "VLA",
-    "date": "2026-06-04",
-    "score": 2.0
-  },
   "2605.26379": {
     "title": "When Does LeJEPA Learn a World Model?",
     "authors": [
@@ -1426,5 +1366,64 @@
     "category": "Other",
     "date": "2026-07-04",
     "score": 2.0
+  },
+  "2607.02403": {
+    "title": "ACID: Action Consistency via Inverse Dynamics for Planning with World Models",
+    "authors": [
+      "Gawon Seo",
+      "Dongwon Kim",
+      "Suha Kwak"
+    ],
+    "url": "https://arxiv.org/abs/2607.02403",
+    "category": "World Model",
+    "date": "2026-07-05",
+    "score": 2.0
+  },
+  "2606.29850": {
+    "title": "Efficient Visual Pointing for Embodied AI:Agent-Driven Data Synthesis, Cross-Block Attention, and Iterative Correction",
+    "authors": [
+      "Zijian Hong",
+      "Qi Lv",
+      "Yuxiang Xie"
+    ],
+    "url": "https://arxiv.org/abs/2606.29850",
+    "category": "Physical AI",
+    "date": "2026-07-05",
+    "score": 2.0
+  },
+  "2606.27929": {
+    "title": "When Multi-Robot Systems Meet Agentic AI:Towards Embodied Collective Intelligence",
+    "authors": [
+      "Yuxuan Yan",
+      "Yuanyuan Jia",
+      "Qianqian Yang"
+    ],
+    "url": "https://arxiv.org/abs/2606.27929",
+    "category": "Physical AI",
+    "date": "2026-07-05",
+    "score": 2.0
+  },
+  "2607.02474": {
+    "title": "QuadRocket: An Aerial Robotic Testbed for Adaptive Thrust-Vector Control of Rocket-Like Vehicles",
+    "authors": [
+      "Pedro Santos",
+      "Joel Reis",
+      "Paulo Oliveira"
+    ],
+    "url": "https://arxiv.org/abs/2607.02474",
+    "category": "Other",
+    "date": "2026-07-05",
+    "score": 0.0
+  },
+  "2607.02426": {
+    "title": "QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition",
+    "authors": [
+      "Quoc Bao Phan",
+      "Tuy Tan Nguyen"
+    ],
+    "url": "https://arxiv.org/abs/2607.02426",
+    "category": "Other",
+    "date": "2026-07-05",
+    "score": 0.0
   }
 }
