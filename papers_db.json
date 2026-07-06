@@ -1425,5 +1425,64 @@
     "category": "Other",
     "date": "2026-07-05",
     "score": 0.0
+  },
+  "2607.02417": {
+    "title": "LIME: Learning Intent-aware Camera Motion from Egocentric Video",
+    "authors": [
+      "Boyang Sun",
+      "Jiajie Li",
+      "Yung-Hsu Yang"
+    ],
+    "url": "https://arxiv.org/abs/2607.02417",
+    "category": "VLA",
+    "date": "2026-07-06",
+    "score": 0.0
+  },
+  "2607.02332": {
+    "title": "HEFT: Heavy-Payload Full-size Humanoid Teleoperation with Privileged Motion Guidance and Windowed Payload Curriculum",
+    "authors": [
+      "Chenxin Liu",
+      "Qingzhou Lu",
+      "Guangxiao Yang"
+    ],
+    "url": "https://arxiv.org/abs/2607.02332",
+    "category": "Physical AI",
+    "date": "2026-07-06",
+    "score": 0.0
+  },
+  "2607.02298": {
+    "title": "Real-Time Visual Intelligence on Low-Cost UAVs: A Modular Approach for Tracking, Scanning, and Navigation",
+    "authors": [
+      "Andrei-Marian Ungureanu",
+      "Stelian Spînu"
+    ],
+    "url": "https://arxiv.org/abs/2607.02298",
+    "category": "Other",
+    "date": "2026-07-06",
+    "score": 0.0
+  },
+  "2607.02222": {
+    "title": "CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation",
+    "authors": [
+      "Haokun Liu",
+      "Zhaoqi Ma",
+      "Yicheng Chen"
+    ],
+    "url": "https://arxiv.org/abs/2607.02222",
+    "category": "VLA",
+    "date": "2026-07-06",
+    "score": 0.0
+  },
+  "2607.02205": {
+    "title": "Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning",
+    "authors": [
+      "Satoshi Yamamori",
+      "Koji Ishihara",
+      "Kentaro Minamikawa"
+    ],
+    "url": "https://arxiv.org/abs/2607.02205",
+    "category": "Physical AI",
+    "date": "2026-07-06",
+    "score": 0.0
   }
 }

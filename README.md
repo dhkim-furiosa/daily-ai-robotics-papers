@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-06 | LIME: Learning Intent-aware Camera Motion from Egocentric Video | Boyang Sun, Jiajie Li, Yung-Hsu Yang | [arXiv](https://arxiv.org/abs/2607.02417) |
+| 2026-07-06 | CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation | Haokun Liu, Zhaoqi Ma, Yicheng Chen | [arXiv](https://arxiv.org/abs/2607.02222) |
 | 2026-07-04 | The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection | Jincheng Tang, Yilong Zhu, Zhengyuan Xie | [arXiv](https://arxiv.org/abs/2607.02322) |
 | 2026-07-04 | Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies | Liuhaichen Yang, Zhuang Jiang, Chenchao Sheng | [arXiv](https://arxiv.org/abs/2607.02092) |
 | 2026-07-04 | VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon | Yi Pan, Miao Pan, Qi Lu | [arXiv](https://arxiv.org/abs/2607.01804) |
@@ -103,6 +105,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-06 | HEFT: Heavy-Payload Full-size Humanoid Teleoperation with Privileged Motion Guidance and Windowed Payload Curriculum | Chenxin Liu, Qingzhou Lu, Guangxiao Yang | [arXiv](https://arxiv.org/abs/2607.02332) |
+| 2026-07-06 | Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning | Satoshi Yamamori, Koji Ishihara, Kentaro Minamikawa | [arXiv](https://arxiv.org/abs/2607.02205) |
 | 2026-07-05 | Efficient Visual Pointing for Embodied AI:Agent-Driven Data Synthesis, Cross-Block Attention, and Iterative Correction | Zijian Hong, Qi Lv, Yuxiang Xie | [arXiv](https://arxiv.org/abs/2606.29850) |
 | 2026-07-05 | When Multi-Robot Systems Meet Agentic AI:Towards Embodied Collective Intelligence | Yuxuan Yan, Yuanyuan Jia, Qianqian Yang | [arXiv](https://arxiv.org/abs/2606.27929) |
 | 2026-06-29 | Support-Constrained RL Enables Real-World Policy Improvement without Real-World Experience | Raymond Yu, William Huey, Mustafa Mukadam | [arXiv](https://arxiv.org/abs/2606.27475) |
@@ -132,6 +136,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-06 | Real-Time Visual Intelligence on Low-Cost UAVs: A Modular Approach for Tracking, Scanning, and Navigation | Andrei-Marian Ungureanu, Stelian Spînu | [arXiv](https://arxiv.org/abs/2607.02298) |
 | 2026-07-05 | QuadRocket: An Aerial Robotic Testbed for Adaptive Thrust-Vector Control of Rocket-Like Vehicles | Pedro Santos, Joel Reis, Paulo Oliveira | [arXiv](https://arxiv.org/abs/2607.02474) |
 | 2026-07-05 | QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition | Quoc Bao Phan, Tuy Tan Nguyen | [arXiv](https://arxiv.org/abs/2607.02426) |
 | 2026-07-04 | EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\circ$ | Jingtao Xu, Zizhuo Lin, Jianwen Sun | [arXiv](https://arxiv.org/abs/2607.02479) |
@@ -224,6 +229,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-06](./2026/07/2026-07-06.md)
 - [2026-07-05](./2026/07/2026-07-05.md)
 - [2026-07-04](./2026/07/2026-07-04.md)
 - [2026-07-03](./2026/07/2026-07-03.md)
