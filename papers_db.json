@@ -1,64 +1,4 @@
 {
-  "2605.26379": {
-    "title": "When Does LeJEPA Learn a World Model?",
-    "authors": [
-      "David Klindt",
-      "Yann LeCun",
-      "Randall Balestriero"
-    ],
-    "url": "https://arxiv.org/abs/2605.26379",
-    "category": "World Model",
-    "date": "2026-06-06",
-    "score": 12.0
-  },
-  "2606.02800": {
-    "title": "Cosmos 3: Omnimodal World Models for Physical AI",
-    "authors": [
-      " Aditi",
-      "Niket Agarwal",
-      "Arslan Ali"
-    ],
-    "url": "https://arxiv.org/abs/2606.02800",
-    "category": "World Model",
-    "date": "2026-06-06",
-    "score": 7.0
-  },
-  "2606.03159": {
-    "title": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation",
-    "authors": [
-      " NVIDIA",
-      " :",
-      "Aarti Basant"
-    ],
-    "url": "https://arxiv.org/abs/2606.03159",
-    "category": "VLA",
-    "date": "2026-06-06",
-    "score": 5.0
-  },
-  "2606.02753": {
-    "title": "MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data",
-    "authors": [
-      "Teng Hu",
-      "Mingchun Lu",
-      "Yating Wang"
-    ],
-    "url": "https://arxiv.org/abs/2606.02753",
-    "category": "World Model",
-    "date": "2026-06-06",
-    "score": 5.0
-  },
-  "2606.06491": {
-    "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
-    "authors": [
-      "Dong Jing",
-      "Jingchen Nie",
-      "Tianqi Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2606.06491",
-    "category": "VLA",
-    "date": "2026-06-06",
-    "score": 4.0
-  },
   "2606.06155": {
     "title": "AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding",
     "authors": [
@@ -1484,5 +1424,65 @@
     "category": "Physical AI",
     "date": "2026-07-06",
     "score": 0.0
+  },
+  "2607.05391": {
+    "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+    "authors": [
+      "Jacky Kwok",
+      "Shulu Li",
+      "Pranav Atreya"
+    ],
+    "url": "https://arxiv.org/abs/2607.05391",
+    "category": "Other",
+    "date": "2026-07-07",
+    "score": 10.0
+  },
+  "2607.04011": {
+    "title": "Separating Representation from Reconstruction Enables Scalable Text Encoders",
+    "authors": [
+      "Megi Dervishi",
+      "Mathurin Videau",
+      "Yann LeCun"
+    ],
+    "url": "https://arxiv.org/abs/2607.04011",
+    "category": "Other",
+    "date": "2026-07-07",
+    "score": 10.0
+  },
+  "2607.05352": {
+    "title": "Multiplayer Interactive World Models with Representation Autoencoders",
+    "authors": [
+      "Anthony Hu",
+      "Václav Volhejn",
+      "Adrien Ramanana Rahary"
+    ],
+    "url": "https://arxiv.org/abs/2607.05352",
+    "category": "World Model",
+    "date": "2026-07-07",
+    "score": 5.0
+  },
+  "2607.04816": {
+    "title": "CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models",
+    "authors": [
+      "Yifu Xiong",
+      "Wenhao Yu",
+      "Jiaxuan Lin"
+    ],
+    "url": "https://arxiv.org/abs/2607.04816",
+    "category": "VLA",
+    "date": "2026-07-07",
+    "score": 4.0
+  },
+  "2607.05247": {
+    "title": "Vision Pretraining for Dense Spatial Perception",
+    "authors": [
+      "Zelin Fu",
+      "Bin Tan",
+      "Changjiang Sun"
+    ],
+    "url": "https://arxiv.org/abs/2607.05247",
+    "category": "Physical AI",
+    "date": "2026-07-07",
+    "score": 3.0
   }
 }
