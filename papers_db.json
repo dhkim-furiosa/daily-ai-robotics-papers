@@ -1,64 +1,4 @@
 {
-  "2606.06155": {
-    "title": "AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding",
-    "authors": [
-      "Qize Yu",
-      "Jiadi You",
-      "Yuran Wang"
-    ],
-    "url": "https://arxiv.org/abs/2606.06155",
-    "category": "VLA",
-    "date": "2026-06-07",
-    "score": 4.0
-  },
-  "2606.06130": {
-    "title": "Towards Realistic 3D Sonar Simulation",
-    "authors": [
-      "Youssef Attia",
-      "Davide Costa",
-      "Francesco Wanderlingh"
-    ],
-    "url": "https://arxiv.org/abs/2606.06130",
-    "category": "Other",
-    "date": "2026-06-07",
-    "score": 3.0
-  },
-  "2606.06476": {
-    "title": "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators",
-    "authors": [
-      "Chenming Zhu",
-      "Jingli Lin",
-      "Yilin Long"
-    ],
-    "url": "https://arxiv.org/abs/2606.06476",
-    "category": "Other",
-    "date": "2026-06-07",
-    "score": 3.0
-  },
-  "2605.30341": {
-    "title": "GPIC: A Giant Permissive Image Corpus for Visual Generation",
-    "authors": [
-      "Keshigeyan Chandrasegaran",
-      "Kyle Sargent",
-      "Suchir Agarwal"
-    ],
-    "url": "https://arxiv.org/abs/2605.30341",
-    "category": "Other",
-    "date": "2026-06-07",
-    "score": 3.0
-  },
-  "2605.29563": {
-    "title": "Planning with the Views via Scene Self-Exploration",
-    "authors": [
-      "Kangrui Wang",
-      "Linjie Li",
-      "Zhengyuan Yang"
-    ],
-    "url": "https://arxiv.org/abs/2605.29563",
-    "category": "Other",
-    "date": "2026-06-07",
-    "score": 3.0
-  },
   "2606.06453": {
     "title": "Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents",
     "authors": [
@@ -1484,5 +1424,65 @@
     "category": "Physical AI",
     "date": "2026-07-07",
     "score": 3.0
+  },
+  "2607.06564": {
+    "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
+    "authors": [
+      "Jiaming Liu",
+      "Qingpo Wuwu",
+      "Nuowei Han"
+    ],
+    "url": "https://arxiv.org/abs/2607.06564",
+    "category": "VLA",
+    "date": "2026-07-08",
+    "score": 5.0
+  },
+  "2607.06559": {
+    "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
+    "authors": [
+      "Haoyu Zhao",
+      "Xingyue Zhao",
+      "Siteng Huang"
+    ],
+    "url": "https://arxiv.org/abs/2607.06559",
+    "category": "World Model",
+    "date": "2026-07-08",
+    "score": 4.0
+  },
+  "2607.06522": {
+    "title": "Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment",
+    "authors": [
+      "Han-Jun Ko",
+      "Jr-Jen Chen",
+      "Haobo Yuan"
+    ],
+    "url": "https://arxiv.org/abs/2607.06522",
+    "category": "Physical AI",
+    "date": "2026-07-08",
+    "score": 3.0
+  },
+  "2607.03595": {
+    "title": "Token-Based Affordance Grounding with Large Vision-Language Models",
+    "authors": [
+      "Seung Il Lee",
+      "Qinqian Lei",
+      "Daguang Xu"
+    ],
+    "url": "https://arxiv.org/abs/2607.03595",
+    "category": "Physical AI",
+    "date": "2026-07-08",
+    "score": 3.0
+  },
+  "2607.06563": {
+    "title": "Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization",
+    "authors": [
+      "Shiqi Liu",
+      "Narsimlu Kemsaram",
+      "Prateek Mittal"
+    ],
+    "url": "https://arxiv.org/abs/2607.06563",
+    "category": "Other",
+    "date": "2026-07-08",
+    "score": 2.0
   }
 }
