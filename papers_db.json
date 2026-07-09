@@ -1,63 +1,4 @@
 {
-  "2606.06453": {
-    "title": "Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents",
-    "authors": [
-      "Zhuoming Chen",
-      "Xinrui Zhong",
-      "Qilong Feng"
-    ],
-    "url": "https://arxiv.org/abs/2606.06453",
-    "category": "Foundation Model",
-    "date": "2026-06-08",
-    "score": 3.0
-  },
-  "2606.06245": {
-    "title": "MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action",
-    "authors": [
-      "Boyang Zhang",
-      "Lianlei Shan"
-    ],
-    "url": "https://arxiv.org/abs/2606.06245",
-    "category": "VLA",
-    "date": "2026-06-08",
-    "score": 2.0
-  },
-  "2606.06147": {
-    "title": "WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation",
-    "authors": [
-      "Shengtao Zheng",
-      "Kai Li",
-      "Weichen Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2606.06147",
-    "category": "VLA",
-    "date": "2026-06-08",
-    "score": 2.0
-  },
-  "2606.05660": {
-    "title": "Safe Embodied AI for Long-horizon Tasks: A Cross-layer Analysis of Robotic Manipulation",
-    "authors": [
-      "Dabin Kim",
-      "Daemin Park",
-      "Sangyub Lee"
-    ],
-    "url": "https://arxiv.org/abs/2606.05660",
-    "category": "Physical AI",
-    "date": "2026-06-08",
-    "score": 2.0
-  },
-  "2606.05395": {
-    "title": "VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents",
-    "authors": [
-      "Yunhao Yang",
-      "Neel P. Bhatt",
-      "Kevin Wang"
-    ],
-    "url": "https://arxiv.org/abs/2606.05395",
-    "category": "Physical AI",
-    "date": "2026-06-08",
-    "score": 2.0
-  },
   "2606.07217": {
     "title": "Robotic Policy Adaptation via Weight-Space Meta-Learning",
     "authors": [
@@ -1483,6 +1424,66 @@
     "url": "https://arxiv.org/abs/2607.06563",
     "category": "Other",
     "date": "2026-07-08",
+    "score": 2.0
+  },
+  "2607.07494": {
+    "title": "GIFT: Geometry-Informed Low-precision Gradient Communication for LLM Pretraining",
+    "authors": [
+      "Jieying Wang",
+      "Shuyuan Fan",
+      "Mingkai Zheng"
+    ],
+    "url": "https://arxiv.org/abs/2607.07494",
+    "category": "Other",
+    "date": "2026-07-09",
+    "score": 3.0
+  },
+  "2607.07675": {
+    "title": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+    "authors": [
+      "Shuailei Ma",
+      "Jiaqi Liao",
+      "Xinyang Wang"
+    ],
+    "url": "https://arxiv.org/abs/2607.07675",
+    "category": "Physical AI",
+    "date": "2026-07-09",
+    "score": 2.0
+  },
+  "2607.07608": {
+    "title": "Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation",
+    "authors": [
+      "Hongyu Qu",
+      "Jianzhe Gao",
+      "Xiaobin Hu"
+    ],
+    "url": "https://arxiv.org/abs/2607.07608",
+    "category": "VLA",
+    "date": "2026-07-09",
+    "score": 2.0
+  },
+  "2607.07459": {
+    "title": "EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI",
+    "authors": [
+      "Xinjie Wang",
+      "Liu Liu",
+      "Taojun Ding"
+    ],
+    "url": "https://arxiv.org/abs/2607.07459",
+    "category": "Physical AI",
+    "date": "2026-07-09",
+    "score": 2.0
+  },
+  "2607.07287": {
+    "title": "TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation",
+    "authors": [
+      "Jianyi Zhou",
+      "Feiyang Hong",
+      "Yunhao Li"
+    ],
+    "url": "https://arxiv.org/abs/2607.07287",
+    "category": "VLA",
+    "date": "2026-07-09",
     "score": 2.0
   }
 }
