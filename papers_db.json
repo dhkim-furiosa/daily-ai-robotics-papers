@@ -1,63 +1,4 @@
 {
-  "2606.07217": {
-    "title": "Robotic Policy Adaptation via Weight-Space Meta-Learning",
-    "authors": [
-      "Christian Bianchi",
-      "Siamak Yousefi",
-      "Alessio Sampieri"
-    ],
-    "url": "https://arxiv.org/abs/2606.07217",
-    "category": "VLA",
-    "date": "2026-06-09",
-    "score": 3.0
-  },
-  "2606.07389": {
-    "title": "Simulation-Driven Imitation Learning for Biosignals-Free Shared-Autonomy Prosthetic Grasping",
-    "authors": [
-      "Kaijie Shi",
-      "Wanglong Lu",
-      "Huiling Chen"
-    ],
-    "url": "https://arxiv.org/abs/2606.07389",
-    "category": "Other",
-    "date": "2026-06-09",
-    "score": 3.0
-  },
-  "2606.07479": {
-    "title": "Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification",
-    "authors": [
-      "Sercan Karakaş",
-      "Yusuf Şimşek"
-    ],
-    "url": "https://arxiv.org/abs/2606.07479",
-    "category": "Other",
-    "date": "2026-06-09",
-    "score": 3.0
-  },
-  "2606.07436": {
-    "title": "Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning",
-    "authors": [
-      "Haoyuan Li",
-      "Zhengdong Hu",
-      "Jun Wang"
-    ],
-    "url": "https://arxiv.org/abs/2606.07436",
-    "category": "Other",
-    "date": "2026-06-09",
-    "score": 3.0
-  },
-  "2606.07383": {
-    "title": "RhinoVLA Technical Report",
-    "authors": [
-      "Huixi Intelligence",
-      " :",
-      "Chen Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2606.07383",
-    "category": "VLA",
-    "date": "2026-06-09",
-    "score": 2.0
-  },
   "2606.08775": {
     "title": "Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks",
     "authors": [
@@ -1485,5 +1426,63 @@
     "category": "VLA",
     "date": "2026-07-09",
     "score": 2.0
+  },
+  "2607.08724": {
+    "title": "Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference",
+    "authors": [
+      "Chuning Zhu",
+      "Eva Xu",
+      "Jose Barreiros"
+    ],
+    "url": "https://arxiv.org/abs/2607.08724",
+    "category": "Other",
+    "date": "2026-07-10",
+    "score": 10.0
+  },
+  "2607.08575": {
+    "title": "FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation",
+    "authors": [
+      "Shiyuan Yang",
+      "Borong Zhang",
+      "Jizheng Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2607.08575",
+    "category": "VLA",
+    "date": "2026-07-10",
+    "score": 7.0
+  },
+  "2607.08255": {
+    "title": "Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation",
+    "authors": [
+      "Miseong Shawn Kim"
+    ],
+    "url": "https://arxiv.org/abs/2607.08255",
+    "category": "Other",
+    "date": "2026-07-10",
+    "score": 6.0
+  },
+  "2607.08375": {
+    "title": "WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving",
+    "authors": [
+      "Xuerun Yan",
+      "Zhexi Lian",
+      "Nuoheng Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2607.08375",
+    "category": "VLA",
+    "date": "2026-07-10",
+    "score": 4.0
+  },
+  "2607.08182": {
+    "title": "LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action",
+    "authors": [
+      "Qi Lyu",
+      "Baicheng Liu",
+      "Xudong Wang"
+    ],
+    "url": "https://arxiv.org/abs/2607.08182",
+    "category": "VLA",
+    "date": "2026-07-10",
+    "score": 4.0
   }
 }

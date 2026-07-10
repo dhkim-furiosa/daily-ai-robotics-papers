@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-10 | FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation | Shiyuan Yang, Borong Zhang, Jizheng Zhang | [arXiv](https://arxiv.org/abs/2607.08575) |
+| 2026-07-10 | WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving | Xuerun Yan, Zhexi Lian, Nuoheng Zhang | [arXiv](https://arxiv.org/abs/2607.08375) |
+| 2026-07-10 | LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action | Qi Lyu, Baicheng Liu, Xudong Wang | [arXiv](https://arxiv.org/abs/2607.08182) |
 | 2026-07-09 | Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation | Hongyu Qu, Jianzhe Gao, Xiaobin Hu | [arXiv](https://arxiv.org/abs/2607.07608) |
 | 2026-07-09 | TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation | Jianyi Zhou, Feiyang Hong, Yunhao Li | [arXiv](https://arxiv.org/abs/2607.07287) |
 | 2026-07-08 | Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation | Jiaming Liu, Qingpo Wuwu, Nuowei Han | [arXiv](https://arxiv.org/abs/2607.06564) |
@@ -69,8 +72,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-12 | APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies | Kechun Xu, Zhenjie Zhu, Anzhe Chen | [arXiv](https://arxiv.org/abs/2606.12366) |
 | 2026-06-10 | Ego-Pi: VLA Fine-Tuning for Ego-Centric Human and Robot Data | Ji Woong Kim, Ke Wang, Zipeng Fu | [arXiv](https://arxiv.org/abs/2606.08107) |
 | 2026-06-10 | MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models | Hao Shi, Weiye Li, Bin Xie | [arXiv](https://arxiv.org/abs/2606.09827) |
-| 2026-06-09 | Robotic Policy Adaptation via Weight-Space Meta-Learning | Christian Bianchi, Siamak Yousefi, Alessio Sampieri | [arXiv](https://arxiv.org/abs/2606.07217) |
-| 2026-06-09 | RhinoVLA Technical Report | Huixi Intelligence,  :, Chen Zhang | [arXiv](https://arxiv.org/abs/2606.07383) |
 
 ### World Model
 
@@ -136,6 +137,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-10 | Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference | Chuning Zhu, Eva Xu, Jose Barreiros | [arXiv](https://arxiv.org/abs/2607.08724) |
+| 2026-07-10 | Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation | Miseong Shawn Kim | [arXiv](https://arxiv.org/abs/2607.08255) |
 | 2026-07-09 | GIFT: Geometry-Informed Low-precision Gradient Communication for LLM Pretraining | Jieying Wang, Shuyuan Fan, Mingkai Zheng | [arXiv](https://arxiv.org/abs/2607.07494) |
 | 2026-07-08 | Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization | Shiqi Liu, Narsimlu Kemsaram, Prateek Mittal | [arXiv](https://arxiv.org/abs/2607.06563) |
 | 2026-07-07 | LLM-as-a-Verifier: A General-Purpose Verification Framework | Jacky Kwok, Shulu Li, Pranav Atreya | [arXiv](https://arxiv.org/abs/2607.05391) |
@@ -164,9 +167,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-11 | Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning | Zhiyuan Zhou, Andy Peng, Charles Xu | [arXiv](https://arxiv.org/abs/2606.11087) |
 | 2026-06-11 | Embodiment-conditioned Generalist Control for Multirotor Aerial Robots | Orestis Konstantaropoulos, Welf Rehberg, Mihir Kulkarni | [arXiv](https://arxiv.org/abs/2606.10857) |
 | 2026-06-10 | Difference-Aware Retrieval Policies for Imitation Learning | Quinn Pfeifer, Ethan Pronovost, Paarth Shah | [arXiv](https://arxiv.org/abs/2606.09758) |
-| 2026-06-09 | Simulation-Driven Imitation Learning for Biosignals-Free Shared-Autonomy Prosthetic Grasping | Kaijie Shi, Wanglong Lu, Huiling Chen | [arXiv](https://arxiv.org/abs/2606.07389) |
-| 2026-06-09 | Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification | Sercan Karakaş, Yusuf Şimşek | [arXiv](https://arxiv.org/abs/2606.07479) |
-| 2026-06-09 | Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning | Haoyuan Li, Zhengdong Hu, Jun Wang | [arXiv](https://arxiv.org/abs/2606.07436) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -229,6 +229,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-10](./2026/07/2026-07-10.md)
 - [2026-07-09](./2026/07/2026-07-09.md)
 - [2026-07-08](./2026/07/2026-07-08.md)
 - [2026-07-07](./2026/07/2026-07-07.md)
