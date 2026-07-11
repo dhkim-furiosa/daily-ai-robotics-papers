@@ -1,64 +1,4 @@
 {
-  "2606.08775": {
-    "title": "Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks",
-    "authors": [
-      "Raktim Gautam Goswami",
-      "Prashanth Krishnamurthy",
-      "Yann LeCun"
-    ],
-    "url": "https://arxiv.org/abs/2606.08775",
-    "category": "World Model",
-    "date": "2026-06-10",
-    "score": 12.0
-  },
-  "2606.08107": {
-    "title": "Ego-Pi: VLA Fine-Tuning for Ego-Centric Human and Robot Data",
-    "authors": [
-      "Ji Woong Kim",
-      "Ke Wang",
-      "Zipeng Fu"
-    ],
-    "url": "https://arxiv.org/abs/2606.08107",
-    "category": "VLA",
-    "date": "2026-06-10",
-    "score": 12.0
-  },
-  "2606.09758": {
-    "title": "Difference-Aware Retrieval Policies for Imitation Learning",
-    "authors": [
-      "Quinn Pfeifer",
-      "Ethan Pronovost",
-      "Paarth Shah"
-    ],
-    "url": "https://arxiv.org/abs/2606.09758",
-    "category": "Other",
-    "date": "2026-06-10",
-    "score": 10.0
-  },
-  "2606.06895": {
-    "title": "Blockchain Infrastructure for Intelligent Cyber--Physical--Social Systems:Post-Quantum Security, Interoperability, and Trustworthy Data Economies in the Era of Embodied AI",
-    "authors": [
-      "Song Guo",
-      "Huawei Huang",
-      "Dongping Liu"
-    ],
-    "url": "https://arxiv.org/abs/2606.06895",
-    "category": "Physical AI",
-    "date": "2026-06-10",
-    "score": 5.0
-  },
-  "2606.09827": {
-    "title": "MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models",
-    "authors": [
-      "Hao Shi",
-      "Weiye Li",
-      "Bin Xie"
-    ],
-    "url": "https://arxiv.org/abs/2606.09827",
-    "category": "VLA",
-    "date": "2026-06-10",
-    "score": 4.0
-  },
   "2606.11087": {
     "title": "Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning",
     "authors": [
@@ -1484,5 +1424,63 @@
     "category": "VLA",
     "date": "2026-07-10",
     "score": 4.0
+  },
+  "2607.08741": {
+    "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
+    "authors": [
+      "Kaifeng Zhao",
+      "Mathis Petrovich",
+      "Haotian Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2607.08741",
+    "category": "Physical AI",
+    "date": "2026-07-11",
+    "score": 3.0
+  },
+  "2607.08098": {
+    "title": "EVIS: A Physics-Grounded Event Camera Plugin for NVIDIA Isaac Sim",
+    "authors": [
+      "Linli Shi",
+      "Ruijun Zhang",
+      "Ziyun Wang"
+    ],
+    "url": "https://arxiv.org/abs/2607.08098",
+    "category": "Foundation Model",
+    "date": "2026-07-11",
+    "score": 3.0
+  },
+  "2607.08448": {
+    "title": "Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents",
+    "authors": [
+      "Yixian Zhang",
+      "Huanming Zhang",
+      "Feng Gao"
+    ],
+    "url": "https://arxiv.org/abs/2607.08448",
+    "category": "VLA",
+    "date": "2026-07-11",
+    "score": 2.0
+  },
+  "2607.08312": {
+    "title": "Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix",
+    "authors": [
+      "Jiayi Fang"
+    ],
+    "url": "https://arxiv.org/abs/2607.08312",
+    "category": "VLA",
+    "date": "2026-07-11",
+    "score": 2.0
+  },
+  "2607.06701": {
+    "title": "SPEAR: A Simulator for Photorealistic Embodied AI Research",
+    "authors": [
+      "Mike Roberts",
+      "Renhan Wang",
+      "Rushikesh Zawar"
+    ],
+    "url": "https://arxiv.org/abs/2607.06701",
+    "category": "Physical AI",
+    "date": "2026-07-11",
+    "score": 2.0
   }
 }
