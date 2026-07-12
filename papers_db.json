@@ -1,64 +1,4 @@
 {
-  "2606.11087": {
-    "title": "Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning",
-    "authors": [
-      "Zhiyuan Zhou",
-      "Andy Peng",
-      "Charles Xu"
-    ],
-    "url": "https://arxiv.org/abs/2606.11087",
-    "category": "Other",
-    "date": "2026-06-11",
-    "score": 10.0
-  },
-  "2606.10857": {
-    "title": "Embodiment-conditioned Generalist Control for Multirotor Aerial Robots",
-    "authors": [
-      "Orestis Konstantaropoulos",
-      "Welf Rehberg",
-      "Mihir Kulkarni"
-    ],
-    "url": "https://arxiv.org/abs/2606.10857",
-    "category": "Other",
-    "date": "2026-06-11",
-    "score": 3.0
-  },
-  "2606.10803": {
-    "title": "Beyond APIs: Probing the Limits of MLLMs in Physical Tool Use",
-    "authors": [
-      "Zhixin Ma",
-      "Yutong Zhou",
-      "Yongqi Li"
-    ],
-    "url": "https://arxiv.org/abs/2606.10803",
-    "category": "Physical AI",
-    "date": "2026-06-11",
-    "score": 3.0
-  },
-  "2606.11184": {
-    "title": "TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation",
-    "authors": [
-      "Yujie Zang",
-      "Yuhang Zheng",
-      "Xian Nie"
-    ],
-    "url": "https://arxiv.org/abs/2606.11184",
-    "category": "World Model",
-    "date": "2026-06-11",
-    "score": 2.0
-  },
-  "2606.11129": {
-    "title": "WorldOlympiad: Can Your World Model Survive a Triathlon?",
-    "authors": [
-      "Yuke Zhao",
-      "Wangbo Zhao",
-      "Weijie Wang"
-    ],
-    "url": "https://arxiv.org/abs/2606.11129",
-    "category": "World Model",
-    "date": "2026-06-11",
-    "score": 2.0
-  },
   "2606.12402": {
     "title": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
     "authors": [
@@ -1482,5 +1422,65 @@
     "category": "Physical AI",
     "date": "2026-07-11",
     "score": 2.0
+  },
+  "2607.06401": {
+    "title": "A Definition and Roadmap for World Models",
+    "authors": [
+      "Xinyuan Chen",
+      "Haoyu Guo",
+      "Shi Guo"
+    ],
+    "url": "https://arxiv.org/abs/2607.06401",
+    "category": "World Model",
+    "date": "2026-07-12",
+    "score": 2.0
+  },
+  "2607.04426": {
+    "title": "ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI",
+    "authors": [
+      "ACE-Brain Team",
+      " :",
+      "Ziyang Gong"
+    ],
+    "url": "https://arxiv.org/abs/2607.04426",
+    "category": "Physical AI",
+    "date": "2026-07-12",
+    "score": 2.0
+  },
+  "2607.08751": {
+    "title": "DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation",
+    "authors": [
+      "Yunchao Yao",
+      "Zhuxiu Xu",
+      "Tianqi Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2607.08751",
+    "category": "VLA",
+    "date": "2026-07-12",
+    "score": 0.0
+  },
+  "2607.08742": {
+    "title": "ContactMimic: Humanoid Object Interaction via Contact Control",
+    "authors": [
+      "Xinyao Li",
+      "Xialin He",
+      "Runpei Dong"
+    ],
+    "url": "https://arxiv.org/abs/2607.08742",
+    "category": "Other",
+    "date": "2026-07-12",
+    "score": 0.0
+  },
+  "2607.08735": {
+    "title": "Learning Adaptive Solvers for Distributed Factor Graph Optimization on Matrix Lie Groups",
+    "authors": [
+      "Jaeho Shin",
+      "Maani Ghaffari",
+      "Yulun Tian"
+    ],
+    "url": "https://arxiv.org/abs/2607.08735",
+    "category": "Other",
+    "date": "2026-07-12",
+    "score": 0.0
   }
 }
