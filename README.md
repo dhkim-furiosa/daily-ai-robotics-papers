@@ -69,10 +69,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-14 | Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis | Yi Yu, Xinchuan Qiu | [arXiv](https://arxiv.org/abs/2606.08881) |
 | 2026-06-13 | Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models | Yifu Yuan, Yaoting Huang, Xianze Yao | [arXiv](https://arxiv.org/abs/2606.11324) |
 | 2026-06-13 | LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories | Baochang Ren, Xinjie Liu, Xi Chen | [arXiv](https://arxiv.org/abs/2606.13578) |
-| 2026-06-12 | DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners? | Jadelynn Dao, Milan Ganai, Yasmina Abukhadra | [arXiv](https://arxiv.org/abs/2606.12402) |
-| 2026-06-12 | CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy | Ria Doshi, Tian Gao, Annie Chen | [arXiv](https://arxiv.org/abs/2606.12352) |
-| 2026-06-12 | World Pilot: Steering Vision-Language-Action Models with World-Action Priors | Zefu Lin, Rongxu Cui, Junjia Xu | [arXiv](https://arxiv.org/abs/2606.12403) |
-| 2026-06-12 | APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies | Kechun Xu, Zhenjie Zhu, Anzhe Chen | [arXiv](https://arxiv.org/abs/2606.12366) |
 
 ### World Model
 
@@ -103,6 +99,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-13 | Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference | Junfei Zhan, Haoxun Shen, Mingang Guo | [arXiv](https://arxiv.org/abs/2607.09520) |
 | 2026-07-12 | ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI | ACE-Brain Team,  :, Ziyang Gong | [arXiv](https://arxiv.org/abs/2607.04426) |
 | 2026-07-11 | ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation | Kaifeng Zhao, Mathis Petrovich, Haotian Zhang | [arXiv](https://arxiv.org/abs/2607.08741) |
 | 2026-07-11 | SPEAR: A Simulator for Photorealistic Embodied AI Research | Mike Roberts, Renhan Wang, Rushikesh Zawar | [arXiv](https://arxiv.org/abs/2607.06701) |
@@ -128,6 +125,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-13 | What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility | Filippo Ziliotto, Luciano Serafini, Lamberto Ballan | [arXiv](https://arxiv.org/abs/2607.09503) |
 | 2026-07-11 | EVIS: A Physics-Grounded Event Camera Plugin for NVIDIA Isaac Sim | Linli Shi, Ruijun Zhang, Ziyun Wang | [arXiv](https://arxiv.org/abs/2607.08098) |
 | 2026-07-02 | ROSA: A Robotics Foundation Model Serving System for Robot Factories | Wenqi Jiang, Jason Clemons, Rowland O'Flaherty | [arXiv](https://arxiv.org/abs/2607.01088) |
 | 2026-06-26 | OctoSense: Self-Supervised Learning for Multimodal Robot Perception | Anthony Bisulco, Jeremy Wang, Kostas Daniilidis | [arXiv](https://arxiv.org/abs/2606.27317) |
@@ -138,6 +136,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-13 | VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents | Katherine Swinea, Kshitiz Aryal, Lopamudra Praharaj | [arXiv](https://arxiv.org/abs/2607.09653) |
+| 2026-07-13 | Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks | Nuocheng Yang, Sihua Wang, Zihan Chen | [arXiv](https://arxiv.org/abs/2607.09330) |
+| 2026-07-13 | Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks | Yangting Sun, Zijun Cui, Yufei Zhang | [arXiv](https://arxiv.org/abs/2607.09650) |
 | 2026-07-12 | ContactMimic: Humanoid Object Interaction via Contact Control | Xinyao Li, Xialin He, Runpei Dong | [arXiv](https://arxiv.org/abs/2607.08742) |
 | 2026-07-12 | Learning Adaptive Solvers for Distributed Factor Graph Optimization on Matrix Lie Groups | Jaeho Shin, Maani Ghaffari, Yulun Tian | [arXiv](https://arxiv.org/abs/2607.08735) |
 | 2026-07-10 | Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference | Chuning Zhu, Eva Xu, Jose Barreiros | [arXiv](https://arxiv.org/abs/2607.08724) |
@@ -166,7 +167,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-23 | Reversal Q-Learning | Aditya Oberai, Seohong Park, Sergey Levine | [arXiv](https://arxiv.org/abs/2606.17551) |
 | 2026-06-23 | Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving | Liang Su | [arXiv](https://arxiv.org/abs/2606.20537) |
 | 2026-06-13 | Improving Robotic Generalist Policies via Flow Reversal Steering | Andy Tang, William Chen, Andrew Wagenmaker | [arXiv](https://arxiv.org/abs/2606.13675) |
-| 2026-06-12 | How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology | Kian R. Weihrauch, Thomas A. Buckley, William Lotter | [arXiv](https://arxiv.org/abs/2606.12407) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -229,6 +229,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-13](./2026/07/2026-07-13.md)
 - [2026-07-12](./2026/07/2026-07-12.md)
 - [2026-07-11](./2026/07/2026-07-11.md)
 - [2026-07-10](./2026/07/2026-07-10.md)

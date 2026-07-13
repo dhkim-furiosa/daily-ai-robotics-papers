@@ -1,64 +1,4 @@
 {
-  "2606.12402": {
-    "title": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
-    "authors": [
-      "Jadelynn Dao",
-      "Milan Ganai",
-      "Yasmina Abukhadra"
-    ],
-    "url": "https://arxiv.org/abs/2606.12402",
-    "category": "VLA",
-    "date": "2026-06-12",
-    "score": 12.0
-  },
-  "2606.12352": {
-    "title": "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy",
-    "authors": [
-      "Ria Doshi",
-      "Tian Gao",
-      "Annie Chen"
-    ],
-    "url": "https://arxiv.org/abs/2606.12352",
-    "category": "VLA",
-    "date": "2026-06-12",
-    "score": 12.0
-  },
-  "2606.12407": {
-    "title": "How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology",
-    "authors": [
-      "Kian R. Weihrauch",
-      "Thomas A. Buckley",
-      "William Lotter"
-    ],
-    "url": "https://arxiv.org/abs/2606.12407",
-    "category": "Other",
-    "date": "2026-06-12",
-    "score": 3.0
-  },
-  "2606.12403": {
-    "title": "World Pilot: Steering Vision-Language-Action Models with World-Action Priors",
-    "authors": [
-      "Zefu Lin",
-      "Rongxu Cui",
-      "Junjia Xu"
-    ],
-    "url": "https://arxiv.org/abs/2606.12403",
-    "category": "VLA",
-    "date": "2026-06-12",
-    "score": 2.0
-  },
-  "2606.12366": {
-    "title": "APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies",
-    "authors": [
-      "Kechun Xu",
-      "Zhenjie Zhu",
-      "Anzhe Chen"
-    ],
-    "url": "https://arxiv.org/abs/2606.12366",
-    "category": "VLA",
-    "date": "2026-06-12",
-    "score": 2.0
-  },
   "2606.13675": {
     "title": "Improving Robotic Generalist Policies via Flow Reversal Steering",
     "authors": [
@@ -1481,6 +1421,66 @@
     "url": "https://arxiv.org/abs/2607.08735",
     "category": "Other",
     "date": "2026-07-12",
+    "score": 0.0
+  },
+  "2607.09520": {
+    "title": "Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference",
+    "authors": [
+      "Junfei Zhan",
+      "Haoxun Shen",
+      "Mingang Guo"
+    ],
+    "url": "https://arxiv.org/abs/2607.09520",
+    "category": "Physical AI",
+    "date": "2026-07-13",
+    "score": 3.0
+  },
+  "2607.09653": {
+    "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
+    "authors": [
+      "Katherine Swinea",
+      "Kshitiz Aryal",
+      "Lopamudra Praharaj"
+    ],
+    "url": "https://arxiv.org/abs/2607.09653",
+    "category": "Other",
+    "date": "2026-07-13",
+    "score": 3.0
+  },
+  "2607.09503": {
+    "title": "What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility",
+    "authors": [
+      "Filippo Ziliotto",
+      "Luciano Serafini",
+      "Lamberto Ballan"
+    ],
+    "url": "https://arxiv.org/abs/2607.09503",
+    "category": "Foundation Model",
+    "date": "2026-07-13",
+    "score": 2.0
+  },
+  "2607.09330": {
+    "title": "Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks",
+    "authors": [
+      "Nuocheng Yang",
+      "Sihua Wang",
+      "Zihan Chen"
+    ],
+    "url": "https://arxiv.org/abs/2607.09330",
+    "category": "Other",
+    "date": "2026-07-13",
+    "score": 2.0
+  },
+  "2607.09650": {
+    "title": "Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks",
+    "authors": [
+      "Yangting Sun",
+      "Zijun Cui",
+      "Yufei Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2607.09650",
+    "category": "Other",
+    "date": "2026-07-13",
     "score": 0.0
   }
 }
