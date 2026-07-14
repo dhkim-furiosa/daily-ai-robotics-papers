@@ -22,6 +22,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-14 | From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence | Yuanzhi Liang, Xufeng Zhan, Haibin Huang | [arXiv](https://arxiv.org/abs/2607.11689) |
 | 2026-07-12 | DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation | Yunchao Yao, Zhuxiu Xu, Tianqi Zhang | [arXiv](https://arxiv.org/abs/2607.08751) |
 | 2026-07-11 | Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents | Yixian Zhang, Huanming Zhang, Feng Gao | [arXiv](https://arxiv.org/abs/2607.08448) |
 | 2026-07-11 | Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix | Jiayi Fang | [arXiv](https://arxiv.org/abs/2607.08312) |
@@ -67,13 +68,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-14 | GIVE: Grounding Human Gestures in Vision-Language-Action Models | Pengfei Liu, Gen Li, Junqiao Fan | [arXiv](https://arxiv.org/abs/2606.13435) |
 | 2026-06-14 | Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer | Sanghoon Lee, Jiyeong Chae, Kyung-Joon Park | [arXiv](https://arxiv.org/abs/2606.09416) |
 | 2026-06-14 | Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis | Yi Yu, Xinchuan Qiu | [arXiv](https://arxiv.org/abs/2606.08881) |
-| 2026-06-13 | Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models | Yifu Yuan, Yaoting Huang, Xianze Yao | [arXiv](https://arxiv.org/abs/2606.11324) |
-| 2026-06-13 | LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories | Baochang Ren, Xinjie Liu, Xi Chen | [arXiv](https://arxiv.org/abs/2606.13578) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-14 | Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model | Xinghang Li, Jun Guo, Qiwei Li | [arXiv](https://arxiv.org/abs/2607.11643) |
 | 2026-07-12 | A Definition and Roadmap for World Models | Xinyuan Chen, Haoyu Guo, Shi Guo | [arXiv](https://arxiv.org/abs/2607.06401) |
 | 2026-07-08 | RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation | Haoyu Zhao, Xingyue Zhao, Siteng Huang | [arXiv](https://arxiv.org/abs/2607.06559) |
 | 2026-07-07 | Multiplayer Interactive World Models with Representation Autoencoders | Anthony Hu, Václav Volhejn, Adrien Ramanana Rahary | [arXiv](https://arxiv.org/abs/2607.05352) |
@@ -92,13 +92,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-23 | Kairos: A Native World Model Stack for Physical AI |  Kairos Team, Fei Wang, Shan You | [arXiv](https://arxiv.org/abs/2606.16533) |
 | 2026-06-14 | $\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation | Arnav Kumar Jain, Yilin Wu, Jesse Farebrother | [arXiv](https://arxiv.org/abs/2606.13672) |
 | 2026-06-14 | VISA: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models | Ruiqi Xian, Yuehan Xian, Jing Liang | [arXiv](https://arxiv.org/abs/2606.13460) |
-| 2026-06-13 | MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold | Yang Zhou, Ziheng Wang, Yuqin Lu | [arXiv](https://arxiv.org/abs/2606.13376) |
-| 2026-06-13 | A Tutorial on World Models and Physical AI | Il-Seok Oh | [arXiv](https://arxiv.org/abs/2606.12783) |
 
 ### Physical AI
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-14 | Edge Physical AI Deployment of Vision Transformers on Heterogeneous Edge GPU Targeting Autonomous Vehicles | Ashiyana Abdul Majeed, Mahmoud Meribout, Neethu Joseph | [arXiv](https://arxiv.org/abs/2607.10942) |
 | 2026-07-13 | Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference | Junfei Zhan, Haoxun Shen, Mingang Guo | [arXiv](https://arxiv.org/abs/2607.09520) |
 | 2026-07-12 | ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI | ACE-Brain Team,  :, Ziyang Gong | [arXiv](https://arxiv.org/abs/2607.04426) |
 | 2026-07-11 | ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation | Kaifeng Zhao, Mathis Petrovich, Haotian Zhang | [arXiv](https://arxiv.org/abs/2607.08741) |
@@ -136,6 +135,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-14 | Transformer-Guided Swarm Intelligence for Frugal Neural Architecture Search | Romain Amigon | [arXiv](https://arxiv.org/abs/2607.11826) |
+| 2026-07-14 | DA-Nav: Direction-Aware City-Scale Vision-Language Navigation | Ye Yuan, Kehan Chen, Xinqiang Yu | [arXiv](https://arxiv.org/abs/2607.11638) |
 | 2026-07-13 | VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents | Katherine Swinea, Kshitiz Aryal, Lopamudra Praharaj | [arXiv](https://arxiv.org/abs/2607.09653) |
 | 2026-07-13 | Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks | Nuocheng Yang, Sihua Wang, Zihan Chen | [arXiv](https://arxiv.org/abs/2607.09330) |
 | 2026-07-13 | Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks | Yangting Sun, Zijun Cui, Yufei Zhang | [arXiv](https://arxiv.org/abs/2607.09650) |
@@ -166,7 +167,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-23 | VIMPO: Value-Implicit Policy Optimization for LLMs | Zhewei Kang, Aosong Feng, Sergey Levine | [arXiv](https://arxiv.org/abs/2606.20008) |
 | 2026-06-23 | Reversal Q-Learning | Aditya Oberai, Seohong Park, Sergey Levine | [arXiv](https://arxiv.org/abs/2606.17551) |
 | 2026-06-23 | Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving | Liang Su | [arXiv](https://arxiv.org/abs/2606.20537) |
-| 2026-06-13 | Improving Robotic Generalist Policies via Flow Reversal Steering | Andy Tang, William Chen, Andrew Wagenmaker | [arXiv](https://arxiv.org/abs/2606.13675) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -229,6 +229,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-14](./2026/07/2026-07-14.md)
 - [2026-07-13](./2026/07/2026-07-13.md)
 - [2026-07-12](./2026/07/2026-07-12.md)
 - [2026-07-11](./2026/07/2026-07-11.md)
