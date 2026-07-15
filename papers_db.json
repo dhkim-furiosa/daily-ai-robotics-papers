@@ -1,63 +1,4 @@
 {
-  "2606.13672": {
-    "title": "$\\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation",
-    "authors": [
-      "Arnav Kumar Jain",
-      "Yilin Wu",
-      "Jesse Farebrother"
-    ],
-    "url": "https://arxiv.org/abs/2606.13672",
-    "category": "World Model",
-    "date": "2026-06-14",
-    "score": 2.0
-  },
-  "2606.13460": {
-    "title": "VISA: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models",
-    "authors": [
-      "Ruiqi Xian",
-      "Yuehan Xian",
-      "Jing Liang"
-    ],
-    "url": "https://arxiv.org/abs/2606.13460",
-    "category": "World Model",
-    "date": "2026-06-14",
-    "score": 2.0
-  },
-  "2606.13435": {
-    "title": "GIVE: Grounding Human Gestures in Vision-Language-Action Models",
-    "authors": [
-      "Pengfei Liu",
-      "Gen Li",
-      "Junqiao Fan"
-    ],
-    "url": "https://arxiv.org/abs/2606.13435",
-    "category": "VLA",
-    "date": "2026-06-14",
-    "score": 2.0
-  },
-  "2606.09416": {
-    "title": "Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer",
-    "authors": [
-      "Sanghoon Lee",
-      "Jiyeong Chae",
-      "Kyung-Joon Park"
-    ],
-    "url": "https://arxiv.org/abs/2606.09416",
-    "category": "VLA",
-    "date": "2026-06-14",
-    "score": 2.0
-  },
-  "2606.08881": {
-    "title": "Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis",
-    "authors": [
-      "Yi Yu",
-      "Xinchuan Qiu"
-    ],
-    "url": "https://arxiv.org/abs/2606.08881",
-    "category": "VLA",
-    "date": "2026-06-14",
-    "score": 2.0
-  },
   "2606.06660": {
     "title": "AEGIS: A Backup Reflex for Physical AI",
     "authors": [
@@ -1482,5 +1423,65 @@
     "category": "Other",
     "date": "2026-07-14",
     "score": 3.0
+  },
+  "2607.12571": {
+    "title": "TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors",
+    "authors": [
+      "Pinhan Fu",
+      "Xianda Guo",
+      "Xuetao Li"
+    ],
+    "url": "https://arxiv.org/abs/2607.12571",
+    "category": "VLA",
+    "date": "2026-07-15",
+    "score": 4.0
+  },
+  "2607.12659": {
+    "title": "Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference",
+    "authors": [
+      "Zebin Yang",
+      "Qi Wang",
+      "Yunhe Wang"
+    ],
+    "url": "https://arxiv.org/abs/2607.12659",
+    "category": "VLA",
+    "date": "2026-07-15",
+    "score": 3.0
+  },
+  "2607.12931": {
+    "title": "ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning",
+    "authors": [
+      "Yilun Kong",
+      "Yunpeng Qing",
+      "Guozheng Ma"
+    ],
+    "url": "https://arxiv.org/abs/2607.12931",
+    "category": "VLA",
+    "date": "2026-07-15",
+    "score": 2.0
+  },
+  "2607.12894": {
+    "title": "Hy-Embodied-VLM-1.0: Efficient Physical-World Agents",
+    "authors": [
+      "Ziyi Wang",
+      "Xumin Yu",
+      "Yongming Rao"
+    ],
+    "url": "https://arxiv.org/abs/2607.12894",
+    "category": "Foundation Model",
+    "date": "2026-07-15",
+    "score": 2.0
+  },
+  "2607.12959": {
+    "title": "ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models",
+    "authors": [
+      "Haojie Ren",
+      "Songrui Luo",
+      "Lingfeng Wang"
+    ],
+    "url": "https://arxiv.org/abs/2607.12959",
+    "category": "Foundation Model",
+    "date": "2026-07-15",
+    "score": 2.0
   }
 }

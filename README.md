@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-15 | TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors | Pinhan Fu, Xianda Guo, Xuetao Li | [arXiv](https://arxiv.org/abs/2607.12571) |
+| 2026-07-15 | Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference | Zebin Yang, Qi Wang, Yunhe Wang | [arXiv](https://arxiv.org/abs/2607.12659) |
+| 2026-07-15 | ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning | Yilun Kong, Yunpeng Qing, Guozheng Ma | [arXiv](https://arxiv.org/abs/2607.12931) |
 | 2026-07-14 | From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence | Yuanzhi Liang, Xufeng Zhan, Haibin Huang | [arXiv](https://arxiv.org/abs/2607.11689) |
 | 2026-07-12 | DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation | Yunchao Yao, Zhuxiu Xu, Tianqi Zhang | [arXiv](https://arxiv.org/abs/2607.08751) |
 | 2026-07-11 | Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents | Yixian Zhang, Huanming Zhang, Feng Gao | [arXiv](https://arxiv.org/abs/2607.08448) |
@@ -65,9 +68,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-23 | SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation | Wei-Cheng Tseng, Gashon Hussein, Yuzhu Dong | [arXiv](https://arxiv.org/abs/2606.18610) |
 | 2026-06-23 | Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack | He Zhang, Lingzhu Xiang, Haitao Lin | [arXiv](https://arxiv.org/abs/2606.14409) |
 | 2026-06-15 | OpenEAI-Platform: An Open-source Embodied Artificial Intelligence Hardware-Software Unified Platform | Jinyuan Zhang, Luoyi Fan, Leiyu Wang | [arXiv](https://arxiv.org/abs/2606.03392) |
-| 2026-06-14 | GIVE: Grounding Human Gestures in Vision-Language-Action Models | Pengfei Liu, Gen Li, Junqiao Fan | [arXiv](https://arxiv.org/abs/2606.13435) |
-| 2026-06-14 | Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer | Sanghoon Lee, Jiyeong Chae, Kyung-Joon Park | [arXiv](https://arxiv.org/abs/2606.09416) |
-| 2026-06-14 | Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis | Yi Yu, Xinchuan Qiu | [arXiv](https://arxiv.org/abs/2606.08881) |
 
 ### World Model
 
@@ -90,8 +90,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-27 | Not All Actions Are Equal: Rethinking Conditioning for Dexterous World Model | Zizhao Yuan, Zhengtu Liang, Taowen Wang | [arXiv](https://arxiv.org/abs/2606.27325) |
 | 2026-06-23 | SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors | Pratyaksh Rao, Wancong Zhang, Randall Balestriero | [arXiv](https://arxiv.org/abs/2606.23444) |
 | 2026-06-23 | Kairos: A Native World Model Stack for Physical AI |  Kairos Team, Fei Wang, Shan You | [arXiv](https://arxiv.org/abs/2606.16533) |
-| 2026-06-14 | $\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation | Arnav Kumar Jain, Yilin Wu, Jesse Farebrother | [arXiv](https://arxiv.org/abs/2606.13672) |
-| 2026-06-14 | VISA: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models | Ruiqi Xian, Yuehan Xian, Jing Liang | [arXiv](https://arxiv.org/abs/2606.13460) |
 
 ### Physical AI
 
@@ -124,6 +122,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-15 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents | Ziyi Wang, Xumin Yu, Yongming Rao | [arXiv](https://arxiv.org/abs/2607.12894) |
+| 2026-07-15 | ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models | Haojie Ren, Songrui Luo, Lingfeng Wang | [arXiv](https://arxiv.org/abs/2607.12959) |
 | 2026-07-13 | What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility | Filippo Ziliotto, Luciano Serafini, Lamberto Ballan | [arXiv](https://arxiv.org/abs/2607.09503) |
 | 2026-07-11 | EVIS: A Physics-Grounded Event Camera Plugin for NVIDIA Isaac Sim | Linli Shi, Ruijun Zhang, Ziyun Wang | [arXiv](https://arxiv.org/abs/2607.08098) |
 | 2026-07-02 | ROSA: A Robotics Foundation Model Serving System for Robot Factories | Wenqi Jiang, Jason Clemons, Rowland O'Flaherty | [arXiv](https://arxiv.org/abs/2607.01088) |
@@ -229,6 +229,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-15](./2026/07/2026-07-15.md)
 - [2026-07-14](./2026/07/2026-07-14.md)
 - [2026-07-13](./2026/07/2026-07-13.md)
 - [2026-07-12](./2026/07/2026-07-12.md)
