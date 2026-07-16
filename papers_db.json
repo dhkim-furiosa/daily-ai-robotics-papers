@@ -1,62 +1,4 @@
 {
-  "2606.06660": {
-    "title": "AEGIS: A Backup Reflex for Physical AI",
-    "authors": [
-      "Josef Chen"
-    ],
-    "url": "https://arxiv.org/abs/2606.06660",
-    "category": "Physical AI",
-    "date": "2026-06-15",
-    "score": 2.0
-  },
-  "2606.03593": {
-    "title": "Making Embodied AI Reliable: A Community Agenda from Testing to Formal Verification",
-    "authors": [
-      "Xi Zheng",
-      "Dulanga Weerakoon",
-      "Yintong Huo"
-    ],
-    "url": "https://arxiv.org/abs/2606.03593",
-    "category": "Physical AI",
-    "date": "2026-06-15",
-    "score": 2.0
-  },
-  "2606.03392": {
-    "title": "OpenEAI-Platform: An Open-source Embodied Artificial Intelligence Hardware-Software Unified Platform",
-    "authors": [
-      "Jinyuan Zhang",
-      "Luoyi Fan",
-      "Leiyu Wang"
-    ],
-    "url": "https://arxiv.org/abs/2606.03392",
-    "category": "VLA",
-    "date": "2026-06-15",
-    "score": 2.0
-  },
-  "2606.13677": {
-    "title": "Mana: Dexterous Manipulation of Articulated Tools",
-    "authors": [
-      "Zhao-Heng Yin",
-      "Guanya Shi",
-      "Pieter Abbeel"
-    ],
-    "url": "https://arxiv.org/abs/2606.13677",
-    "category": "Physical AI",
-    "date": "2026-06-15",
-    "score": 0.0
-  },
-  "2606.13674": {
-    "title": "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers",
-    "authors": [
-      "Junke Wang",
-      "Qihang Zhang",
-      "Shuai Yang"
-    ],
-    "url": "https://arxiv.org/abs/2606.13674",
-    "category": "Foundation Model",
-    "date": "2026-06-15",
-    "score": 0.0
-  },
   "2606.23444": {
     "title": "SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors",
     "authors": [
@@ -1483,5 +1425,65 @@
     "category": "Foundation Model",
     "date": "2026-07-15",
     "score": 2.0
+  },
+  "2607.13926": {
+    "title": "S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving",
+    "authors": [
+      "Jianguo Yu",
+      "Rukang Wang",
+      "Duanfeng Chu"
+    ],
+    "url": "https://arxiv.org/abs/2607.13926",
+    "category": "VLA",
+    "date": "2026-07-16",
+    "score": 4.0
+  },
+  "2607.13560": {
+    "title": "Grounded world models in biological organisms and future embodied AI",
+    "authors": [
+      "Giovanni Pezzulo",
+      "Davide Nuzzi",
+      "Marco D'Alessandro"
+    ],
+    "url": "https://arxiv.org/abs/2607.13560",
+    "category": "World Model",
+    "date": "2026-07-16",
+    "score": 4.0
+  },
+  "2607.14046": {
+    "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
+    "authors": [
+      "Xanthi Kokkinou",
+      "Chaido Mizeli",
+      "Nafsika Koulaxidou"
+    ],
+    "url": "https://arxiv.org/abs/2607.14046",
+    "category": "Other",
+    "date": "2026-07-16",
+    "score": 3.0
+  },
+  "2607.14004": {
+    "title": "Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0",
+    "authors": [
+      "Wenxiao Wang",
+      "Priyatham Kattakinda",
+      "Soheil Feizi"
+    ],
+    "url": "https://arxiv.org/abs/2607.14004",
+    "category": "Other",
+    "date": "2026-07-16",
+    "score": 3.0
+  },
+  "2607.14044": {
+    "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
+    "authors": [
+      "Tam Nguyen",
+      "Hung Nguyen",
+      "Robert Ogburn"
+    ],
+    "url": "https://arxiv.org/abs/2607.14044",
+    "category": "Other",
+    "date": "2026-07-16",
+    "score": 3.0
   }
 }
