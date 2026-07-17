@@ -1485,5 +1485,65 @@
     "category": "Other",
     "date": "2026-07-16",
     "score": 3.0
+  },
+  "2607.15004": {
+    "title": "CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking",
+    "authors": [
+      "Ruilong Ren",
+      "Songsheng Cheng",
+      "Yunpeng Zhou"
+    ],
+    "url": "https://arxiv.org/abs/2607.15004",
+    "category": "VLA",
+    "date": "2026-07-17",
+    "score": 4.0
+  },
+  "2607.14852": {
+    "title": "Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation",
+    "authors": [
+      "Yao He",
+      "Gan Sun",
+      "Wenqi Liang"
+    ],
+    "url": "https://arxiv.org/abs/2607.14852",
+    "category": "VLA",
+    "date": "2026-07-17",
+    "score": 4.0
+  },
+  "2607.15275": {
+    "title": "RoboTTT: Context Scaling for Robot Policies",
+    "authors": [
+      "Yunfan Jiang",
+      "Yevgen Chebotar",
+      "Ruijie Zheng"
+    ],
+    "url": "https://arxiv.org/abs/2607.15275",
+    "category": "VLA",
+    "date": "2026-07-17",
+    "score": 3.0
+  },
+  "2607.15247": {
+    "title": "AutoSynthesis: An agentic system for automated meta-analysis",
+    "authors": [
+      "Moein Taherinezhad",
+      "Sebastian Maier",
+      "Gerardo Vitagliano"
+    ],
+    "url": "https://arxiv.org/abs/2607.15247",
+    "category": "Other",
+    "date": "2026-07-17",
+    "score": 3.0
+  },
+  "2607.15163": {
+    "title": "Scaling Behavior Foundation Model for Humanoid Robots",
+    "authors": [
+      "Weishuai Zeng",
+      "Kangning Yin",
+      "Xiaojie Niu"
+    ],
+    "url": "https://arxiv.org/abs/2607.15163",
+    "category": "Foundation Model",
+    "date": "2026-07-17",
+    "score": 2.0
   }
 }

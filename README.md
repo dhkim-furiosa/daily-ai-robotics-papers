@@ -22,6 +22,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-17 | CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking | Ruilong Ren, Songsheng Cheng, Yunpeng Zhou | [arXiv](https://arxiv.org/abs/2607.15004) |
+| 2026-07-17 | Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation | Yao He, Gan Sun, Wenqi Liang | [arXiv](https://arxiv.org/abs/2607.14852) |
+| 2026-07-17 | RoboTTT: Context Scaling for Robot Policies | Yunfan Jiang, Yevgen Chebotar, Ruijie Zheng | [arXiv](https://arxiv.org/abs/2607.15275) |
 | 2026-07-16 | S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving | Jianguo Yu, Rukang Wang, Duanfeng Chu | [arXiv](https://arxiv.org/abs/2607.13926) |
 | 2026-07-15 | TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors | Pinhan Fu, Xianda Guo, Xuetao Li | [arXiv](https://arxiv.org/abs/2607.12571) |
 | 2026-07-15 | Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference | Zebin Yang, Qi Wang, Yunhe Wang | [arXiv](https://arxiv.org/abs/2607.12659) |
@@ -120,6 +123,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-17 | Scaling Behavior Foundation Model for Humanoid Robots | Weishuai Zeng, Kangning Yin, Xiaojie Niu | [arXiv](https://arxiv.org/abs/2607.15163) |
 | 2026-07-15 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents | Ziyi Wang, Xumin Yu, Yongming Rao | [arXiv](https://arxiv.org/abs/2607.12894) |
 | 2026-07-15 | ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models | Haojie Ren, Songrui Luo, Lingfeng Wang | [arXiv](https://arxiv.org/abs/2607.12959) |
 | 2026-07-13 | What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility | Filippo Ziliotto, Luciano Serafini, Lamberto Ballan | [arXiv](https://arxiv.org/abs/2607.09503) |
@@ -132,6 +136,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-17 | AutoSynthesis: An agentic system for automated meta-analysis | Moein Taherinezhad, Sebastian Maier, Gerardo Vitagliano | [arXiv](https://arxiv.org/abs/2607.15247) |
 | 2026-07-16 | Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education | Xanthi Kokkinou, Chaido Mizeli, Nafsika Koulaxidou | [arXiv](https://arxiv.org/abs/2607.14046) |
 | 2026-07-16 | Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0 | Wenxiao Wang, Priyatham Kattakinda, Soheil Feizi | [arXiv](https://arxiv.org/abs/2607.14004) |
 | 2026-07-16 | AI-accelerated End-to-End Framework for Rapid Professional Upskilling | Tam Nguyen, Hung Nguyen, Robert Ogburn | [arXiv](https://arxiv.org/abs/2607.14044) |
@@ -229,6 +234,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-17](./2026/07/2026-07-17.md)
 - [2026-07-16](./2026/07/2026-07-16.md)
 - [2026-07-15](./2026/07/2026-07-15.md)
 - [2026-07-14](./2026/07/2026-07-14.md)
