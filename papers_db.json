@@ -1545,5 +1545,65 @@
     "category": "Foundation Model",
     "date": "2026-07-17",
     "score": 2.0
+  },
+  "2607.15065": {
+    "title": "DriftWorld: Fast World Modeling through Drifting",
+    "authors": [
+      "Susie Lu",
+      "Haonan Chen",
+      "Weirui Ye"
+    ],
+    "url": "https://arxiv.org/abs/2607.15065",
+    "category": "World Model",
+    "date": "2026-07-18",
+    "score": 2.0
+  },
+  "2607.15142": {
+    "title": "Concept-Guided Spatial Regularization for World Models in Atari Pong",
+    "authors": [
+      "Yukuan Lu",
+      "Zaishuo Xia",
+      "Weyl Lu"
+    ],
+    "url": "https://arxiv.org/abs/2607.15142",
+    "category": "World Model",
+    "date": "2026-07-18",
+    "score": 2.0
+  },
+  "2607.13059": {
+    "title": "GPUSimBench: Towards Scalable and Reliable GPU-Accelerated Simulators in Embodied AI",
+    "authors": [
+      "Huzhenyu Zhang",
+      "Shenghai Yuan",
+      "Wenrui Yan"
+    ],
+    "url": "https://arxiv.org/abs/2607.13059",
+    "category": "Physical AI",
+    "date": "2026-07-18",
+    "score": 2.0
+  },
+  "2607.15278": {
+    "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
+    "authors": [
+      "Zezhong Qian",
+      "Xiaowei Chi",
+      "Chak-Wing Mak"
+    ],
+    "url": "https://arxiv.org/abs/2607.15278",
+    "category": "World Model",
+    "date": "2026-07-18",
+    "score": 0.0
+  },
+  "2607.15207": {
+    "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
+    "authors": [
+      "Qi Li",
+      "Xingyi Yang",
+      "Xinchao Wang"
+    ],
+    "url": "https://arxiv.org/abs/2607.15207",
+    "category": "Other",
+    "date": "2026-07-18",
+    "score": 0.0
   }
 }

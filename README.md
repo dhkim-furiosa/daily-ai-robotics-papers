@@ -76,6 +76,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-18 | DriftWorld: Fast World Modeling through Drifting | Susie Lu, Haonan Chen, Weirui Ye | [arXiv](https://arxiv.org/abs/2607.15065) |
+| 2026-07-18 | Concept-Guided Spatial Regularization for World Models in Atari Pong | Yukuan Lu, Zaishuo Xia, Weyl Lu | [arXiv](https://arxiv.org/abs/2607.15142) |
+| 2026-07-18 | Hierarchical Denoising For Multi-Step Visual Reasoning | Zezhong Qian, Xiaowei Chi, Chak-Wing Mak | [arXiv](https://arxiv.org/abs/2607.15278) |
 | 2026-07-16 | Grounded world models in biological organisms and future embodied AI | Giovanni Pezzulo, Davide Nuzzi, Marco D'Alessandro | [arXiv](https://arxiv.org/abs/2607.13560) |
 | 2026-07-14 | Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model | Xinghang Li, Jun Guo, Qiwei Li | [arXiv](https://arxiv.org/abs/2607.11643) |
 | 2026-07-12 | A Definition and Roadmap for World Models | Xinyuan Chen, Haoyu Guo, Shi Guo | [arXiv](https://arxiv.org/abs/2607.06401) |
@@ -99,6 +102,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-18 | GPUSimBench: Towards Scalable and Reliable GPU-Accelerated Simulators in Embodied AI | Huzhenyu Zhang, Shenghai Yuan, Wenrui Yan | [arXiv](https://arxiv.org/abs/2607.13059) |
 | 2026-07-14 | Edge Physical AI Deployment of Vision Transformers on Heterogeneous Edge GPU Targeting Autonomous Vehicles | Ashiyana Abdul Majeed, Mahmoud Meribout, Neethu Joseph | [arXiv](https://arxiv.org/abs/2607.10942) |
 | 2026-07-13 | Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference | Junfei Zhan, Haoxun Shen, Mingang Guo | [arXiv](https://arxiv.org/abs/2607.09520) |
 | 2026-07-12 | ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI | ACE-Brain Team,  :, Ziyang Gong | [arXiv](https://arxiv.org/abs/2607.04426) |
@@ -136,6 +140,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-18 | BadWAM: When World-Action Models Dream Right but Act Wrong | Qi Li, Xingyi Yang, Xinchao Wang | [arXiv](https://arxiv.org/abs/2607.15207) |
 | 2026-07-17 | AutoSynthesis: An agentic system for automated meta-analysis | Moein Taherinezhad, Sebastian Maier, Gerardo Vitagliano | [arXiv](https://arxiv.org/abs/2607.15247) |
 | 2026-07-16 | Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education | Xanthi Kokkinou, Chaido Mizeli, Nafsika Koulaxidou | [arXiv](https://arxiv.org/abs/2607.14046) |
 | 2026-07-16 | Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0 | Wenxiao Wang, Priyatham Kattakinda, Soheil Feizi | [arXiv](https://arxiv.org/abs/2607.14004) |
@@ -234,6 +239,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-18](./2026/07/2026-07-18.md)
 - [2026-07-17](./2026/07/2026-07-17.md)
 - [2026-07-16](./2026/07/2026-07-16.md)
 - [2026-07-15](./2026/07/2026-07-15.md)
