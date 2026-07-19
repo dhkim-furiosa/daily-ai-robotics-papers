@@ -1605,5 +1605,65 @@
     "category": "Other",
     "date": "2026-07-18",
     "score": 0.0
+  },
+  "2607.15172": {
+    "title": "AHEAD: Anticipatory Hand-Driven Teleoperation via Human Intent Prediction",
+    "authors": [
+      "Seok Joon Kim",
+      "Junho Lee",
+      "Federica Spinola"
+    ],
+    "url": "https://arxiv.org/abs/2607.15172",
+    "category": "Other",
+    "date": "2026-07-19",
+    "score": 0.0
+  },
+  "2607.15156": {
+    "title": "Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults",
+    "authors": [
+      "Aniol Civit",
+      "Antonio Andriella",
+      "Alba Martínez"
+    ],
+    "url": "https://arxiv.org/abs/2607.15156",
+    "category": "Other",
+    "date": "2026-07-19",
+    "score": 0.0
+  },
+  "2607.15129": {
+    "title": "Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling",
+    "authors": [
+      "Jonathan Rainer Lippert",
+      "Kai Ploeger",
+      "Abir Chowdhury"
+    ],
+    "url": "https://arxiv.org/abs/2607.15129",
+    "category": "Other",
+    "date": "2026-07-19",
+    "score": 0.0
+  },
+  "2607.15058": {
+    "title": "SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment",
+    "authors": [
+      "Saad Ejaz",
+      "Miguel Fernandez-Cortizas",
+      "Javier Civera"
+    ],
+    "url": "https://arxiv.org/abs/2607.15058",
+    "category": "Foundation Model",
+    "date": "2026-07-19",
+    "score": 0.0
+  },
+  "2607.15038": {
+    "title": "Video = World + Event Stream",
+    "authors": [
+      "Lianghua Huang",
+      "Zhi-Fan Wu",
+      "Yupeng Shi"
+    ],
+    "url": "https://arxiv.org/abs/2607.15038",
+    "category": "VLA",
+    "date": "2026-07-19",
+    "score": 0.0
   }
 }
