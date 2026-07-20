@@ -1665,5 +1665,65 @@
     "category": "VLA",
     "date": "2026-07-19",
     "score": 0.0
+  },
+  "2607.15880": {
+    "title": "Dynamics-Aware Meta-Imitation for Generalization to Unseen Robotic Manipulation",
+    "authors": [
+      "Zhenduo Shang",
+      "Xiyao Liu",
+      "Bohan Li"
+    ],
+    "url": "https://arxiv.org/abs/2607.15880",
+    "category": "Other",
+    "date": "2026-07-20",
+    "score": 3.0
+  },
+  "2607.15641": {
+    "title": "IMBench: A Benchmark for Intuitive Robotic Manipulation",
+    "authors": [
+      "Anurag Maurya",
+      "Sukhvansh Jain",
+      "Prajwal Avhad"
+    ],
+    "url": "https://arxiv.org/abs/2607.15641",
+    "category": "VLA",
+    "date": "2026-07-20",
+    "score": 3.0
+  },
+  "2607.16181": {
+    "title": "Vision-Language Assistant for Emotional Reactions to Risky Driving",
+    "authors": [
+      "Harine Choi",
+      "Eun Hak Lee",
+      "Zhengzhong Tu"
+    ],
+    "url": "https://arxiv.org/abs/2607.16181",
+    "category": "Other",
+    "date": "2026-07-20",
+    "score": 3.0
+  },
+  "2607.16156": {
+    "title": "PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessment",
+    "authors": [
+      "Tam Bang",
+      "Hussam Abubakr",
+      "Emiliano de la Garza Villarreal"
+    ],
+    "url": "https://arxiv.org/abs/2607.16156",
+    "category": "Other",
+    "date": "2026-07-20",
+    "score": 3.0
+  },
+  "2607.16074": {
+    "title": "JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models",
+    "authors": [
+      "Haoran Sun",
+      "Wentao Zhang",
+      "Junyang Hua"
+    ],
+    "url": "https://arxiv.org/abs/2607.16074",
+    "category": "VLA",
+    "date": "2026-07-20",
+    "score": 2.0
   }
 }

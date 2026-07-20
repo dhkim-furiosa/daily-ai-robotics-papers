@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-20 | IMBench: A Benchmark for Intuitive Robotic Manipulation | Anurag Maurya, Sukhvansh Jain, Prajwal Avhad | [arXiv](https://arxiv.org/abs/2607.15641) |
+| 2026-07-20 | JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models | Haoran Sun, Wentao Zhang, Junyang Hua | [arXiv](https://arxiv.org/abs/2607.16074) |
 | 2026-07-19 | Video = World + Event Stream | Lianghua Huang, Zhi-Fan Wu, Yupeng Shi | [arXiv](https://arxiv.org/abs/2607.15038) |
 | 2026-07-17 | CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking | Ruilong Ren, Songsheng Cheng, Yunpeng Zhou | [arXiv](https://arxiv.org/abs/2607.15004) |
 | 2026-07-17 | Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation | Yao He, Gan Sun, Wenqi Liang | [arXiv](https://arxiv.org/abs/2607.14852) |
@@ -142,6 +144,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-20 | Dynamics-Aware Meta-Imitation for Generalization to Unseen Robotic Manipulation | Zhenduo Shang, Xiyao Liu, Bohan Li | [arXiv](https://arxiv.org/abs/2607.15880) |
+| 2026-07-20 | Vision-Language Assistant for Emotional Reactions to Risky Driving | Harine Choi, Eun Hak Lee, Zhengzhong Tu | [arXiv](https://arxiv.org/abs/2607.16181) |
+| 2026-07-20 | PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessment | Tam Bang, Hussam Abubakr, Emiliano de la Garza Villarreal | [arXiv](https://arxiv.org/abs/2607.16156) |
 | 2026-07-19 | AHEAD: Anticipatory Hand-Driven Teleoperation via Human Intent Prediction | Seok Joon Kim, Junho Lee, Federica Spinola | [arXiv](https://arxiv.org/abs/2607.15172) |
 | 2026-07-19 | Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults | Aniol Civit, Antonio Andriella, Alba Martínez | [arXiv](https://arxiv.org/abs/2607.15156) |
 | 2026-07-19 | Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling | Jonathan Rainer Lippert, Kai Ploeger, Abir Chowdhury | [arXiv](https://arxiv.org/abs/2607.15129) |
@@ -244,6 +249,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-20](./2026/07/2026-07-20.md)
 - [2026-07-19](./2026/07/2026-07-19.md)
 - [2026-07-18](./2026/07/2026-07-18.md)
 - [2026-07-17](./2026/07/2026-07-17.md)
