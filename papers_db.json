@@ -1725,5 +1725,65 @@
     "category": "VLA",
     "date": "2026-07-20",
     "score": 2.0
+  },
+  "2607.18236": {
+    "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+    "authors": [
+      "Gaoyue Zhou",
+      "Zichen Jeff Cui",
+      "Ada Langford"
+    ],
+    "url": "https://arxiv.org/abs/2607.18236",
+    "category": "VLA",
+    "date": "2026-07-21",
+    "score": 12.0
+  },
+  "2607.16636": {
+    "title": "PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution",
+    "authors": [
+      "Yang Liu",
+      "Weixing Chen",
+      "Xinshuai Song"
+    ],
+    "url": "https://arxiv.org/abs/2607.16636",
+    "category": "VLA",
+    "date": "2026-07-21",
+    "score": 5.0
+  },
+  "2607.16401": {
+    "title": "Apple-$π$: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence",
+    "authors": [
+      "Runmao Yao",
+      "Kairui Hu",
+      "Yukang Cao"
+    ],
+    "url": "https://arxiv.org/abs/2607.16401",
+    "category": "World Model",
+    "date": "2026-07-21",
+    "score": 5.0
+  },
+  "2607.18231": {
+    "title": "FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation",
+    "authors": [
+      "Ruicheng Li",
+      "Qixiu Li",
+      "Ruichun Ma"
+    ],
+    "url": "https://arxiv.org/abs/2607.18231",
+    "category": "VLA",
+    "date": "2026-07-21",
+    "score": 4.0
+  },
+  "2607.17977": {
+    "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model",
+    "authors": [
+      "Kehan Li",
+      "Bohan Hou",
+      "Minghao Zhu"
+    ],
+    "url": "https://arxiv.org/abs/2607.17977",
+    "category": "VLA",
+    "date": "2026-07-21",
+    "score": 4.0
   }
 }

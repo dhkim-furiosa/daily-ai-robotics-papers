@@ -22,6 +22,10 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-21 | Patch Policy: Efficient Embodied Control via Dense Visual Representations | Gaoyue Zhou, Zichen Jeff Cui, Ada Langford | [arXiv](https://arxiv.org/abs/2607.18236) |
+| 2026-07-21 | PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution | Yang Liu, Weixing Chen, Xinshuai Song | [arXiv](https://arxiv.org/abs/2607.16636) |
+| 2026-07-21 | FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation | Ruicheng Li, Qixiu Li, Ruichun Ma | [arXiv](https://arxiv.org/abs/2607.18231) |
+| 2026-07-21 | RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model | Kehan Li, Bohan Hou, Minghao Zhu | [arXiv](https://arxiv.org/abs/2607.17977) |
 | 2026-07-20 | IMBench: A Benchmark for Intuitive Robotic Manipulation | Anurag Maurya, Sukhvansh Jain, Prajwal Avhad | [arXiv](https://arxiv.org/abs/2607.15641) |
 | 2026-07-20 | JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models | Haoran Sun, Wentao Zhang, Junyang Hua | [arXiv](https://arxiv.org/abs/2607.16074) |
 | 2026-07-19 | Video = World + Event Stream | Lianghua Huang, Zhi-Fan Wu, Yupeng Shi | [arXiv](https://arxiv.org/abs/2607.15038) |
@@ -79,6 +83,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-21 | Apple-$π$: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence | Runmao Yao, Kairui Hu, Yukang Cao | [arXiv](https://arxiv.org/abs/2607.16401) |
 | 2026-07-18 | DriftWorld: Fast World Modeling through Drifting | Susie Lu, Haonan Chen, Weirui Ye | [arXiv](https://arxiv.org/abs/2607.15065) |
 | 2026-07-18 | Concept-Guided Spatial Regularization for World Models in Atari Pong | Yukuan Lu, Zaishuo Xia, Weyl Lu | [arXiv](https://arxiv.org/abs/2607.15142) |
 | 2026-07-18 | Hierarchical Denoising For Multi-Step Visual Reasoning | Zezhong Qian, Xiaowei Chi, Chak-Wing Mak | [arXiv](https://arxiv.org/abs/2607.15278) |
@@ -249,6 +254,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-21](./2026/07/2026-07-21.md)
 - [2026-07-20](./2026/07/2026-07-20.md)
 - [2026-07-19](./2026/07/2026-07-19.md)
 - [2026-07-18](./2026/07/2026-07-18.md)
