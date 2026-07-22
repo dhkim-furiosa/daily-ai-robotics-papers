@@ -1785,5 +1785,63 @@
     "category": "VLA",
     "date": "2026-07-21",
     "score": 4.0
+  },
+  "2607.19064": {
+    "title": "Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing",
+    "authors": [
+      "Xinjie Zhang",
+      "Peng Zhang",
+      "Shicheng Zheng"
+    ],
+    "url": "https://arxiv.org/abs/2607.19064",
+    "category": "Foundation Model",
+    "date": "2026-07-22",
+    "score": 5.0
+  },
+  "2607.18709": {
+    "title": "RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation",
+    "authors": [
+      "Ziqin Wang",
+      "Hao Li",
+      "Weijun Wang"
+    ],
+    "url": "https://arxiv.org/abs/2607.18709",
+    "category": "VLA",
+    "date": "2026-07-22",
+    "score": 4.0
+  },
+  "2607.19191": {
+    "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
+    "authors": [
+      "Fan Jiang",
+      "Zhaoxu Sun",
+      "Mengchao Wang"
+    ],
+    "url": "https://arxiv.org/abs/2607.19191",
+    "category": "World Model",
+    "date": "2026-07-22",
+    "score": 3.0
+  },
+  "2607.18936": {
+    "title": "NGPS: GPS-Denied Aerial Geo-Localization and 2.5D Reconstruction via Deep Satellite Image Matching and Multi-Rate Sensor Fusion",
+    "authors": [
+      "Sanket Sharma"
+    ],
+    "url": "https://arxiv.org/abs/2607.18936",
+    "category": "Other",
+    "date": "2026-07-22",
+    "score": 3.0
+  },
+  "2607.19343": {
+    "title": "Masked Visual Actions for Unified World Modeling",
+    "authors": [
+      "Hadi Alzayer",
+      "Wenlong Huang",
+      "Haonan Chen"
+    ],
+    "url": "https://arxiv.org/abs/2607.19343",
+    "category": "World Model",
+    "date": "2026-07-22",
+    "score": 2.0
   }
 }

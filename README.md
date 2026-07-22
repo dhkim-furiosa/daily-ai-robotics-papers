@@ -22,6 +22,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-22 | RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation | Ziqin Wang, Hao Li, Weijun Wang | [arXiv](https://arxiv.org/abs/2607.18709) |
 | 2026-07-21 | Patch Policy: Efficient Embodied Control via Dense Visual Representations | Gaoyue Zhou, Zichen Jeff Cui, Ada Langford | [arXiv](https://arxiv.org/abs/2607.18236) |
 | 2026-07-21 | PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution | Yang Liu, Weixing Chen, Xinshuai Song | [arXiv](https://arxiv.org/abs/2607.16636) |
 | 2026-07-21 | FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation | Ruicheng Li, Qixiu Li, Ruichun Ma | [arXiv](https://arxiv.org/abs/2607.18231) |
@@ -83,6 +84,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-22 | ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU | Fan Jiang, Zhaoxu Sun, Mengchao Wang | [arXiv](https://arxiv.org/abs/2607.19191) |
+| 2026-07-22 | Masked Visual Actions for Unified World Modeling | Hadi Alzayer, Wenlong Huang, Haonan Chen | [arXiv](https://arxiv.org/abs/2607.19343) |
 | 2026-07-21 | Apple-$π$: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence | Runmao Yao, Kairui Hu, Yukang Cao | [arXiv](https://arxiv.org/abs/2607.16401) |
 | 2026-07-18 | DriftWorld: Fast World Modeling through Drifting | Susie Lu, Haonan Chen, Weirui Ye | [arXiv](https://arxiv.org/abs/2607.15065) |
 | 2026-07-18 | Concept-Guided Spatial Regularization for World Models in Atari Pong | Yukuan Lu, Zaishuo Xia, Weyl Lu | [arXiv](https://arxiv.org/abs/2607.15142) |
@@ -135,6 +138,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-22 | Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing | Xinjie Zhang, Peng Zhang, Shicheng Zheng | [arXiv](https://arxiv.org/abs/2607.19064) |
 | 2026-07-19 | SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment | Saad Ejaz, Miguel Fernandez-Cortizas, Javier Civera | [arXiv](https://arxiv.org/abs/2607.15058) |
 | 2026-07-17 | Scaling Behavior Foundation Model for Humanoid Robots | Weishuai Zeng, Kangning Yin, Xiaojie Niu | [arXiv](https://arxiv.org/abs/2607.15163) |
 | 2026-07-15 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents | Ziyi Wang, Xumin Yu, Yongming Rao | [arXiv](https://arxiv.org/abs/2607.12894) |
@@ -149,6 +153,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-22 | NGPS: GPS-Denied Aerial Geo-Localization and 2.5D Reconstruction via Deep Satellite Image Matching and Multi-Rate Sensor Fusion | Sanket Sharma | [arXiv](https://arxiv.org/abs/2607.18936) |
 | 2026-07-20 | Dynamics-Aware Meta-Imitation for Generalization to Unseen Robotic Manipulation | Zhenduo Shang, Xiyao Liu, Bohan Li | [arXiv](https://arxiv.org/abs/2607.15880) |
 | 2026-07-20 | Vision-Language Assistant for Emotional Reactions to Risky Driving | Harine Choi, Eun Hak Lee, Zhengzhong Tu | [arXiv](https://arxiv.org/abs/2607.16181) |
 | 2026-07-20 | PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessment | Tam Bang, Hussam Abubakr, Emiliano de la Garza Villarreal | [arXiv](https://arxiv.org/abs/2607.16156) |
@@ -254,6 +259,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-22](./2026/07/2026-07-22.md)
 - [2026-07-21](./2026/07/2026-07-21.md)
 - [2026-07-20](./2026/07/2026-07-20.md)
 - [2026-07-19](./2026/07/2026-07-19.md)
