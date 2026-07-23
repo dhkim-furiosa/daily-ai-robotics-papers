@@ -1843,5 +1843,65 @@
     "category": "World Model",
     "date": "2026-07-22",
     "score": 2.0
+  },
+  "2607.19876": {
+    "title": "KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding",
+    "authors": [
+      "Zeyu Liu",
+      "Zhangzhe Zhu",
+      "Yang Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2607.19876",
+    "category": "World Model",
+    "date": "2026-07-23",
+    "score": 4.0
+  },
+  "2607.19804": {
+    "title": "V2F: Vision-Informed Grasp Force Prediction for Damage-Aware Robotic Handling of Date Fruits",
+    "authors": [
+      "Shahd Shami",
+      "Obadah Wali",
+      "Eric Feron"
+    ],
+    "url": "https://arxiv.org/abs/2607.19804",
+    "category": "Other",
+    "date": "2026-07-23",
+    "score": 3.0
+  },
+  "2607.19865": {
+    "title": "DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations",
+    "authors": [
+      "Jiazhen Jiang",
+      "Boxi Cao",
+      "Lingyong Yan"
+    ],
+    "url": "https://arxiv.org/abs/2607.19865",
+    "category": "Other",
+    "date": "2026-07-23",
+    "score": 3.0
+  },
+  "2607.20345": {
+    "title": "Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids",
+    "authors": [
+      "Roger Sala Sisó",
+      "Tiago Silvério",
+      "Jakob Sand"
+    ],
+    "url": "https://arxiv.org/abs/2607.20345",
+    "category": "VLA",
+    "date": "2026-07-23",
+    "score": 2.0
+  },
+  "2607.20061": {
+    "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
+    "authors": [
+      "Hanjing Ye",
+      "Tianle Zeng",
+      "Jiazhao Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2607.20061",
+    "category": "VLA",
+    "date": "2026-07-23",
+    "score": 2.0
   }
 }
