@@ -1,122 +1,4 @@
 {
-  "2606.23444": {
-    "title": "SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors",
-    "authors": [
-      "Pratyaksh Rao",
-      "Wancong Zhang",
-      "Randall Balestriero"
-    ],
-    "url": "https://arxiv.org/abs/2606.23444",
-    "category": "World Model",
-    "date": "2026-06-23",
-    "score": 12.0
-  },
-  "2606.18610": {
-    "title": "SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation",
-    "authors": [
-      "Wei-Cheng Tseng",
-      "Gashon Hussein",
-      "Yuzhu Dong"
-    ],
-    "url": "https://arxiv.org/abs/2606.18610",
-    "category": "VLA",
-    "date": "2026-06-23",
-    "score": 12.0
-  },
-  "2606.23640": {
-    "title": "Learning Process Rewards via Success Visitation Matching for Efficient RL",
-    "authors": [
-      "Raymond Tsao",
-      "Andrew Wagenmaker",
-      "Sergey Levine"
-    ],
-    "url": "https://arxiv.org/abs/2606.23640",
-    "category": "Other",
-    "date": "2026-06-23",
-    "score": 10.0
-  },
-  "2606.15956": {
-    "title": "You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences",
-    "authors": [
-      "Ninad Daithankar",
-      "Alexi Gladstone",
-      "Yann LeCun"
-    ],
-    "url": "https://arxiv.org/abs/2606.15956",
-    "category": "Other",
-    "date": "2026-06-23",
-    "score": 10.0
-  },
-  "2606.23595": {
-    "title": "SPIRAL: Learning to Search and Aggregate",
-    "authors": [
-      "Jubayer Ibn Hamid",
-      "Ifdita Hasan Orney",
-      "Michael Y. Li"
-    ],
-    "url": "https://arxiv.org/abs/2606.23595",
-    "category": "Other",
-    "date": "2026-06-23",
-    "score": 10.0
-  },
-  "2606.20008": {
-    "title": "VIMPO: Value-Implicit Policy Optimization for LLMs",
-    "authors": [
-      "Zhewei Kang",
-      "Aosong Feng",
-      "Sergey Levine"
-    ],
-    "url": "https://arxiv.org/abs/2606.20008",
-    "category": "Other",
-    "date": "2026-06-23",
-    "score": 10.0
-  },
-  "2606.17551": {
-    "title": "Reversal Q-Learning",
-    "authors": [
-      "Aditya Oberai",
-      "Seohong Park",
-      "Sergey Levine"
-    ],
-    "url": "https://arxiv.org/abs/2606.17551",
-    "category": "Other",
-    "date": "2026-06-23",
-    "score": 10.0
-  },
-  "2606.16533": {
-    "title": "Kairos: A Native World Model Stack for Physical AI",
-    "authors": [
-      " Kairos Team",
-      "Fei Wang",
-      "Shan You"
-    ],
-    "url": "https://arxiv.org/abs/2606.16533",
-    "category": "World Model",
-    "date": "2026-06-23",
-    "score": 7.0
-  },
-  "2606.20537": {
-    "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
-    "authors": [
-      "Liang Su"
-    ],
-    "url": "https://arxiv.org/abs/2606.20537",
-    "category": "Other",
-    "date": "2026-06-23",
-    "score": 6.0
-  },
-  "2606.14409": {
-    "title": "Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack",
-    "authors": [
-      "He Zhang",
-      "Lingzhu Xiang",
-      "Haitao Lin"
-    ],
-    "url": "https://arxiv.org/abs/2606.14409",
-    "category": "VLA",
-    "date": "2026-06-23",
-    "score": 6.0
-  },
   "2606.24472": {
     "title": "G$^3$VLA: Geometric inductive bias for Vision-Language-Action Models",
     "authors": [
@@ -1902,6 +1784,65 @@
     "url": "https://arxiv.org/abs/2607.20061",
     "category": "VLA",
     "date": "2026-07-23",
+    "score": 2.0
+  },
+  "2607.20988": {
+    "title": "HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving",
+    "authors": [
+      "Quanfu Yu",
+      "Xian Wu",
+      "Hao Xu"
+    ],
+    "url": "https://arxiv.org/abs/2607.20988",
+    "category": "VLA",
+    "date": "2026-07-24",
+    "score": 6.0
+  },
+  "2607.21471": {
+    "title": "Future Rendering $\\neq$ Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window",
+    "authors": [
+      "Yukun Shi",
+      "Minglun Gong"
+    ],
+    "url": "https://arxiv.org/abs/2607.21471",
+    "category": "Other",
+    "date": "2026-07-24",
+    "score": 3.0
+  },
+  "2607.21042": {
+    "title": "Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs",
+    "authors": [
+      "Muyang Du",
+      "Shuang Yu",
+      "Junjie Lai"
+    ],
+    "url": "https://arxiv.org/abs/2607.21042",
+    "category": "Other",
+    "date": "2026-07-24",
+    "score": 3.0
+  },
+  "2607.21571": {
+    "title": "Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering",
+    "authors": [
+      "Zikui Cai",
+      "Kaushal Janga",
+      "Tan Dat Dao"
+    ],
+    "url": "https://arxiv.org/abs/2607.21571",
+    "category": "Other",
+    "date": "2026-07-24",
+    "score": 2.0
+  },
+  "2607.20771": {
+    "title": "Emergent Compositional Skills in Mixture-of-Experts VLAs",
+    "authors": [
+      "Shlok Shah",
+      "Rhiaan Jhaveri",
+      "Tharun Kumar Tiruppali Kalidoss"
+    ],
+    "url": "https://arxiv.org/abs/2607.20771",
+    "category": "VLA",
+    "date": "2026-07-24",
     "score": 2.0
   }
 }

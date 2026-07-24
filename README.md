@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-24 | HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving | Quanfu Yu, Xian Wu, Hao Xu | [arXiv](https://arxiv.org/abs/2607.20988) |
+| 2026-07-24 | Emergent Compositional Skills in Mixture-of-Experts VLAs | Shlok Shah, Rhiaan Jhaveri, Tharun Kumar Tiruppali Kalidoss | [arXiv](https://arxiv.org/abs/2607.20771) |
 | 2026-07-23 | Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids | Roger Sala Sisó, Tiago Silvério, Jakob Sand | [arXiv](https://arxiv.org/abs/2607.20345) |
 | 2026-07-23 | ReferTrack: Referring Then Tracking for Embodied Visual Tracking | Hanjing Ye, Tianle Zeng, Jiazhao Zhang | [arXiv](https://arxiv.org/abs/2607.20061) |
 | 2026-07-22 | RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation | Ziqin Wang, Hao Li, Weijun Wang | [arXiv](https://arxiv.org/abs/2607.18709) |
@@ -79,8 +81,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-25 | In-Context World Modeling for Robotic Control | Siyin Wang, Junhao Shi, Senyu Fei | [arXiv](https://arxiv.org/abs/2606.26025) |
 | 2026-06-24 | G$^3$VLA: Geometric inductive bias for Vision-Language-Action Models | Yue Peng, Yongzhe Zhao, Artur Habuda | [arXiv](https://arxiv.org/abs/2606.24472) |
 | 2026-06-24 | InSight: Self-Guided Skill Acquisition via Steerable VLAs | Maggie Wang, Lars Osterberg, Stephen Tian | [arXiv](https://arxiv.org/abs/2606.24884) |
-| 2026-06-23 | SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation | Wei-Cheng Tseng, Gashon Hussein, Yuzhu Dong | [arXiv](https://arxiv.org/abs/2606.18610) |
-| 2026-06-23 | Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack | He Zhang, Lingzhu Xiang, Haitao Lin | [arXiv](https://arxiv.org/abs/2606.14409) |
 
 ### World Model
 
@@ -109,8 +109,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-28 | Active Inference as the Test-Time Scaling Law for Physical AI Agents | Omar Hashash, Christo Kurisummoottil Thomas, Walid Saad | [arXiv](https://arxiv.org/abs/2606.22813) |
 | 2026-06-27 | Hallucination in World Models is Predictable and Preventable | Nicklas Hansen, Xiaolong Wang | [arXiv](https://arxiv.org/abs/2606.27326) |
 | 2026-06-27 | Not All Actions Are Equal: Rethinking Conditioning for Dexterous World Model | Zizhao Yuan, Zhengtu Liang, Taowen Wang | [arXiv](https://arxiv.org/abs/2606.27325) |
-| 2026-06-23 | SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors | Pratyaksh Rao, Wancong Zhang, Randall Balestriero | [arXiv](https://arxiv.org/abs/2606.23444) |
-| 2026-06-23 | Kairos: A Native World Model Stack for Physical AI |  Kairos Team, Fei Wang, Shan You | [arXiv](https://arxiv.org/abs/2606.16533) |
 
 ### Physical AI
 
@@ -156,6 +154,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-24 | Future Rendering $\neq$ Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window | Yukun Shi, Minglun Gong | [arXiv](https://arxiv.org/abs/2607.21471) |
+| 2026-07-24 | Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs | Muyang Du, Shuang Yu, Junjie Lai | [arXiv](https://arxiv.org/abs/2607.21042) |
+| 2026-07-24 | Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering | Zikui Cai, Kaushal Janga, Tan Dat Dao | [arXiv](https://arxiv.org/abs/2607.21571) |
 | 2026-07-23 | V2F: Vision-Informed Grasp Force Prediction for Damage-Aware Robotic Handling of Date Fruits | Shahd Shami, Obadah Wali, Eric Feron | [arXiv](https://arxiv.org/abs/2607.19804) |
 | 2026-07-23 | DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations | Jiazhen Jiang, Boxi Cao, Lingyong Yan | [arXiv](https://arxiv.org/abs/2607.19865) |
 | 2026-07-22 | NGPS: GPS-Denied Aerial Geo-Localization and 2.5D Reconstruction via Deep Satellite Image Matching and Multi-Rate Sensor Fusion | Sanket Sharma | [arXiv](https://arxiv.org/abs/2607.18936) |
@@ -196,12 +197,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-28 | HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory | Xiaolin Zhou, Liu Liu, Tingyang Xiao | [arXiv](https://arxiv.org/abs/2606.23565) |
 | 2026-06-25 | Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models | Akshay Paruchuri, Sanmi Koyejo, Ehsan Adeli | [arXiv](https://arxiv.org/abs/2606.26079) |
 | 2026-06-25 | Emcar: Embodied Controller for Animating Robots | Carlos Gomez Cubero, Elizabeth Jochum | [arXiv](https://arxiv.org/abs/2606.26008) |
-| 2026-06-23 | Learning Process Rewards via Success Visitation Matching for Efficient RL | Raymond Tsao, Andrew Wagenmaker, Sergey Levine | [arXiv](https://arxiv.org/abs/2606.23640) |
-| 2026-06-23 | You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences | Ninad Daithankar, Alexi Gladstone, Yann LeCun | [arXiv](https://arxiv.org/abs/2606.15956) |
-| 2026-06-23 | SPIRAL: Learning to Search and Aggregate | Jubayer Ibn Hamid, Ifdita Hasan Orney, Michael Y. Li | [arXiv](https://arxiv.org/abs/2606.23595) |
-| 2026-06-23 | VIMPO: Value-Implicit Policy Optimization for LLMs | Zhewei Kang, Aosong Feng, Sergey Levine | [arXiv](https://arxiv.org/abs/2606.20008) |
-| 2026-06-23 | Reversal Q-Learning | Aditya Oberai, Seohong Park, Sergey Levine | [arXiv](https://arxiv.org/abs/2606.17551) |
-| 2026-06-23 | Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving | Liang Su | [arXiv](https://arxiv.org/abs/2606.20537) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -264,6 +259,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-24](./2026/07/2026-07-24.md)
 - [2026-07-23](./2026/07/2026-07-23.md)
 - [2026-07-22](./2026/07/2026-07-22.md)
 - [2026-07-21](./2026/07/2026-07-21.md)
