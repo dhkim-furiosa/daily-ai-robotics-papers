@@ -1,62 +1,4 @@
 {
-  "2606.25985": {
-    "title": "Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models",
-    "authors": [
-      "Tiecheng Guo",
-      "Meng Guo"
-    ],
-    "url": "https://arxiv.org/abs/2606.25985",
-    "category": "VLA",
-    "date": "2026-06-25",
-    "score": 5.0
-  },
-  "2606.25800": {
-    "title": "ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models",
-    "authors": [
-      "Kejing Wang",
-      "Toan Nguyen",
-      "Minh Hoang Nguyen"
-    ],
-    "url": "https://arxiv.org/abs/2606.25800",
-    "category": "VLA",
-    "date": "2026-06-25",
-    "score": 4.0
-  },
-  "2606.26079": {
-    "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
-    "authors": [
-      "Akshay Paruchuri",
-      "Sanmi Koyejo",
-      "Ehsan Adeli"
-    ],
-    "url": "https://arxiv.org/abs/2606.26079",
-    "category": "Other",
-    "date": "2026-06-25",
-    "score": 3.0
-  },
-  "2606.26025": {
-    "title": "In-Context World Modeling for Robotic Control",
-    "authors": [
-      "Siyin Wang",
-      "Junhao Shi",
-      "Senyu Fei"
-    ],
-    "url": "https://arxiv.org/abs/2606.26025",
-    "category": "VLA",
-    "date": "2026-06-25",
-    "score": 2.0
-  },
-  "2606.26008": {
-    "title": "Emcar: Embodied Controller for Animating Robots",
-    "authors": [
-      "Carlos Gomez Cubero",
-      "Elizabeth Jochum"
-    ],
-    "url": "https://arxiv.org/abs/2606.26008",
-    "category": "Other",
-    "date": "2026-06-25",
-    "score": 2.0
-  },
   "2606.27146": {
     "title": "PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies",
     "authors": [
@@ -1843,6 +1785,66 @@
     "url": "https://arxiv.org/abs/2607.21309",
     "category": "Other",
     "date": "2026-07-25",
+    "score": 0.0
+  },
+  "2607.21302": {
+    "title": "Expert Behavior Prior Reinforcement Learning",
+    "authors": [
+      "Gong Gao",
+      "Weidong Zhao",
+      "Xianhui Liu"
+    ],
+    "url": "https://arxiv.org/abs/2607.21302",
+    "category": "Other",
+    "date": "2026-07-26",
+    "score": 0.0
+  },
+  "2607.21113": {
+    "title": "RL-MACRO: A Cybernetic Closed-Loop Intelligence Framework for Multimodal Adaptive Robotic Craniotomy",
+    "authors": [
+      "Xiao Zhang",
+      "Jiaxuan Li",
+      "Renzhen Le"
+    ],
+    "url": "https://arxiv.org/abs/2607.21113",
+    "category": "Other",
+    "date": "2026-07-26",
+    "score": 0.0
+  },
+  "2607.21071": {
+    "title": "TransBiolab: A Real-World Multi-View Dataset of Cluttered Transparent Biomedical Objects",
+    "authors": [
+      "Ke Ma",
+      "Yifei Wang",
+      "Meng Wang"
+    ],
+    "url": "https://arxiv.org/abs/2607.21071",
+    "category": "Physical AI",
+    "date": "2026-07-26",
+    "score": 0.0
+  },
+  "2607.21058": {
+    "title": "Human-Inspired Framework for Robotic Craniotomy: Integrating Multimodal Fusion and Adaptive Trajectory Adjustment",
+    "authors": [
+      "Renzhen Le",
+      "Xiao Zhang",
+      "Di Wu"
+    ],
+    "url": "https://arxiv.org/abs/2607.21058",
+    "category": "Other",
+    "date": "2026-07-26",
+    "score": 0.0
+  },
+  "2607.21049": {
+    "title": "GuidedAttention: Interpretable and Correctable Visual Attention for OOD-Robust Robot Manipulation via Imitation Learning",
+    "authors": [
+      "Masaki Murooka",
+      "Ryoichi Nakajo",
+      "Keisuke Shirai"
+    ],
+    "url": "https://arxiv.org/abs/2607.21049",
+    "category": "Physical AI",
+    "date": "2026-07-26",
     "score": 0.0
   }
 }

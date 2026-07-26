@@ -77,9 +77,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-26 | ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models | Mingyang Lyu, Yinqian Sun, Yiyang Jia | [arXiv](https://arxiv.org/abs/2606.27079) |
 | 2026-06-26 | RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection | Xingyu Ren, Chugang Yi, Ge Ma | [arXiv](https://arxiv.org/abs/2606.27355) |
 | 2026-06-26 | LA4VLA: Learning to Act without Seeing via Language-Action Pretraining | Tao Lin, Yuxin Du, Yiran Mao | [arXiv](https://arxiv.org/abs/2606.27295) |
-| 2026-06-25 | Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models | Tiecheng Guo, Meng Guo | [arXiv](https://arxiv.org/abs/2606.25985) |
-| 2026-06-25 | ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models | Kejing Wang, Toan Nguyen, Minh Hoang Nguyen | [arXiv](https://arxiv.org/abs/2606.25800) |
-| 2026-06-25 | In-Context World Modeling for Robotic Control | Siyin Wang, Junhao Shi, Senyu Fei | [arXiv](https://arxiv.org/abs/2606.26025) |
 
 ### World Model
 
@@ -114,6 +111,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-26 | TransBiolab: A Real-World Multi-View Dataset of Cluttered Transparent Biomedical Objects | Ke Ma, Yifei Wang, Meng Wang | [arXiv](https://arxiv.org/abs/2607.21071) |
+| 2026-07-26 | GuidedAttention: Interpretable and Correctable Visual Attention for OOD-Robust Robot Manipulation via Imitation Learning | Masaki Murooka, Ryoichi Nakajo, Keisuke Shirai | [arXiv](https://arxiv.org/abs/2607.21049) |
 | 2026-07-25 | Clinical Pathways as Safety Specifications for Physical AI in Hospital Wards | Gabriele Franchini, Giulio Mallardi, Michele De Carolis | [arXiv](https://arxiv.org/abs/2607.19827) |
 | 2026-07-18 | GPUSimBench: Towards Scalable and Reliable GPU-Accelerated Simulators in Embodied AI | Huzhenyu Zhang, Shenghai Yuan, Wenrui Yan | [arXiv](https://arxiv.org/abs/2607.13059) |
 | 2026-07-14 | Edge Physical AI Deployment of Vision Transformers on Heterogeneous Edge GPU Targeting Autonomous Vehicles | Ashiyana Abdul Majeed, Mahmoud Meribout, Neethu Joseph | [arXiv](https://arxiv.org/abs/2607.10942) |
@@ -153,6 +152,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-26 | Expert Behavior Prior Reinforcement Learning | Gong Gao, Weidong Zhao, Xianhui Liu | [arXiv](https://arxiv.org/abs/2607.21302) |
+| 2026-07-26 | RL-MACRO: A Cybernetic Closed-Loop Intelligence Framework for Multimodal Adaptive Robotic Craniotomy | Xiao Zhang, Jiaxuan Li, Renzhen Le | [arXiv](https://arxiv.org/abs/2607.21113) |
+| 2026-07-26 | Human-Inspired Framework for Robotic Craniotomy: Integrating Multimodal Fusion and Adaptive Trajectory Adjustment | Renzhen Le, Xiao Zhang, Di Wu | [arXiv](https://arxiv.org/abs/2607.21058) |
 | 2026-07-25 | Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar | Simone Arreghini, Mirko Nava, Nicholas Carlotti | [arXiv](https://arxiv.org/abs/2607.21309) |
 | 2026-07-24 | Future Rendering $\neq$ Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window | Yukun Shi, Minglun Gong | [arXiv](https://arxiv.org/abs/2607.21471) |
 | 2026-07-24 | Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs | Muyang Du, Shuang Yu, Junjie Lai | [arXiv](https://arxiv.org/abs/2607.21042) |
@@ -195,8 +197,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-30 | Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing | Dvir Alsheich, Adar Peleg, Ben Hagag | [arXiv](https://arxiv.org/abs/2606.30555) |
 | 2026-06-29 | SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation | Nadun Ranawaka, Josiah Wong, Wei-Lin Pai | [arXiv](https://arxiv.org/abs/2606.28276) |
 | 2026-06-28 | HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory | Xiaolin Zhou, Liu Liu, Tingyang Xiao | [arXiv](https://arxiv.org/abs/2606.23565) |
-| 2026-06-25 | Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models | Akshay Paruchuri, Sanmi Koyejo, Ehsan Adeli | [arXiv](https://arxiv.org/abs/2606.26079) |
-| 2026-06-25 | Emcar: Embodied Controller for Animating Robots | Carlos Gomez Cubero, Elizabeth Jochum | [arXiv](https://arxiv.org/abs/2606.26008) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -259,6 +259,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-26](./2026/07/2026-07-26.md)
 - [2026-07-25](./2026/07/2026-07-25.md)
 - [2026-07-24](./2026/07/2026-07-24.md)
 - [2026-07-23](./2026/07/2026-07-23.md)
