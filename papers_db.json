@@ -1,64 +1,4 @@
 {
-  "2606.27146": {
-    "title": "PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies",
-    "authors": [
-      "Jiayu Yang",
-      "Tao Yang",
-      "Weijun Li"
-    ],
-    "url": "https://arxiv.org/abs/2606.27146",
-    "category": "VLA",
-    "date": "2026-06-26",
-    "score": 4.0
-  },
-  "2606.27079": {
-    "title": "ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models",
-    "authors": [
-      "Mingyang Lyu",
-      "Yinqian Sun",
-      "Yiyang Jia"
-    ],
-    "url": "https://arxiv.org/abs/2606.27079",
-    "category": "VLA",
-    "date": "2026-06-26",
-    "score": 4.0
-  },
-  "2606.27317": {
-    "title": "OctoSense: Self-Supervised Learning for Multimodal Robot Perception",
-    "authors": [
-      "Anthony Bisulco",
-      "Jeremy Wang",
-      "Kostas Daniilidis"
-    ],
-    "url": "https://arxiv.org/abs/2606.27317",
-    "category": "Foundation Model",
-    "date": "2026-06-26",
-    "score": 3.0
-  },
-  "2606.27355": {
-    "title": "RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection",
-    "authors": [
-      "Xingyu Ren",
-      "Chugang Yi",
-      "Ge Ma"
-    ],
-    "url": "https://arxiv.org/abs/2606.27355",
-    "category": "VLA",
-    "date": "2026-06-26",
-    "score": 2.0
-  },
-  "2606.27295": {
-    "title": "LA4VLA: Learning to Act without Seeing via Language-Action Pretraining",
-    "authors": [
-      "Tao Lin",
-      "Yuxin Du",
-      "Yiran Mao"
-    ],
-    "url": "https://arxiv.org/abs/2606.27295",
-    "category": "VLA",
-    "date": "2026-06-26",
-    "score": 2.0
-  },
   "2606.27268": {
     "title": "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
     "authors": [
@@ -1845,6 +1785,65 @@
     "url": "https://arxiv.org/abs/2607.21049",
     "category": "Physical AI",
     "date": "2026-07-26",
+    "score": 0.0
+  },
+  "2607.22535": {
+    "title": "Robot-Factored World Models via Robot Rendering",
+    "authors": [
+      "Byungjun Kim",
+      "Taeksoo Kim",
+      "Hyunsoo Cha"
+    ],
+    "url": "https://arxiv.org/abs/2607.22535",
+    "category": "World Model",
+    "date": "2026-07-27",
+    "score": 2.0
+  },
+  "2607.22530": {
+    "title": "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation",
+    "authors": [
+      "Yunao Huang",
+      "Shiyu Sang",
+      "Haotao Lu"
+    ],
+    "url": "https://arxiv.org/abs/2607.22530",
+    "category": "World Model",
+    "date": "2026-07-27",
+    "score": 2.0
+  },
+  "2607.21918": {
+    "title": "Action-Conditioned World Model for Goal Plane Probe Guidance in Robotic Ultrasound",
+    "authors": [
+      "Siqi Fan",
+      "Mingcong Chen",
+      "Ran Liu"
+    ],
+    "url": "https://arxiv.org/abs/2607.21918",
+    "category": "World Model",
+    "date": "2026-07-27",
+    "score": 2.0
+  },
+  "2607.22430": {
+    "title": "On the Identifiability of Controlled World Models",
+    "authors": [
+      "Xiangteng Zhang",
+      "Yang Guan",
+      "Bo Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2607.22430",
+    "category": "World Model",
+    "date": "2026-07-27",
+    "score": 2.0
+  },
+  "2607.22483": {
+    "title": "Plug, Play, and Comply: A Modular Framework for Online Variable Impedance with Arbitrarily Oriented Compliance Axes",
+    "authors": [
+      "Mihael Simonič",
+      "Xiaocong Li"
+    ],
+    "url": "https://arxiv.org/abs/2607.22483",
+    "category": "Other",
+    "date": "2026-07-27",
     "score": 0.0
   }
 }

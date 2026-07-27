@@ -73,15 +73,15 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-27 | E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation | Wen Ye, Peiyan Li, Tingyu Yuan | [arXiv](https://arxiv.org/abs/2606.27268) |
 | 2026-06-27 | Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy | Junhao Shi, Zezheng Huai, Siyin Wang | [arXiv](https://arxiv.org/abs/2606.27251) |
 | 2026-06-27 | PAMAE: Phase-Aware-MoE Action Experts Towards Reliable Flow-Matching Vision-Language-Action Policies | Jiayu Yang, Tao Yang, Xiang Chang | [arXiv](https://arxiv.org/abs/2606.27144) |
-| 2026-06-26 | PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies | Jiayu Yang, Tao Yang, Weijun Li | [arXiv](https://arxiv.org/abs/2606.27146) |
-| 2026-06-26 | ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models | Mingyang Lyu, Yinqian Sun, Yiyang Jia | [arXiv](https://arxiv.org/abs/2606.27079) |
-| 2026-06-26 | RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection | Xingyu Ren, Chugang Yi, Ge Ma | [arXiv](https://arxiv.org/abs/2606.27355) |
-| 2026-06-26 | LA4VLA: Learning to Act without Seeing via Language-Action Pretraining | Tao Lin, Yuxin Du, Yiran Mao | [arXiv](https://arxiv.org/abs/2606.27295) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-27 | Robot-Factored World Models via Robot Rendering | Byungjun Kim, Taeksoo Kim, Hyunsoo Cha | [arXiv](https://arxiv.org/abs/2607.22535) |
+| 2026-07-27 | ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation | Yunao Huang, Shiyu Sang, Haotao Lu | [arXiv](https://arxiv.org/abs/2607.22530) |
+| 2026-07-27 | Action-Conditioned World Model for Goal Plane Probe Guidance in Robotic Ultrasound | Siqi Fan, Mingcong Chen, Ran Liu | [arXiv](https://arxiv.org/abs/2607.21918) |
+| 2026-07-27 | On the Identifiability of Controlled World Models | Xiangteng Zhang, Yang Guan, Bo Zhang | [arXiv](https://arxiv.org/abs/2607.22430) |
 | 2026-07-25 | PAVXploreRL: Physical-Action-Visual World Model Reinforcement Learning with Action Exploration | Han Wang, Zijun Wang, Shuoshuo Xue | [arXiv](https://arxiv.org/abs/2607.16602) |
 | 2026-07-23 | KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding | Zeyu Liu, Zhangzhe Zhu, Yang Zhang | [arXiv](https://arxiv.org/abs/2607.19876) |
 | 2026-07-22 | ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU | Fan Jiang, Zhaoxu Sun, Mengchao Wang | [arXiv](https://arxiv.org/abs/2607.19191) |
@@ -146,12 +146,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-13 | What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility | Filippo Ziliotto, Luciano Serafini, Lamberto Ballan | [arXiv](https://arxiv.org/abs/2607.09503) |
 | 2026-07-11 | EVIS: A Physics-Grounded Event Camera Plugin for NVIDIA Isaac Sim | Linli Shi, Ruijun Zhang, Ziyun Wang | [arXiv](https://arxiv.org/abs/2607.08098) |
 | 2026-07-02 | ROSA: A Robotics Foundation Model Serving System for Robot Factories | Wenqi Jiang, Jason Clemons, Rowland O'Flaherty | [arXiv](https://arxiv.org/abs/2607.01088) |
-| 2026-06-26 | OctoSense: Self-Supervised Learning for Multimodal Robot Perception | Anthony Bisulco, Jeremy Wang, Kostas Daniilidis | [arXiv](https://arxiv.org/abs/2606.27317) |
 
 ### Other
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-27 | Plug, Play, and Comply: A Modular Framework for Online Variable Impedance with Arbitrarily Oriented Compliance Axes | Mihael Simonič, Xiaocong Li | [arXiv](https://arxiv.org/abs/2607.22483) |
 | 2026-07-26 | Expert Behavior Prior Reinforcement Learning | Gong Gao, Weidong Zhao, Xianhui Liu | [arXiv](https://arxiv.org/abs/2607.21302) |
 | 2026-07-26 | RL-MACRO: A Cybernetic Closed-Loop Intelligence Framework for Multimodal Adaptive Robotic Craniotomy | Xiao Zhang, Jiaxuan Li, Renzhen Le | [arXiv](https://arxiv.org/abs/2607.21113) |
 | 2026-07-26 | Human-Inspired Framework for Robotic Craniotomy: Integrating Multimodal Fusion and Adaptive Trajectory Adjustment | Renzhen Le, Xiao Zhang, Di Wu | [arXiv](https://arxiv.org/abs/2607.21058) |
@@ -259,6 +259,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-27](./2026/07/2026-07-27.md)
 - [2026-07-26](./2026/07/2026-07-26.md)
 - [2026-07-25](./2026/07/2026-07-25.md)
 - [2026-07-24](./2026/07/2026-07-24.md)
