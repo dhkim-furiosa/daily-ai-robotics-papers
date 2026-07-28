@@ -1,63 +1,4 @@
 {
-  "2606.27268": {
-    "title": "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
-    "authors": [
-      "Wen Ye",
-      "Peiyan Li",
-      "Tingyu Yuan"
-    ],
-    "url": "https://arxiv.org/abs/2606.27268",
-    "category": "VLA",
-    "date": "2026-06-27",
-    "score": 2.0
-  },
-  "2606.27251": {
-    "title": "Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy",
-    "authors": [
-      "Junhao Shi",
-      "Zezheng Huai",
-      "Siyin Wang"
-    ],
-    "url": "https://arxiv.org/abs/2606.27251",
-    "category": "VLA",
-    "date": "2026-06-27",
-    "score": 2.0
-  },
-  "2606.27144": {
-    "title": "PAMAE: Phase-Aware-MoE Action Experts Towards Reliable Flow-Matching Vision-Language-Action Policies",
-    "authors": [
-      "Jiayu Yang",
-      "Tao Yang",
-      "Xiang Chang"
-    ],
-    "url": "https://arxiv.org/abs/2606.27144",
-    "category": "VLA",
-    "date": "2026-06-27",
-    "score": 2.0
-  },
-  "2606.27326": {
-    "title": "Hallucination in World Models is Predictable and Preventable",
-    "authors": [
-      "Nicklas Hansen",
-      "Xiaolong Wang"
-    ],
-    "url": "https://arxiv.org/abs/2606.27326",
-    "category": "World Model",
-    "date": "2026-06-27",
-    "score": 2.0
-  },
-  "2606.27325": {
-    "title": "Not All Actions Are Equal: Rethinking Conditioning for Dexterous World Model",
-    "authors": [
-      "Zizhao Yuan",
-      "Zhengtu Liang",
-      "Taowen Wang"
-    ],
-    "url": "https://arxiv.org/abs/2606.27325",
-    "category": "World Model",
-    "date": "2026-06-27",
-    "score": 2.0
-  },
   "2606.27277": {
     "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
     "authors": [
@@ -1845,5 +1786,64 @@
     "category": "Other",
     "date": "2026-07-27",
     "score": 0.0
+  },
+  "2607.24313": {
+    "title": "Energy Constrained Hierarchical Underwater Monitoring via Local Multi-Agent RAG",
+    "authors": [
+      "Mohamed Amine Janati",
+      "Laurent Gautier",
+      "Stéphane Barbot"
+    ],
+    "url": "https://arxiv.org/abs/2607.24313",
+    "category": "Other",
+    "date": "2026-07-28",
+    "score": 6.0
+  },
+  "2607.24743": {
+    "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+    "authors": [
+      "Hangjie Yuan",
+      "Yichen Qian",
+      "Zhiwei Tang"
+    ],
+    "url": "https://arxiv.org/abs/2607.24743",
+    "category": "Other",
+    "date": "2026-07-28",
+    "score": 3.0
+  },
+  "2607.24667": {
+    "title": "Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating",
+    "authors": [
+      "Maruthi Vemula",
+      "Neeraj Praneeth Gajula"
+    ],
+    "url": "https://arxiv.org/abs/2607.24667",
+    "category": "Other",
+    "date": "2026-07-28",
+    "score": 3.0
+  },
+  "2607.24744": {
+    "title": "Data Pyramid for Embodied Manipulation",
+    "authors": [
+      "Yifan Ye",
+      "Yankai Fu",
+      "Yaoxu Lv"
+    ],
+    "url": "https://arxiv.org/abs/2607.24744",
+    "category": "VLA",
+    "date": "2026-07-28",
+    "score": 2.0
+  },
+  "2607.24485": {
+    "title": "τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision",
+    "authors": [
+      "Ning Cheng",
+      "Jinan Xu",
+      "Wanlin Li"
+    ],
+    "url": "https://arxiv.org/abs/2607.24485",
+    "category": "VLA",
+    "date": "2026-07-28",
+    "score": 2.0
   }
 }

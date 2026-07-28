@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-28 | Data Pyramid for Embodied Manipulation | Yifan Ye, Yankai Fu, Yaoxu Lv | [arXiv](https://arxiv.org/abs/2607.24744) |
+| 2026-07-28 | τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision | Ning Cheng, Jinan Xu, Wanlin Li | [arXiv](https://arxiv.org/abs/2607.24485) |
 | 2026-07-25 | AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation | Mengfei Zhao, Dihong Huang, Yikai Tang | [arXiv](https://arxiv.org/abs/2607.21588) |
 | 2026-07-24 | HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving | Quanfu Yu, Xian Wu, Hao Xu | [arXiv](https://arxiv.org/abs/2607.20988) |
 | 2026-07-24 | Emergent Compositional Skills in Mixture-of-Experts VLAs | Shlok Shah, Rhiaan Jhaveri, Tharun Kumar Tiruppali Kalidoss | [arXiv](https://arxiv.org/abs/2607.20771) |
@@ -70,9 +72,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-30 | Sequential Planning via Anchored Robotic Keypoints | Bryce Grant, Aryeh Rothenberg, Logan Senning | [arXiv](https://arxiv.org/abs/2606.30613) |
 | 2026-06-29 | S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation | Zhipeng Xie, Zongyi Han, Xiangyi Wei | [arXiv](https://arxiv.org/abs/2606.27872) |
 | 2026-06-29 | SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks | Ruiqi Song, Dujun Nie, Siyu Teng | [arXiv](https://arxiv.org/abs/2606.27807) |
-| 2026-06-27 | E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation | Wen Ye, Peiyan Li, Tingyu Yuan | [arXiv](https://arxiv.org/abs/2606.27268) |
-| 2026-06-27 | Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy | Junhao Shi, Zezheng Huai, Siyin Wang | [arXiv](https://arxiv.org/abs/2606.27251) |
-| 2026-06-27 | PAMAE: Phase-Aware-MoE Action Experts Towards Reliable Flow-Matching Vision-Language-Action Policies | Jiayu Yang, Tao Yang, Xiang Chang | [arXiv](https://arxiv.org/abs/2606.27144) |
 
 ### World Model
 
@@ -104,8 +103,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-28 | EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting | Junwei Luo, Shuai Yuan, Zhenya Yang | [arXiv](https://arxiv.org/abs/2606.27277) |
 | 2026-06-28 | Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models | Kaiwen Zheng, Guande He, Min Zhao | [arXiv](https://arxiv.org/abs/2606.25473) |
 | 2026-06-28 | Active Inference as the Test-Time Scaling Law for Physical AI Agents | Omar Hashash, Christo Kurisummoottil Thomas, Walid Saad | [arXiv](https://arxiv.org/abs/2606.22813) |
-| 2026-06-27 | Hallucination in World Models is Predictable and Preventable | Nicklas Hansen, Xiaolong Wang | [arXiv](https://arxiv.org/abs/2606.27326) |
-| 2026-06-27 | Not All Actions Are Equal: Rethinking Conditioning for Dexterous World Model | Zizhao Yuan, Zhengtu Liang, Taowen Wang | [arXiv](https://arxiv.org/abs/2606.27325) |
 
 ### Physical AI
 
@@ -151,6 +148,9 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-28 | Energy Constrained Hierarchical Underwater Monitoring via Local Multi-Agent RAG | Mohamed Amine Janati, Laurent Gautier, Stéphane Barbot | [arXiv](https://arxiv.org/abs/2607.24313) |
+| 2026-07-28 | ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding | Hangjie Yuan, Yichen Qian, Zhiwei Tang | [arXiv](https://arxiv.org/abs/2607.24743) |
+| 2026-07-28 | Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating | Maruthi Vemula, Neeraj Praneeth Gajula | [arXiv](https://arxiv.org/abs/2607.24667) |
 | 2026-07-27 | Plug, Play, and Comply: A Modular Framework for Online Variable Impedance with Arbitrarily Oriented Compliance Axes | Mihael Simonič, Xiaocong Li | [arXiv](https://arxiv.org/abs/2607.22483) |
 | 2026-07-26 | Expert Behavior Prior Reinforcement Learning | Gong Gao, Weidong Zhao, Xianhui Liu | [arXiv](https://arxiv.org/abs/2607.21302) |
 | 2026-07-26 | RL-MACRO: A Cybernetic Closed-Loop Intelligence Framework for Multimodal Adaptive Robotic Craniotomy | Xiao Zhang, Jiaxuan Li, Renzhen Le | [arXiv](https://arxiv.org/abs/2607.21113) |
@@ -259,6 +259,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-28](./2026/07/2026-07-28.md)
 - [2026-07-27](./2026/07/2026-07-27.md)
 - [2026-07-26](./2026/07/2026-07-26.md)
 - [2026-07-25](./2026/07/2026-07-25.md)
