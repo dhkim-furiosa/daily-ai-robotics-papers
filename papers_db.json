@@ -1,64 +1,4 @@
 {
-  "2606.27475": {
-    "title": "Support-Constrained RL Enables Real-World Policy Improvement without Real-World Experience",
-    "authors": [
-      "Raymond Yu",
-      "William Huey",
-      "Mustafa Mukadam"
-    ],
-    "url": "https://arxiv.org/abs/2606.27475",
-    "category": "Physical AI",
-    "date": "2026-06-29",
-    "score": 10.0
-  },
-  "2606.27872": {
-    "title": "S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation",
-    "authors": [
-      "Zhipeng Xie",
-      "Zongyi Han",
-      "Xiangyi Wei"
-    ],
-    "url": "https://arxiv.org/abs/2606.27872",
-    "category": "VLA",
-    "date": "2026-06-29",
-    "score": 4.0
-  },
-  "2606.27807": {
-    "title": "SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks",
-    "authors": [
-      "Ruiqi Song",
-      "Dujun Nie",
-      "Siyu Teng"
-    ],
-    "url": "https://arxiv.org/abs/2606.27807",
-    "category": "VLA",
-    "date": "2026-06-29",
-    "score": 4.0
-  },
-  "2606.28300": {
-    "title": "CacheMPC: Certified Cached Model Predictive Control for Quadruped Locomotion",
-    "authors": [
-      "Nimesh Khandelwal",
-      "Mehul Anand",
-      "Shakti S. Gupta"
-    ],
-    "url": "https://arxiv.org/abs/2606.28300",
-    "category": "Physical AI",
-    "date": "2026-06-29",
-    "score": 3.0
-  },
-  "2606.28276": {
-    "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
-    "authors": [
-      "Nadun Ranawaka",
-      "Josiah Wong",
-      "Wei-Lin Pai"
-    ],
-    "url": "https://arxiv.org/abs/2606.28276",
-    "category": "Other",
-    "date": "2026-06-29",
-    "score": 3.0
-  },
   "2606.30552": {
     "title": "Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision",
     "authors": [
@@ -1845,5 +1785,65 @@
     "category": "World Model",
     "date": "2026-07-29",
     "score": 2.0
+  },
+  "2607.26452": {
+    "title": "CG-World: A Large-Scale World-State Dataset and Protocol for World Models",
+    "authors": [
+      "Yiming Cai",
+      "Fangjie Yu",
+      "Meiqing Yu"
+    ],
+    "url": "https://arxiv.org/abs/2607.26452",
+    "category": "VLA",
+    "date": "2026-07-30",
+    "score": 5.0
+  },
+  "2607.27205": {
+    "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+    "authors": [
+      "Hengyi Xie",
+      "Chenfei Yao",
+      "Xianjin Wu"
+    ],
+    "url": "https://arxiv.org/abs/2607.27205",
+    "category": "VLA",
+    "date": "2026-07-30",
+    "score": 4.0
+  },
+  "2607.26991": {
+    "title": "RL$^2$-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models",
+    "authors": [
+      "Derek Ming Siang Tan",
+      "Shailesh Shailesh",
+      "Srikrishna Iyer"
+    ],
+    "url": "https://arxiv.org/abs/2607.26991",
+    "category": "VLA",
+    "date": "2026-07-30",
+    "score": 4.0
+  },
+  "2607.26789": {
+    "title": "CheckVLA: Execution-Time Verification with Action-Conditioned World Model for Long-Horizon Mobile Manipulation",
+    "authors": [
+      "Yushan Liu",
+      "Peibo Sun",
+      "Xintao Chao"
+    ],
+    "url": "https://arxiv.org/abs/2607.26789",
+    "category": "VLA",
+    "date": "2026-07-30",
+    "score": 4.0
+  },
+  "2607.27138": {
+    "title": "DLAM: Distributional Latent Actions with Temporal Constraints",
+    "authors": [
+      "Zuojin Tang",
+      "Feifan Luo",
+      "Haoyun Liu"
+    ],
+    "url": "https://arxiv.org/abs/2607.27138",
+    "category": "VLA",
+    "date": "2026-07-30",
+    "score": 3.0
   }
 }

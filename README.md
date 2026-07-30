@@ -22,6 +22,11 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-30 | CG-World: A Large-Scale World-State Dataset and Protocol for World Models | Yiming Cai, Fangjie Yu, Meiqing Yu | [arXiv](https://arxiv.org/abs/2607.26452) |
+| 2026-07-30 | TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM | Hengyi Xie, Chenfei Yao, Xianjin Wu | [arXiv](https://arxiv.org/abs/2607.27205) |
+| 2026-07-30 | RL$^2$-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models | Derek Ming Siang Tan, Shailesh Shailesh, Srikrishna Iyer | [arXiv](https://arxiv.org/abs/2607.26991) |
+| 2026-07-30 | CheckVLA: Execution-Time Verification with Action-Conditioned World Model for Long-Horizon Mobile Manipulation | Yushan Liu, Peibo Sun, Xintao Chao | [arXiv](https://arxiv.org/abs/2607.26789) |
+| 2026-07-30 | DLAM: Distributional Latent Actions with Temporal Constraints | Zuojin Tang, Feifan Luo, Haoyun Liu | [arXiv](https://arxiv.org/abs/2607.27138) |
 | 2026-07-29 | CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model | Minhyeok Lee, Chiyoung Kim, Chanhoe Gu | [arXiv](https://arxiv.org/abs/2607.25487) |
 | 2026-07-29 | SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models | Zonghe Liu, Shanyuan Jie, Xiaoquan Sun | [arXiv](https://arxiv.org/abs/2607.25912) |
 | 2026-07-29 | A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models | Haoyu Zhang, Yuwei Wu, Jin Chen | [arXiv](https://arxiv.org/abs/2607.25516) |
@@ -73,8 +78,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-06-30 | SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance | Tengyue Jiang, Chunpu Xu, Jiayue Kang | [arXiv](https://arxiv.org/abs/2606.30113) |
 | 2026-06-30 | Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model | Jiaxin Liu, Xun Xu, Zhenhao Zhang | [arXiv](https://arxiv.org/abs/2606.29384) |
 | 2026-06-30 | Sequential Planning via Anchored Robotic Keypoints | Bryce Grant, Aryeh Rothenberg, Logan Senning | [arXiv](https://arxiv.org/abs/2606.30613) |
-| 2026-06-29 | S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation | Zhipeng Xie, Zongyi Han, Xiangyi Wei | [arXiv](https://arxiv.org/abs/2606.27872) |
-| 2026-06-29 | SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks | Ruiqi Song, Dujun Nie, Siyu Teng | [arXiv](https://arxiv.org/abs/2606.27807) |
 
 ### World Model
 
@@ -128,8 +131,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-06 | Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning | Satoshi Yamamori, Koji Ishihara, Kentaro Minamikawa | [arXiv](https://arxiv.org/abs/2607.02205) |
 | 2026-07-05 | Efficient Visual Pointing for Embodied AI:Agent-Driven Data Synthesis, Cross-Block Attention, and Iterative Correction | Zijian Hong, Qi Lv, Yuxiang Xie | [arXiv](https://arxiv.org/abs/2606.29850) |
 | 2026-07-05 | When Multi-Robot Systems Meet Agentic AI:Towards Embodied Collective Intelligence | Yuxuan Yan, Yuanyuan Jia, Qianqian Yang | [arXiv](https://arxiv.org/abs/2606.27929) |
-| 2026-06-29 | Support-Constrained RL Enables Real-World Policy Improvement without Real-World Experience | Raymond Yu, William Huey, Mustafa Mukadam | [arXiv](https://arxiv.org/abs/2606.27475) |
-| 2026-06-29 | CacheMPC: Certified Cached Model Predictive Control for Quadruped Locomotion | Nimesh Khandelwal, Mehul Anand, Shakti S. Gupta | [arXiv](https://arxiv.org/abs/2606.28300) |
 
 ### Foundation Model
 
@@ -196,7 +197,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-02 | AutoMem: Automated Learning of Memory as a Cognitive Skill | Shengguang Wu, Hao Zhu, Yuhui Zhang | [arXiv](https://arxiv.org/abs/2607.01224) |
 | 2026-07-02 | Task-Relevant Representation Decoupling for Visual Reinforcement Learning Generalization | Jinwen Wang, Youfang Lin, Xiaobo Hu | [arXiv](https://arxiv.org/abs/2607.00796) |
 | 2026-06-30 | Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing | Dvir Alsheich, Adar Peleg, Ben Hagag | [arXiv](https://arxiv.org/abs/2606.30555) |
-| 2026-06-29 | SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation | Nadun Ranawaka, Josiah Wong, Wei-Lin Pai | [arXiv](https://arxiv.org/abs/2606.28276) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -259,6 +259,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-30](./2026/07/2026-07-30.md)
 - [2026-07-29](./2026/07/2026-07-29.md)
 - [2026-07-28](./2026/07/2026-07-28.md)
 - [2026-07-27](./2026/07/2026-07-27.md)
