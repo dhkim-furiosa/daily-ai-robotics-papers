@@ -22,6 +22,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-31 | ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine | Yukang Cao, Haozhe Xie, Beichen Wen | [arXiv](https://arxiv.org/abs/2607.28625) |
 | 2026-07-30 | CG-World: A Large-Scale World-State Dataset and Protocol for World Models | Yiming Cai, Fangjie Yu, Meiqing Yu | [arXiv](https://arxiv.org/abs/2607.26452) |
 | 2026-07-30 | TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM | Hengyi Xie, Chenfei Yao, Xianjin Wu | [arXiv](https://arxiv.org/abs/2607.27205) |
 | 2026-07-30 | RL$^2$-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models | Derek Ming Siang Tan, Shailesh Shailesh, Srikrishna Iyer | [arXiv](https://arxiv.org/abs/2607.26991) |
@@ -74,15 +75,13 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-01 | Freeform Preference Learning for Robotic Manipulation | Marcel Torne, Anubha Mahajan, Abhijnya Bhat | [arXiv](https://arxiv.org/abs/2606.32027) |
 | 2026-07-01 | Adapting Generalist Robot Policies with Semantic Reinforcement Learning | Jagdeep Singh Bhatia, Andrew Wagenmaker, William Chen | [arXiv](https://arxiv.org/abs/2606.31958) |
 | 2026-07-01 | OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation | Arnav Balaji, Arpit Bahety, Sriniket Ambatipudi | [arXiv](https://arxiv.org/abs/2606.31993) |
-| 2026-06-30 | Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision | Haoyang Li, Guanlin Li, Youhe Feng | [arXiv](https://arxiv.org/abs/2606.30552) |
-| 2026-06-30 | SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance | Tengyue Jiang, Chunpu Xu, Jiayue Kang | [arXiv](https://arxiv.org/abs/2606.30113) |
-| 2026-06-30 | Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model | Jiaxin Liu, Xun Xu, Zhenhao Zhang | [arXiv](https://arxiv.org/abs/2606.29384) |
-| 2026-06-30 | Sequential Planning via Anchored Robotic Keypoints | Bryce Grant, Aryeh Rothenberg, Logan Senning | [arXiv](https://arxiv.org/abs/2606.30613) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-31 | PhiZero: A World Model Built Around Physical Language | Shuyao Shang, Yuqi Wang, Ruopeng Gao | [arXiv](https://arxiv.org/abs/2607.28624) |
+| 2026-07-31 | AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans | Jingwen Yang, Senmao Wang, Luoyao Kang | [arXiv](https://arxiv.org/abs/2607.28487) |
 | 2026-07-29 | INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models | Junhan Sun, Hao Zhao, Guofeng Zhang | [arXiv](https://arxiv.org/abs/2607.26056) |
 | 2026-07-29 | Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance | Gaspard Lambrechts, Adrien Bolland, Daniel Ebi | [arXiv](https://arxiv.org/abs/2607.26040) |
 | 2026-07-27 | Robot-Factored World Models via Robot Rendering | Byungjun Kim, Taeksoo Kim, Hyunsoo Cha | [arXiv](https://arxiv.org/abs/2607.22535) |
@@ -113,6 +112,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-31 | Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer | Weiquan Lin, Yu Deng, Shiyang Liu | [arXiv](https://arxiv.org/abs/2607.28394) |
 | 2026-07-26 | TransBiolab: A Real-World Multi-View Dataset of Cluttered Transparent Biomedical Objects | Ke Ma, Yifei Wang, Meng Wang | [arXiv](https://arxiv.org/abs/2607.21071) |
 | 2026-07-26 | GuidedAttention: Interpretable and Correctable Visual Attention for OOD-Robust Robot Manipulation via Imitation Learning | Masaki Murooka, Ryoichi Nakajo, Keisuke Shirai | [arXiv](https://arxiv.org/abs/2607.21049) |
 | 2026-07-25 | Clinical Pathways as Safety Specifications for Physical AI in Hospital Wards | Gabriele Franchini, Giulio Mallardi, Michele De Carolis | [arXiv](https://arxiv.org/abs/2607.19827) |
@@ -150,6 +150,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-07-31 | Towards Real-Time PixOOD: Efficient Anomaly Segmentation for Autonomous Vehicles | Luca de Martino, Federico Aromolo, Federico Nesti | [arXiv](https://arxiv.org/abs/2607.28483) |
 | 2026-07-28 | Energy Constrained Hierarchical Underwater Monitoring via Local Multi-Agent RAG | Mohamed Amine Janati, Laurent Gautier, Stéphane Barbot | [arXiv](https://arxiv.org/abs/2607.24313) |
 | 2026-07-28 | ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding | Hangjie Yuan, Yichen Qian, Zhiwei Tang | [arXiv](https://arxiv.org/abs/2607.24743) |
 | 2026-07-28 | Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating | Maruthi Vemula, Neeraj Praneeth Gajula | [arXiv](https://arxiv.org/abs/2607.24667) |
@@ -196,7 +197,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-03 | Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach | Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard | [arXiv](https://arxiv.org/abs/2607.02432) |
 | 2026-07-02 | AutoMem: Automated Learning of Memory as a Cognitive Skill | Shengguang Wu, Hao Zhu, Yuhui Zhang | [arXiv](https://arxiv.org/abs/2607.01224) |
 | 2026-07-02 | Task-Relevant Representation Decoupling for Visual Reinforcement Learning Generalization | Jinwen Wang, Youfang Lin, Xiaobo Hu | [arXiv](https://arxiv.org/abs/2607.00796) |
-| 2026-06-30 | Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing | Dvir Alsheich, Adar Peleg, Ben Hagag | [arXiv](https://arxiv.org/abs/2606.30555) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -259,6 +259,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-07-31](./2026/07/2026-07-31.md)
 - [2026-07-30](./2026/07/2026-07-30.md)
 - [2026-07-29](./2026/07/2026-07-29.md)
 - [2026-07-28](./2026/07/2026-07-28.md)

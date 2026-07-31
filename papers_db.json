@@ -1,64 +1,4 @@
 {
-  "2606.30552": {
-    "title": "Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision",
-    "authors": [
-      "Haoyang Li",
-      "Guanlin Li",
-      "Youhe Feng"
-    ],
-    "url": "https://arxiv.org/abs/2606.30552",
-    "category": "VLA",
-    "date": "2026-06-30",
-    "score": 4.0
-  },
-  "2606.30113": {
-    "title": "SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance",
-    "authors": [
-      "Tengyue Jiang",
-      "Chunpu Xu",
-      "Jiayue Kang"
-    ],
-    "url": "https://arxiv.org/abs/2606.30113",
-    "category": "VLA",
-    "date": "2026-06-30",
-    "score": 4.0
-  },
-  "2606.29384": {
-    "title": "Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model",
-    "authors": [
-      "Jiaxin Liu",
-      "Xun Xu",
-      "Zhenhao Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2606.29384",
-    "category": "VLA",
-    "date": "2026-06-30",
-    "score": 4.0
-  },
-  "2606.30613": {
-    "title": "Sequential Planning via Anchored Robotic Keypoints",
-    "authors": [
-      "Bryce Grant",
-      "Aryeh Rothenberg",
-      "Logan Senning"
-    ],
-    "url": "https://arxiv.org/abs/2606.30613",
-    "category": "VLA",
-    "date": "2026-06-30",
-    "score": 3.0
-  },
-  "2606.30555": {
-    "title": "Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing",
-    "authors": [
-      "Dvir Alsheich",
-      "Adar Peleg",
-      "Ben Hagag"
-    ],
-    "url": "https://arxiv.org/abs/2606.30555",
-    "category": "Other",
-    "date": "2026-06-30",
-    "score": 3.0
-  },
   "2606.32026": {
     "title": "AdaJEPA: An Adaptive Latent World Model",
     "authors": [
@@ -1845,5 +1785,65 @@
     "category": "VLA",
     "date": "2026-07-30",
     "score": 3.0
+  },
+  "2607.28394": {
+    "title": "Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer",
+    "authors": [
+      "Weiquan Lin",
+      "Yu Deng",
+      "Shiyang Liu"
+    ],
+    "url": "https://arxiv.org/abs/2607.28394",
+    "category": "Physical AI",
+    "date": "2026-07-31",
+    "score": 4.0
+  },
+  "2607.28483": {
+    "title": "Towards Real-Time PixOOD: Efficient Anomaly Segmentation for Autonomous Vehicles",
+    "authors": [
+      "Luca de Martino",
+      "Federico Aromolo",
+      "Federico Nesti"
+    ],
+    "url": "https://arxiv.org/abs/2607.28483",
+    "category": "Other",
+    "date": "2026-07-31",
+    "score": 3.0
+  },
+  "2607.28625": {
+    "title": "ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine",
+    "authors": [
+      "Yukang Cao",
+      "Haozhe Xie",
+      "Beichen Wen"
+    ],
+    "url": "https://arxiv.org/abs/2607.28625",
+    "category": "VLA",
+    "date": "2026-07-31",
+    "score": 2.0
+  },
+  "2607.28624": {
+    "title": "PhiZero: A World Model Built Around Physical Language",
+    "authors": [
+      "Shuyao Shang",
+      "Yuqi Wang",
+      "Ruopeng Gao"
+    ],
+    "url": "https://arxiv.org/abs/2607.28624",
+    "category": "World Model",
+    "date": "2026-07-31",
+    "score": 2.0
+  },
+  "2607.28487": {
+    "title": "AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans",
+    "authors": [
+      "Jingwen Yang",
+      "Senmao Wang",
+      "Luoyao Kang"
+    ],
+    "url": "https://arxiv.org/abs/2607.28487",
+    "category": "World Model",
+    "date": "2026-07-31",
+    "score": 2.0
   }
 }
