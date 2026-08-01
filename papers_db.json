@@ -1,64 +1,4 @@
 {
-  "2606.32026": {
-    "title": "AdaJEPA: An Adaptive Latent World Model",
-    "authors": [
-      "Ying Wang",
-      "Oumayma Bounou",
-      "Yann LeCun"
-    ],
-    "url": "https://arxiv.org/abs/2606.32026",
-    "category": "World Model",
-    "date": "2026-07-01",
-    "score": 12.0
-  },
-  "2606.32027": {
-    "title": "Freeform Preference Learning for Robotic Manipulation",
-    "authors": [
-      "Marcel Torne",
-      "Anubha Mahajan",
-      "Abhijnya Bhat"
-    ],
-    "url": "https://arxiv.org/abs/2606.32027",
-    "category": "VLA",
-    "date": "2026-07-01",
-    "score": 10.0
-  },
-  "2606.31958": {
-    "title": "Adapting Generalist Robot Policies with Semantic Reinforcement Learning",
-    "authors": [
-      "Jagdeep Singh Bhatia",
-      "Andrew Wagenmaker",
-      "William Chen"
-    ],
-    "url": "https://arxiv.org/abs/2606.31958",
-    "category": "VLA",
-    "date": "2026-07-01",
-    "score": 10.0
-  },
-  "2606.32028": {
-    "title": "DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation",
-    "authors": [
-      "Ziyu Shan",
-      "Zhenyu Wu",
-      "Xiaofeng Wang"
-    ],
-    "url": "https://arxiv.org/abs/2606.32028",
-    "category": "World Model",
-    "date": "2026-07-01",
-    "score": 4.0
-  },
-  "2606.31993": {
-    "title": "OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation",
-    "authors": [
-      "Arnav Balaji",
-      "Arpit Bahety",
-      "Sriniket Ambatipudi"
-    ],
-    "url": "https://arxiv.org/abs/2606.31993",
-    "category": "VLA",
-    "date": "2026-07-01",
-    "score": 3.0
-  },
   "2607.01060": {
     "title": "RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation",
     "authors": [
@@ -1844,6 +1784,66 @@
     "url": "https://arxiv.org/abs/2607.28487",
     "category": "World Model",
     "date": "2026-07-31",
+    "score": 2.0
+  },
+  "2607.28415": {
+    "title": "QQWorld: Quantile-Quantile Matching for World Model Regularization",
+    "authors": [
+      "Zhoushun Yu",
+      "Xiaoyu Hu",
+      "Xiangyu Xu"
+    ],
+    "url": "https://arxiv.org/abs/2607.28415",
+    "category": "World Model",
+    "date": "2026-08-01",
+    "score": 2.0
+  },
+  "2607.28362": {
+    "title": "ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow",
+    "authors": [
+      "Jin Cao",
+      "Zian Meng",
+      "Kaipeng Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2607.28362",
+    "category": "World Model",
+    "date": "2026-08-01",
+    "score": 2.0
+  },
+  "2607.28287": {
+    "title": "Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3",
+    "authors": [
+      "Jens Lehmann",
+      "Andrei Aioanei",
+      "Sahar Vahdati"
+    ],
+    "url": "https://arxiv.org/abs/2607.28287",
+    "category": "World Model",
+    "date": "2026-08-01",
+    "score": 2.0
+  },
+  "2607.28226": {
+    "title": "Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation",
+    "authors": [
+      "Fazhong Liu",
+      "Zhuoyan Chen",
+      "Haozhen Tan"
+    ],
+    "url": "https://arxiv.org/abs/2607.28226",
+    "category": "World Model",
+    "date": "2026-08-01",
+    "score": 2.0
+  },
+  "2607.27967": {
+    "title": "MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation",
+    "authors": [
+      "Dawei Wang",
+      "Di Zhao",
+      "Xinyuan Liu"
+    ],
+    "url": "https://arxiv.org/abs/2607.27967",
+    "category": "Physical AI",
+    "date": "2026-08-01",
     "score": 2.0
   }
 }

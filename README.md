@@ -72,14 +72,15 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-03 | Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots | Ling Xu, Chuyu Han, Borui Li | [arXiv](https://arxiv.org/abs/2607.02501) |
 | 2026-07-03 | Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs | Junhao Shi, Siyin Wang, Xiaopeng Yu | [arXiv](https://arxiv.org/abs/2607.02466) |
 | 2026-07-02 | FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model | Chenyang Ma, Yue Yang, Radu Corcodel | [arXiv](https://arxiv.org/abs/2607.01212) |
-| 2026-07-01 | Freeform Preference Learning for Robotic Manipulation | Marcel Torne, Anubha Mahajan, Abhijnya Bhat | [arXiv](https://arxiv.org/abs/2606.32027) |
-| 2026-07-01 | Adapting Generalist Robot Policies with Semantic Reinforcement Learning | Jagdeep Singh Bhatia, Andrew Wagenmaker, William Chen | [arXiv](https://arxiv.org/abs/2606.31958) |
-| 2026-07-01 | OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation | Arnav Balaji, Arpit Bahety, Sriniket Ambatipudi | [arXiv](https://arxiv.org/abs/2606.31993) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-08-01 | QQWorld: Quantile-Quantile Matching for World Model Regularization | Zhoushun Yu, Xiaoyu Hu, Xiangyu Xu | [arXiv](https://arxiv.org/abs/2607.28415) |
+| 2026-08-01 | ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow | Jin Cao, Zian Meng, Kaipeng Zhang | [arXiv](https://arxiv.org/abs/2607.28362) |
+| 2026-08-01 | Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3 | Jens Lehmann, Andrei Aioanei, Sahar Vahdati | [arXiv](https://arxiv.org/abs/2607.28287) |
+| 2026-08-01 | Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation | Fazhong Liu, Zhuoyan Chen, Haozhen Tan | [arXiv](https://arxiv.org/abs/2607.28226) |
 | 2026-07-31 | PhiZero: A World Model Built Around Physical Language | Shuyao Shang, Yuqi Wang, Ruopeng Gao | [arXiv](https://arxiv.org/abs/2607.28624) |
 | 2026-07-31 | AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans | Jingwen Yang, Senmao Wang, Luoyao Kang | [arXiv](https://arxiv.org/abs/2607.28487) |
 | 2026-07-29 | INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models | Junhan Sun, Hao Zhao, Guofeng Zhang | [arXiv](https://arxiv.org/abs/2607.26056) |
@@ -105,13 +106,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-04 | PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation | Peng Yun, Shouwang Huang, Hao Li | [arXiv](https://arxiv.org/abs/2607.01938) |
 | 2026-07-03 | WorldSample: Closed-loop Real-robot RL with World Modelling | Yuquan Xue, Le Xu, Zeyi Liu | [arXiv](https://arxiv.org/abs/2607.02431) |
 | 2026-07-02 | RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation | Byeongguk Jeon, Seonghyeon Ye, JaeHyeok Doo | [arXiv](https://arxiv.org/abs/2607.01060) |
-| 2026-07-01 | AdaJEPA: An Adaptive Latent World Model | Ying Wang, Oumayma Bounou, Yann LeCun | [arXiv](https://arxiv.org/abs/2606.32026) |
-| 2026-07-01 | DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation | Ziyu Shan, Zhenyu Wu, Xiaofeng Wang | [arXiv](https://arxiv.org/abs/2606.32028) |
 
 ### Physical AI
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-08-01 | MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation | Dawei Wang, Di Zhao, Xinyuan Liu | [arXiv](https://arxiv.org/abs/2607.27967) |
 | 2026-07-31 | Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer | Weiquan Lin, Yu Deng, Shiyang Liu | [arXiv](https://arxiv.org/abs/2607.28394) |
 | 2026-07-26 | TransBiolab: A Real-World Multi-View Dataset of Cluttered Transparent Biomedical Objects | Ke Ma, Yifei Wang, Meng Wang | [arXiv](https://arxiv.org/abs/2607.21071) |
 | 2026-07-26 | GuidedAttention: Interpretable and Correctable Visual Attention for OOD-Robust Robot Manipulation via Imitation Learning | Masaki Murooka, Ryoichi Nakajo, Keisuke Shirai | [arXiv](https://arxiv.org/abs/2607.21049) |
@@ -259,6 +259,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-08-01](./2026/08/2026-08-01.md)
 - [2026-07-31](./2026/07/2026-07-31.md)
 - [2026-07-30](./2026/07/2026-07-30.md)
 - [2026-07-29](./2026/07/2026-07-29.md)
