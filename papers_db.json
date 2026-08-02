@@ -1,64 +1,4 @@
 {
-  "2607.01060": {
-    "title": "RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation",
-    "authors": [
-      "Byeongguk Jeon",
-      "Seonghyeon Ye",
-      "JaeHyeok Doo"
-    ],
-    "url": "https://arxiv.org/abs/2607.01060",
-    "category": "World Model",
-    "date": "2026-07-02",
-    "score": 10.0
-  },
-  "2607.01224": {
-    "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
-    "authors": [
-      "Shengguang Wu",
-      "Hao Zhu",
-      "Yuhui Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2607.01224",
-    "category": "Other",
-    "date": "2026-07-02",
-    "score": 6.0
-  },
-  "2607.01212": {
-    "title": "FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model",
-    "authors": [
-      "Chenyang Ma",
-      "Yue Yang",
-      "Radu Corcodel"
-    ],
-    "url": "https://arxiv.org/abs/2607.01212",
-    "category": "VLA",
-    "date": "2026-07-02",
-    "score": 4.0
-  },
-  "2607.00796": {
-    "title": "Task-Relevant Representation Decoupling for Visual Reinforcement Learning Generalization",
-    "authors": [
-      "Jinwen Wang",
-      "Youfang Lin",
-      "Xiaobo Hu"
-    ],
-    "url": "https://arxiv.org/abs/2607.00796",
-    "category": "Other",
-    "date": "2026-07-02",
-    "score": 3.0
-  },
-  "2607.01088": {
-    "title": "ROSA: A Robotics Foundation Model Serving System for Robot Factories",
-    "authors": [
-      "Wenqi Jiang",
-      "Jason Clemons",
-      "Rowland O'Flaherty"
-    ],
-    "url": "https://arxiv.org/abs/2607.01088",
-    "category": "Foundation Model",
-    "date": "2026-07-02",
-    "score": 2.0
-  },
   "2607.02391": {
     "title": "WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs",
     "authors": [
@@ -1844,6 +1784,64 @@
     "url": "https://arxiv.org/abs/2607.27967",
     "category": "Physical AI",
     "date": "2026-08-01",
+    "score": 2.0
+  },
+  "2607.26903": {
+    "title": "From Passive Video to Editable Experience: Physically Grounded Experience Synthesis for Embodied Intelligence",
+    "authors": [
+      "Jia Luo"
+    ],
+    "url": "https://arxiv.org/abs/2607.26903",
+    "category": "Physical AI",
+    "date": "2026-08-02",
+    "score": 2.0
+  },
+  "2607.26121": {
+    "title": "Towards Trustworthy Embodied Intelligence: A Systems Framework and Graded Trustworthiness Levels",
+    "authors": [
+      "Xinyu Yang",
+      "Tianxing Chen",
+      "Honghao Su"
+    ],
+    "url": "https://arxiv.org/abs/2607.26121",
+    "category": "Physical AI",
+    "date": "2026-08-02",
+    "score": 2.0
+  },
+  "2607.24148": {
+    "title": "A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference",
+    "authors": [
+      "Zhuoran Song",
+      "Haozhe Jiang",
+      "Chunyu Qi"
+    ],
+    "url": "https://arxiv.org/abs/2607.24148",
+    "category": "VLA",
+    "date": "2026-08-02",
+    "score": 2.0
+  },
+  "2607.22997": {
+    "title": "Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline",
+    "authors": [
+      "Qing Yang",
+      "Xun Wang",
+      "Ziguan Wang"
+    ],
+    "url": "https://arxiv.org/abs/2607.22997",
+    "category": "VLA",
+    "date": "2026-08-02",
+    "score": 2.0
+  },
+  "2607.22877": {
+    "title": "Physical AI Governance: From Theory to Practice Across Life Cycle",
+    "authors": [
+      "Wang Yang",
+      "Shaobo Wang",
+      "Hongxuan Liu"
+    ],
+    "url": "https://arxiv.org/abs/2607.22877",
+    "category": "Physical AI",
+    "date": "2026-08-02",
     "score": 2.0
   }
 }
