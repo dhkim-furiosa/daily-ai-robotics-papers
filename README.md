@@ -22,6 +22,8 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-08-03 | FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling | Li Lin, Wujun Xu, Weiwei Meng | [arXiv](https://arxiv.org/abs/2607.29596) |
+| 2026-08-03 | WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning | Senyu Fei, Xiaopeng Yu, Siyin Wang | [arXiv](https://arxiv.org/abs/2607.29613) |
 | 2026-08-02 | A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference | Zhuoran Song, Haozhe Jiang, Chunyu Qi | [arXiv](https://arxiv.org/abs/2607.24148) |
 | 2026-08-02 | Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline | Qing Yang, Xun Wang, Ziguan Wang | [arXiv](https://arxiv.org/abs/2607.22997) |
 | 2026-07-31 | ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine | Yukang Cao, Haozhe Xie, Beichen Wen | [arXiv](https://arxiv.org/abs/2607.28625) |
@@ -71,13 +73,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-04 | The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection | Jincheng Tang, Yilong Zhu, Zhengyuan Xie | [arXiv](https://arxiv.org/abs/2607.02322) |
 | 2026-07-04 | Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies | Liuhaichen Yang, Zhuang Jiang, Chenchao Sheng | [arXiv](https://arxiv.org/abs/2607.02092) |
 | 2026-07-04 | VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon | Yi Pan, Miao Pan, Qi Lu | [arXiv](https://arxiv.org/abs/2607.01804) |
-| 2026-07-03 | Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots | Ling Xu, Chuyu Han, Borui Li | [arXiv](https://arxiv.org/abs/2607.02501) |
-| 2026-07-03 | Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs | Junhao Shi, Siyin Wang, Xiaopeng Yu | [arXiv](https://arxiv.org/abs/2607.02466) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-08-03 | DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search | Jiayang Niu, Yan Wang, Jie Li | [arXiv](https://arxiv.org/abs/2607.29491) |
 | 2026-08-01 | QQWorld: Quantile-Quantile Matching for World Model Regularization | Zhoushun Yu, Xiaoyu Hu, Xiangyu Xu | [arXiv](https://arxiv.org/abs/2607.28415) |
 | 2026-08-01 | ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow | Jin Cao, Zian Meng, Kaipeng Zhang | [arXiv](https://arxiv.org/abs/2607.28362) |
 | 2026-08-01 | Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3 | Jens Lehmann, Andrei Aioanei, Sahar Vahdati | [arXiv](https://arxiv.org/abs/2607.28287) |
@@ -105,12 +106,12 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-07 | Multiplayer Interactive World Models with Representation Autoencoders | Anthony Hu, Václav Volhejn, Adrien Ramanana Rahary | [arXiv](https://arxiv.org/abs/2607.05352) |
 | 2026-07-05 | ACID: Action Consistency via Inverse Dynamics for Planning with World Models | Gawon Seo, Dongwon Kim, Suha Kwak | [arXiv](https://arxiv.org/abs/2607.02403) |
 | 2026-07-04 | PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation | Peng Yun, Shouwang Huang, Hao Li | [arXiv](https://arxiv.org/abs/2607.01938) |
-| 2026-07-03 | WorldSample: Closed-loop Real-robot RL with World Modelling | Yuquan Xue, Le Xu, Zeyi Liu | [arXiv](https://arxiv.org/abs/2607.02431) |
 
 ### Physical AI
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-08-03 | Diagnosing Compositional Generalization in Sequential Robot Tasks | Yixiao Wang, Cheng-En Wu, Lingfeng Sun | [arXiv](https://arxiv.org/abs/2607.29687) |
 | 2026-08-02 | From Passive Video to Editable Experience: Physically Grounded Experience Synthesis for Embodied Intelligence | Jia Luo | [arXiv](https://arxiv.org/abs/2607.26903) |
 | 2026-08-02 | Towards Trustworthy Embodied Intelligence: A Systems Framework and Graded Trustworthiness Levels | Xinyu Yang, Tianxing Chen, Honghao Su | [arXiv](https://arxiv.org/abs/2607.26121) |
 | 2026-08-02 | Physical AI Governance: From Theory to Practice Across Life Cycle | Wang Yang, Shaobo Wang, Hongxuan Liu | [arXiv](https://arxiv.org/abs/2607.22877) |
@@ -152,6 +153,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-08-03 | Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration | Dylan Miller, Martin Jagersand | [arXiv](https://arxiv.org/abs/2607.29482) |
 | 2026-07-31 | Towards Real-Time PixOOD: Efficient Anomaly Segmentation for Autonomous Vehicles | Luca de Martino, Federico Aromolo, Federico Nesti | [arXiv](https://arxiv.org/abs/2607.28483) |
 | 2026-07-28 | Energy Constrained Hierarchical Underwater Monitoring via Local Multi-Agent RAG | Mohamed Amine Janati, Laurent Gautier, Stéphane Barbot | [arXiv](https://arxiv.org/abs/2607.24313) |
 | 2026-07-28 | ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding | Hangjie Yuan, Yichen Qian, Zhiwei Tang | [arXiv](https://arxiv.org/abs/2607.24743) |
@@ -195,8 +197,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-05 | QuadRocket: An Aerial Robotic Testbed for Adaptive Thrust-Vector Control of Rocket-Like Vehicles | Pedro Santos, Joel Reis, Paulo Oliveira | [arXiv](https://arxiv.org/abs/2607.02474) |
 | 2026-07-05 | QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition | Quoc Bao Phan, Tuy Tan Nguyen | [arXiv](https://arxiv.org/abs/2607.02426) |
 | 2026-07-04 | EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\circ$ | Jingtao Xu, Zizhuo Lin, Jianwen Sun | [arXiv](https://arxiv.org/abs/2607.02479) |
-| 2026-07-03 | WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs | Mauricio Fadel Argerich, Jonathan Fürst, Marta Patiño-Martínez | [arXiv](https://arxiv.org/abs/2607.02391) |
-| 2026-07-03 | Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach | Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard | [arXiv](https://arxiv.org/abs/2607.02432) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -259,6 +259,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-08-03](./2026/08/2026-08-03.md)
 - [2026-08-02](./2026/08/2026-08-02.md)
 - [2026-08-01](./2026/08/2026-08-01.md)
 - [2026-07-31](./2026/07/2026-07-31.md)
