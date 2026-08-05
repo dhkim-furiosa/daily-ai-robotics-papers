@@ -1,123 +1,4 @@
 {
-  "2607.02322": {
-    "title": "The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection",
-    "authors": [
-      "Jincheng Tang",
-      "Yilong Zhu",
-      "Zhengyuan Xie"
-    ],
-    "url": "https://arxiv.org/abs/2607.02322",
-    "category": "VLA",
-    "date": "2026-07-04",
-    "score": 2.0
-  },
-  "2607.02092": {
-    "title": "Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies",
-    "authors": [
-      "Liuhaichen Yang",
-      "Zhuang Jiang",
-      "Chenchao Sheng"
-    ],
-    "url": "https://arxiv.org/abs/2607.02092",
-    "category": "VLA",
-    "date": "2026-07-04",
-    "score": 2.0
-  },
-  "2607.01938": {
-    "title": "PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation",
-    "authors": [
-      "Peng Yun",
-      "Shouwang Huang",
-      "Hao Li"
-    ],
-    "url": "https://arxiv.org/abs/2607.01938",
-    "category": "World Model",
-    "date": "2026-07-04",
-    "score": 2.0
-  },
-  "2607.01804": {
-    "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
-    "authors": [
-      "Yi Pan",
-      "Miao Pan",
-      "Qi Lu"
-    ],
-    "url": "https://arxiv.org/abs/2607.01804",
-    "category": "VLA",
-    "date": "2026-07-04",
-    "score": 2.0
-  },
-  "2607.02479": {
-    "title": "EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$",
-    "authors": [
-      "Jingtao Xu",
-      "Zizhuo Lin",
-      "Jianwen Sun"
-    ],
-    "url": "https://arxiv.org/abs/2607.02479",
-    "category": "Other",
-    "date": "2026-07-04",
-    "score": 2.0
-  },
-  "2607.02403": {
-    "title": "ACID: Action Consistency via Inverse Dynamics for Planning with World Models",
-    "authors": [
-      "Gawon Seo",
-      "Dongwon Kim",
-      "Suha Kwak"
-    ],
-    "url": "https://arxiv.org/abs/2607.02403",
-    "category": "World Model",
-    "date": "2026-07-05",
-    "score": 2.0
-  },
-  "2606.29850": {
-    "title": "Efficient Visual Pointing for Embodied AI:Agent-Driven Data Synthesis, Cross-Block Attention, and Iterative Correction",
-    "authors": [
-      "Zijian Hong",
-      "Qi Lv",
-      "Yuxiang Xie"
-    ],
-    "url": "https://arxiv.org/abs/2606.29850",
-    "category": "Physical AI",
-    "date": "2026-07-05",
-    "score": 2.0
-  },
-  "2606.27929": {
-    "title": "When Multi-Robot Systems Meet Agentic AI:Towards Embodied Collective Intelligence",
-    "authors": [
-      "Yuxuan Yan",
-      "Yuanyuan Jia",
-      "Qianqian Yang"
-    ],
-    "url": "https://arxiv.org/abs/2606.27929",
-    "category": "Physical AI",
-    "date": "2026-07-05",
-    "score": 2.0
-  },
-  "2607.02474": {
-    "title": "QuadRocket: An Aerial Robotic Testbed for Adaptive Thrust-Vector Control of Rocket-Like Vehicles",
-    "authors": [
-      "Pedro Santos",
-      "Joel Reis",
-      "Paulo Oliveira"
-    ],
-    "url": "https://arxiv.org/abs/2607.02474",
-    "category": "Other",
-    "date": "2026-07-05",
-    "score": 0.0
-  },
-  "2607.02426": {
-    "title": "QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition",
-    "authors": [
-      "Quoc Bao Phan",
-      "Tuy Tan Nguyen"
-    ],
-    "url": "https://arxiv.org/abs/2607.02426",
-    "category": "Other",
-    "date": "2026-07-05",
-    "score": 0.0
-  },
   "2607.02417": {
     "title": "LIME: Learning Intent-aware Camera Motion from Egocentric Video",
     "authors": [
@@ -1842,5 +1723,65 @@
     "category": "Physical AI",
     "date": "2026-08-03",
     "score": 0.0
+  },
+  "2608.02208": {
+    "title": "Self-supervised DXA representations encode multi-system disease risk, biological aging and heritability",
+    "authors": [
+      "Gil Sasson",
+      "Zachary Levine",
+      "Smadar Shilo"
+    ],
+    "url": "https://arxiv.org/abs/2608.02208",
+    "category": "World Model",
+    "date": "2026-08-05",
+    "score": 10.0
+  },
+  "2608.00491": {
+    "title": "HP-JEPA: Hierarchical Partitioning for Multi-Resolution Graph Joint-Embedding Predictive Learning",
+    "authors": [
+      "Ruichen Xu",
+      "Jingxiang Qu",
+      "Wenhan Gao"
+    ],
+    "url": "https://arxiv.org/abs/2608.00491",
+    "category": "World Model",
+    "date": "2026-08-05",
+    "score": 10.0
+  },
+  "2607.27203": {
+    "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
+    "authors": [
+      "Perry Dong",
+      "Ron Polonsky",
+      "Dorsa Sadigh"
+    ],
+    "url": "https://arxiv.org/abs/2607.27203",
+    "category": "Foundation Model",
+    "date": "2026-08-05",
+    "score": 10.0
+  },
+  "2608.02547": {
+    "title": "Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control?",
+    "authors": [
+      "Filippo Lazzati",
+      "Kyle Stachowicz",
+      "William Chen"
+    ],
+    "url": "https://arxiv.org/abs/2608.02547",
+    "category": "Other",
+    "date": "2026-08-05",
+    "score": 10.0
+  },
+  "2608.01582": {
+    "title": "LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems",
+    "authors": [
+      "Shida Liu",
+      "Abhishek Gupta",
+      "Sumit Sinha"
+    ],
+    "url": "https://arxiv.org/abs/2608.01582",
+    "category": "Other",
+    "date": "2026-08-05",
+    "score": 10.0
   }
 }
