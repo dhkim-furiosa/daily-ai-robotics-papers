@@ -1,63 +1,4 @@
 {
-  "2607.02417": {
-    "title": "LIME: Learning Intent-aware Camera Motion from Egocentric Video",
-    "authors": [
-      "Boyang Sun",
-      "Jiajie Li",
-      "Yung-Hsu Yang"
-    ],
-    "url": "https://arxiv.org/abs/2607.02417",
-    "category": "VLA",
-    "date": "2026-07-06",
-    "score": 0.0
-  },
-  "2607.02332": {
-    "title": "HEFT: Heavy-Payload Full-size Humanoid Teleoperation with Privileged Motion Guidance and Windowed Payload Curriculum",
-    "authors": [
-      "Chenxin Liu",
-      "Qingzhou Lu",
-      "Guangxiao Yang"
-    ],
-    "url": "https://arxiv.org/abs/2607.02332",
-    "category": "Physical AI",
-    "date": "2026-07-06",
-    "score": 0.0
-  },
-  "2607.02298": {
-    "title": "Real-Time Visual Intelligence on Low-Cost UAVs: A Modular Approach for Tracking, Scanning, and Navigation",
-    "authors": [
-      "Andrei-Marian Ungureanu",
-      "Stelian Spînu"
-    ],
-    "url": "https://arxiv.org/abs/2607.02298",
-    "category": "Other",
-    "date": "2026-07-06",
-    "score": 0.0
-  },
-  "2607.02222": {
-    "title": "CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation",
-    "authors": [
-      "Haokun Liu",
-      "Zhaoqi Ma",
-      "Yicheng Chen"
-    ],
-    "url": "https://arxiv.org/abs/2607.02222",
-    "category": "VLA",
-    "date": "2026-07-06",
-    "score": 0.0
-  },
-  "2607.02205": {
-    "title": "Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning",
-    "authors": [
-      "Satoshi Yamamori",
-      "Koji Ishihara",
-      "Kentaro Minamikawa"
-    ],
-    "url": "https://arxiv.org/abs/2607.02205",
-    "category": "Physical AI",
-    "date": "2026-07-06",
-    "score": 0.0
-  },
   "2607.05391": {
     "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
     "authors": [
@@ -1783,5 +1724,64 @@
     "category": "Other",
     "date": "2026-08-05",
     "score": 10.0
+  },
+  "2608.04510": {
+    "title": "GUARD: Grounding Uncertainty and Ablation-Based Risk Detection for Diffusion-Based VLAs",
+    "authors": [
+      "Suhas Hegde",
+      "Jitendra Yasaswi Bharadwaj Katta"
+    ],
+    "url": "https://arxiv.org/abs/2608.04510",
+    "category": "VLA",
+    "date": "2026-08-06",
+    "score": 5.0
+  },
+  "2608.05042": {
+    "title": "BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation",
+    "authors": [
+      "Peiyan Li",
+      "Yuze Zhu",
+      "Yixiang Chen"
+    ],
+    "url": "https://arxiv.org/abs/2608.05042",
+    "category": "VLA",
+    "date": "2026-08-06",
+    "score": 4.0
+  },
+  "2608.04633": {
+    "title": "Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models",
+    "authors": [
+      "Xingyu Ding",
+      "Yuzhong Zhao",
+      "Yang Wu"
+    ],
+    "url": "https://arxiv.org/abs/2608.04633",
+    "category": "VLA",
+    "date": "2026-08-06",
+    "score": 4.0
+  },
+  "2608.04428": {
+    "title": "Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference",
+    "authors": [
+      "Zheng Liu",
+      "Zeyu Guo",
+      "Zihan Liu"
+    ],
+    "url": "https://arxiv.org/abs/2608.04428",
+    "category": "VLA",
+    "date": "2026-08-06",
+    "score": 4.0
+  },
+  "2608.05109": {
+    "title": "AI-based single-shot structured-light depth reconstruction for real-time laparoscopic surgical guidance",
+    "authors": [
+      "Wayne Wonseok Rodgers",
+      "Xiangyi Le",
+      "Seonghoon Jang"
+    ],
+    "url": "https://arxiv.org/abs/2608.05109",
+    "category": "Other",
+    "date": "2026-08-06",
+    "score": 3.0
   }
 }
