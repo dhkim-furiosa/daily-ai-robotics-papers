@@ -1,64 +1,4 @@
 {
-  "2607.05391": {
-    "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-    "authors": [
-      "Jacky Kwok",
-      "Shulu Li",
-      "Pranav Atreya"
-    ],
-    "url": "https://arxiv.org/abs/2607.05391",
-    "category": "Other",
-    "date": "2026-07-07",
-    "score": 10.0
-  },
-  "2607.04011": {
-    "title": "Separating Representation from Reconstruction Enables Scalable Text Encoders",
-    "authors": [
-      "Megi Dervishi",
-      "Mathurin Videau",
-      "Yann LeCun"
-    ],
-    "url": "https://arxiv.org/abs/2607.04011",
-    "category": "Other",
-    "date": "2026-07-07",
-    "score": 10.0
-  },
-  "2607.05352": {
-    "title": "Multiplayer Interactive World Models with Representation Autoencoders",
-    "authors": [
-      "Anthony Hu",
-      "Václav Volhejn",
-      "Adrien Ramanana Rahary"
-    ],
-    "url": "https://arxiv.org/abs/2607.05352",
-    "category": "World Model",
-    "date": "2026-07-07",
-    "score": 5.0
-  },
-  "2607.04816": {
-    "title": "CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models",
-    "authors": [
-      "Yifu Xiong",
-      "Wenhao Yu",
-      "Jiaxuan Lin"
-    ],
-    "url": "https://arxiv.org/abs/2607.04816",
-    "category": "VLA",
-    "date": "2026-07-07",
-    "score": 4.0
-  },
-  "2607.05247": {
-    "title": "Vision Pretraining for Dense Spatial Perception",
-    "authors": [
-      "Zelin Fu",
-      "Bin Tan",
-      "Changjiang Sun"
-    ],
-    "url": "https://arxiv.org/abs/2607.05247",
-    "category": "Physical AI",
-    "date": "2026-07-07",
-    "score": 3.0
-  },
   "2607.06564": {
     "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
     "authors": [
@@ -1782,6 +1722,66 @@
     "url": "https://arxiv.org/abs/2608.05109",
     "category": "Other",
     "date": "2026-08-06",
+    "score": 3.0
+  },
+  "2608.05326": {
+    "title": "QEvict: Recoverable Quantized KV Eviction for Attention-Drift-Robust Long-Context Decoding",
+    "authors": [
+      "Ayushman Garg",
+      "Akshita Gupta",
+      "Shaswata Bhattacharya"
+    ],
+    "url": "https://arxiv.org/abs/2608.05326",
+    "category": "Other",
+    "date": "2026-08-07",
+    "score": 10.0
+  },
+  "2608.06227": {
+    "title": "From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks",
+    "authors": [
+      "Christo Kurisummoottil Thomas",
+      "Omar Hashash",
+      "Walid Saad"
+    ],
+    "url": "https://arxiv.org/abs/2608.06227",
+    "category": "World Model",
+    "date": "2026-08-07",
+    "score": 5.0
+  },
+  "2608.06088": {
+    "title": "IcFuzz: Fuzzing Isaac Sim with Semantic Stage Guidance and Multi-level Mutation",
+    "authors": [
+      "Zhixiang Chen",
+      "Zhuangbin Chen",
+      "Ruoxi Jia"
+    ],
+    "url": "https://arxiv.org/abs/2608.06088",
+    "category": "Physical AI",
+    "date": "2026-08-07",
+    "score": 3.0
+  },
+  "2608.03496": {
+    "title": "Principles of Robot Autonomy",
+    "authors": [
+      "Daniele Gammelli",
+      "Joseph Lorenzetti",
+      "Katie Luo"
+    ],
+    "url": "https://arxiv.org/abs/2608.03496",
+    "category": "Physical AI",
+    "date": "2026-08-07",
+    "score": 3.0
+  },
+  "2608.06361": {
+    "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+    "authors": [
+      "Sarvesh Baskar",
+      "Zikui Cai",
+      "Shayan Shabihi"
+    ],
+    "url": "https://arxiv.org/abs/2608.06361",
+    "category": "Other",
+    "date": "2026-08-07",
     "score": 3.0
   }
 }
