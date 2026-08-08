@@ -1,64 +1,4 @@
 {
-  "2607.06564": {
-    "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
-    "authors": [
-      "Jiaming Liu",
-      "Qingpo Wuwu",
-      "Nuowei Han"
-    ],
-    "url": "https://arxiv.org/abs/2607.06564",
-    "category": "VLA",
-    "date": "2026-07-08",
-    "score": 5.0
-  },
-  "2607.06559": {
-    "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
-    "authors": [
-      "Haoyu Zhao",
-      "Xingyue Zhao",
-      "Siteng Huang"
-    ],
-    "url": "https://arxiv.org/abs/2607.06559",
-    "category": "World Model",
-    "date": "2026-07-08",
-    "score": 4.0
-  },
-  "2607.06522": {
-    "title": "Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment",
-    "authors": [
-      "Han-Jun Ko",
-      "Jr-Jen Chen",
-      "Haobo Yuan"
-    ],
-    "url": "https://arxiv.org/abs/2607.06522",
-    "category": "Physical AI",
-    "date": "2026-07-08",
-    "score": 3.0
-  },
-  "2607.03595": {
-    "title": "Token-Based Affordance Grounding with Large Vision-Language Models",
-    "authors": [
-      "Seung Il Lee",
-      "Qinqian Lei",
-      "Daguang Xu"
-    ],
-    "url": "https://arxiv.org/abs/2607.03595",
-    "category": "Physical AI",
-    "date": "2026-07-08",
-    "score": 3.0
-  },
-  "2607.06563": {
-    "title": "Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization",
-    "authors": [
-      "Shiqi Liu",
-      "Narsimlu Kemsaram",
-      "Prateek Mittal"
-    ],
-    "url": "https://arxiv.org/abs/2607.06563",
-    "category": "Other",
-    "date": "2026-07-08",
-    "score": 2.0
-  },
   "2607.07494": {
     "title": "GIFT: Geometry-Informed Low-precision Gradient Communication for LLM Pretraining",
     "authors": [
@@ -1783,5 +1723,65 @@
     "category": "Other",
     "date": "2026-08-07",
     "score": 3.0
+  },
+  "2608.06374": {
+    "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
+    "authors": [
+      "Junfeng Li",
+      "Junjie He",
+      "Zhide Zhong"
+    ],
+    "url": "https://arxiv.org/abs/2608.06374",
+    "category": "VLA",
+    "date": "2026-08-08",
+    "score": 2.0
+  },
+  "2608.06332": {
+    "title": "GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions",
+    "authors": [
+      "Chenghao Gu",
+      "Hanyang Yu",
+      "Jingbo Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2608.06332",
+    "category": "World Model",
+    "date": "2026-08-08",
+    "score": 2.0
+  },
+  "2608.05999": {
+    "title": "Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation",
+    "authors": [
+      "He Kong",
+      "Zengjue Chen",
+      "Qi Wang"
+    ],
+    "url": "https://arxiv.org/abs/2608.05999",
+    "category": "VLA",
+    "date": "2026-08-08",
+    "score": 2.0
+  },
+  "2608.05970": {
+    "title": "SkillMemo: Expert-guided Skill Memory Framework for Compositional Embodied Manipulation",
+    "authors": [
+      "Changyuan Wang",
+      "Chubin Zhang",
+      "Zhenyu Wu"
+    ],
+    "url": "https://arxiv.org/abs/2608.05970",
+    "category": "VLA",
+    "date": "2026-08-08",
+    "score": 2.0
+  },
+  "2608.05799": {
+    "title": "XEWorld: Can Action-Conditioned World Models Generalize to Unseen Robot Embodiments?",
+    "authors": [
+      "Yixiang Chen",
+      "Jiabing Yang",
+      "Yuan Xu"
+    ],
+    "url": "https://arxiv.org/abs/2608.05799",
+    "category": "World Model",
+    "date": "2026-08-08",
+    "score": 2.0
   }
 }
