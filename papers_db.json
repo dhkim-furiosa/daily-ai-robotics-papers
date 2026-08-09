@@ -1,64 +1,4 @@
 {
-  "2607.07494": {
-    "title": "GIFT: Geometry-Informed Low-precision Gradient Communication for LLM Pretraining",
-    "authors": [
-      "Jieying Wang",
-      "Shuyuan Fan",
-      "Mingkai Zheng"
-    ],
-    "url": "https://arxiv.org/abs/2607.07494",
-    "category": "Other",
-    "date": "2026-07-09",
-    "score": 3.0
-  },
-  "2607.07675": {
-    "title": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-    "authors": [
-      "Shuailei Ma",
-      "Jiaqi Liao",
-      "Xinyang Wang"
-    ],
-    "url": "https://arxiv.org/abs/2607.07675",
-    "category": "Physical AI",
-    "date": "2026-07-09",
-    "score": 2.0
-  },
-  "2607.07608": {
-    "title": "Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation",
-    "authors": [
-      "Hongyu Qu",
-      "Jianzhe Gao",
-      "Xiaobin Hu"
-    ],
-    "url": "https://arxiv.org/abs/2607.07608",
-    "category": "VLA",
-    "date": "2026-07-09",
-    "score": 2.0
-  },
-  "2607.07459": {
-    "title": "EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI",
-    "authors": [
-      "Xinjie Wang",
-      "Liu Liu",
-      "Taojun Ding"
-    ],
-    "url": "https://arxiv.org/abs/2607.07459",
-    "category": "Physical AI",
-    "date": "2026-07-09",
-    "score": 2.0
-  },
-  "2607.07287": {
-    "title": "TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation",
-    "authors": [
-      "Jianyi Zhou",
-      "Feiyang Hong",
-      "Yunhao Li"
-    ],
-    "url": "https://arxiv.org/abs/2607.07287",
-    "category": "VLA",
-    "date": "2026-07-09",
-    "score": 2.0
-  },
   "2607.08724": {
     "title": "Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference",
     "authors": [
@@ -1783,5 +1723,65 @@
     "category": "World Model",
     "date": "2026-08-08",
     "score": 2.0
+  },
+  "2608.06257": {
+    "title": "MASS: Multiplayer World Models with Authoritative Shared State",
+    "authors": [
+      "Ziqi Cai",
+      "Siqi Yang",
+      "Yimu Wang"
+    ],
+    "url": "https://arxiv.org/abs/2608.06257",
+    "category": "World Model",
+    "date": "2026-08-09",
+    "score": 2.0
+  },
+  "2608.06020": {
+    "title": "From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models",
+    "authors": [
+      "Jiale Han",
+      "Xiang Li",
+      "Jing Qian"
+    ],
+    "url": "https://arxiv.org/abs/2608.06020",
+    "category": "World Model",
+    "date": "2026-08-09",
+    "score": 2.0
+  },
+  "2608.03682": {
+    "title": "PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud",
+    "authors": [
+      "Chenghua Wang",
+      "Daliang Xu",
+      "Dongqi Cai"
+    ],
+    "url": "https://arxiv.org/abs/2608.03682",
+    "category": "VLA",
+    "date": "2026-08-09",
+    "score": 2.0
+  },
+  "2608.01127": {
+    "title": "MiniWorld: Democratizing the Training of Video World Models from Scratch",
+    "authors": [
+      "Yian Zhao",
+      "Ruochong Zheng",
+      "Hongcan Guo"
+    ],
+    "url": "https://arxiv.org/abs/2608.01127",
+    "category": "World Model",
+    "date": "2026-08-09",
+    "score": 2.0
+  },
+  "2608.06375": {
+    "title": "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
+    "authors": [
+      "Zhe Li",
+      "Zhenzhe Zhang",
+      "Yangyang Wei"
+    ],
+    "url": "https://arxiv.org/abs/2608.06375",
+    "category": "VLA",
+    "date": "2026-08-09",
+    "score": 0.0
   }
 }
