@@ -22,6 +22,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-08-10 | AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models | Guiyu Zhao, Longteng Guo, Yanghong Mei | [arXiv](https://arxiv.org/abs/2608.06729) |
 | 2026-08-09 | PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud | Chenghua Wang, Daliang Xu, Dongqi Cai | [arXiv](https://arxiv.org/abs/2608.03682) |
 | 2026-08-09 | $ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation | Zhe Li, Zhenzhe Zhang, Yangyang Wei | [arXiv](https://arxiv.org/abs/2608.06375) |
 | 2026-08-08 | DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation | Junfeng Li, Junjie He, Zhide Zhong | [arXiv](https://arxiv.org/abs/2608.06374) |
@@ -70,9 +71,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-12 | DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation | Yunchao Yao, Zhuxiu Xu, Tianqi Zhang | [arXiv](https://arxiv.org/abs/2607.08751) |
 | 2026-07-11 | Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents | Yixian Zhang, Huanming Zhang, Feng Gao | [arXiv](https://arxiv.org/abs/2607.08448) |
 | 2026-07-11 | Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix | Jiayi Fang | [arXiv](https://arxiv.org/abs/2607.08312) |
-| 2026-07-10 | FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation | Shiyuan Yang, Borong Zhang, Jizheng Zhang | [arXiv](https://arxiv.org/abs/2607.08575) |
-| 2026-07-10 | WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving | Xuerun Yan, Zhexi Lian, Nuoheng Zhang | [arXiv](https://arxiv.org/abs/2607.08375) |
-| 2026-07-10 | LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action | Qi Lyu, Baicheng Liu, Xudong Wang | [arXiv](https://arxiv.org/abs/2607.08182) |
 
 ### World Model
 
@@ -151,6 +149,10 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-08-10 | Benchmarking and Reasoning Distillation of Large Language Models for Feedback Controller Design in Complex Dynamical Systems | Zhongchao Zhou, Yixuan Xie, Wenwei Yu | [arXiv](https://arxiv.org/abs/2608.07004) |
+| 2026-08-10 | Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits | Elena Dumitrescu, Gert Lek, Lydia Y. Chen | [arXiv](https://arxiv.org/abs/2608.07430) |
+| 2026-08-10 | RoRA: Role-Oriented Regional Allocation for Visual Token Pruning in MLLMs | Qiyanhui Lu, Han Wu, Rongjian Xu | [arXiv](https://arxiv.org/abs/2608.07088) |
+| 2026-08-10 | Summarize First, Download Later: Onboard VLMs for Bandwidth-Efficient Earth Observation | Junghwan Park, Sangcheol Sim, Woojin Cho | [arXiv](https://arxiv.org/abs/2608.06959) |
 | 2026-08-07 | QEvict: Recoverable Quantized KV Eviction for Attention-Drift-Robust Long-Context Decoding | Ayushman Garg, Akshita Gupta, Shaswata Bhattacharya | [arXiv](https://arxiv.org/abs/2608.05326) |
 | 2026-08-07 | The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping | Sarvesh Baskar, Zikui Cai, Shayan Shabihi | [arXiv](https://arxiv.org/abs/2608.06361) |
 | 2026-08-06 | AI-based single-shot structured-light depth reconstruction for real-time laparoscopic surgical guidance | Wayne Wonseok Rodgers, Xiangyi Le, Seonghoon Jang | [arXiv](https://arxiv.org/abs/2608.05109) |
@@ -190,8 +192,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-13 | Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks | Yangting Sun, Zijun Cui, Yufei Zhang | [arXiv](https://arxiv.org/abs/2607.09650) |
 | 2026-07-12 | ContactMimic: Humanoid Object Interaction via Contact Control | Xinyao Li, Xialin He, Runpei Dong | [arXiv](https://arxiv.org/abs/2607.08742) |
 | 2026-07-12 | Learning Adaptive Solvers for Distributed Factor Graph Optimization on Matrix Lie Groups | Jaeho Shin, Maani Ghaffari, Yulun Tian | [arXiv](https://arxiv.org/abs/2607.08735) |
-| 2026-07-10 | Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference | Chuning Zhu, Eva Xu, Jose Barreiros | [arXiv](https://arxiv.org/abs/2607.08724) |
-| 2026-07-10 | Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation | Miseong Shawn Kim | [arXiv](https://arxiv.org/abs/2607.08255) |
 
 ## 🦾 VLA 스터디 논문 목록
 
@@ -254,6 +254,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-08-10](./2026/08/2026-08-10.md)
 - [2026-08-09](./2026/08/2026-08-09.md)
 - [2026-08-08](./2026/08/2026-08-08.md)
 - [2026-08-07](./2026/08/2026-08-07.md)

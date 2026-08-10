@@ -1,62 +1,4 @@
 {
-  "2607.08724": {
-    "title": "Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference",
-    "authors": [
-      "Chuning Zhu",
-      "Eva Xu",
-      "Jose Barreiros"
-    ],
-    "url": "https://arxiv.org/abs/2607.08724",
-    "category": "Other",
-    "date": "2026-07-10",
-    "score": 10.0
-  },
-  "2607.08575": {
-    "title": "FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation",
-    "authors": [
-      "Shiyuan Yang",
-      "Borong Zhang",
-      "Jizheng Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2607.08575",
-    "category": "VLA",
-    "date": "2026-07-10",
-    "score": 7.0
-  },
-  "2607.08255": {
-    "title": "Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation",
-    "authors": [
-      "Miseong Shawn Kim"
-    ],
-    "url": "https://arxiv.org/abs/2607.08255",
-    "category": "Other",
-    "date": "2026-07-10",
-    "score": 6.0
-  },
-  "2607.08375": {
-    "title": "WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving",
-    "authors": [
-      "Xuerun Yan",
-      "Zhexi Lian",
-      "Nuoheng Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2607.08375",
-    "category": "VLA",
-    "date": "2026-07-10",
-    "score": 4.0
-  },
-  "2607.08182": {
-    "title": "LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action",
-    "authors": [
-      "Qi Lyu",
-      "Baicheng Liu",
-      "Xudong Wang"
-    ],
-    "url": "https://arxiv.org/abs/2607.08182",
-    "category": "VLA",
-    "date": "2026-07-10",
-    "score": 4.0
-  },
   "2607.08741": {
     "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
     "authors": [
@@ -1783,5 +1725,65 @@
     "category": "VLA",
     "date": "2026-08-09",
     "score": 0.0
+  },
+  "2608.06729": {
+    "title": "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models",
+    "authors": [
+      "Guiyu Zhao",
+      "Longteng Guo",
+      "Yanghong Mei"
+    ],
+    "url": "https://arxiv.org/abs/2608.06729",
+    "category": "VLA",
+    "date": "2026-08-10",
+    "score": 4.0
+  },
+  "2608.07004": {
+    "title": "Benchmarking and Reasoning Distillation of Large Language Models for Feedback Controller Design in Complex Dynamical Systems",
+    "authors": [
+      "Zhongchao Zhou",
+      "Yixuan Xie",
+      "Wenwei Yu"
+    ],
+    "url": "https://arxiv.org/abs/2608.07004",
+    "category": "Other",
+    "date": "2026-08-10",
+    "score": 3.0
+  },
+  "2608.07430": {
+    "title": "Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits",
+    "authors": [
+      "Elena Dumitrescu",
+      "Gert Lek",
+      "Lydia Y. Chen"
+    ],
+    "url": "https://arxiv.org/abs/2608.07430",
+    "category": "Other",
+    "date": "2026-08-10",
+    "score": 3.0
+  },
+  "2608.07088": {
+    "title": "RoRA: Role-Oriented Regional Allocation for Visual Token Pruning in MLLMs",
+    "authors": [
+      "Qiyanhui Lu",
+      "Han Wu",
+      "Rongjian Xu"
+    ],
+    "url": "https://arxiv.org/abs/2608.07088",
+    "category": "Other",
+    "date": "2026-08-10",
+    "score": 3.0
+  },
+  "2608.06959": {
+    "title": "Summarize First, Download Later: Onboard VLMs for Bandwidth-Efficient Earth Observation",
+    "authors": [
+      "Junghwan Park",
+      "Sangcheol Sim",
+      "Woojin Cho"
+    ],
+    "url": "https://arxiv.org/abs/2608.06959",
+    "category": "Other",
+    "date": "2026-08-10",
+    "score": 3.0
   }
 }
