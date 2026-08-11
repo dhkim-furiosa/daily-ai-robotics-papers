@@ -1,62 +1,4 @@
 {
-  "2607.08741": {
-    "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
-    "authors": [
-      "Kaifeng Zhao",
-      "Mathis Petrovich",
-      "Haotian Zhang"
-    ],
-    "url": "https://arxiv.org/abs/2607.08741",
-    "category": "Physical AI",
-    "date": "2026-07-11",
-    "score": 3.0
-  },
-  "2607.08098": {
-    "title": "EVIS: A Physics-Grounded Event Camera Plugin for NVIDIA Isaac Sim",
-    "authors": [
-      "Linli Shi",
-      "Ruijun Zhang",
-      "Ziyun Wang"
-    ],
-    "url": "https://arxiv.org/abs/2607.08098",
-    "category": "Foundation Model",
-    "date": "2026-07-11",
-    "score": 3.0
-  },
-  "2607.08448": {
-    "title": "Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents",
-    "authors": [
-      "Yixian Zhang",
-      "Huanming Zhang",
-      "Feng Gao"
-    ],
-    "url": "https://arxiv.org/abs/2607.08448",
-    "category": "VLA",
-    "date": "2026-07-11",
-    "score": 2.0
-  },
-  "2607.08312": {
-    "title": "Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix",
-    "authors": [
-      "Jiayi Fang"
-    ],
-    "url": "https://arxiv.org/abs/2607.08312",
-    "category": "VLA",
-    "date": "2026-07-11",
-    "score": 2.0
-  },
-  "2607.06701": {
-    "title": "SPEAR: A Simulator for Photorealistic Embodied AI Research",
-    "authors": [
-      "Mike Roberts",
-      "Renhan Wang",
-      "Rushikesh Zawar"
-    ],
-    "url": "https://arxiv.org/abs/2607.06701",
-    "category": "Physical AI",
-    "date": "2026-07-11",
-    "score": 2.0
-  },
   "2607.06401": {
     "title": "A Definition and Roadmap for World Models",
     "authors": [
@@ -1785,5 +1727,65 @@
     "category": "Other",
     "date": "2026-08-10",
     "score": 3.0
+  },
+  "2608.09730": {
+    "title": "World Tokens: Enhancing Embodied Policies with Training-Time World Modeling",
+    "authors": [
+      "Qu Tang",
+      "Benhui Zhuang",
+      "Bo Yuan"
+    ],
+    "url": "https://arxiv.org/abs/2608.09730",
+    "category": "VLA",
+    "date": "2026-08-11",
+    "score": 4.0
+  },
+  "2608.09298": {
+    "title": "WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation",
+    "authors": [
+      "Peterson Co",
+      "Sicheng Hu",
+      "Chunxuan Jiao"
+    ],
+    "url": "https://arxiv.org/abs/2608.09298",
+    "category": "World Model",
+    "date": "2026-08-11",
+    "score": 4.0
+  },
+  "2608.09853": {
+    "title": "RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance",
+    "authors": [
+      "Dongchi Huang",
+      "Hongyin Zhang",
+      "Bohan Hou"
+    ],
+    "url": "https://arxiv.org/abs/2608.09853",
+    "category": "Physical AI",
+    "date": "2026-08-11",
+    "score": 2.0
+  },
+  "2608.09926": {
+    "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
+    "authors": [
+      "Haodong Li",
+      "Shaoteng Liu",
+      "Tianyu Wang"
+    ],
+    "url": "https://arxiv.org/abs/2608.09926",
+    "category": "World Model",
+    "date": "2026-08-11",
+    "score": 2.0
+  },
+  "2608.09876": {
+    "title": "Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning",
+    "authors": [
+      "Yapeng Liu",
+      "Yuanzhao Zhai",
+      "Bo Ding"
+    ],
+    "url": "https://arxiv.org/abs/2608.09876",
+    "category": "World Model",
+    "date": "2026-08-11",
+    "score": 2.0
   }
 }

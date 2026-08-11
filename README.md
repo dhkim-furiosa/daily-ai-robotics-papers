@@ -22,6 +22,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-08-11 | World Tokens: Enhancing Embodied Policies with Training-Time World Modeling | Qu Tang, Benhui Zhuang, Bo Yuan | [arXiv](https://arxiv.org/abs/2608.09730) |
 | 2026-08-10 | AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models | Guiyu Zhao, Longteng Guo, Yanghong Mei | [arXiv](https://arxiv.org/abs/2608.06729) |
 | 2026-08-09 | PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud | Chenghua Wang, Daliang Xu, Dongqi Cai | [arXiv](https://arxiv.org/abs/2608.03682) |
 | 2026-08-09 | $ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation | Zhe Li, Zhenzhe Zhang, Yangyang Wei | [arXiv](https://arxiv.org/abs/2608.06375) |
@@ -69,13 +70,14 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-15 | ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning | Yilun Kong, Yunpeng Qing, Guozheng Ma | [arXiv](https://arxiv.org/abs/2607.12931) |
 | 2026-07-14 | From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence | Yuanzhi Liang, Xufeng Zhan, Haibin Huang | [arXiv](https://arxiv.org/abs/2607.11689) |
 | 2026-07-12 | DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation | Yunchao Yao, Zhuxiu Xu, Tianqi Zhang | [arXiv](https://arxiv.org/abs/2607.08751) |
-| 2026-07-11 | Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents | Yixian Zhang, Huanming Zhang, Feng Gao | [arXiv](https://arxiv.org/abs/2607.08448) |
-| 2026-07-11 | Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix | Jiayi Fang | [arXiv](https://arxiv.org/abs/2607.08312) |
 
 ### World Model
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-08-11 | WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation | Peterson Co, Sicheng Hu, Chunxuan Jiao | [arXiv](https://arxiv.org/abs/2608.09298) |
+| 2026-08-11 | Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning | Haodong Li, Shaoteng Liu, Tianyu Wang | [arXiv](https://arxiv.org/abs/2608.09926) |
+| 2026-08-11 | Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning | Yapeng Liu, Yuanzhao Zhai, Bo Ding | [arXiv](https://arxiv.org/abs/2608.09876) |
 | 2026-08-09 | MASS: Multiplayer World Models with Authoritative Shared State | Ziqi Cai, Siqi Yang, Yimu Wang | [arXiv](https://arxiv.org/abs/2608.06257) |
 | 2026-08-09 | From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models | Jiale Han, Xiang Li, Jing Qian | [arXiv](https://arxiv.org/abs/2608.06020) |
 | 2026-08-09 | MiniWorld: Democratizing the Training of Video World Models from Scratch | Yian Zhao, Ruochong Zheng, Hongcan Guo | [arXiv](https://arxiv.org/abs/2608.01127) |
@@ -113,6 +115,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 | 날짜 | 제목 | 저자 | 링크 |
 |------|------|------|------|
+| 2026-08-11 | RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance | Dongchi Huang, Hongyin Zhang, Bohan Hou | [arXiv](https://arxiv.org/abs/2608.09853) |
 | 2026-08-07 | IcFuzz: Fuzzing Isaac Sim with Semantic Stage Guidance and Multi-level Mutation | Zhixiang Chen, Zhuangbin Chen, Ruoxi Jia | [arXiv](https://arxiv.org/abs/2608.06088) |
 | 2026-08-07 | Principles of Robot Autonomy | Daniele Gammelli, Joseph Lorenzetti, Katie Luo | [arXiv](https://arxiv.org/abs/2608.03496) |
 | 2026-08-03 | Diagnosing Compositional Generalization in Sequential Robot Tasks | Yixiao Wang, Cheng-En Wu, Lingfeng Sun | [arXiv](https://arxiv.org/abs/2607.29687) |
@@ -128,8 +131,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-14 | Edge Physical AI Deployment of Vision Transformers on Heterogeneous Edge GPU Targeting Autonomous Vehicles | Ashiyana Abdul Majeed, Mahmoud Meribout, Neethu Joseph | [arXiv](https://arxiv.org/abs/2607.10942) |
 | 2026-07-13 | Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference | Junfei Zhan, Haoxun Shen, Mingang Guo | [arXiv](https://arxiv.org/abs/2607.09520) |
 | 2026-07-12 | ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI | ACE-Brain Team,  :, Ziyang Gong | [arXiv](https://arxiv.org/abs/2607.04426) |
-| 2026-07-11 | ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation | Kaifeng Zhao, Mathis Petrovich, Haotian Zhang | [arXiv](https://arxiv.org/abs/2607.08741) |
-| 2026-07-11 | SPEAR: A Simulator for Photorealistic Embodied AI Research | Mike Roberts, Renhan Wang, Rushikesh Zawar | [arXiv](https://arxiv.org/abs/2607.06701) |
 
 ### Foundation Model
 
@@ -143,7 +144,6 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 | 2026-07-15 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents | Ziyi Wang, Xumin Yu, Yongming Rao | [arXiv](https://arxiv.org/abs/2607.12894) |
 | 2026-07-15 | ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models | Haojie Ren, Songrui Luo, Lingfeng Wang | [arXiv](https://arxiv.org/abs/2607.12959) |
 | 2026-07-13 | What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility | Filippo Ziliotto, Luciano Serafini, Lamberto Ballan | [arXiv](https://arxiv.org/abs/2607.09503) |
-| 2026-07-11 | EVIS: A Physics-Grounded Event Camera Plugin for NVIDIA Isaac Sim | Linli Shi, Ruijun Zhang, Ziyun Wang | [arXiv](https://arxiv.org/abs/2607.08098) |
 
 ### Other
 
@@ -254,6 +254,7 @@ VLA, World Model, Physical AI 관련 논문을 매일 자동으로 검색하고 
 
 ## 📚 브리핑 아카이브
 
+- [2026-08-11](./2026/08/2026-08-11.md)
 - [2026-08-10](./2026/08/2026-08-10.md)
 - [2026-08-09](./2026/08/2026-08-09.md)
 - [2026-08-08](./2026/08/2026-08-08.md)
